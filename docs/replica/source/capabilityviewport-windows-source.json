@@ -1,0 +1,2741 @@
+{
+  "dpr": 2,
+  "samples": [
+    {
+      "id": "478-fit-120",
+      "label": "zero",
+      "width": 478,
+      "mode": "fit",
+      "height": 120,
+      "logicalWidth": 458,
+      "extentWidth": 458,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478,
+        "height": 120
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 458,
+        "height": 120
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 458,
+        "height": 120
+      },
+      "clientWidth": 478,
+      "clientHeight": 120,
+      "scrollWidth": 478,
+      "scrollHeight": 120,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 0
+    },
+    {
+      "id": "478-fit-120",
+      "label": "fractional",
+      "width": 478,
+      "mode": "fit",
+      "height": 120,
+      "logicalWidth": 458,
+      "extentWidth": 458,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478,
+        "height": 120
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 458,
+        "height": 120
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 458,
+        "height": 120
+      },
+      "clientWidth": 478,
+      "clientHeight": 120,
+      "scrollWidth": 478,
+      "scrollHeight": 120,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 0
+    },
+    {
+      "id": "478-fit-120",
+      "label": "maximum",
+      "width": 478,
+      "mode": "fit",
+      "height": 120,
+      "logicalWidth": 458,
+      "extentWidth": 458,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478,
+        "height": 120
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 458,
+        "height": 120
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 458,
+        "height": 120
+      },
+      "clientWidth": 478,
+      "clientHeight": 120,
+      "scrollWidth": 478,
+      "scrollHeight": 120,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 0
+    },
+    {
+      "id": "478-fit-684.6796875",
+      "label": "zero",
+      "width": 478,
+      "mode": "fit",
+      "height": 684.6796875,
+      "logicalWidth": 458,
+      "extentWidth": 458,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478,
+        "height": 684.6796875
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 458,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 458,
+        "height": 684.6796875
+      },
+      "clientWidth": 478,
+      "clientHeight": 685,
+      "scrollWidth": 478,
+      "scrollHeight": 685,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 0
+    },
+    {
+      "id": "478-fit-684.6796875",
+      "label": "fractional",
+      "width": 478,
+      "mode": "fit",
+      "height": 684.6796875,
+      "logicalWidth": 458,
+      "extentWidth": 458,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478,
+        "height": 684.6796875
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 458,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 458,
+        "height": 684.6796875
+      },
+      "clientWidth": 478,
+      "clientHeight": 685,
+      "scrollWidth": 478,
+      "scrollHeight": 685,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 0
+    },
+    {
+      "id": "478-fit-684.6796875",
+      "label": "maximum",
+      "width": 478,
+      "mode": "fit",
+      "height": 684.6796875,
+      "logicalWidth": 458,
+      "extentWidth": 458,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478,
+        "height": 684.6796875
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 458,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 458,
+        "height": 684.6796875
+      },
+      "clientWidth": 478,
+      "clientHeight": 685,
+      "scrollWidth": 478,
+      "scrollHeight": 685,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 0
+    },
+    {
+      "id": "478-intrinsic-120",
+      "label": "zero",
+      "width": 478,
+      "mode": "intrinsic",
+      "height": 120,
+      "logicalWidth": 615.7265625,
+      "extentWidth": 615.7265625,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478,
+        "height": 135
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 615.7265625,
+        "height": 120
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 615.7265625,
+        "height": 120
+      },
+      "clientWidth": 478,
+      "clientHeight": 120,
+      "scrollWidth": 616,
+      "scrollHeight": 120,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 137.5
+    },
+    {
+      "id": "478-intrinsic-120",
+      "label": "fractional",
+      "width": 478,
+      "mode": "intrinsic",
+      "height": 120,
+      "logicalWidth": 615.7265625,
+      "extentWidth": 615.7265625,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478,
+        "height": 135
+      },
+      "content": {
+        "x": -123.5,
+        "y": 0,
+        "width": 615.7265625,
+        "height": 120
+      },
+      "extent": {
+        "x": -123.5,
+        "y": 0,
+        "width": 615.7265625,
+        "height": 120
+      },
+      "clientWidth": 478,
+      "clientHeight": 120,
+      "scrollWidth": 616,
+      "scrollHeight": 120,
+      "offset": 123.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 137.5
+    },
+    {
+      "id": "478-intrinsic-120",
+      "label": "maximum",
+      "width": 478,
+      "mode": "intrinsic",
+      "height": 120,
+      "logicalWidth": 615.7265625,
+      "extentWidth": 615.7265625,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478,
+        "height": 135
+      },
+      "content": {
+        "x": -137.5,
+        "y": 0,
+        "width": 615.7265625,
+        "height": 120
+      },
+      "extent": {
+        "x": -137.5,
+        "y": 0,
+        "width": 615.7265625,
+        "height": 120
+      },
+      "clientWidth": 478,
+      "clientHeight": 120,
+      "scrollWidth": 616,
+      "scrollHeight": 120,
+      "offset": 137.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 137.5
+    },
+    {
+      "id": "478-intrinsic-684.6796875",
+      "label": "zero",
+      "width": 478,
+      "mode": "intrinsic",
+      "height": 684.6796875,
+      "logicalWidth": 615.7265625,
+      "extentWidth": 615.7265625,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478,
+        "height": 699.6796875
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 615.7265625,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 615.7265625,
+        "height": 684.6796875
+      },
+      "clientWidth": 478,
+      "clientHeight": 685,
+      "scrollWidth": 616,
+      "scrollHeight": 685,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 137.5
+    },
+    {
+      "id": "478-intrinsic-684.6796875",
+      "label": "fractional",
+      "width": 478,
+      "mode": "intrinsic",
+      "height": 684.6796875,
+      "logicalWidth": 615.7265625,
+      "extentWidth": 615.7265625,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478,
+        "height": 699.6796875
+      },
+      "content": {
+        "x": -123.5,
+        "y": 0,
+        "width": 615.7265625,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": -123.5,
+        "y": 0,
+        "width": 615.7265625,
+        "height": 684.6796875
+      },
+      "clientWidth": 478,
+      "clientHeight": 685,
+      "scrollWidth": 616,
+      "scrollHeight": 685,
+      "offset": 123.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 137.5
+    },
+    {
+      "id": "478-intrinsic-684.6796875",
+      "label": "maximum",
+      "width": 478,
+      "mode": "intrinsic",
+      "height": 684.6796875,
+      "logicalWidth": 615.7265625,
+      "extentWidth": 615.7265625,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478,
+        "height": 699.6796875
+      },
+      "content": {
+        "x": -137.5,
+        "y": 0,
+        "width": 615.7265625,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": -137.5,
+        "y": 0,
+        "width": 615.7265625,
+        "height": 684.6796875
+      },
+      "clientWidth": 478,
+      "clientHeight": 685,
+      "scrollWidth": 616,
+      "scrollHeight": 685,
+      "offset": 137.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 137.5
+    },
+    {
+      "id": "478-descendant-120",
+      "label": "zero",
+      "width": 478,
+      "mode": "descendant",
+      "height": 120,
+      "logicalWidth": 478,
+      "extentWidth": 498.2734375,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478,
+        "height": 135
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 478,
+        "height": 120
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 498.2734375,
+        "height": 120
+      },
+      "clientWidth": 478,
+      "clientHeight": 120,
+      "scrollWidth": 498,
+      "scrollHeight": 120,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 20.5
+    },
+    {
+      "id": "478-descendant-120",
+      "label": "fractional",
+      "width": 478,
+      "mode": "descendant",
+      "height": 120,
+      "logicalWidth": 478,
+      "extentWidth": 498.2734375,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478,
+        "height": 135
+      },
+      "content": {
+        "x": -20.5,
+        "y": 0,
+        "width": 478,
+        "height": 120
+      },
+      "extent": {
+        "x": -20.5,
+        "y": 0,
+        "width": 498.2734375,
+        "height": 120
+      },
+      "clientWidth": 478,
+      "clientHeight": 120,
+      "scrollWidth": 498,
+      "scrollHeight": 120,
+      "offset": 20.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 20.5
+    },
+    {
+      "id": "478-descendant-120",
+      "label": "maximum",
+      "width": 478,
+      "mode": "descendant",
+      "height": 120,
+      "logicalWidth": 478,
+      "extentWidth": 498.2734375,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478,
+        "height": 135
+      },
+      "content": {
+        "x": -20.5,
+        "y": 0,
+        "width": 478,
+        "height": 120
+      },
+      "extent": {
+        "x": -20.5,
+        "y": 0,
+        "width": 498.2734375,
+        "height": 120
+      },
+      "clientWidth": 478,
+      "clientHeight": 120,
+      "scrollWidth": 498,
+      "scrollHeight": 120,
+      "offset": 20.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 20.5
+    },
+    {
+      "id": "478-descendant-684.6796875",
+      "label": "zero",
+      "width": 478,
+      "mode": "descendant",
+      "height": 684.6796875,
+      "logicalWidth": 478,
+      "extentWidth": 498.2734375,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478,
+        "height": 699.6796875
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 478,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 498.2734375,
+        "height": 684.6796875
+      },
+      "clientWidth": 478,
+      "clientHeight": 685,
+      "scrollWidth": 498,
+      "scrollHeight": 685,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 20.5
+    },
+    {
+      "id": "478-descendant-684.6796875",
+      "label": "fractional",
+      "width": 478,
+      "mode": "descendant",
+      "height": 684.6796875,
+      "logicalWidth": 478,
+      "extentWidth": 498.2734375,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478,
+        "height": 699.6796875
+      },
+      "content": {
+        "x": -20.5,
+        "y": 0,
+        "width": 478,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": -20.5,
+        "y": 0,
+        "width": 498.2734375,
+        "height": 684.6796875
+      },
+      "clientWidth": 478,
+      "clientHeight": 685,
+      "scrollWidth": 498,
+      "scrollHeight": 685,
+      "offset": 20.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 20.5
+    },
+    {
+      "id": "478-descendant-684.6796875",
+      "label": "maximum",
+      "width": 478,
+      "mode": "descendant",
+      "height": 684.6796875,
+      "logicalWidth": 478,
+      "extentWidth": 498.2734375,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478,
+        "height": 699.6796875
+      },
+      "content": {
+        "x": -20.5,
+        "y": 0,
+        "width": 478,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": -20.5,
+        "y": 0,
+        "width": 498.2734375,
+        "height": 684.6796875
+      },
+      "clientWidth": 478,
+      "clientHeight": 685,
+      "scrollWidth": 498,
+      "scrollHeight": 685,
+      "offset": 20.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 20.5
+    },
+    {
+      "id": "478.25-fit-120",
+      "label": "zero",
+      "width": 478.25,
+      "mode": "fit",
+      "height": 120,
+      "logicalWidth": 458.25,
+      "extentWidth": 458.25,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478.25,
+        "height": 120
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 458.25,
+        "height": 120
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 458.25,
+        "height": 120
+      },
+      "clientWidth": 478,
+      "clientHeight": 120,
+      "scrollWidth": 478,
+      "scrollHeight": 120,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 0
+    },
+    {
+      "id": "478.25-fit-120",
+      "label": "fractional",
+      "width": 478.25,
+      "mode": "fit",
+      "height": 120,
+      "logicalWidth": 458.25,
+      "extentWidth": 458.25,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478.25,
+        "height": 120
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 458.25,
+        "height": 120
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 458.25,
+        "height": 120
+      },
+      "clientWidth": 478,
+      "clientHeight": 120,
+      "scrollWidth": 478,
+      "scrollHeight": 120,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 0
+    },
+    {
+      "id": "478.25-fit-120",
+      "label": "maximum",
+      "width": 478.25,
+      "mode": "fit",
+      "height": 120,
+      "logicalWidth": 458.25,
+      "extentWidth": 458.25,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478.25,
+        "height": 120
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 458.25,
+        "height": 120
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 458.25,
+        "height": 120
+      },
+      "clientWidth": 478,
+      "clientHeight": 120,
+      "scrollWidth": 478,
+      "scrollHeight": 120,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 0
+    },
+    {
+      "id": "478.25-fit-684.6796875",
+      "label": "zero",
+      "width": 478.25,
+      "mode": "fit",
+      "height": 684.6796875,
+      "logicalWidth": 458.25,
+      "extentWidth": 458.25,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478.25,
+        "height": 684.6796875
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 458.25,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 458.25,
+        "height": 684.6796875
+      },
+      "clientWidth": 478,
+      "clientHeight": 685,
+      "scrollWidth": 478,
+      "scrollHeight": 685,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 0
+    },
+    {
+      "id": "478.25-fit-684.6796875",
+      "label": "fractional",
+      "width": 478.25,
+      "mode": "fit",
+      "height": 684.6796875,
+      "logicalWidth": 458.25,
+      "extentWidth": 458.25,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478.25,
+        "height": 684.6796875
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 458.25,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 458.25,
+        "height": 684.6796875
+      },
+      "clientWidth": 478,
+      "clientHeight": 685,
+      "scrollWidth": 478,
+      "scrollHeight": 685,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 0
+    },
+    {
+      "id": "478.25-fit-684.6796875",
+      "label": "maximum",
+      "width": 478.25,
+      "mode": "fit",
+      "height": 684.6796875,
+      "logicalWidth": 458.25,
+      "extentWidth": 458.25,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478.25,
+        "height": 684.6796875
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 458.25,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 458.25,
+        "height": 684.6796875
+      },
+      "clientWidth": 478,
+      "clientHeight": 685,
+      "scrollWidth": 478,
+      "scrollHeight": 685,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 0
+    },
+    {
+      "id": "478.25-intrinsic-120",
+      "label": "zero",
+      "width": 478.25,
+      "mode": "intrinsic",
+      "height": 120,
+      "logicalWidth": 615.9765625,
+      "extentWidth": 615.9765625,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478.25,
+        "height": 135
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 615.9765625,
+        "height": 120
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 615.9765625,
+        "height": 120
+      },
+      "clientWidth": 478,
+      "clientHeight": 120,
+      "scrollWidth": 616,
+      "scrollHeight": 120,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 137.5
+    },
+    {
+      "id": "478.25-intrinsic-120",
+      "label": "fractional",
+      "width": 478.25,
+      "mode": "intrinsic",
+      "height": 120,
+      "logicalWidth": 615.9765625,
+      "extentWidth": 615.9765625,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478.25,
+        "height": 135
+      },
+      "content": {
+        "x": -123.5,
+        "y": 0,
+        "width": 615.9765625,
+        "height": 120
+      },
+      "extent": {
+        "x": -123.5,
+        "y": 0,
+        "width": 615.9765625,
+        "height": 120
+      },
+      "clientWidth": 478,
+      "clientHeight": 120,
+      "scrollWidth": 616,
+      "scrollHeight": 120,
+      "offset": 123.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 137.5
+    },
+    {
+      "id": "478.25-intrinsic-120",
+      "label": "maximum",
+      "width": 478.25,
+      "mode": "intrinsic",
+      "height": 120,
+      "logicalWidth": 615.9765625,
+      "extentWidth": 615.9765625,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478.25,
+        "height": 135
+      },
+      "content": {
+        "x": -137.5,
+        "y": 0,
+        "width": 615.9765625,
+        "height": 120
+      },
+      "extent": {
+        "x": -137.5,
+        "y": 0,
+        "width": 615.9765625,
+        "height": 120
+      },
+      "clientWidth": 478,
+      "clientHeight": 120,
+      "scrollWidth": 616,
+      "scrollHeight": 120,
+      "offset": 137.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 137.5
+    },
+    {
+      "id": "478.25-intrinsic-684.6796875",
+      "label": "zero",
+      "width": 478.25,
+      "mode": "intrinsic",
+      "height": 684.6796875,
+      "logicalWidth": 615.9765625,
+      "extentWidth": 615.9765625,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478.25,
+        "height": 699.6796875
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 615.9765625,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 615.9765625,
+        "height": 684.6796875
+      },
+      "clientWidth": 478,
+      "clientHeight": 685,
+      "scrollWidth": 616,
+      "scrollHeight": 685,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 137.5
+    },
+    {
+      "id": "478.25-intrinsic-684.6796875",
+      "label": "fractional",
+      "width": 478.25,
+      "mode": "intrinsic",
+      "height": 684.6796875,
+      "logicalWidth": 615.9765625,
+      "extentWidth": 615.9765625,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478.25,
+        "height": 699.6796875
+      },
+      "content": {
+        "x": -123.5,
+        "y": 0,
+        "width": 615.9765625,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": -123.5,
+        "y": 0,
+        "width": 615.9765625,
+        "height": 684.6796875
+      },
+      "clientWidth": 478,
+      "clientHeight": 685,
+      "scrollWidth": 616,
+      "scrollHeight": 685,
+      "offset": 123.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 137.5
+    },
+    {
+      "id": "478.25-intrinsic-684.6796875",
+      "label": "maximum",
+      "width": 478.25,
+      "mode": "intrinsic",
+      "height": 684.6796875,
+      "logicalWidth": 615.9765625,
+      "extentWidth": 615.9765625,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478.25,
+        "height": 699.6796875
+      },
+      "content": {
+        "x": -137.5,
+        "y": 0,
+        "width": 615.9765625,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": -137.5,
+        "y": 0,
+        "width": 615.9765625,
+        "height": 684.6796875
+      },
+      "clientWidth": 478,
+      "clientHeight": 685,
+      "scrollWidth": 616,
+      "scrollHeight": 685,
+      "offset": 137.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 137.5
+    },
+    {
+      "id": "478.25-descendant-120",
+      "label": "zero",
+      "width": 478.25,
+      "mode": "descendant",
+      "height": 120,
+      "logicalWidth": 478.25,
+      "extentWidth": 498.5234375,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478.25,
+        "height": 135
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 478.25,
+        "height": 120
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 498.5234375,
+        "height": 120
+      },
+      "clientWidth": 478,
+      "clientHeight": 120,
+      "scrollWidth": 499,
+      "scrollHeight": 120,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 20
+    },
+    {
+      "id": "478.25-descendant-120",
+      "label": "fractional",
+      "width": 478.25,
+      "mode": "descendant",
+      "height": 120,
+      "logicalWidth": 478.25,
+      "extentWidth": 498.5234375,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478.25,
+        "height": 135
+      },
+      "content": {
+        "x": -20,
+        "y": 0,
+        "width": 478.25,
+        "height": 120
+      },
+      "extent": {
+        "x": -20,
+        "y": 0,
+        "width": 498.5234375,
+        "height": 120
+      },
+      "clientWidth": 478,
+      "clientHeight": 120,
+      "scrollWidth": 499,
+      "scrollHeight": 120,
+      "offset": 20,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 20
+    },
+    {
+      "id": "478.25-descendant-120",
+      "label": "maximum",
+      "width": 478.25,
+      "mode": "descendant",
+      "height": 120,
+      "logicalWidth": 478.25,
+      "extentWidth": 498.5234375,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478.25,
+        "height": 135
+      },
+      "content": {
+        "x": -20,
+        "y": 0,
+        "width": 478.25,
+        "height": 120
+      },
+      "extent": {
+        "x": -20,
+        "y": 0,
+        "width": 498.5234375,
+        "height": 120
+      },
+      "clientWidth": 478,
+      "clientHeight": 120,
+      "scrollWidth": 499,
+      "scrollHeight": 120,
+      "offset": 20,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 20
+    },
+    {
+      "id": "478.25-descendant-684.6796875",
+      "label": "zero",
+      "width": 478.25,
+      "mode": "descendant",
+      "height": 684.6796875,
+      "logicalWidth": 478.25,
+      "extentWidth": 498.5234375,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478.25,
+        "height": 699.6796875
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 478.25,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 498.5234375,
+        "height": 684.6796875
+      },
+      "clientWidth": 478,
+      "clientHeight": 685,
+      "scrollWidth": 499,
+      "scrollHeight": 685,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 20
+    },
+    {
+      "id": "478.25-descendant-684.6796875",
+      "label": "fractional",
+      "width": 478.25,
+      "mode": "descendant",
+      "height": 684.6796875,
+      "logicalWidth": 478.25,
+      "extentWidth": 498.5234375,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478.25,
+        "height": 699.6796875
+      },
+      "content": {
+        "x": -20,
+        "y": 0,
+        "width": 478.25,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": -20,
+        "y": 0,
+        "width": 498.5234375,
+        "height": 684.6796875
+      },
+      "clientWidth": 478,
+      "clientHeight": 685,
+      "scrollWidth": 499,
+      "scrollHeight": 685,
+      "offset": 20,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 20
+    },
+    {
+      "id": "478.25-descendant-684.6796875",
+      "label": "maximum",
+      "width": 478.25,
+      "mode": "descendant",
+      "height": 684.6796875,
+      "logicalWidth": 478.25,
+      "extentWidth": 498.5234375,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 478.25,
+        "height": 699.6796875
+      },
+      "content": {
+        "x": -20,
+        "y": 0,
+        "width": 478.25,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": -20,
+        "y": 0,
+        "width": 498.5234375,
+        "height": 684.6796875
+      },
+      "clientWidth": 478,
+      "clientHeight": 685,
+      "scrollWidth": 499,
+      "scrollHeight": 685,
+      "offset": 20,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 20
+    },
+    {
+      "id": "610-fit-120",
+      "label": "zero",
+      "width": 610,
+      "mode": "fit",
+      "height": 120,
+      "logicalWidth": 590,
+      "extentWidth": 590,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 120
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 590,
+        "height": 120
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 590,
+        "height": 120
+      },
+      "clientWidth": 610,
+      "clientHeight": 120,
+      "scrollWidth": 610,
+      "scrollHeight": 120,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 0
+    },
+    {
+      "id": "610-fit-120",
+      "label": "fractional",
+      "width": 610,
+      "mode": "fit",
+      "height": 120,
+      "logicalWidth": 590,
+      "extentWidth": 590,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 120
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 590,
+        "height": 120
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 590,
+        "height": 120
+      },
+      "clientWidth": 610,
+      "clientHeight": 120,
+      "scrollWidth": 610,
+      "scrollHeight": 120,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 0
+    },
+    {
+      "id": "610-fit-120",
+      "label": "maximum",
+      "width": 610,
+      "mode": "fit",
+      "height": 120,
+      "logicalWidth": 590,
+      "extentWidth": 590,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 120
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 590,
+        "height": 120
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 590,
+        "height": 120
+      },
+      "clientWidth": 610,
+      "clientHeight": 120,
+      "scrollWidth": 610,
+      "scrollHeight": 120,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 0
+    },
+    {
+      "id": "610-fit-684.6796875",
+      "label": "zero",
+      "width": 610,
+      "mode": "fit",
+      "height": 684.6796875,
+      "logicalWidth": 590,
+      "extentWidth": 590,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 684.6796875
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 590,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 590,
+        "height": 684.6796875
+      },
+      "clientWidth": 610,
+      "clientHeight": 685,
+      "scrollWidth": 610,
+      "scrollHeight": 685,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 0
+    },
+    {
+      "id": "610-fit-684.6796875",
+      "label": "fractional",
+      "width": 610,
+      "mode": "fit",
+      "height": 684.6796875,
+      "logicalWidth": 590,
+      "extentWidth": 590,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 684.6796875
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 590,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 590,
+        "height": 684.6796875
+      },
+      "clientWidth": 610,
+      "clientHeight": 685,
+      "scrollWidth": 610,
+      "scrollHeight": 685,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 0
+    },
+    {
+      "id": "610-fit-684.6796875",
+      "label": "maximum",
+      "width": 610,
+      "mode": "fit",
+      "height": 684.6796875,
+      "logicalWidth": 590,
+      "extentWidth": 590,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 684.6796875
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 590,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 590,
+        "height": 684.6796875
+      },
+      "clientWidth": 610,
+      "clientHeight": 685,
+      "scrollWidth": 610,
+      "scrollHeight": 685,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 0
+    },
+    {
+      "id": "610-intrinsic-120",
+      "label": "zero",
+      "width": 610,
+      "mode": "intrinsic",
+      "height": 120,
+      "logicalWidth": 747.7265625,
+      "extentWidth": 747.7265625,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 135
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 747.7265625,
+        "height": 120
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 747.7265625,
+        "height": 120
+      },
+      "clientWidth": 610,
+      "clientHeight": 120,
+      "scrollWidth": 748,
+      "scrollHeight": 120,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 137.5
+    },
+    {
+      "id": "610-intrinsic-120",
+      "label": "fractional",
+      "width": 610,
+      "mode": "intrinsic",
+      "height": 120,
+      "logicalWidth": 747.7265625,
+      "extentWidth": 747.7265625,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 135
+      },
+      "content": {
+        "x": -123.5,
+        "y": 0,
+        "width": 747.7265625,
+        "height": 120
+      },
+      "extent": {
+        "x": -123.5,
+        "y": 0,
+        "width": 747.7265625,
+        "height": 120
+      },
+      "clientWidth": 610,
+      "clientHeight": 120,
+      "scrollWidth": 748,
+      "scrollHeight": 120,
+      "offset": 123.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 137.5
+    },
+    {
+      "id": "610-intrinsic-120",
+      "label": "maximum",
+      "width": 610,
+      "mode": "intrinsic",
+      "height": 120,
+      "logicalWidth": 747.7265625,
+      "extentWidth": 747.7265625,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 135
+      },
+      "content": {
+        "x": -137.5,
+        "y": 0,
+        "width": 747.7265625,
+        "height": 120
+      },
+      "extent": {
+        "x": -137.5,
+        "y": 0,
+        "width": 747.7265625,
+        "height": 120
+      },
+      "clientWidth": 610,
+      "clientHeight": 120,
+      "scrollWidth": 748,
+      "scrollHeight": 120,
+      "offset": 137.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 137.5
+    },
+    {
+      "id": "610-intrinsic-684.6796875",
+      "label": "zero",
+      "width": 610,
+      "mode": "intrinsic",
+      "height": 684.6796875,
+      "logicalWidth": 747.7265625,
+      "extentWidth": 747.7265625,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 699.6796875
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 747.7265625,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 747.7265625,
+        "height": 684.6796875
+      },
+      "clientWidth": 610,
+      "clientHeight": 685,
+      "scrollWidth": 748,
+      "scrollHeight": 685,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 137.5
+    },
+    {
+      "id": "610-intrinsic-684.6796875",
+      "label": "fractional",
+      "width": 610,
+      "mode": "intrinsic",
+      "height": 684.6796875,
+      "logicalWidth": 747.7265625,
+      "extentWidth": 747.7265625,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 699.6796875
+      },
+      "content": {
+        "x": -123.5,
+        "y": 0,
+        "width": 747.7265625,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": -123.5,
+        "y": 0,
+        "width": 747.7265625,
+        "height": 684.6796875
+      },
+      "clientWidth": 610,
+      "clientHeight": 685,
+      "scrollWidth": 748,
+      "scrollHeight": 685,
+      "offset": 123.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 137.5
+    },
+    {
+      "id": "610-intrinsic-684.6796875",
+      "label": "maximum",
+      "width": 610,
+      "mode": "intrinsic",
+      "height": 684.6796875,
+      "logicalWidth": 747.7265625,
+      "extentWidth": 747.7265625,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 699.6796875
+      },
+      "content": {
+        "x": -137.5,
+        "y": 0,
+        "width": 747.7265625,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": -137.5,
+        "y": 0,
+        "width": 747.7265625,
+        "height": 684.6796875
+      },
+      "clientWidth": 610,
+      "clientHeight": 685,
+      "scrollWidth": 748,
+      "scrollHeight": 685,
+      "offset": 137.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 137.5
+    },
+    {
+      "id": "610-descendant-120",
+      "label": "zero",
+      "width": 610,
+      "mode": "descendant",
+      "height": 120,
+      "logicalWidth": 610,
+      "extentWidth": 630.2734375,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 135
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 120
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 630.2734375,
+        "height": 120
+      },
+      "clientWidth": 610,
+      "clientHeight": 120,
+      "scrollWidth": 630,
+      "scrollHeight": 120,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 20.5
+    },
+    {
+      "id": "610-descendant-120",
+      "label": "fractional",
+      "width": 610,
+      "mode": "descendant",
+      "height": 120,
+      "logicalWidth": 610,
+      "extentWidth": 630.2734375,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 135
+      },
+      "content": {
+        "x": -20.5,
+        "y": 0,
+        "width": 610,
+        "height": 120
+      },
+      "extent": {
+        "x": -20.5,
+        "y": 0,
+        "width": 630.2734375,
+        "height": 120
+      },
+      "clientWidth": 610,
+      "clientHeight": 120,
+      "scrollWidth": 630,
+      "scrollHeight": 120,
+      "offset": 20.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 20.5
+    },
+    {
+      "id": "610-descendant-120",
+      "label": "maximum",
+      "width": 610,
+      "mode": "descendant",
+      "height": 120,
+      "logicalWidth": 610,
+      "extentWidth": 630.2734375,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 135
+      },
+      "content": {
+        "x": -20.5,
+        "y": 0,
+        "width": 610,
+        "height": 120
+      },
+      "extent": {
+        "x": -20.5,
+        "y": 0,
+        "width": 630.2734375,
+        "height": 120
+      },
+      "clientWidth": 610,
+      "clientHeight": 120,
+      "scrollWidth": 630,
+      "scrollHeight": 120,
+      "offset": 20.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 20.5
+    },
+    {
+      "id": "610-descendant-684.6796875",
+      "label": "zero",
+      "width": 610,
+      "mode": "descendant",
+      "height": 684.6796875,
+      "logicalWidth": 610,
+      "extentWidth": 630.2734375,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 699.6796875
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 630.2734375,
+        "height": 684.6796875
+      },
+      "clientWidth": 610,
+      "clientHeight": 685,
+      "scrollWidth": 630,
+      "scrollHeight": 685,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 20.5
+    },
+    {
+      "id": "610-descendant-684.6796875",
+      "label": "fractional",
+      "width": 610,
+      "mode": "descendant",
+      "height": 684.6796875,
+      "logicalWidth": 610,
+      "extentWidth": 630.2734375,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 699.6796875
+      },
+      "content": {
+        "x": -20.5,
+        "y": 0,
+        "width": 610,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": -20.5,
+        "y": 0,
+        "width": 630.2734375,
+        "height": 684.6796875
+      },
+      "clientWidth": 610,
+      "clientHeight": 685,
+      "scrollWidth": 630,
+      "scrollHeight": 685,
+      "offset": 20.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 20.5
+    },
+    {
+      "id": "610-descendant-684.6796875",
+      "label": "maximum",
+      "width": 610,
+      "mode": "descendant",
+      "height": 684.6796875,
+      "logicalWidth": 610,
+      "extentWidth": 630.2734375,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 699.6796875
+      },
+      "content": {
+        "x": -20.5,
+        "y": 0,
+        "width": 610,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": -20.5,
+        "y": 0,
+        "width": 630.2734375,
+        "height": 684.6796875
+      },
+      "clientWidth": 610,
+      "clientHeight": 685,
+      "scrollWidth": 630,
+      "scrollHeight": 685,
+      "offset": 20.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 20.5
+    },
+    {
+      "id": "656-fit-120",
+      "label": "zero",
+      "width": 656,
+      "mode": "fit",
+      "height": 120,
+      "logicalWidth": 636,
+      "extentWidth": 636,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 120
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 636,
+        "height": 120
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 636,
+        "height": 120
+      },
+      "clientWidth": 656,
+      "clientHeight": 120,
+      "scrollWidth": 656,
+      "scrollHeight": 120,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 0
+    },
+    {
+      "id": "656-fit-120",
+      "label": "fractional",
+      "width": 656,
+      "mode": "fit",
+      "height": 120,
+      "logicalWidth": 636,
+      "extentWidth": 636,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 120
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 636,
+        "height": 120
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 636,
+        "height": 120
+      },
+      "clientWidth": 656,
+      "clientHeight": 120,
+      "scrollWidth": 656,
+      "scrollHeight": 120,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 0
+    },
+    {
+      "id": "656-fit-120",
+      "label": "maximum",
+      "width": 656,
+      "mode": "fit",
+      "height": 120,
+      "logicalWidth": 636,
+      "extentWidth": 636,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 120
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 636,
+        "height": 120
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 636,
+        "height": 120
+      },
+      "clientWidth": 656,
+      "clientHeight": 120,
+      "scrollWidth": 656,
+      "scrollHeight": 120,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 0
+    },
+    {
+      "id": "656-fit-684.6796875",
+      "label": "zero",
+      "width": 656,
+      "mode": "fit",
+      "height": 684.6796875,
+      "logicalWidth": 636,
+      "extentWidth": 636,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 684.6796875
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 636,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 636,
+        "height": 684.6796875
+      },
+      "clientWidth": 656,
+      "clientHeight": 685,
+      "scrollWidth": 656,
+      "scrollHeight": 685,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 0
+    },
+    {
+      "id": "656-fit-684.6796875",
+      "label": "fractional",
+      "width": 656,
+      "mode": "fit",
+      "height": 684.6796875,
+      "logicalWidth": 636,
+      "extentWidth": 636,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 684.6796875
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 636,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 636,
+        "height": 684.6796875
+      },
+      "clientWidth": 656,
+      "clientHeight": 685,
+      "scrollWidth": 656,
+      "scrollHeight": 685,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 0
+    },
+    {
+      "id": "656-fit-684.6796875",
+      "label": "maximum",
+      "width": 656,
+      "mode": "fit",
+      "height": 684.6796875,
+      "logicalWidth": 636,
+      "extentWidth": 636,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 684.6796875
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 636,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 636,
+        "height": 684.6796875
+      },
+      "clientWidth": 656,
+      "clientHeight": 685,
+      "scrollWidth": 656,
+      "scrollHeight": 685,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 0
+    },
+    {
+      "id": "656-intrinsic-120",
+      "label": "zero",
+      "width": 656,
+      "mode": "intrinsic",
+      "height": 120,
+      "logicalWidth": 793.7265625,
+      "extentWidth": 793.7265625,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 135
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 793.7265625,
+        "height": 120
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 793.7265625,
+        "height": 120
+      },
+      "clientWidth": 656,
+      "clientHeight": 120,
+      "scrollWidth": 794,
+      "scrollHeight": 120,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 137.5
+    },
+    {
+      "id": "656-intrinsic-120",
+      "label": "fractional",
+      "width": 656,
+      "mode": "intrinsic",
+      "height": 120,
+      "logicalWidth": 793.7265625,
+      "extentWidth": 793.7265625,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 135
+      },
+      "content": {
+        "x": -123.5,
+        "y": 0,
+        "width": 793.7265625,
+        "height": 120
+      },
+      "extent": {
+        "x": -123.5,
+        "y": 0,
+        "width": 793.7265625,
+        "height": 120
+      },
+      "clientWidth": 656,
+      "clientHeight": 120,
+      "scrollWidth": 794,
+      "scrollHeight": 120,
+      "offset": 123.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 137.5
+    },
+    {
+      "id": "656-intrinsic-120",
+      "label": "maximum",
+      "width": 656,
+      "mode": "intrinsic",
+      "height": 120,
+      "logicalWidth": 793.7265625,
+      "extentWidth": 793.7265625,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 135
+      },
+      "content": {
+        "x": -137.5,
+        "y": 0,
+        "width": 793.7265625,
+        "height": 120
+      },
+      "extent": {
+        "x": -137.5,
+        "y": 0,
+        "width": 793.7265625,
+        "height": 120
+      },
+      "clientWidth": 656,
+      "clientHeight": 120,
+      "scrollWidth": 794,
+      "scrollHeight": 120,
+      "offset": 137.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 137.5
+    },
+    {
+      "id": "656-intrinsic-684.6796875",
+      "label": "zero",
+      "width": 656,
+      "mode": "intrinsic",
+      "height": 684.6796875,
+      "logicalWidth": 793.7265625,
+      "extentWidth": 793.7265625,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 699.6796875
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 793.7265625,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 793.7265625,
+        "height": 684.6796875
+      },
+      "clientWidth": 656,
+      "clientHeight": 685,
+      "scrollWidth": 794,
+      "scrollHeight": 685,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 137.5
+    },
+    {
+      "id": "656-intrinsic-684.6796875",
+      "label": "fractional",
+      "width": 656,
+      "mode": "intrinsic",
+      "height": 684.6796875,
+      "logicalWidth": 793.7265625,
+      "extentWidth": 793.7265625,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 699.6796875
+      },
+      "content": {
+        "x": -123.5,
+        "y": 0,
+        "width": 793.7265625,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": -123.5,
+        "y": 0,
+        "width": 793.7265625,
+        "height": 684.6796875
+      },
+      "clientWidth": 656,
+      "clientHeight": 685,
+      "scrollWidth": 794,
+      "scrollHeight": 685,
+      "offset": 123.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 137.5
+    },
+    {
+      "id": "656-intrinsic-684.6796875",
+      "label": "maximum",
+      "width": 656,
+      "mode": "intrinsic",
+      "height": 684.6796875,
+      "logicalWidth": 793.7265625,
+      "extentWidth": 793.7265625,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 699.6796875
+      },
+      "content": {
+        "x": -137.5,
+        "y": 0,
+        "width": 793.7265625,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": -137.5,
+        "y": 0,
+        "width": 793.7265625,
+        "height": 684.6796875
+      },
+      "clientWidth": 656,
+      "clientHeight": 685,
+      "scrollWidth": 794,
+      "scrollHeight": 685,
+      "offset": 137.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 137.5
+    },
+    {
+      "id": "656-descendant-120",
+      "label": "zero",
+      "width": 656,
+      "mode": "descendant",
+      "height": 120,
+      "logicalWidth": 656,
+      "extentWidth": 676.2734375,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 135
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 120
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 676.2734375,
+        "height": 120
+      },
+      "clientWidth": 656,
+      "clientHeight": 120,
+      "scrollWidth": 676,
+      "scrollHeight": 120,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 20.5
+    },
+    {
+      "id": "656-descendant-120",
+      "label": "fractional",
+      "width": 656,
+      "mode": "descendant",
+      "height": 120,
+      "logicalWidth": 656,
+      "extentWidth": 676.2734375,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 135
+      },
+      "content": {
+        "x": -20.5,
+        "y": 0,
+        "width": 656,
+        "height": 120
+      },
+      "extent": {
+        "x": -20.5,
+        "y": 0,
+        "width": 676.2734375,
+        "height": 120
+      },
+      "clientWidth": 656,
+      "clientHeight": 120,
+      "scrollWidth": 676,
+      "scrollHeight": 120,
+      "offset": 20.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 20.5
+    },
+    {
+      "id": "656-descendant-120",
+      "label": "maximum",
+      "width": 656,
+      "mode": "descendant",
+      "height": 120,
+      "logicalWidth": 656,
+      "extentWidth": 676.2734375,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 135
+      },
+      "content": {
+        "x": -20.5,
+        "y": 0,
+        "width": 656,
+        "height": 120
+      },
+      "extent": {
+        "x": -20.5,
+        "y": 0,
+        "width": 676.2734375,
+        "height": 120
+      },
+      "clientWidth": 656,
+      "clientHeight": 120,
+      "scrollWidth": 676,
+      "scrollHeight": 120,
+      "offset": 20.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 20.5
+    },
+    {
+      "id": "656-descendant-684.6796875",
+      "label": "zero",
+      "width": 656,
+      "mode": "descendant",
+      "height": 684.6796875,
+      "logicalWidth": 656,
+      "extentWidth": 676.2734375,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 699.6796875
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": 0,
+        "y": 0,
+        "width": 676.2734375,
+        "height": 684.6796875
+      },
+      "clientWidth": 656,
+      "clientHeight": 685,
+      "scrollWidth": 676,
+      "scrollHeight": 685,
+      "offset": 0,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 20.5
+    },
+    {
+      "id": "656-descendant-684.6796875",
+      "label": "fractional",
+      "width": 656,
+      "mode": "descendant",
+      "height": 684.6796875,
+      "logicalWidth": 656,
+      "extentWidth": 676.2734375,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 699.6796875
+      },
+      "content": {
+        "x": -20.5,
+        "y": 0,
+        "width": 656,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": -20.5,
+        "y": 0,
+        "width": 676.2734375,
+        "height": 684.6796875
+      },
+      "clientWidth": 656,
+      "clientHeight": 685,
+      "scrollWidth": 676,
+      "scrollHeight": 685,
+      "offset": 20.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 20.5
+    },
+    {
+      "id": "656-descendant-684.6796875",
+      "label": "maximum",
+      "width": 656,
+      "mode": "descendant",
+      "height": 684.6796875,
+      "logicalWidth": 656,
+      "extentWidth": 676.2734375,
+      "shell": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 699.6796875
+      },
+      "content": {
+        "x": -20.5,
+        "y": 0,
+        "width": 656,
+        "height": 684.6796875
+      },
+      "extent": {
+        "x": -20.5,
+        "y": 0,
+        "width": 676.2734375,
+        "height": 684.6796875
+      },
+      "clientWidth": 656,
+      "clientHeight": 685,
+      "scrollWidth": 676,
+      "scrollHeight": 685,
+      "offset": 20.5,
+      "top": 0,
+      "overflowX": "auto",
+      "overflowY": "auto",
+      "tabIndex": -1,
+      "active": false,
+      "maximum": 20.5
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+<!doctype html><meta charset="utf-8"><title>Source timing curves</title><div id="curves"></div><pre id="metrics" hidden></pre><script>
+const rows=[];for(const [name,easing] of [['custom','cubic-bezier(.22,1,.36,1)'],['ease','ease'],['ease-out','ease-out'],['ease-in-out','ease-in-out']]){const samples=[];for(let i=0;i<=100;i++){const el=document.createElement('span');el.textContent='·';curves.append(el);const a=el.animate([{opacity:0},{opacity:1}],{duration:1000,easing,fill:'forwards'});a.pause();a.currentTime=i*10;samples.push({progress:i/100,value:Number(getComputedStyle(el).opacity)});}rows.push({name,samples});}metrics.textContent=JSON.stringify(rows,null,2);
+</script>

@@ -1,0 +1,7 @@
+{
+  "path": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/welcomepaper/2b02a77dc1e64419aea1bce4a7bab4aa/WelcomePaperCheck.app/Contents/MacOS/ReplicaProbe",
+  "nativeProcesses": 0,
+  "ownedSourceTab": 10,
+  "sourceClosed": true,
+  "check": "ps -axo pid=,command= / whitespace split / exact executable prefix"
+}

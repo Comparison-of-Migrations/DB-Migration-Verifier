@@ -1,0 +1,8 @@
+{
+  "status": "PASSED",
+  "checks": 185,
+  "differences": [],
+  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/pageintegrationresults-windows-wrapper-source.json",
+  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/connection/pageintegration/cb691c637a1c438a85f918d5ced0947f/actual-results-windows/guest/pageintegrationresults-actual-layout.json",
+  "scope": "New actualOS App parent4 allocations/focus/scroll/footer; passive API setup is not trusted input, protected child matrices reused"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ko-960",
+    "lang": "ko",
+    "width": 960
+  },
+  {
+    "id": "en-960",
+    "lang": "en",
+    "width": 960
+  },
+  {
+    "id": "ko-1000",
+    "lang": "ko",
+    "width": 1000
+  },
+  {
+    "id": "en-1000",
+    "lang": "en",
+    "width": 1000
+  },
+  {
+    "id": "ko-1138",
+    "lang": "ko",
+    "width": 1138
+  },
+  {
+    "id": "en-1138",
+    "lang": "en",
+    "width": 1138
+  },
+  {
+    "id": "ko-1280",
+    "lang": "ko",
+    "width": 1280
+  },
+  {
+    "id": "en-1280",
+    "lang": "en",
+    "width": 1280
+  }
+]

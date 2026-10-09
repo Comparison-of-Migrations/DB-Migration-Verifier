@@ -1,0 +1,7 @@
+{
+  "source": "docs/replica/source/capabilitytable-windows-minimum-source.json",
+  "candidate": "artifacts/replica/workers/preflight/capabilitytable/f021e0de19e4455d953d37728054df00/headless-windows/541901d616cc4d19910ad1575a6b1c88/capabilitytable-native.json",
+  "tables": 2,
+  "differences": [],
+  "passed": true
+}

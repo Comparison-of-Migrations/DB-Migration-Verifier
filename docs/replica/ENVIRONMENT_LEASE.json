@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "resources": {
+    "headless": {
+      "mode": "independent owner/component/UUID source/build/process/output; no OS input",
+      "owners": [],
+      "guestTemporaryPause": "No global pause; independent guest headless only between finite native scopes as owner coordinates. No unowned native input."
+    },
+    "macos": {
+      "owner": null,
+      "scope": "REPLICA-01 COMPLETE; all completed exact-owned validation windows/processes/actors closed0; evidence in root-final-assembly-proof.json; user/unattributed windows excluded.",
+      "queue": []
+    },
+    "windows": {
+      "owner": null,
+      "scope": "REPLICA-01 COMPLETE; all completed exact-owned validation windows/processes/actors closed0; evidence in root-final-assembly-proof.json; user/unattributed windows excluded.",
+      "queue": []
+    }
+  },
+  "updated": "2026-10-09 (client date; source host clock retained in evidence)",
+  "rules": "Root writes. HEADLESS_VERIFICATION.md supersedes old whole-environment lease."
+}

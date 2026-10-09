@@ -1,0 +1,73 @@
+{
+  "reason": "key-Right",
+  "state": {
+    "changes": 2,
+    "selected": 2,
+    "focused": 2,
+    "rows": [
+      {
+        "EngineName": "SQL Server",
+        "IsSelected": false,
+        "FocusVisible": false,
+        "IsTabStop": false,
+        "IsPressed": false,
+        "IsPointerOver": false,
+        "scale": 1
+      },
+      {
+        "EngineName": "PostgreSQL",
+        "IsSelected": false,
+        "FocusVisible": false,
+        "IsTabStop": false,
+        "IsPressed": false,
+        "IsPointerOver": false,
+        "scale": 1
+      },
+      {
+        "EngineName": "MySQL",
+        "IsSelected": true,
+        "FocusVisible": true,
+        "IsTabStop": true,
+        "IsPressed": false,
+        "IsPointerOver": false,
+        "scale": 1
+      },
+      {
+        "EngineName": "MariaDB",
+        "IsSelected": false,
+        "FocusVisible": false,
+        "IsTabStop": false,
+        "IsPressed": false,
+        "IsPointerOver": false,
+        "scale": 1
+      }
+    ]
+  },
+  "events": [
+    {
+      "kind": "pointer-down",
+      "target": 1,
+      "scale": 1
+    },
+    {
+      "kind": "focus",
+      "target": 1
+    },
+    {
+      "kind": "change",
+      "target": 1,
+      "focused": 1,
+      "selected": 1
+    },
+    {
+      "kind": "focus",
+      "target": 2
+    },
+    {
+      "kind": "change",
+      "target": 2,
+      "focused": 2,
+      "selected": 2
+    }
+  ]
+}

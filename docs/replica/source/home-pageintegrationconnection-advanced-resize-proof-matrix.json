@@ -1,0 +1,35 @@
+{
+  "phase": "LOCKED",
+  "product": "src/Verifier.Desktop/WebAdvancedConnection.cs",
+  "productSha256": "5e0f41c26bf83f6a058d99419c9e21b5066becc705bf866b15d9a32d4169e2a1",
+  "oldManifest": "docs/replica/source/advancedconnection-lock.json",
+  "parentConnection": "API scaffold inactive; Workspace caller held",
+  "old32Reuse": "constructor/SetPresentation/Measure/Arrange/handlers/motion/peers unchanged in actual diff; API gap setter new path only",
+  "diff": "docs/replica/source/home-pageintegrationconnection-advanced-resize-product-diff.txt",
+  "windows": {
+    "source": "docs/replica/source/home-pageintegrationconnection-advanced-resize-windows-child-source.json",
+    "headless": "docs/replica/source/home-pageintegrationconnection-advanced-resize-windows-headless-comparison.json",
+    "actual": "docs/replica/source/home-pageintegrationconnection-advanced-resize-windows-actual-comparison.json",
+    "build": "artifacts/replica/workers/home/pageintegration/575ac0d2a5fd4594a92102aa4f5506d1/build.json",
+    "sourceCleanup": "artifacts/replica/workers/home/pageintegrationconnection-resize-source/6ee800cced8c4613abadc50a72bb97d8/cleanup.json",
+    "nativeCleanup": "artifacts/replica/workers/home/pageintegration/575ac0d2a5fd4594a92102aa4f5506d1/actual-advanced-resize-windows/cleanup.json",
+    "nativeProcess": 0,
+    "nativeWindow": 0,
+    "sourceWindow": 0,
+    "visualInspection": "EN1280 headless and actual RenderTarget PNG opened and inspected;3line normal paragraph and unclipped panel"
+  },
+  "macos": {
+    "source": "docs/replica/source/home-pageintegrationconnection-advanced-resize-mac-child-source.json",
+    "headless": "three passed cases; EN1280 six height diffs unpassed",
+    "textDifference": "docs/replica/source/home-pageintegrationconnection-advanced-resize-text-difference.json",
+    "actual": "home-pageintegrationconnection-advanced-resize-mac-actual-comparison.json",
+    "ownWindowsProcesses": 0,
+    "headlessChanged": "home-pageintegrationconnection-advanced-resize-mac-corrected-comparison.json",
+    "build": "artifacts/replica/workers/home/pageintegration/1e1fc317c1ea4a319a4824cf8135586b/build.json",
+    "cleanup": "artifacts/replica/workers/home/pageintegration/1e1fc317c1ea4a319a4824cf8135586b/actual-advanced-resize-macos/cleanup.json",
+    "nativeProcess": 0,
+    "nativeWindow": 0,
+    "sourceWindow": 0,
+    "visualInspection": "EN1280 actual PNG opened;3lines normal paragraph/no clipped or empty panel"
+  }
+}

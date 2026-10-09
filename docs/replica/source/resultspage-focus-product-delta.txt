@@ -1,0 +1,11 @@
+--- old passed ff4c3b85
++++ current corrected retention
+@@ -106,7 +106,7 @@
+   public bool FocusVisible{get;private set;}
+   protected override void OnGotFocus(FocusChangedEventArgs e){base.OnGotFocus(e);FocusVisible=e.NavigationMethod!=NavigationMethod.Pointer;}
+   protected override void OnKeyDown(KeyEventArgs e){if(e.Key is Key.Space or Key.Enter)FocusVisible=true;base.OnKeyDown(e);}
+-  protected override void OnPointerPressed(PointerPressedEventArgs e){if(e.GetCurrentPoint(this).Properties.IsLeftButtonPressed)FocusVisible=false;base.OnPointerPressed(e);}
++  protected override void OnPointerPressed(PointerPressedEventArgs e){if(e.GetCurrentPoint(this).Properties.IsLeftButtonPressed){var preserveVisible=IsFocused&&FocusVisible;Focus(NavigationMethod.Pointer);FocusVisible=preserveVisible;}base.OnPointerPressed(e);}
+  }
+  private sealed class FiltersFlex:Panel
+  {

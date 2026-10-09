@@ -1,0 +1,98 @@
+[
+  {
+    "id": "unchecked-rest",
+    "mae": 0.4039792387543253
+  },
+  {
+    "id": "unchecked-hover",
+    "mae": 0.8391724336793541
+  },
+  {
+    "id": "unchecked-pressed",
+    "mae": 0.581603229527105
+  },
+  {
+    "id": "unchecked-pointer-focus",
+    "mae": 0.505262399077278
+  },
+  {
+    "id": "unchecked-keyboard-focus",
+    "mae": 1.2292387543252594
+  },
+  {
+    "id": "unchecked-hover-focus",
+    "mae": 1.6301903114186853
+  },
+  {
+    "id": "unchecked-hover-pressed-focus",
+    "mae": 1.1297577854671281
+  },
+  {
+    "id": "unchecked-disabled",
+    "mae": 0.2630478662053057
+  },
+  {
+    "id": "unchecked-disabled-hover",
+    "mae": 0.2674452133794694
+  },
+  {
+    "id": "unchecked-disabled-focus",
+    "mae": 1.0307093425605538
+  },
+  {
+    "id": "unchecked-disabled-pressed",
+    "mae": 0.26629181084198383
+  },
+  {
+    "id": "unchecked-reduced",
+    "mae": 0.4039792387543253
+  },
+  {
+    "id": "checked-rest",
+    "mae": 0.37694636678200694
+  },
+  {
+    "id": "checked-hover",
+    "mae": 0.4911332179930796
+  },
+  {
+    "id": "checked-pressed",
+    "mae": 0.5525519031141869
+  },
+  {
+    "id": "checked-pointer-focus",
+    "mae": 0.4151528258362169
+  },
+  {
+    "id": "checked-keyboard-focus",
+    "mae": 1.201340830449827
+  },
+  {
+    "id": "checked-hover-focus",
+    "mae": 1.2834486735870818
+  },
+  {
+    "id": "checked-hover-pressed-focus",
+    "mae": 1.0819636678200693
+  },
+  {
+    "id": "checked-disabled",
+    "mae": 0.26939158016147635
+  },
+  {
+    "id": "checked-disabled-hover",
+    "mae": 0.27378892733564014
+  },
+  {
+    "id": "checked-disabled-focus",
+    "mae": 1.0370530565167242
+  },
+  {
+    "id": "checked-disabled-pressed",
+    "mae": 0.27263552479815456
+  },
+  {
+    "id": "checked-reduced",
+    "mae": 0.37694636678200694
+  }
+]

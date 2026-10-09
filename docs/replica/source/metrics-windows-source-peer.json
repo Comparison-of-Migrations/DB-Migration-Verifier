@@ -1,0 +1,50 @@
+[
+    {
+        "name":  "불일치 항목",
+        "type":  "ControlType.Text",
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "3",
+        "type":  "ControlType.Text",
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "확인 불가·미검증 항목",
+        "type":  "ControlType.Text",
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "2",
+        "type":  "ControlType.Text",
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "일치 항목",
+        "type":  "ControlType.Text",
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "45",
+        "type":  "ControlType.Text",
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "예시 검사 ID",
+        "type":  "ControlType.Text",
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "UI-MUZ1LP3S",
+        "type":  "ControlType.Text",
+        "control":  true,
+        "content":  true
+    }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ko-960-720",
+    "english": false,
+    "width": 960,
+    "height": 720
+  },
+  {
+    "id": "ko-1180-720",
+    "english": false,
+    "width": 1180,
+    "height": 720
+  },
+  {
+    "id": "en-960-720",
+    "english": true,
+    "width": 960,
+    "height": 720
+  },
+  {
+    "id": "en-1180-720",
+    "english": true,
+    "width": 1180,
+    "height": 720
+  }
+]

@@ -1,0 +1,562 @@
+[
+    {
+        "name":  "",
+        "id":  "",
+        "type":  "ControlType.Pane",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "InfoDialog input · original isolation - Microsoft Edge",
+        "id":  "",
+        "type":  "ControlType.Pane",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "",
+        "type":  "ControlType.Pane",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "",
+        "type":  "ControlType.Pane",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "",
+        "type":  "ControlType.Pane",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "최소화",
+        "id":  "view_2",
+        "type":  "ControlType.Button",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "복원",
+        "id":  "view_4",
+        "type":  "ControlType.Button",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "닫기",
+        "id":  "view_7",
+        "type":  "ControlType.Button",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "",
+        "type":  "ControlType.Pane",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "",
+        "type":  "ControlType.Pane",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "앱 바",
+        "id":  "view_1000",
+        "type":  "ControlType.ToolBar",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "뒤로",
+        "id":  "view_1001",
+        "type":  "ControlType.Button",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "새로 고침",
+        "id":  "view_1003",
+        "type":  "ControlType.Button",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "",
+        "type":  "ControlType.Group",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "안전하지 않음",
+        "id":  "view_1015",
+        "type":  "ControlType.Button",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "주소 표시줄 및 검색 창",
+        "id":  "view_1017",
+        "type":  "ControlType.Edit",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "",
+        "type":  "ControlType.Pane",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "",
+        "type":  "ControlType.Pane",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "읽기 모드 시작(F9)",
+        "id":  "",
+        "type":  "ControlType.Button",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "이 페이지를 즐겨찾기에 추가(Ctrl+D)",
+        "id":  "view_1006",
+        "type":  "ControlType.Button",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "",
+        "type":  "ControlType.Pane",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "확장",
+        "id":  "view_1010",
+        "type":  "ControlType.Button",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "",
+        "type":  "ControlType.Pane",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "",
+        "type":  "ControlType.Pane",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "즐겨찾기",
+        "id":  "view_1007",
+        "type":  "ControlType.Button",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "프로필 1 프로필, 로그인하세요.",
+        "id":  "view_1009",
+        "type":  "ControlType.Button",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "설정 및 기타 (Alt+F)",
+        "id":  "view_1011",
+        "type":  "ControlType.Button",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "채팅",
+        "id":  "view_1078",
+        "type":  "ControlType.Button",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "",
+        "type":  "ControlType.Pane",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "",
+        "type":  "ControlType.Pane",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "",
+        "type":  "ControlType.Pane",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "",
+        "type":  "ControlType.Pane",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "",
+        "type":  "ControlType.Pane",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "",
+        "type":  "ControlType.Pane",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "InfoDialog input · original isolation",
+        "id":  "RootWebArea",
+        "type":  "ControlType.Document",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "RootWebArea",
+        "type":  "ControlType.Document",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "연구 결과 → 검사 → 화면",
+        "id":  "",
+        "type":  "ControlType.Window",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "연구 결과 → 검사 → 화면",
+        "id":  "dialog-title",
+        "type":  "ControlType.Text",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "닫기",
+        "id":  "",
+        "type":  "ControlType.Button",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "기본 기능 성공과 데이터 상태·권한·동작의 충족을 구분한 연구 관찰을 다음 방식으로 반영합니다.",
+        "id":  "",
+        "type":  "ControlType.Text",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "RP-D01 · RP-C01/02",
+        "id":  "",
+        "type":  "ControlType.Text",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "전체 값과 구조·제약 검사 → 분류별 결과",
+        "id":  "",
+        "type":  "ControlType.Text",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "RP-A01/02 · RP-O01",
+        "id":  "",
+        "type":  "ControlType.Text",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "사용자·권한·객체 정의 → 차이와 조회 한계",
+        "id":  "",
+        "type":  "ControlType.Text",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "RP-B01",
+        "id":  "",
+        "type":  "ControlType.Text",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "별도 시험 DB 동작 → 기대 충족/불충족과 정리 결과",
+        "id":  "",
+        "type":  "ControlType.Text",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "RP-S01",
+        "id":  "",
+        "type":  "ControlType.Text",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "권한 부족·중단·미지원 → 확인 불가/미검증 표시",
+        "id":  "",
+        "type":  "ControlType.Text",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "현재 보이는 것은 예시 화면 연결입니다. 실제 검증 엔진의 탐지 증거는 아직 없습니다.",
+        "id":  "",
+        "type":  "ControlType.Text",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "닫기",
+        "id":  "",
+        "type":  "ControlType.Button",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "Record",
+        "id":  "InfoDialog-source-record",
+        "type":  "ControlType.Button",
+        "focus":  true,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "Research / small",
+        "id":  "InfoDialog-source-small",
+        "type":  "ControlType.Button",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "Permissions",
+        "id":  "InfoDialog-source-permissions",
+        "type":  "ControlType.Button",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "Restore",
+        "id":  "InfoDialog-source-restore",
+        "type":  "ControlType.Button",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "{\"visible\":true,\"closing\":false,\"key\":\"research\",\"lang\":\"ko\",\"focus\":null,\"focusVisible\":false,\"bodyScrollTop\":0,\"dialogScrollTop\":0,\"events\":[\"open\"]}",
+        "id":  "",
+        "type":  "ControlType.Text",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "",
+        "type":  "ControlType.Edit",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "탭 표시줄",
+        "id":  "",
+        "type":  "ControlType.Tab",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "검색 탭",
+        "id":  "view_1052",
+        "type":  "ControlType.Button",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "view_25",
+        "type":  "ControlType.Pane",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "",
+        "type":  "ControlType.Tab",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "InfoDialog input · original isolation - 메모리 사용량 - 32.5 MB",
+        "id":  "view_24",
+        "type":  "ControlType.TabItem",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "탭 닫기",
+        "id":  "view_27",
+        "type":  "ControlType.Button",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "",
+        "type":  "ControlType.Pane",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "",
+        "type":  "ControlType.Pane",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "",
+        "type":  "ControlType.Pane",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "",
+        "type":  "ControlType.Pane",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "",
+        "type":  "ControlType.Pane",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "새 탭",
+        "id":  "view_28",
+        "type":  "ControlType.Button",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "",
+        "type":  "ControlType.Pane",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    },
+    {
+        "name":  "",
+        "id":  "",
+        "type":  "ControlType.Pane",
+        "focus":  false,
+        "control":  true,
+        "content":  true
+    }
+]

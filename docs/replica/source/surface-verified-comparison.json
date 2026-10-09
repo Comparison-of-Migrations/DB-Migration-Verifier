@@ -1,0 +1,163 @@
+{
+  "status": "measured",
+  "geometryTolerance": 0.0001,
+  "jpegNote": "Interior p95 error retained separately; edge chroma subsampling/AA differences are in raster-comparison. Original CSS colors unchanged.",
+  "cases": [
+    {
+      "id": "surface-0",
+      "boxDifference": 0,
+      "interiorMedianChannelError": 0,
+      "interiorP95ChannelError": 1
+    },
+    {
+      "id": "surface-1",
+      "boxDifference": 0.0,
+      "interiorMedianChannelError": 0,
+      "interiorP95ChannelError": 1
+    },
+    {
+      "id": "surface-2",
+      "boxDifference": 0.0,
+      "interiorMedianChannelError": 0,
+      "interiorP95ChannelError": 0
+    },
+    {
+      "id": "surface-3",
+      "boxDifference": 0.0,
+      "interiorMedianChannelError": 0,
+      "interiorP95ChannelError": 0
+    },
+    {
+      "id": "surface-4",
+      "boxDifference": 0,
+      "interiorMedianChannelError": 0,
+      "interiorP95ChannelError": 0
+    },
+    {
+      "id": "surface-5",
+      "boxDifference": 0.0,
+      "interiorMedianChannelError": 0,
+      "interiorP95ChannelError": 0
+    },
+    {
+      "id": "surface-6",
+      "boxDifference": 0,
+      "interiorMedianChannelError": 0,
+      "interiorP95ChannelError": 0
+    },
+    {
+      "id": "surface-7",
+      "boxDifference": 0.0,
+      "interiorMedianChannelError": 0,
+      "interiorP95ChannelError": 0
+    },
+    {
+      "id": "surface-8",
+      "boxDifference": 0,
+      "interiorMedianChannelError": 0,
+      "interiorP95ChannelError": 0
+    },
+    {
+      "id": "surface-9",
+      "boxDifference": 0.0,
+      "interiorMedianChannelError": 0,
+      "interiorP95ChannelError": 0
+    },
+    {
+      "id": "surface-10",
+      "boxDifference": 0,
+      "interiorMedianChannelError": 3,
+      "interiorP95ChannelError": 8
+    },
+    {
+      "id": "surface-11",
+      "boxDifference": 0.0,
+      "interiorMedianChannelError": 3,
+      "interiorP95ChannelError": 8
+    },
+    {
+      "id": "surface-12",
+      "boxDifference": 0,
+      "interiorMedianChannelError": 2,
+      "interiorP95ChannelError": 2
+    },
+    {
+      "id": "surface-13",
+      "boxDifference": 0.0,
+      "interiorMedianChannelError": 2,
+      "interiorP95ChannelError": 2
+    },
+    {
+      "id": "surface-14",
+      "boxDifference": 0,
+      "interiorMedianChannelError": 0,
+      "interiorP95ChannelError": 0
+    },
+    {
+      "id": "surface-15",
+      "boxDifference": 0.0,
+      "interiorMedianChannelError": 0,
+      "interiorP95ChannelError": 0
+    },
+    {
+      "id": "surface-16",
+      "boxDifference": 0,
+      "interiorMedianChannelError": 0,
+      "interiorP95ChannelError": 0
+    },
+    {
+      "id": "surface-17",
+      "boxDifference": 0.0,
+      "interiorMedianChannelError": 0,
+      "interiorP95ChannelError": 0
+    },
+    {
+      "id": "surface-18",
+      "boxDifference": 0,
+      "interiorMedianChannelError": 0,
+      "interiorP95ChannelError": 0
+    },
+    {
+      "id": "surface-19",
+      "boxDifference": 0.0,
+      "interiorMedianChannelError": 0,
+      "interiorP95ChannelError": 0
+    },
+    {
+      "id": "surface-20",
+      "boxDifference": 0,
+      "interiorMedianChannelError": 3,
+      "interiorP95ChannelError": 3
+    },
+    {
+      "id": "surface-21",
+      "boxDifference": 0.0,
+      "interiorMedianChannelError": 1,
+      "interiorP95ChannelError": 2
+    },
+    {
+      "id": "surface-22",
+      "boxDifference": 0,
+      "interiorMedianChannelError": 0,
+      "interiorP95ChannelError": 1
+    },
+    {
+      "id": "surface-23",
+      "boxDifference": 0.0,
+      "interiorMedianChannelError": 0,
+      "interiorP95ChannelError": 1
+    },
+    {
+      "id": "surface-24",
+      "boxDifference": 0.0,
+      "interiorMedianChannelError": 0,
+      "interiorP95ChannelError": 0
+    },
+    {
+      "id": "surface-25",
+      "boxDifference": 0.0,
+      "interiorMedianChannelError": 0,
+      "interiorP95ChannelError": 0
+    }
+  ]
+}

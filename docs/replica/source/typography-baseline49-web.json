@@ -1,0 +1,1279 @@
+{
+  "dpr": 2,
+  "measured": [
+    {
+      "id": "kr-0",
+      "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "baseline": 16,
+      "box": {
+        "x": 10,
+        "y": 10,
+        "width": 480,
+        "height": 22.3984375,
+        "top": 10,
+        "right": 490,
+        "bottom": 32.3984375,
+        "left": 10
+      },
+      "textRange": {
+        "x": 10,
+        "y": 12.5,
+        "width": 140.0234375,
+        "height": 16.5,
+        "top": 12.5,
+        "right": 150.0234375,
+        "bottom": 29,
+        "left": 10
+      },
+      "relativeRangeY": 2.5
+    },
+    {
+      "id": "kr-1",
+      "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "baseline": 38,
+      "box": {
+        "x": 510,
+        "y": 10,
+        "width": 480,
+        "height": 48.6015625,
+        "top": 10,
+        "right": 990,
+        "bottom": 58.6015625,
+        "left": 510
+      },
+      "textRange": {
+        "x": 510,
+        "y": 13,
+        "width": 430.78125,
+        "height": 42.5,
+        "top": 13,
+        "right": 940.78125,
+        "bottom": 55.5,
+        "left": 510
+      },
+      "relativeRangeY": 3
+    },
+    {
+      "id": "kr-2",
+      "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "baseline": 17.5,
+      "box": {
+        "x": 10,
+        "y": 140,
+        "width": 480,
+        "height": 25.203125,
+        "top": 140,
+        "right": 490,
+        "bottom": 165.203125,
+        "left": 10
+      },
+      "textRange": {
+        "x": 10,
+        "y": 144,
+        "width": 307.90625,
+        "height": 16.5,
+        "top": 144,
+        "right": 317.90625,
+        "bottom": 160.5,
+        "left": 10
+      },
+      "relativeRangeY": 4
+    },
+    {
+      "id": "kr-3",
+      "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "baseline": 20,
+      "box": {
+        "x": 510,
+        "y": 140,
+        "width": 480,
+        "height": 57,
+        "top": 140,
+        "right": 990,
+        "bottom": 197,
+        "left": 510
+      },
+      "textRange": {
+        "x": 510,
+        "y": 145.5,
+        "width": 479.7890625,
+        "height": 17.5,
+        "top": 145.5,
+        "right": 989.7890625,
+        "bottom": 163,
+        "left": 510
+      },
+      "relativeRangeY": 5.5
+    },
+    {
+      "id": "kr-4",
+      "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "baseline": 14,
+      "box": {
+        "x": 10,
+        "y": 270,
+        "width": 480,
+        "height": 19.203125,
+        "top": 270,
+        "right": 490,
+        "bottom": 289.203125,
+        "left": 10
+      },
+      "textRange": {
+        "x": 10,
+        "y": 272.5,
+        "width": 373.203125,
+        "height": 14,
+        "top": 272.5,
+        "right": 383.203125,
+        "bottom": 286.5,
+        "left": 10
+      },
+      "relativeRangeY": 2.5
+    },
+    {
+      "id": "kr-5",
+      "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "baseline": 16,
+      "box": {
+        "x": 510,
+        "y": 270,
+        "width": 480,
+        "height": 22.3984375,
+        "top": 270,
+        "right": 990,
+        "bottom": 292.3984375,
+        "left": 510
+      },
+      "textRange": {
+        "x": 510,
+        "y": 272.5,
+        "width": 111.5625,
+        "height": 16.5,
+        "top": 272.5,
+        "right": 621.5625,
+        "bottom": 289,
+        "left": 510
+      },
+      "relativeRangeY": 2.5
+    },
+    {
+      "id": "kr-6",
+      "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "baseline": 17,
+      "box": {
+        "x": 10,
+        "y": 400,
+        "width": 480,
+        "height": 24.046875,
+        "top": 400,
+        "right": 490,
+        "bottom": 424.046875,
+        "left": 10
+      },
+      "textRange": {
+        "x": 10,
+        "y": 404.5,
+        "width": 302.3046875,
+        "height": 15,
+        "top": 404.5,
+        "right": 312.3046875,
+        "bottom": 419.5,
+        "left": 10
+      },
+      "relativeRangeY": 4.5
+    },
+    {
+      "id": "kr-7",
+      "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "baseline": 16,
+      "box": {
+        "x": 510,
+        "y": 400,
+        "width": 480,
+        "height": 44.203125,
+        "top": 400,
+        "right": 990,
+        "bottom": 444.203125,
+        "left": 510
+      },
+      "textRange": {
+        "x": 510,
+        "y": 403.5,
+        "width": 439.8515625,
+        "height": 15,
+        "top": 403.5,
+        "right": 949.8515625,
+        "bottom": 418.5,
+        "left": 510
+      },
+      "relativeRangeY": 3.5
+    },
+    {
+      "id": "en-0",
+      "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "baseline": 16,
+      "box": {
+        "x": 10,
+        "y": 530,
+        "width": 480,
+        "height": 22.3984375,
+        "top": 530,
+        "right": 490,
+        "bottom": 552.3984375,
+        "left": 10
+      },
+      "textRange": {
+        "x": 10,
+        "y": 532.5,
+        "width": 140.0234375,
+        "height": 16.5,
+        "top": 532.5,
+        "right": 150.0234375,
+        "bottom": 549,
+        "left": 10
+      },
+      "relativeRangeY": 2.5
+    },
+    {
+      "id": "en-1",
+      "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "baseline": 38,
+      "box": {
+        "x": 510,
+        "y": 530,
+        "width": 480,
+        "height": 48.6015625,
+        "top": 530,
+        "right": 990,
+        "bottom": 578.6015625,
+        "left": 510
+      },
+      "textRange": {
+        "x": 510,
+        "y": 533,
+        "width": 432.71875,
+        "height": 42.5,
+        "top": 533,
+        "right": 942.71875,
+        "bottom": 575.5,
+        "left": 510
+      },
+      "relativeRangeY": 3
+    },
+    {
+      "id": "en-2",
+      "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "baseline": 17.5,
+      "box": {
+        "x": 10,
+        "y": 660,
+        "width": 480,
+        "height": 25.203125,
+        "top": 660,
+        "right": 490,
+        "bottom": 685.203125,
+        "left": 10
+      },
+      "textRange": {
+        "x": 10,
+        "y": 664,
+        "width": 438.96875,
+        "height": 16.5,
+        "top": 664,
+        "right": 448.96875,
+        "bottom": 680.5,
+        "left": 10
+      },
+      "relativeRangeY": 4
+    },
+    {
+      "id": "en-3",
+      "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "baseline": 20,
+      "box": {
+        "x": 510,
+        "y": 660,
+        "width": 480,
+        "height": 85.5,
+        "top": 660,
+        "right": 990,
+        "bottom": 745.5,
+        "left": 510
+      },
+      "textRange": {
+        "x": 510,
+        "y": 665.5,
+        "width": 474.359375,
+        "height": 17.5,
+        "top": 665.5,
+        "right": 984.359375,
+        "bottom": 683,
+        "left": 510
+      },
+      "relativeRangeY": 5.5
+    },
+    {
+      "id": "en-4",
+      "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "baseline": 14,
+      "box": {
+        "x": 10,
+        "y": 790,
+        "width": 480,
+        "height": 19.203125,
+        "top": 790,
+        "right": 490,
+        "bottom": 809.203125,
+        "left": 10
+      },
+      "textRange": {
+        "x": 10,
+        "y": 792.5,
+        "width": 443.234375,
+        "height": 14,
+        "top": 792.5,
+        "right": 453.234375,
+        "bottom": 806.5,
+        "left": 10
+      },
+      "relativeRangeY": 2.5
+    },
+    {
+      "id": "en-5",
+      "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "baseline": 16,
+      "box": {
+        "x": 510,
+        "y": 790,
+        "width": 480,
+        "height": 22.3984375,
+        "top": 790,
+        "right": 990,
+        "bottom": 812.3984375,
+        "left": 510
+      },
+      "textRange": {
+        "x": 510,
+        "y": 792.5,
+        "width": 162.234375,
+        "height": 16.5,
+        "top": 792.5,
+        "right": 672.234375,
+        "bottom": 809,
+        "left": 510
+      },
+      "relativeRangeY": 2.5
+    },
+    {
+      "id": "en-6",
+      "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "baseline": 17,
+      "box": {
+        "x": 10,
+        "y": 920,
+        "width": 480,
+        "height": 24.046875,
+        "top": 920,
+        "right": 490,
+        "bottom": 944.046875,
+        "left": 10
+      },
+      "textRange": {
+        "x": 10,
+        "y": 924.5,
+        "width": 392.296875,
+        "height": 15,
+        "top": 924.5,
+        "right": 402.296875,
+        "bottom": 939.5,
+        "left": 10
+      },
+      "relativeRangeY": 4.5
+    },
+    {
+      "id": "en-7",
+      "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "baseline": 16,
+      "box": {
+        "x": 510,
+        "y": 920,
+        "width": 480,
+        "height": 44.203125,
+        "top": 920,
+        "right": 990,
+        "bottom": 964.203125,
+        "left": 510
+      },
+      "textRange": {
+        "x": 510,
+        "y": 923.5,
+        "width": 439.8515625,
+        "height": 15,
+        "top": 923.5,
+        "right": 949.8515625,
+        "bottom": 938.5,
+        "left": 510
+      },
+      "relativeRangeY": 3.5
+    },
+    {
+      "id": "role-00",
+      "family": "system",
+      "baseline": 12.5,
+      "box": {
+        "x": 10,
+        "y": 1050,
+        "width": 480,
+        "height": 17.6015625,
+        "top": 1050,
+        "right": 490,
+        "bottom": 1067.6015625,
+        "left": 10
+      },
+      "textRange": {
+        "x": 10,
+        "y": 1052,
+        "width": 50.734375,
+        "height": 13,
+        "top": 1052,
+        "right": 60.734375,
+        "bottom": 1065,
+        "left": 10
+      },
+      "relativeRangeY": 2
+    },
+    {
+      "id": "role-01",
+      "family": "system",
+      "baseline": 44,
+      "box": {
+        "x": 510,
+        "y": 1050,
+        "width": 480,
+        "height": 55,
+        "top": 1050,
+        "right": 990,
+        "bottom": 1105,
+        "left": 510
+      },
+      "textRange": {
+        "x": 510,
+        "y": 1051.5,
+        "width": 26.7734375,
+        "height": 52,
+        "top": 1051.5,
+        "right": 536.7734375,
+        "bottom": 1103.5,
+        "left": 510
+      },
+      "relativeRangeY": 1.5
+    },
+    {
+      "id": "role-02",
+      "family": "system",
+      "baseline": 12.5,
+      "box": {
+        "x": 10,
+        "y": 1180,
+        "width": 480,
+        "height": 17.6015625,
+        "top": 1180,
+        "right": 490,
+        "bottom": 1197.6015625,
+        "left": 10
+      },
+      "textRange": {
+        "x": 10,
+        "y": 1182,
+        "width": 95.2890625,
+        "height": 13,
+        "top": 1182,
+        "right": 105.2890625,
+        "bottom": 1195,
+        "left": 10
+      },
+      "relativeRangeY": 2
+    },
+    {
+      "id": "role-03",
+      "family": "system",
+      "baseline": 44,
+      "box": {
+        "x": 510,
+        "y": 1180,
+        "width": 480,
+        "height": 55,
+        "top": 1180,
+        "right": 990,
+        "bottom": 1235,
+        "left": 510
+      },
+      "textRange": {
+        "x": 510,
+        "y": 1181.5,
+        "width": 26.7734375,
+        "height": 52,
+        "top": 1181.5,
+        "right": 536.7734375,
+        "bottom": 1233.5,
+        "left": 510
+      },
+      "relativeRangeY": 1.5
+    },
+    {
+      "id": "role-04",
+      "family": "system",
+      "baseline": 12.5,
+      "box": {
+        "x": 10,
+        "y": 1310,
+        "width": 480,
+        "height": 17.6015625,
+        "top": 1310,
+        "right": 490,
+        "bottom": 1327.6015625,
+        "left": 10
+      },
+      "textRange": {
+        "x": 10,
+        "y": 1312,
+        "width": 41.21875,
+        "height": 13,
+        "top": 1312,
+        "right": 51.21875,
+        "bottom": 1325,
+        "left": 10
+      },
+      "relativeRangeY": 2
+    },
+    {
+      "id": "role-05",
+      "family": "system",
+      "baseline": 44,
+      "box": {
+        "x": 510,
+        "y": 1310,
+        "width": 480,
+        "height": 55,
+        "top": 1310,
+        "right": 990,
+        "bottom": 1365,
+        "left": 510
+      },
+      "textRange": {
+        "x": 510,
+        "y": 1311.5,
+        "width": 53.546875,
+        "height": 52,
+        "top": 1311.5,
+        "right": 563.546875,
+        "bottom": 1363.5,
+        "left": 510
+      },
+      "relativeRangeY": 1.5
+    },
+    {
+      "id": "role-06",
+      "family": "system",
+      "baseline": 12.5,
+      "box": {
+        "x": 10,
+        "y": 1440,
+        "width": 480,
+        "height": 17.6015625,
+        "top": 1440,
+        "right": 490,
+        "bottom": 1457.6015625,
+        "left": 10
+      },
+      "textRange": {
+        "x": 10,
+        "y": 1442,
+        "width": 55.4453125,
+        "height": 13,
+        "top": 1442,
+        "right": 65.4453125,
+        "bottom": 1455,
+        "left": 10
+      },
+      "relativeRangeY": 2
+    },
+    {
+      "id": "role-07",
+      "family": "mono",
+      "baseline": 12.5,
+      "box": {
+        "x": 510,
+        "y": 1440,
+        "width": 480,
+        "height": 17.6015625,
+        "top": 1440,
+        "right": 990,
+        "bottom": 1457.6015625,
+        "left": 510
+      },
+      "textRange": {
+        "x": 510,
+        "y": 1442.5,
+        "width": 72.8515625,
+        "height": 12.5,
+        "top": 1442.5,
+        "right": 582.8515625,
+        "bottom": 1455,
+        "left": 510
+      },
+      "relativeRangeY": 2.5
+    },
+    {
+      "id": "role-08",
+      "family": "system",
+      "baseline": 15,
+      "box": {
+        "x": 10,
+        "y": 1570,
+        "width": 480,
+        "height": 20.796875,
+        "top": 1570,
+        "right": 490,
+        "bottom": 1590.796875,
+        "left": 10
+      },
+      "textRange": {
+        "x": 10,
+        "y": 1572.5,
+        "width": 33.7421875,
+        "height": 15,
+        "top": 1572.5,
+        "right": 43.7421875,
+        "bottom": 1587.5,
+        "left": 10
+      },
+      "relativeRangeY": 2.5
+    },
+    {
+      "id": "role-09",
+      "family": "system",
+      "baseline": 12,
+      "box": {
+        "x": 510,
+        "y": 1570,
+        "width": 480,
+        "height": 17,
+        "top": 1570,
+        "right": 990,
+        "bottom": 1587,
+        "left": 510
+      },
+      "textRange": {
+        "x": 510,
+        "y": 1572.5,
+        "width": 77.6171875,
+        "height": 11.5,
+        "top": 1572.5,
+        "right": 587.6171875,
+        "bottom": 1584,
+        "left": 510
+      },
+      "relativeRangeY": 2.5
+    },
+    {
+      "id": "role-10",
+      "family": "system",
+      "baseline": 25,
+      "box": {
+        "x": 10,
+        "y": 1700,
+        "width": 480,
+        "height": 31.203125,
+        "top": 1700,
+        "right": 490,
+        "bottom": 1731.203125,
+        "left": 10
+      },
+      "textRange": {
+        "x": 10,
+        "y": 1700,
+        "width": 16.0859375,
+        "height": 30.5,
+        "top": 1700,
+        "right": 26.0859375,
+        "bottom": 1730.5,
+        "left": 10
+      },
+      "relativeRangeY": 0
+    },
+    {
+      "id": "role-11",
+      "family": "system",
+      "baseline": 25,
+      "box": {
+        "x": 510,
+        "y": 1700,
+        "width": 480,
+        "height": 31.203125,
+        "top": 1700,
+        "right": 990,
+        "bottom": 1731.203125,
+        "left": 510
+      },
+      "textRange": {
+        "x": 510,
+        "y": 1700,
+        "width": 16.0859375,
+        "height": 30.5,
+        "top": 1700,
+        "right": 526.0859375,
+        "bottom": 1730.5,
+        "left": 510
+      },
+      "relativeRangeY": 0
+    },
+    {
+      "id": "role-12",
+      "family": "system",
+      "baseline": 25,
+      "box": {
+        "x": 10,
+        "y": 1830,
+        "width": 480,
+        "height": 31.203125,
+        "top": 1830,
+        "right": 490,
+        "bottom": 1861.203125,
+        "left": 10
+      },
+      "textRange": {
+        "x": 10,
+        "y": 1830,
+        "width": 32.171875,
+        "height": 30.5,
+        "top": 1830,
+        "right": 42.171875,
+        "bottom": 1860.5,
+        "left": 10
+      },
+      "relativeRangeY": 0
+    },
+    {
+      "id": "role-13",
+      "family": "system",
+      "baseline": 15,
+      "box": {
+        "x": 510,
+        "y": 1830,
+        "width": 480,
+        "height": 20.796875,
+        "top": 1830,
+        "right": 990,
+        "bottom": 1850.796875,
+        "left": 510
+      },
+      "textRange": {
+        "x": 510,
+        "y": 1832.5,
+        "width": 49.4296875,
+        "height": 15,
+        "top": 1832.5,
+        "right": 559.4296875,
+        "bottom": 1847.5,
+        "left": 510
+      },
+      "relativeRangeY": 2.5
+    },
+    {
+      "id": "role-14",
+      "family": "system",
+      "baseline": 12,
+      "box": {
+        "x": 10,
+        "y": 1960,
+        "width": 480,
+        "height": 17,
+        "top": 1960,
+        "right": 490,
+        "bottom": 1977,
+        "left": 10
+      },
+      "textRange": {
+        "x": 10,
+        "y": 1962.5,
+        "width": 77.96875,
+        "height": 11.5,
+        "top": 1962.5,
+        "right": 87.96875,
+        "bottom": 1974,
+        "left": 10
+      },
+      "relativeRangeY": 2.5
+    },
+    {
+      "id": "role-15",
+      "family": "system",
+      "baseline": 25,
+      "box": {
+        "x": 510,
+        "y": 1960,
+        "width": 480,
+        "height": 31.203125,
+        "top": 1960,
+        "right": 990,
+        "bottom": 1991.203125,
+        "left": 510
+      },
+      "textRange": {
+        "x": 510,
+        "y": 1960,
+        "width": 32.171875,
+        "height": 30.5,
+        "top": 1960,
+        "right": 542.171875,
+        "bottom": 1990.5,
+        "left": 510
+      },
+      "relativeRangeY": 0
+    },
+    {
+      "id": "role-16",
+      "family": "system",
+      "baseline": 15,
+      "box": {
+        "x": 10,
+        "y": 2090,
+        "width": 480,
+        "height": 20.796875,
+        "top": 2090,
+        "right": 490,
+        "bottom": 2110.796875,
+        "left": 10
+      },
+      "textRange": {
+        "x": 10,
+        "y": 2092.5,
+        "width": 60.671875,
+        "height": 15,
+        "top": 2092.5,
+        "right": 70.671875,
+        "bottom": 2107.5,
+        "left": 10
+      },
+      "relativeRangeY": 2.5
+    },
+    {
+      "id": "role-17",
+      "family": "system",
+      "baseline": 12,
+      "box": {
+        "x": 510,
+        "y": 2090,
+        "width": 480,
+        "height": 17,
+        "top": 2090,
+        "right": 990,
+        "bottom": 2107,
+        "left": 510
+      },
+      "textRange": {
+        "x": 510,
+        "y": 2092.5,
+        "width": 73.2109375,
+        "height": 11.5,
+        "top": 2092.5,
+        "right": 583.2109375,
+        "bottom": 2104,
+        "left": 510
+      },
+      "relativeRangeY": 2.5
+    },
+    {
+      "id": "role-18",
+      "family": "system",
+      "baseline": 25,
+      "box": {
+        "x": 10,
+        "y": 2220,
+        "width": 480,
+        "height": 31.203125,
+        "top": 2220,
+        "right": 490,
+        "bottom": 2251.203125,
+        "left": 10
+      },
+      "textRange": {
+        "x": 10,
+        "y": 2220,
+        "width": 16.0859375,
+        "height": 30.5,
+        "top": 2220,
+        "right": 26.0859375,
+        "bottom": 2250.5,
+        "left": 10
+      },
+      "relativeRangeY": 0
+    },
+    {
+      "id": "role-19",
+      "family": "system",
+      "baseline": 25,
+      "box": {
+        "x": 510,
+        "y": 2220,
+        "width": 480,
+        "height": 31.203125,
+        "top": 2220,
+        "right": 990,
+        "bottom": 2251.203125,
+        "left": 510
+      },
+      "textRange": {
+        "x": 510,
+        "y": 2220,
+        "width": 16.0859375,
+        "height": 30.5,
+        "top": 2220,
+        "right": 526.0859375,
+        "bottom": 2250.5,
+        "left": 510
+      },
+      "relativeRangeY": 0
+    },
+    {
+      "id": "role-20",
+      "family": "system",
+      "baseline": 15,
+      "box": {
+        "x": 10,
+        "y": 2350,
+        "width": 480,
+        "height": 20.796875,
+        "top": 2350,
+        "right": 490,
+        "bottom": 2370.796875,
+        "left": 10
+      },
+      "textRange": {
+        "x": 10,
+        "y": 2352.5,
+        "width": 48.2578125,
+        "height": 15,
+        "top": 2352.5,
+        "right": 58.2578125,
+        "bottom": 2367.5,
+        "left": 10
+      },
+      "relativeRangeY": 2.5
+    },
+    {
+      "id": "role-21",
+      "family": "system",
+      "baseline": 25,
+      "box": {
+        "x": 510,
+        "y": 2350,
+        "width": 480,
+        "height": 31.203125,
+        "top": 2350,
+        "right": 990,
+        "bottom": 2381.203125,
+        "left": 510
+      },
+      "textRange": {
+        "x": 510,
+        "y": 2350,
+        "width": 32.171875,
+        "height": 30.5,
+        "top": 2350,
+        "right": 542.171875,
+        "bottom": 2380.5,
+        "left": 510
+      },
+      "relativeRangeY": 0
+    },
+    {
+      "id": "role-22",
+      "family": "system",
+      "baseline": 16,
+      "box": {
+        "x": 10,
+        "y": 2480,
+        "width": 480,
+        "height": 22.3984375,
+        "top": 2480,
+        "right": 490,
+        "bottom": 2502.3984375,
+        "left": 10
+      },
+      "textRange": {
+        "x": 10,
+        "y": 2482.5,
+        "width": 51.90625,
+        "height": 16.5,
+        "top": 2482.5,
+        "right": 61.90625,
+        "bottom": 2499,
+        "left": 10
+      },
+      "relativeRangeY": 2.5
+    },
+    {
+      "id": "role-23",
+      "family": "mono",
+      "baseline": 13.5,
+      "box": {
+        "x": 510,
+        "y": 2480,
+        "width": 480,
+        "height": 19.203125,
+        "top": 2480,
+        "right": 990,
+        "bottom": 2499.203125,
+        "left": 510
+      },
+      "textRange": {
+        "x": 510,
+        "y": 2482.5,
+        "width": 36.125,
+        "height": 14,
+        "top": 2482.5,
+        "right": 546.125,
+        "bottom": 2496.5,
+        "left": 510
+      },
+      "relativeRangeY": 2.5
+    },
+    {
+      "id": "role-24",
+      "family": "mono",
+      "baseline": 13.5,
+      "box": {
+        "x": 10,
+        "y": 2610,
+        "width": 480,
+        "height": 19.203125,
+        "top": 2610,
+        "right": 490,
+        "bottom": 2629.203125,
+        "left": 10
+      },
+      "textRange": {
+        "x": 10,
+        "y": 2612.5,
+        "width": 144.4921875,
+        "height": 14,
+        "top": 2612.5,
+        "right": 154.4921875,
+        "bottom": 2626.5,
+        "left": 10
+      },
+      "relativeRangeY": 2.5
+    },
+    {
+      "id": "role-25",
+      "family": "system",
+      "baseline": 16,
+      "box": {
+        "x": 510,
+        "y": 2610,
+        "width": 480,
+        "height": 22.3984375,
+        "top": 2610,
+        "right": 990,
+        "bottom": 2632.3984375,
+        "left": 510
+      },
+      "textRange": {
+        "x": 510,
+        "y": 2612.5,
+        "width": 132.6015625,
+        "height": 16.5,
+        "top": 2612.5,
+        "right": 642.6015625,
+        "bottom": 2629,
+        "left": 510
+      },
+      "relativeRangeY": 2.5
+    },
+    {
+      "id": "role-26",
+      "family": "mono",
+      "baseline": 13.5,
+      "box": {
+        "x": 10,
+        "y": 2740,
+        "width": 480,
+        "height": 19.203125,
+        "top": 2740,
+        "right": 490,
+        "bottom": 2759.203125,
+        "left": 10
+      },
+      "textRange": {
+        "x": 10,
+        "y": 2742.5,
+        "width": 36.125,
+        "height": 14,
+        "top": 2742.5,
+        "right": 46.125,
+        "bottom": 2756.5,
+        "left": 10
+      },
+      "relativeRangeY": 2.5
+    },
+    {
+      "id": "role-27",
+      "family": "mono",
+      "baseline": 13.5,
+      "box": {
+        "x": 510,
+        "y": 2740,
+        "width": 480,
+        "height": 19.203125,
+        "top": 2740,
+        "right": 990,
+        "bottom": 2759.203125,
+        "left": 510
+      },
+      "textRange": {
+        "x": 510,
+        "y": 2742.5,
+        "width": 166.171875,
+        "height": 14,
+        "top": 2742.5,
+        "right": 676.171875,
+        "bottom": 2756.5,
+        "left": 510
+      },
+      "relativeRangeY": 2.5
+    },
+    {
+      "id": "role-28",
+      "family": "system",
+      "baseline": 16,
+      "box": {
+        "x": 10,
+        "y": 2870,
+        "width": 480,
+        "height": 22.3984375,
+        "top": 2870,
+        "right": 490,
+        "bottom": 2892.3984375,
+        "left": 10
+      },
+      "textRange": {
+        "x": 10,
+        "y": 2872.5,
+        "width": 91.6953125,
+        "height": 16.5,
+        "top": 2872.5,
+        "right": 101.6953125,
+        "bottom": 2889,
+        "left": 10
+      },
+      "relativeRangeY": 2.5
+    },
+    {
+      "id": "role-29",
+      "family": "mono",
+      "baseline": 13.5,
+      "box": {
+        "x": 510,
+        "y": 2870,
+        "width": 480,
+        "height": 19.203125,
+        "top": 2870,
+        "right": 990,
+        "bottom": 2889.203125,
+        "left": 510
+      },
+      "textRange": {
+        "x": 510,
+        "y": 2872.5,
+        "width": 36.125,
+        "height": 14,
+        "top": 2872.5,
+        "right": 546.125,
+        "bottom": 2886.5,
+        "left": 510
+      },
+      "relativeRangeY": 2.5
+    },
+    {
+      "id": "role-30",
+      "family": "mono",
+      "baseline": 13.5,
+      "box": {
+        "x": 10,
+        "y": 3000,
+        "width": 480,
+        "height": 19.203125,
+        "top": 3000,
+        "right": 490,
+        "bottom": 3019.203125,
+        "left": 10
+      },
+      "textRange": {
+        "x": 10,
+        "y": 3002.5,
+        "width": 36.125,
+        "height": 14,
+        "top": 3002.5,
+        "right": 46.125,
+        "bottom": 3016.5,
+        "left": 10
+      },
+      "relativeRangeY": 2.5
+    },
+    {
+      "id": "role-31",
+      "family": "system",
+      "baseline": 16,
+      "box": {
+        "x": 510,
+        "y": 3000,
+        "width": 480,
+        "height": 22.3984375,
+        "top": 3000,
+        "right": 990,
+        "bottom": 3022.3984375,
+        "left": 510
+      },
+      "textRange": {
+        "x": 510,
+        "y": 3002.5,
+        "width": 171.46875,
+        "height": 16.5,
+        "top": 3002.5,
+        "right": 681.46875,
+        "bottom": 3019,
+        "left": 510
+      },
+      "relativeRangeY": 2.5
+    },
+    {
+      "id": "role-32",
+      "family": "mono",
+      "baseline": 13.5,
+      "box": {
+        "x": 10,
+        "y": 3130,
+        "width": 480,
+        "height": 19.203125,
+        "top": 3130,
+        "right": 490,
+        "bottom": 3149.203125,
+        "left": 10
+      },
+      "textRange": {
+        "x": 10,
+        "y": 3132.5,
+        "width": 36.125,
+        "height": 14,
+        "top": 3132.5,
+        "right": 46.125,
+        "bottom": 3146.5,
+        "left": 10
+      },
+      "relativeRangeY": 2.5
+    }
+  ]
+}

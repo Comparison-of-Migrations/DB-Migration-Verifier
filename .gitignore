@@ -1,0 +1,20 @@
+**/bin/
+**/obj/
+.DS_Store
+.env
+.env.*
+*.user
+artifacts/
+TestResults/
+*.pfx
+*.key
+*.pem
+__pycache__/
+*.pyc
+
+# Local machine inventory and OS setup captures are not product evidence to publish.
+docs/replica/source/storage-cleanup-plan-*.json
+docs/replica/source/storage-cleanup-result-*.json
+docs/replica/source/storage-cleanup-temp-top-*.json
+docs/replica/source/storage-cleanup-windows-temp-diagnostic-*.json
+docs/replica/screenshots/windows-control/

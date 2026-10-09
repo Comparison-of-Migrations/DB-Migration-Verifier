@@ -1,0 +1,24 @@
+{
+  "capturedAtUtc": "2026-10-07T12:20:27.603798Z",
+  "dpr": 2,
+  "id": "ko-select-none",
+  "viewport": 1000,
+  "requests": [],
+  "width": 780,
+  "height": 84,
+  "hint": "\uAC80\uC0AC \uBD84\uB958\uB97C \uD558\uB098 \uC774\uC0C1 \uC120\uD0DD\uD558\uC138\uC694.",
+  "buttons": [
+    {
+      "action": "back",
+      "label": "\uB4A4\uB85C",
+      "enabled": true,
+      "focused": false
+    },
+    {
+      "action": "review",
+      "label": "\uC2E4\uD589 \uC804 \uD655\uC778",
+      "enabled": false,
+      "focused": false
+    }
+  ]
+}

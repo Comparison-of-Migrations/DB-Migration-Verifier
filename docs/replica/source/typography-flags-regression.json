@@ -1,0 +1,22 @@
+[
+  {
+    "group": "states",
+    "count": 10,
+    "layoutChanged": []
+  },
+  {
+    "group": "roles",
+    "count": 10,
+    "layoutChanged": []
+  },
+  {
+    "group": "boundary",
+    "count": 15,
+    "layoutChanged": []
+  },
+  {
+    "group": "modes",
+    "count": 10,
+    "layoutChanged": []
+  }
+]

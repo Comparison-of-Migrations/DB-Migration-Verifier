@@ -1,0 +1,68 @@
+{
+  "dpr": 2,
+  "actualSourceCapture": true,
+  "rows": [
+    {
+      "id": "muted-normal0",
+      "mae": 0.2569173177083333
+    },
+    {
+      "id": "muted-normal45",
+      "mae": 0.873291015625
+    },
+    {
+      "id": "muted-normal90",
+      "mae": 0.26220703125
+    },
+    {
+      "id": "muted-normal180",
+      "mae": 0.2666015625
+    },
+    {
+      "id": "muted-reduced",
+      "mae": 0.23063151041666666
+    },
+    {
+      "id": "ink-normal0",
+      "mae": 0.32373046875
+    },
+    {
+      "id": "ink-normal45",
+      "mae": 1.10595703125
+    },
+    {
+      "id": "ink-normal90",
+      "mae": 0.328857421875
+    },
+    {
+      "id": "ink-normal180",
+      "mae": 0.3331705729166667
+    },
+    {
+      "id": "ink-reduced",
+      "mae": 0.3201497395833333
+    },
+    {
+      "id": "white-normal0",
+      "mae": 0.3834635416666667
+    },
+    {
+      "id": "white-normal45",
+      "mae": 1.3232421875
+    },
+    {
+      "id": "white-normal90",
+      "mae": 0.388916015625
+    },
+    {
+      "id": "white-normal180",
+      "mae": 0.39501953125
+    },
+    {
+      "id": "white-reduced",
+      "mae": 0.40576171875
+    }
+  ],
+  "maxRoiMae255": 1.3232421875,
+  "note": "Same-scale reference CSS border versus native ring/disc; edge antialiasing is not bit-for-bit."
+}

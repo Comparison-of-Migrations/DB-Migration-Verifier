@@ -1,0 +1,67 @@
+{
+  "scope": "single-line input width/box; not full component acceptance",
+  "samples": 10,
+  "passed": true,
+  "rows": [
+    {
+      "id": "field-en",
+      "advanceDelta": -0.001953125,
+      "width": 366,
+      "height": 44
+    },
+    {
+      "id": "field-kr",
+      "advanceDelta": 0.0,
+      "width": 366,
+      "height": 44
+    },
+    {
+      "id": "field-spaces",
+      "advanceDelta": -0.0068359375,
+      "width": 366,
+      "height": 44
+    },
+    {
+      "id": "field-empty",
+      "advanceDelta": 0,
+      "width": 238,
+      "height": 44
+    },
+    {
+      "id": "password-en",
+      "advanceDelta": 0,
+      "width": 366,
+      "height": 44
+    },
+    {
+      "id": "password-kr",
+      "advanceDelta": 0,
+      "width": 366,
+      "height": 44
+    },
+    {
+      "id": "search-en",
+      "advanceDelta": -0.00732421875,
+      "width": 380,
+      "height": 44
+    },
+    {
+      "id": "search-kr",
+      "advanceDelta": 0.0,
+      "width": 380,
+      "height": 44
+    },
+    {
+      "id": "search-placeholder",
+      "advanceDelta": 0,
+      "width": 380,
+      "height": 44
+    },
+    {
+      "id": "field-long",
+      "advanceDelta": 0.0,
+      "width": 238,
+      "height": 44
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+[
+    {
+        "name":  "",
+        "id":  "CapabilityHeader-cell-0",
+        "type":  "ControlType.HeaderItem"
+    },
+    {
+        "name":  "검사 분류",
+        "id":  "",
+        "type":  "ControlType.Text"
+    },
+    {
+        "name":  "검사 분류",
+        "id":  "",
+        "type":  "ControlType.Text"
+    },
+    {
+        "name":  "",
+        "id":  "CapabilityHeader-cell-1",
+        "type":  "ControlType.HeaderItem"
+    },
+    {
+        "name":  "원본 / 대상",
+        "id":  "",
+        "type":  "ControlType.Text"
+    },
+    {
+        "name":  "원본 / 대상",
+        "id":  "",
+        "type":  "ControlType.Text"
+    },
+    {
+        "name":  "",
+        "id":  "CapabilityHeader-cell-2",
+        "type":  "ControlType.HeaderItem"
+    },
+    {
+        "name":  "검사 가능 범위",
+        "id":  "",
+        "type":  "ControlType.Text"
+    },
+    {
+        "name":  "검사 가능 범위",
+        "id":  "",
+        "type":  "ControlType.Text"
+    },
+    {
+        "name":  "",
+        "id":  "CapabilityHeader-cell-3",
+        "type":  "ControlType.HeaderItem"
+    },
+    {
+        "name":  "안내",
+        "id":  "",
+        "type":  "ControlType.Text"
+    },
+    {
+        "name":  "안내",
+        "id":  "",
+        "type":  "ControlType.Text"
+    },
+    {
+        "name":  "{\"english\":false,\"attached\":true,\"narrow\":false,\"focused\":\"\",\"width\":904,\"height\":43.6953125,\"texts\":[\"\\uAC80\\uC0AC \\uBD84\\uB958\",\"\\uC6D0\\uBCF8 / \\uB300\\uC0C1\",\"\\uAC80\\uC0AC \\uAC00\\uB2A5 \\uBC94\\uC704\",\"\\uC548\\uB0B4\"],\"background\":\"#ff232428\"}",
+        "id":  "",
+        "type":  "ControlType.Text"
+    },
+    {
+        "name":  "language",
+        "id":  "",
+        "type":  "ControlType.Text"
+    },
+    {
+        "name":  "width",
+        "id":  "",
+        "type":  "ControlType.Text"
+    },
+    {
+        "name":  "mount",
+        "id":  "",
+        "type":  "ControlType.Text"
+    }
+]

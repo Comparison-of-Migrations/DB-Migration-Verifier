@@ -1,0 +1,18 @@
+{
+  "scope": "Source identity only; root whole product twoRID build gate and own isolated actual-flow runtime are distinct binaries/entrypoints",
+  "wholeProductBuild": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/root/productbuild/94d231816c45427391f431e2df937479/build.json",
+  "isolatedBuild": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/connection/pageintegration/c14baa31227d4c4b9a391aba4d1fe4bc/build.json",
+  "wholeProductFiles": 129,
+  "commonCapturedFiles": 126,
+  "sourceDifferences": {},
+  "currentRootFileDifferences": [],
+  "centralIsolatedExcluded": [
+    "src/Verifier.Core/packages.lock.json",
+    "src/Verifier.Data/packages.lock.json",
+    "src/Verifier.Desktop/packages.lock.json"
+  ],
+  "workspaceSha256": "8c91cc7cde6eb37060bd30b77c76be8491ec352143ae5e3f5dbdc61e2e0a1a36",
+  "actualWholeFlowStillPending": false,
+  "actualFlowEvidence": "docs/replica/source/pageintegrationfullflow-windows-completion.json",
+  "boundary": "Actual real App/MainWindow observer flow verified; whole product two-RID builds remain build evidence, not packaged runtime/release proof."
+}

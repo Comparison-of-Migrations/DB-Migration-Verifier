@@ -1,0 +1,6 @@
+{
+  "platform": "mac",
+  "cases": 4,
+  "differences": [],
+  "scope": "source padding-box minimum height; horizontal overflow is outside the Sidebar contract"
+}

@@ -1,0 +1,372 @@
+{
+  "scope": "Original expanded Advanced child4 derived only by subtracting literal section origin; parent not compared. Actual parentCSS pagewidth controls standalone allocatedwidth. No inferred role/font/input exemptions.",
+  "rawSource": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/pageintegrationconnection-resize-source/6ee800cced8c4613abadc50a72bb97d8/source.json",
+  "recording": "6ee800cced8c4613abadc50a72bb97d8",
+  "dpr": 2,
+  "rows": [
+    {
+      "id": "ko-advanced-0",
+      "language": "ko",
+      "width": 1280,
+      "actualWidth": 1280,
+      "toggleRetained": true,
+      "explanationRetained": true,
+      "columnRetained": true,
+      "newPageAnimations": 0,
+      "geometry": {
+        "root": {
+          "x": 0,
+          "y": 0,
+          "width": 950,
+          "height": 166.796875
+        },
+        "toggle": {
+          "x": 0,
+          "y": 0.0,
+          "width": 148.140625,
+          "height": 44
+        },
+        "panel": {
+          "x": 0,
+          "y": 44.0,
+          "width": 950,
+          "height": 122.796875
+        },
+        "split": {
+          "x": 27,
+          "y": 71.0,
+          "width": 896,
+          "height": 68.796875
+        },
+        "columns": [
+          {
+            "x": 27,
+            "y": 71.0,
+            "width": 438,
+            "height": 68.796875
+          },
+          {
+            "x": 485,
+            "y": 71.0,
+            "width": 438,
+            "height": 68.796875
+          }
+        ],
+        "titles": [
+          {
+            "x": 27,
+            "y": 71.0,
+            "width": 438,
+            "height": 24
+          },
+          {
+            "x": 485,
+            "y": 71.0,
+            "width": 438,
+            "height": 24
+          }
+        ],
+        "descriptions": [
+          {
+            "x": 27,
+            "y": 95.0,
+            "width": 438,
+            "height": 44.796875
+          },
+          {
+            "x": 485,
+            "y": 95.0,
+            "width": 438,
+            "height": 44.796875
+          }
+        ]
+      },
+      "parentAllocation": {
+        "pageWidth": 950,
+        "document": {
+          "innerWidth": 1280,
+          "innerHeight": 900,
+          "clientWidth": 1265,
+          "clientHeight": 900,
+          "scrollHeight": 901,
+          "contentClientWidth": 1030,
+          "contentClientHeight": 720,
+          "contentScrollHeight": 1024
+        }
+      }
+    },
+    {
+      "id": "ko-advanced-1",
+      "language": "ko",
+      "width": 1100,
+      "actualWidth": 1100,
+      "toggleRetained": true,
+      "explanationRetained": true,
+      "columnRetained": true,
+      "newPageAnimations": 0,
+      "geometry": {
+        "root": {
+          "x": 0,
+          "y": 0,
+          "width": 794,
+          "height": 166.796875
+        },
+        "toggle": {
+          "x": 0,
+          "y": 0.0,
+          "width": 148.140625,
+          "height": 44
+        },
+        "panel": {
+          "x": 0,
+          "y": 44.0,
+          "width": 794,
+          "height": 122.796875
+        },
+        "split": {
+          "x": 27,
+          "y": 71.0,
+          "width": 740,
+          "height": 68.796875
+        },
+        "columns": [
+          {
+            "x": 27,
+            "y": 71.0,
+            "width": 362,
+            "height": 68.796875
+          },
+          {
+            "x": 405,
+            "y": 71.0,
+            "width": 362,
+            "height": 68.796875
+          }
+        ],
+        "titles": [
+          {
+            "x": 27,
+            "y": 71.0,
+            "width": 362,
+            "height": 24
+          },
+          {
+            "x": 405,
+            "y": 71.0,
+            "width": 362,
+            "height": 24
+          }
+        ],
+        "descriptions": [
+          {
+            "x": 27,
+            "y": 95.0,
+            "width": 362,
+            "height": 44.796875
+          },
+          {
+            "x": 405,
+            "y": 95.0,
+            "width": 362,
+            "height": 44.796875
+          }
+        ]
+      },
+      "parentAllocation": {
+        "pageWidth": 794,
+        "document": {
+          "innerWidth": 1100,
+          "innerHeight": 900,
+          "clientWidth": 1085,
+          "clientHeight": 900,
+          "scrollHeight": 901,
+          "contentClientWidth": 850,
+          "contentClientHeight": 720,
+          "contentScrollHeight": 1028
+        }
+      }
+    },
+    {
+      "id": "en-advanced-0",
+      "language": "en",
+      "width": 1280,
+      "actualWidth": 1280,
+      "toggleRetained": true,
+      "explanationRetained": true,
+      "columnRetained": true,
+      "newPageAnimations": 0,
+      "geometry": {
+        "root": {
+          "x": 0,
+          "y": 0,
+          "width": 950,
+          "height": 189.1953125
+        },
+        "toggle": {
+          "x": 0,
+          "y": 0.0,
+          "width": 247.7578125,
+          "height": 44
+        },
+        "panel": {
+          "x": 0,
+          "y": 44.0,
+          "width": 950,
+          "height": 145.1953125
+        },
+        "split": {
+          "x": 27,
+          "y": 71.0,
+          "width": 896,
+          "height": 91.1953125
+        },
+        "columns": [
+          {
+            "x": 27,
+            "y": 71.0,
+            "width": 438,
+            "height": 91.1953125
+          },
+          {
+            "x": 485,
+            "y": 71.0,
+            "width": 438,
+            "height": 91.1953125
+          }
+        ],
+        "titles": [
+          {
+            "x": 27,
+            "y": 71.0,
+            "width": 438,
+            "height": 24
+          },
+          {
+            "x": 485,
+            "y": 71.0,
+            "width": 438,
+            "height": 24
+          }
+        ],
+        "descriptions": [
+          {
+            "x": 27,
+            "y": 95.0,
+            "width": 438,
+            "height": 44.796875
+          },
+          {
+            "x": 485,
+            "y": 95.0,
+            "width": 438,
+            "height": 67.1953125
+          }
+        ]
+      },
+      "parentAllocation": {
+        "pageWidth": 950,
+        "document": {
+          "innerWidth": 1280,
+          "innerHeight": 900,
+          "clientWidth": 1265,
+          "clientHeight": 900,
+          "scrollHeight": 901,
+          "contentClientWidth": 1030,
+          "contentClientHeight": 720,
+          "contentScrollHeight": 1066
+        }
+      }
+    },
+    {
+      "id": "en-advanced-1",
+      "language": "en",
+      "width": 1100,
+      "actualWidth": 1100,
+      "toggleRetained": true,
+      "explanationRetained": true,
+      "columnRetained": true,
+      "newPageAnimations": 0,
+      "geometry": {
+        "root": {
+          "x": 0,
+          "y": 0,
+          "width": 794,
+          "height": 189.1953125
+        },
+        "toggle": {
+          "x": 0,
+          "y": 0.0,
+          "width": 247.7578125,
+          "height": 44
+        },
+        "panel": {
+          "x": 0,
+          "y": 44.0,
+          "width": 794,
+          "height": 145.1953125
+        },
+        "split": {
+          "x": 27,
+          "y": 71.0,
+          "width": 740,
+          "height": 91.1953125
+        },
+        "columns": [
+          {
+            "x": 27,
+            "y": 71.0,
+            "width": 362,
+            "height": 91.1953125
+          },
+          {
+            "x": 405,
+            "y": 71.0,
+            "width": 362,
+            "height": 91.1953125
+          }
+        ],
+        "titles": [
+          {
+            "x": 27,
+            "y": 71.0,
+            "width": 362,
+            "height": 24
+          },
+          {
+            "x": 405,
+            "y": 71.0,
+            "width": 362,
+            "height": 24
+          }
+        ],
+        "descriptions": [
+          {
+            "x": 27,
+            "y": 95.0,
+            "width": 362,
+            "height": 44.796875
+          },
+          {
+            "x": 405,
+            "y": 95.0,
+            "width": 362,
+            "height": 67.1953125
+          }
+        ]
+      },
+      "parentAllocation": {
+        "pageWidth": 794,
+        "document": {
+          "innerWidth": 1100,
+          "innerHeight": 900,
+          "clientWidth": 1085,
+          "clientHeight": 900,
+          "scrollHeight": 901,
+          "contentClientWidth": 850,
+          "contentClientHeight": 720,
+          "contentScrollHeight": 1050
+        }
+      }
+    }
+  ]
+}

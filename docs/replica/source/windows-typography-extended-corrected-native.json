@@ -1,0 +1,2304 @@
+[
+  {
+    "Id": "state-0",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 85.5,
+    "lines": [
+      472.37548828125,
+      431.7919921875,
+      220.53955078125
+    ],
+    "foreground": "#ffb5bac1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "Helps developers after migration compare data, schema, permissions\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "and objects using the paper’s multi-axis approach, and identify\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "differences and unverified areas.",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "state-1",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 85.5,
+    "lines": [
+      471.97265625,
+      464.765625,
+      63.28125
+    ],
+    "foreground": "#ffb5bac1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "마이그레이션을 마친 개발자가 논문의 다축 검증 방법으로 두 ",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        },
+        {
+          "text": "DB",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        },
+        {
+          "text": "의 데\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "이터·구조·권한·객체를 비교하고, 차이와 확인하지 못한 영역을 찾도록\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "돕습니다.",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "state-2",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 240,
+    "height": 142.5,
+    "lines": [
+      225.8203125,
+      225.87890625,
+      228.3984375,
+      231.09375,
+      83.5546875
+    ],
+    "foreground": "#ffb5bac1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "마이그레이션을 마친 개발자가 논\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "문의 다축 검증 방법으로 두 ",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        },
+        {
+          "text": "DB",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        },
+        {
+          "text": "의\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "데이터·구조·권한·객체를 비교하고,\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "차이와 확인하지 못한 영역을 찾도\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "록 돕습니다.",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "state-3",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 240,
+    "height": 171,
+    "lines": [
+      224.59716796875,
+      157.1923828125,
+      233.54736328125,
+      222.32666015625,
+      232.72705078125,
+      38.49609375
+    ],
+    "foreground": "#ffb5bac1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "Helps developers after migration\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "compare data, schema,\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "permissions and objects using the\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "paper’s multi-axis approach, and\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "identify differences and unverified\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "areas.",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "state-4",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 22.3984375,
+    "lines": [
+      136.99765625000006
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Center",
+    "nativeRuns": [
+      [
+        {
+          "text": "DB-Migration-Verifier",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "state-5",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 44.203125,
+    "lines": [
+      425.14265625000036,
+      350.86111328125025
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Center",
+    "nativeRuns": [
+      [
+        {
+          "text": "Functional Success versus Database-State, Behavioral, and Operational\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "Contracts in AI-Generated PostgreSQL Schema Migrations",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "state-6",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 19.203125,
+    "lines": [
+      435.275390625
+    ],
+    "foreground": "#ffb5bac1",
+    "alignment": "Right",
+    "nativeRuns": [
+      [
+        {
+          "text": "Open a saved result JSON without connecting to a DB or running a new check.",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "state-7",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 19.203125,
+    "lines": [
+      422.15625
+    ],
+    "foreground": "#ffb5bac1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "저장한 결과 ",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        },
+        {
+          "text": "JSON",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        },
+        {
+          "text": "은 ",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        },
+        {
+          "text": "DB ",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        },
+        {
+          "text": "연결이나 새 검사 없이 바로 열어 확인할 수 있습니다.",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "state-8",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 85.5,
+    "lines": [
+      472.37548828125,
+      431.7919921875,
+      220.53955078125
+    ],
+    "foreground": "#ffb5bac1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "Helps developers after migration compare data, schema, permissions\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "and objects using the paper’s multi-axis approach, and identify\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "differences and unverified areas.",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "state-9",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 0,
+    "lines": [],
+    "foreground": "#ffb5bac1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": " ",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "english-boundary",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 162.2,
+    "height": 22.3984375,
+    "lines": [
+      155.7021484375
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "Connect two databases",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "english-fit",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 162.24,
+    "height": 22.3984375,
+    "lines": [
+      155.7021484375
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "Connect two databases",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "long-object",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 240,
+    "height": 19.203125,
+    "lines": [
+      1002.84375
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "demo.migration_table_name_migration_table_name_migration_table_name_migration_table_name_migration_table_name_migration_table_name_migration_table_name_",
+          "requested": "Consolas",
+          "requestedWeight": 400,
+          "family": "Consolas",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "ligature",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 100,
+    "height": 44.796875,
+    "lines": [
+      99.5244140625,
+      7.875
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "office affinity ffi\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "fl",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "cluster",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 140,
+    "height": 44.796875,
+    "lines": [
+      137.8740234375,
+      7.4921875
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "마이그레이션 ",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        },
+        {
+          "text": "DB café\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "é",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "fallback-space",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 90,
+    "height": 44.796875,
+    "lines": [
+      88.265625,
+      42
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "DB ",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        },
+        {
+          "text": "데이터 ",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        },
+        {
+          "text": "DB\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "데이터",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "whitespace",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 240,
+    "height": 22.3984375,
+    "lines": [
+      154.0546875
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "데이터 ",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        },
+        {
+          "text": "DB ",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        },
+        {
+          "text": "마이그레이션",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "home-edge-0",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 140.01000000000002,
+    "height": 22.3984375,
+    "lines": [
+      136.99765625000006
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "DB-Migration-Verifier",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "home-edge-1",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 430.77,
+    "height": 97.203125,
+    "lines": [
+      404.93250000000006,
+      104.22
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "마이그레이션 결과를 비교\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "하세요",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "home-edge-2",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 307.89,
+    "height": 50.40625,
+    "lines": [
+      307.7265625,
+      45.0625
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "옮긴 뒤의 두 ",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        },
+        {
+          "text": "DB",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        },
+        {
+          "text": "를 비교하고, 확인한 범위까지 분\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "명하게.",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "home-edge-3",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 479.78000000000003,
+    "height": 85.5,
+    "lines": [
+      471.97265625,
+      464.765625,
+      63.28125
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "마이그레이션을 마친 개발자가 논문의 다축 검증 방법으로 두 ",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        },
+        {
+          "text": "DB",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        },
+        {
+          "text": "의 데\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "이터·구조·권한·객체를 비교하고, 차이와 확인하지 못한 영역을 찾도록\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "돕습니다.",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "home-edge-4",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 373.19,
+    "height": 38.40625,
+    "lines": [
+      367.3125,
+      50.625
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "저장한 결과 ",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        },
+        {
+          "text": "JSON",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        },
+        {
+          "text": "은 ",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        },
+        {
+          "text": "DB ",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        },
+        {
+          "text": "연결이나 새 검사 없이 바로 열어 확인할 수\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "있습니다.",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "home-edge-5",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 111.55,
+    "height": 44.796875,
+    "lines": [
+      99.203125,
+      28
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "두 ",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        },
+        {
+          "text": "DB",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        },
+        {
+          "text": "를 연결합\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "니다",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "home-edge-6",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 302.29,
+    "height": 48.09375,
+    "lines": [
+      296.5625,
+      54.84375
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "접속 후 앱이 조회 가능한 범위와 필요한 준비를 안\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "내합니다.",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "home-edge-7",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 439.84000000000003,
+    "height": 44.203125,
+    "lines": [
+      425.14265625000036,
+      350.86111328125025
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "Functional Success versus Database-State, Behavioral, and Operational\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "Contracts in AI-Generated PostgreSQL Schema Migrations",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "overflow-left",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 240,
+    "height": 19.203125,
+    "lines": [
+      1002.84375
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "demo.migration_table_name_migration_table_name_migration_table_name_migration_table_name_migration_table_name_migration_table_name_migration_table_name_",
+          "requested": "Consolas",
+          "requestedWeight": 400,
+          "family": "Consolas",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "overflow-center",
+    "invalidated": false,
+    "x": 10,
+    "y": 10,
+    "width": 240,
+    "height": 19.203125,
+    "lines": [
+      1002.84375
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Center",
+    "nativeRuns": [
+      [
+        {
+          "text": "demo.migration_table_name_migration_table_name_migration_table_name_migration_table_name_migration_table_name_migration_table_name_migration_table_name_",
+          "requested": "Consolas",
+          "requestedWeight": 400,
+          "family": "Consolas",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "overflow-right",
+    "invalidated": false,
+    "x": 10,
+    "y": 10,
+    "width": 240,
+    "height": 19.203125,
+    "lines": [
+      1002.84375
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Right",
+    "nativeRuns": [
+      [
+        {
+          "text": "demo.migration_table_name_migration_table_name_migration_table_name_migration_table_name_migration_table_name_migration_table_name_migration_table_name_",
+          "requested": "Consolas",
+          "requestedWeight": 400,
+          "family": "Consolas",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "anywhere-object",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 240,
+    "height": 96.015625,
+    "lines": [
+      237.515625,
+      237.515625,
+      237.515625,
+      237.515625,
+      52.78125
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "demo.migration_table_name_migration_\n",
+          "requested": "Consolas",
+          "requestedWeight": 400,
+          "family": "Consolas",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "table_name_migration_table_name_migr\n",
+          "requested": "Consolas",
+          "requestedWeight": 400,
+          "family": "Consolas",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "ation_table_name_migration_table_nam\n",
+          "requested": "Consolas",
+          "requestedWeight": 400,
+          "family": "Consolas",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "e_migration_table_name_migration_tab\n",
+          "requested": "Consolas",
+          "requestedWeight": 400,
+          "family": "Consolas",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "le_name_",
+          "requested": "Consolas",
+          "requestedWeight": 400,
+          "family": "Consolas",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "anywhere-words",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 120,
+    "height": 44.796875,
+    "lines": [
+      84.5947265625,
+      66.185546875
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "Connect two\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "databases",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "anywhere-cluster",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 20,
+    "height": 201.5859375,
+    "lines": [
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      18.2109375,
+      18.3271484375,
+      19.90625
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "마\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "이\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "그\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "레\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "이\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "션\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "DB\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "caf\n",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ],
+      [
+        {
+          "text": "é é",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "nowrap",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 70,
+    "height": 22.3984375,
+    "lines": [
+      155.7021484375
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "Connect two databases",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "nbsp",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 70,
+    "height": 22.3984375,
+    "lines": [
+      155.7021484375
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "Connect two databases",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "nbsp-edge",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 240,
+    "height": 22.3984375,
+    "lines": [
+      59.47265625
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": " Connect ",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "spaces-only",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 240,
+    "height": 0,
+    "lines": [],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": " ",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-00",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 37.796875,
+    "lines": [
+      333.55
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "비교할 두 ",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        },
+        {
+          "text": "DB",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        },
+        {
+          "text": "를 연결하세요",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-01",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 22.3984375,
+    "lines": [
+      173.3935546875
+    ],
+    "foreground": "#ffdbdee1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "SQL ServerMicrosoft · 1433",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-02",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 16,
+    "lines": [
+      73.92578125
+    ],
+    "foreground": "#ffb5bac1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "Microsoft · 1433",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-03",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 22.3984375,
+    "lines": [
+      188.576171875
+    ],
+    "foreground": "#ffdbdee1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "PostgreSQLPostgreSQL · 5432",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-04",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 16,
+    "lines": [
+      82.9736328125
+    ],
+    "foreground": "#ffb5bac1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "PostgreSQL · 5432",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-05",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 22.3984375,
+    "lines": [
+      133.51953125
+    ],
+    "foreground": "#ffdbdee1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "MySQLMySQL · 3306",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-06",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 16,
+    "lines": [
+      63.310546875
+    ],
+    "foreground": "#ffb5bac1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "MySQL · 3306",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-07",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 22.3984375,
+    "lines": [
+      151.7578125
+    ],
+    "foreground": "#ffdbdee1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "MariaDBMariaDB · 3306",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-08",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 16,
+    "lines": [
+      69.82421875
+    ],
+    "foreground": "#ffb5bac1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "MariaDB · 3306",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-09",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 27,
+    "lines": [
+      65.86875
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "원본 ",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        },
+        {
+          "text": "DB",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-10",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 19.203125,
+    "lines": [
+      52.21875
+    ],
+    "foreground": "#ffdbdee1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "서버 주소",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-11",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 19.203125,
+    "lines": [
+      24
+    ],
+    "foreground": "#ffdbdee1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "포트",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-12",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 19.203125,
+    "lines": [
+      72
+    ],
+    "foreground": "#ffdbdee1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "데이터베이스",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-13",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 19.203125,
+    "lines": [
+      52.21875
+    ],
+    "foreground": "#ffdbdee1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "조회 계정",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-14",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 19.203125,
+    "lines": [
+      48
+    ],
+    "foreground": "#ffdbdee1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "비밀번호",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-15",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 27,
+    "lines": [
+      65.86875
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "대상 ",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        },
+        {
+          "text": "DB",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-16",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 20.796875,
+    "lines": [
+      87.140625
+    ],
+    "foreground": "#ffb5bac1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "고급 연결 설정",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-17",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 20.796875,
+    "lines": [
+      26
+    ],
+    "foreground": "#ffb5bac1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "뒤로",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-18",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 20.796875,
+    "lines": [
+      74.140625
+    ],
+    "foreground": "White",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "두 연결 확인",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-19",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 37.796875,
+    "lines": [
+      436.1634374999998
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "Connect the databases to compare",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-20",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 27,
+    "lines": [
+      86.74382812500002
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "Source DB",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-21",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 19.203125,
+    "lines": [
+      36.2578125
+    ],
+    "foreground": "#ffdbdee1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "Server",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-22",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 19.203125,
+    "lines": [
+      24.1171875
+    ],
+    "foreground": "#ffdbdee1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "Port",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-23",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 19.203125,
+    "lines": [
+      52.623046875
+    ],
+    "foreground": "#ffdbdee1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "Database",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-24",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 19.203125,
+    "lines": [
+      88.541015625
+    ],
+    "foreground": "#ffdbdee1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "Reader account",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-25",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 19.203125,
+    "lines": [
+      53.7421875
+    ],
+    "foreground": "#ffdbdee1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "Password",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-26",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 27,
+    "lines": [
+      82.42839843750002
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "Target DB",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-27",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 20.796875,
+    "lines": [
+      186.75439453125
+    ],
+    "foreground": "#ffb5bac1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "Advanced connection settings",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-28",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 20.796875,
+    "lines": [
+      28.89453125
+    ],
+    "foreground": "#ffb5bac1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "Back",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-29",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 20.796875,
+    "lines": [
+      149.34130859375
+    ],
+    "foreground": "White",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "Check both connections",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 700,
+          "family": "Malgun Gothic",
+          "weight": 700,
+          "simulations": "None"
+        }
+      ]
+    ]
+  },
+  {
+    "Id": "extra-30",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 20.796875,
+    "lines": [
+      109.73193359375
+    ],
+    "foreground": "#ffb5bac1",
+    "alignment": "Left",
+    "nativeRuns": [
+      [
+        {
+          "text": "See sample results",
+          "requested": "Malgun Gothic",
+          "requestedWeight": 400,
+          "family": "Malgun Gothic",
+          "weight": 400,
+          "simulations": "None"
+        }
+      ]
+    ]
+  }
+]

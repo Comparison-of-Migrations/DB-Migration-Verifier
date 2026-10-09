@@ -1,0 +1,108 @@
+Window: "DB-Migration-Verifier", App: DB-Migration-Verifier.
+0 standard window DB-Migration-Verifier, Secondary Actions: Raise
+	1 container WindowChrome, ID: AvaloniaWindowChrome
+	2 container
+		3 container
+			4 container
+				5 text DB-Migration-Verifier
+				6 text 합성 예시 · 실제 DB 아님
+				7 button 한국어 / EN, ID: language
+			8 container
+				9 text 마이그레이션 결과 비교
+				10 button DB 연결
+					11 container
+						12 text DB 연결
+				13 button (disabled) 사전 확인
+					14 container
+						15 text 사전 확인
+				16 button (disabled) 검사 선택
+					17 container
+						18 text 검사 선택
+				19 button (disabled) 실행 전 확인
+					20 container
+						21 text 실행 전 확인
+				22 button (disabled) 검사 진행
+					23 container
+						24 text 5
+						25 text 검사 진행
+				26 button 결과 확인
+					27 container
+						28 text 결과 확인
+				29 button 결과 저장
+					30 container
+						31 text 7
+						32 text 결과 저장
+				33 text 비교는 읽기 전용
+				34 text 원본·대상에는 쓰지 않습니다.
+동작 시험은 별도 시험 DB에서만 합니다.
+				35 checkbox 동작 줄이기, Value: off, ID: motion
+					36 container RootGrid
+						37 container
+							38 container
+			39 container
+				40 text 합성 예시 · 실제 DB 검사 결과와 구분합니다.
+			41 scroll area
+				42 container
+					43 container
+						44 text 확인한 결과를 저장합니다
+						45 text 검사 범위·판정·미검증 이유를 보관합니다. 실제 값·키·접속 정보는 넣지 않습니다.
+						46 container
+							47 container
+								48 text 검사 ID
+								49 text ea20642e-0e9f-4d55-aa8d-f1340899a67a
+							50 container
+								51 text 포함 항목
+								52 text 선택 범위·실행 상태·판정·이유·위치·내부 번호
+							53 container
+								54 text 제외 항목
+								55 text 실제 값·행 키·비밀번호·연결 문자열
+						56 text 저장할 형식
+						57 checkbox JSON 저장 형식, Value: on, ID: format-JSON
+							58 container RootGrid
+								59 container
+									60 container
+								61 container
+									62 text JSON
+									63 text 결과를 다시 여는 기본 형식
+						64 checkbox (disabled) CSV 저장 형식, Value: off, ID: format-CSV
+							65 container RootGrid
+								66 container
+									67 container
+								68 container
+									69 text CSV
+									70 text 내보내기 미구현
+						71 checkbox (disabled) HTML 저장 형식, Value: off, ID: format-HTML
+							72 container RootGrid
+								73 container
+									74 container
+								75 container
+									76 text HTML
+									77 text 내보내기 미구현
+						78 text JSON checksum은 우발적 손상 확인용이며 작성자 인증 서명이 아닙니다. 저장한 파일은 DB 접속 없이 다시 열 수 있습니다.
+						79 button 검사 결과 파일로 보기
+							80 container
+								81 text 검사 결과 파일로 보기
+						82 button 새 검사 시작
+							83 container
+								84 text 새 검사 시작
+					85 scroll bar (settable, float) Value: 85, ID: PART_VerticalScrollBar
+						86 container
+							87 button Line up, ID: PART_LineUpButton
+							88 button Page up, ID: PART_PageUpButton
+							89 button Page down, ID: PART_PageDownButton
+							90 handle Position
+							91 button Line down, ID: PART_LineDownButton
+			92 container
+				93 button 결과로 돌아가기
+					94 container
+						95 text 결과로 돌아가기
+				96 text 확인한 범위와 확인하지 못한 이유를 함께 보관합니다.
+				97 button 선택 형식 저장
+					98 container
+						99 text 선택 형식 저장
+	100 close button
+	101 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	102 minimize button
+	103 text DB-Migration-Verifier
+104 menu bar
+	105 DB-Migration-Verifier

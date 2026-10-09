@@ -1,0 +1,9 @@
+{
+  "sourceWindowCount": 0,
+  "nativeProcessCount": 0,
+  "nativeWindowCount": 0,
+  "nativeWasLaunched": true,
+  "exactBundle": "local.dbmv.replica.capabilityviewportcheck",
+  "method": "owned AX window close plus exact full runtime process path absent",
+  "capturedAt": "2026-10-08T16:00:15.342925"
+}

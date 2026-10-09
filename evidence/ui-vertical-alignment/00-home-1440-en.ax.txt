@@ -1,0 +1,104 @@
+Window: "DB-Migration-Verifier", App: DB-Migration-Verifier.
+0 standard window DB-Migration-Verifier, Secondary Actions: Raise
+	1 container WindowChrome, ID: AvaloniaWindowChrome
+	2 container
+		3 container
+			4 container
+				5 text DB-Migration-Verifier
+				6 text Read-only comparison
+				7 button 한국어 / EN, ID: language
+			8 container
+				9 text Migration comparison
+				10 button Connect databases
+					11 container
+						12 text 1
+						13 text Connect databases
+				14 button (disabled) Preflight
+					15 container
+						16 text 2
+						17 text Preflight
+				18 button (disabled) Select checks
+					19 container
+						20 text 3
+						21 text Select checks
+				22 button (disabled) Review
+					23 container
+						24 text 4
+						25 text Review
+				26 button (disabled) Progress
+					27 container
+						28 text 5
+						29 text Progress
+				30 button (disabled) Results
+					31 container
+						32 text 6
+						33 text Results
+				34 button (disabled) Save results
+					35 container
+						36 text 7
+						37 text Save results
+				38 text Read-only comparison
+				39 text No source/target writes.
+Behavior tests require a separate test DB.
+				40 checkbox Reduce motion, Value: off, ID: motion
+					41 container RootGrid
+						42 container
+							43 container
+			44 container
+				45 text Read-only source/target comparison. Unverified is never equal.
+			46 scroll area
+				47 container
+					48 container
+						49 text Verify your migration results
+						50 text Compare the two databases and see exactly what has been verified.
+						51 text Helps developers after migration compare data, schema, permissions and objects using the paper’s multi-axis approach, and identify differences and unverified areas.
+						52 container
+							53 text Sample result preview
+							54 text Differences and verified
+scope, together.
+							55 text Different checks
+							56 text 3
+							57 text Unverified checks
+							58 text 2
+							59 text Equal checks
+							60 text 45
+							61 text Static synthetic counts from the design preview.
+Separate from the executed example result.
+						62 button Start a new check
+							63 container
+								64 text Start a new check
+						65 button View a result file
+							66 container
+								67 text View a result file
+						68 button See sample results
+						69 text Open a saved result JSON without connecting to a DB or running a new check.
+						70 text 01
+						71 text Connect two databases
+						72 text The app checks visibility and explains additional preparation.
+						73 text 02
+						74 text Choose what to compare
+						75 text Select categories and confirm how tables are matched.
+						76 text 03
+						77 text Review differences and gaps
+						78 text Review verified outcomes and save a report without row values.
+						79 container
+							80 text Research behind this app
+							81 text Functional Success versus Database-State, Behavioral, and Operational Contracts in AI-Generated PostgreSQL Schema Migrations
+							82 text The distinction between functional success and wider contracts informs check categories and unverified states.
+						83 button Research mapping
+					84 scroll bar (settable, float) Value: 0, ID: PART_VerticalScrollBar
+						85 container
+							86 button Line up, ID: PART_LineUpButton
+							87 button Page up, ID: PART_PageUpButton
+							88 button Page down, ID: PART_PageDownButton
+							89 handle Position
+							90 button Line down, ID: PART_LineDownButton
+			91 text Explore a synthetic flow without signing in.
+	92 close button
+	93 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	94 minimize button
+	95 text DB-Migration-Verifier
+96 menu bar
+	97 DB-Migration-Verifier
+
+The focused UI element is 7 button 한국어 / EN, ID: language

@@ -1,0 +1,116 @@
+{
+  "phase": "FAILED",
+  "scope": "New connected footer/H1 positive named AX; existing protected Button/Trial primitive/provider proof reused",
+  "checks": [
+    {
+      "lang": "ko",
+      "environment": "source",
+      "label": "시험 준비 확인",
+      "positiveNamedPeer": true,
+      "roles": [
+        "AXButton"
+      ]
+    },
+    {
+      "lang": "ko",
+      "environment": "source",
+      "label": "검사 선택으로",
+      "positiveNamedPeer": true,
+      "roles": [
+        "AXButton"
+      ]
+    },
+    {
+      "lang": "ko",
+      "environment": "source",
+      "label": "동작 시험은 별도 DB에서 합니다",
+      "positiveNamedPeer": true,
+      "roles": [
+        "AXHeading",
+        "AXStaticText"
+      ]
+    },
+    {
+      "lang": "ko",
+      "environment": "native",
+      "label": "시험 준비 확인",
+      "positiveNamedPeer": true,
+      "roles": [
+        "AXButton",
+        "AXStaticText"
+      ]
+    },
+    {
+      "lang": "ko",
+      "environment": "native",
+      "label": "검사 선택으로",
+      "positiveNamedPeer": true,
+      "roles": [
+        "AXButton",
+        "AXStaticText"
+      ]
+    },
+    {
+      "lang": "ko",
+      "environment": "native",
+      "label": "동작 시험은 별도 DB에서 합니다",
+      "positiveNamedPeer": true,
+      "roles": [
+        "AXHeading"
+      ]
+    },
+    {
+      "lang": "en",
+      "environment": "source",
+      "label": "Confirm test setup",
+      "positiveNamedPeer": true,
+      "roles": [
+        "AXButton"
+      ]
+    },
+    {
+      "lang": "en",
+      "environment": "source",
+      "label": "Back to selection",
+      "positiveNamedPeer": true,
+      "roles": [
+        "AXButton"
+      ]
+    },
+    {
+      "lang": "en",
+      "environment": "source",
+      "label": "Behavior tests use a separate DB",
+      "positiveNamedPeer": false,
+      "roles": []
+    },
+    {
+      "lang": "en",
+      "environment": "native",
+      "label": "Confirm test setup",
+      "positiveNamedPeer": true,
+      "roles": [
+        "AXButton",
+        "AXStaticText"
+      ]
+    },
+    {
+      "lang": "en",
+      "environment": "native",
+      "label": "Back to selection",
+      "positiveNamedPeer": true,
+      "roles": [
+        "AXButton",
+        "AXStaticText"
+      ]
+    },
+    {
+      "lang": "en",
+      "environment": "native",
+      "label": "Behavior tests use a separate DB",
+      "positiveNamedPeer": false,
+      "roles": []
+    }
+  ],
+  "paintReview": "KOEN source/native official SCK inspected. Neutral has no new outline. Header row sampled source/native RGBA [35,36,40,255], body rows [43,45,49,255]. Existing OS glyph/raster boundary unchanged."
+}

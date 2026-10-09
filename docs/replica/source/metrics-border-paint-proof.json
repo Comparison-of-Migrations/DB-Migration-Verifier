@@ -1,0 +1,139 @@
+{
+  "rows": [
+    {
+      "phase": "headless",
+      "id": "en-1000-326-0",
+      "sourceBorder": "rgb(65, 67, 74)",
+      "borderWidth": "1px",
+      "centerPixel": [
+        65,
+        67,
+        74
+      ],
+      "nativePoint": [
+        386,
+        487
+      ]
+    },
+    {
+      "phase": "headless",
+      "id": "en-1280-326-2",
+      "sourceBorder": "rgb(65, 67, 74)",
+      "borderWidth": "1px",
+      "centerPixel": [
+        65,
+        67,
+        74
+      ],
+      "nativePoint": [
+        386,
+        744
+      ]
+    },
+    {
+      "phase": "headless",
+      "id": "ko-1280-904-0",
+      "sourceBorder": "rgb(65, 67, 74)",
+      "borderWidth": "1px",
+      "centerPixel": [
+        65,
+        67,
+        74
+      ],
+      "nativePoint": [
+        964,
+        278
+      ]
+    },
+    {
+      "phase": "mac",
+      "id": "en-1000-326-0",
+      "sourceBorder": "rgb(65, 67, 74)",
+      "borderWidth": "1px",
+      "centerPixel": [
+        65,
+        67,
+        74
+      ],
+      "nativePoint": [
+        386,
+        487
+      ]
+    },
+    {
+      "phase": "mac",
+      "id": "en-1280-326-2",
+      "sourceBorder": "rgb(65, 67, 74)",
+      "borderWidth": "1px",
+      "centerPixel": [
+        65,
+        67,
+        74
+      ],
+      "nativePoint": [
+        386,
+        744
+      ]
+    },
+    {
+      "phase": "mac",
+      "id": "ko-1280-904-0",
+      "sourceBorder": "rgb(65, 67, 74)",
+      "borderWidth": "1px",
+      "centerPixel": [
+        65,
+        67,
+        74
+      ],
+      "nativePoint": [
+        964,
+        278
+      ]
+    },
+    {
+      "phase": "windows",
+      "id": "en-1000-326-0",
+      "sourceBorder": "rgb(65, 67, 74)",
+      "borderWidth": "1px",
+      "centerPixel": [
+        65,
+        67,
+        74
+      ],
+      "nativePoint": [
+        386,
+        404
+      ]
+    },
+    {
+      "phase": "windows",
+      "id": "en-1280-326-2",
+      "sourceBorder": "rgb(65, 67, 74)",
+      "borderWidth": "1px",
+      "centerPixel": [
+        65,
+        67,
+        74
+      ],
+      "nativePoint": [
+        386,
+        511
+      ]
+    },
+    {
+      "phase": "windows",
+      "id": "ko-1280-904-0",
+      "sourceBorder": "rgb(65, 67, 74)",
+      "borderWidth": "1px",
+      "centerPixel": [
+        65,
+        67,
+        74
+      ],
+      "nativePoint": [
+        964,
+        278
+      ]
+    }
+  ]
+}

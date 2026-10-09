@@ -1,0 +1,86 @@
+{
+  "platform": "mac",
+  "cases": 11,
+  "errors": [],
+  "checks": [
+    {
+      "source": "source-key-space-permissions.json",
+      "native": "key-space-permissions.json",
+      "sourceRequests": 2,
+      "nativeRequests": 3,
+      "requestOffset": 1
+    },
+    {
+      "source": "source-key-enter-permissions.json",
+      "native": "key-enter-permissions.json",
+      "sourceRequests": 3,
+      "nativeRequests": 4,
+      "requestOffset": 1
+    },
+    {
+      "source": "source-invoke-language-language.json",
+      "native": "read-language.json",
+      "sourceRequests": 3,
+      "nativeRequests": 5,
+      "requestOffset": 2
+    },
+    {
+      "source": "source-invoke-data-hide.json",
+      "native": "read-hide.json",
+      "sourceRequests": 3,
+      "nativeRequests": 4,
+      "requestOffset": 1
+    },
+    {
+      "source": "source-invoke-data-restore.json",
+      "native": "read-restore.json",
+      "sourceRequests": 3,
+      "nativeRequests": 4,
+      "requestOffset": 1
+    },
+    {
+      "source": "source-invoke-permissions-reduced.json",
+      "native": "read-reduced.json",
+      "sourceRequests": 4,
+      "nativeRequests": 5,
+      "requestOffset": 1
+    },
+    {
+      "source": "source-invoke-mount-detach.json",
+      "native": "read-detach.json",
+      "sourceRequests": 4,
+      "nativeRequests": 5,
+      "requestOffset": 1
+    },
+    {
+      "source": "source-invoke-mount-remount.json",
+      "native": "read-remount.json",
+      "sourceRequests": 4,
+      "nativeRequests": 5,
+      "requestOffset": 1
+    },
+    {
+      "source": "source-pointer.json",
+      "native": "actual-button-click-after-cursor-return.json",
+      "sourceRequests": 1,
+      "nativeRequests": 1,
+      "requestOffset": 0,
+      "backgroundBoundary": "Native cursor already returned outside; source cursor still on button. Exact hover checked in passive/cancel/timing evidence."
+    },
+    {
+      "source": "source-passive.json",
+      "native": "actual-passive-click.json",
+      "sourceRequests": 1,
+      "nativeRequests": 2,
+      "requestOffset": 1
+    },
+    {
+      "source": "source-cancel.json",
+      "native": "actual-button-cancel.json",
+      "sourceRequests": 1,
+      "nativeRequests": 2,
+      "requestOffset": 1
+    }
+  ],
+  "scope": "Actual original/native states. Explicit sequence offsets: native prior calibration pointer adds1; Mac language pointer correction occurred after reduced adds2. Initial Mac pointer after cursor restoration has offset0 and intentionally different hover position (documented per check). All other fields exact; zero-alpha colors normalized. Windows source raw pointer trio is completed; passive/cancel pairs are strict. Initial native KO click JSON was overwritten by later EN reduced click and its observation remains in the execution transcript/spec, rather than being reconstructed."
+}

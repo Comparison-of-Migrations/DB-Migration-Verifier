@@ -1,0 +1,7 @@
+{
+  "component": "Checkbox",
+  "contract": "20px source input, check/mixed glyph geometry, CSS transitions/reverse, native Space/pointer, Enter unchanged, explicit reduced; parent owns labels/hit area/aggregate.",
+  "files": {
+    "src/Verifier.Desktop/WebCheckbox.cs": "6d944fd7a92357d1b87c54b40a9ad9370aee35a071a19a17842490d48389829b"
+  }
+}

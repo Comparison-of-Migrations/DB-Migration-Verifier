@@ -1,0 +1,89 @@
+{
+  "cases": [
+    {
+      "language": "ko",
+      "phase": "field0",
+      "source": "source-ko-field0.json",
+      "native": "native-ko-field0.json"
+    },
+    {
+      "language": "ko",
+      "phase": "field1",
+      "source": "source-ko-field1.json",
+      "native": "native-ko-field1.json"
+    },
+    {
+      "language": "ko",
+      "phase": "field2",
+      "source": "source-ko-field2.json",
+      "native": "native-ko-field2.json"
+    },
+    {
+      "language": "ko",
+      "phase": "field3",
+      "source": "source-ko-field3.json",
+      "native": "native-ko-field3.json"
+    },
+    {
+      "language": "ko",
+      "phase": "pointer",
+      "source": "source-ko-pointer.json",
+      "native": "native-ko-pointer.json"
+    },
+    {
+      "language": "ko",
+      "phase": "space",
+      "source": "source-ko-space.json",
+      "native": "native-ko-space.json"
+    },
+    {
+      "language": "ko",
+      "phase": "enter",
+      "source": "source-ko-enter.json",
+      "native": "native-ko-enter.json"
+    },
+    {
+      "language": "en",
+      "phase": "field0",
+      "source": "source-en-field0.json",
+      "native": "native-en-field0.json"
+    },
+    {
+      "language": "en",
+      "phase": "field1",
+      "source": "source-en-field1.json",
+      "native": "native-en-field1.json"
+    },
+    {
+      "language": "en",
+      "phase": "field2",
+      "source": "source-en-field2.json",
+      "native": "native-en-field2.json"
+    },
+    {
+      "language": "en",
+      "phase": "field3",
+      "source": "source-en-field3.json",
+      "native": "native-en-field3.json"
+    },
+    {
+      "language": "en",
+      "phase": "pointer",
+      "source": "source-en-pointer.json",
+      "native": "native-en-pointer.json"
+    },
+    {
+      "language": "en",
+      "phase": "space",
+      "source": "source-en-space.json",
+      "native": "native-en-space.json"
+    },
+    {
+      "language": "en",
+      "phase": "enter",
+      "source": "source-en-enter.json",
+      "native": "native-en-enter.json"
+    }
+  ],
+  "errors": []
+}

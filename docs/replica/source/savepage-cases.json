@@ -1,0 +1,482 @@
+[
+  {
+    "id": "compact-ko-false-0-656",
+    "width": 656,
+    "viewport": 1000,
+    "english": false,
+    "saved": false,
+    "formats": []
+  },
+  {
+    "id": "compact-ko-false-0-904",
+    "width": 904,
+    "viewport": 1000,
+    "english": false,
+    "saved": false,
+    "formats": []
+  },
+  {
+    "id": "compact-ko-false-0-1060",
+    "width": 1060,
+    "viewport": 1000,
+    "english": false,
+    "saved": false,
+    "formats": []
+  },
+  {
+    "id": "compact-ko-false-3-656",
+    "width": 656,
+    "viewport": 1000,
+    "english": false,
+    "saved": false,
+    "formats": [
+      "json",
+      "csv",
+      "html"
+    ]
+  },
+  {
+    "id": "compact-ko-false-3-904",
+    "width": 904,
+    "viewport": 1000,
+    "english": false,
+    "saved": false,
+    "formats": [
+      "json",
+      "csv",
+      "html"
+    ]
+  },
+  {
+    "id": "compact-ko-false-3-1060",
+    "width": 1060,
+    "viewport": 1000,
+    "english": false,
+    "saved": false,
+    "formats": [
+      "json",
+      "csv",
+      "html"
+    ]
+  },
+  {
+    "id": "compact-ko-true-0-656",
+    "width": 656,
+    "viewport": 1000,
+    "english": false,
+    "saved": true,
+    "formats": []
+  },
+  {
+    "id": "compact-ko-true-0-904",
+    "width": 904,
+    "viewport": 1000,
+    "english": false,
+    "saved": true,
+    "formats": []
+  },
+  {
+    "id": "compact-ko-true-0-1060",
+    "width": 1060,
+    "viewport": 1000,
+    "english": false,
+    "saved": true,
+    "formats": []
+  },
+  {
+    "id": "compact-ko-true-3-656",
+    "width": 656,
+    "viewport": 1000,
+    "english": false,
+    "saved": true,
+    "formats": [
+      "json",
+      "csv",
+      "html"
+    ]
+  },
+  {
+    "id": "compact-ko-true-3-904",
+    "width": 904,
+    "viewport": 1000,
+    "english": false,
+    "saved": true,
+    "formats": [
+      "json",
+      "csv",
+      "html"
+    ]
+  },
+  {
+    "id": "compact-ko-true-3-1060",
+    "width": 1060,
+    "viewport": 1000,
+    "english": false,
+    "saved": true,
+    "formats": [
+      "json",
+      "csv",
+      "html"
+    ]
+  },
+  {
+    "id": "compact-en-false-0-656",
+    "width": 656,
+    "viewport": 1000,
+    "english": true,
+    "saved": false,
+    "formats": []
+  },
+  {
+    "id": "compact-en-false-0-904",
+    "width": 904,
+    "viewport": 1000,
+    "english": true,
+    "saved": false,
+    "formats": []
+  },
+  {
+    "id": "compact-en-false-0-1060",
+    "width": 1060,
+    "viewport": 1000,
+    "english": true,
+    "saved": false,
+    "formats": []
+  },
+  {
+    "id": "compact-en-false-3-656",
+    "width": 656,
+    "viewport": 1000,
+    "english": true,
+    "saved": false,
+    "formats": [
+      "json",
+      "csv",
+      "html"
+    ]
+  },
+  {
+    "id": "compact-en-false-3-904",
+    "width": 904,
+    "viewport": 1000,
+    "english": true,
+    "saved": false,
+    "formats": [
+      "json",
+      "csv",
+      "html"
+    ]
+  },
+  {
+    "id": "compact-en-false-3-1060",
+    "width": 1060,
+    "viewport": 1000,
+    "english": true,
+    "saved": false,
+    "formats": [
+      "json",
+      "csv",
+      "html"
+    ]
+  },
+  {
+    "id": "compact-en-true-0-656",
+    "width": 656,
+    "viewport": 1000,
+    "english": true,
+    "saved": true,
+    "formats": []
+  },
+  {
+    "id": "compact-en-true-0-904",
+    "width": 904,
+    "viewport": 1000,
+    "english": true,
+    "saved": true,
+    "formats": []
+  },
+  {
+    "id": "compact-en-true-0-1060",
+    "width": 1060,
+    "viewport": 1000,
+    "english": true,
+    "saved": true,
+    "formats": []
+  },
+  {
+    "id": "compact-en-true-3-656",
+    "width": 656,
+    "viewport": 1000,
+    "english": true,
+    "saved": true,
+    "formats": [
+      "json",
+      "csv",
+      "html"
+    ]
+  },
+  {
+    "id": "compact-en-true-3-904",
+    "width": 904,
+    "viewport": 1000,
+    "english": true,
+    "saved": true,
+    "formats": [
+      "json",
+      "csv",
+      "html"
+    ]
+  },
+  {
+    "id": "compact-en-true-3-1060",
+    "width": 1060,
+    "viewport": 1000,
+    "english": true,
+    "saved": true,
+    "formats": [
+      "json",
+      "csv",
+      "html"
+    ]
+  },
+  {
+    "id": "wide-ko-false-0-656",
+    "width": 656,
+    "viewport": 1400,
+    "english": false,
+    "saved": false,
+    "formats": []
+  },
+  {
+    "id": "wide-ko-false-0-904",
+    "width": 904,
+    "viewport": 1400,
+    "english": false,
+    "saved": false,
+    "formats": []
+  },
+  {
+    "id": "wide-ko-false-0-1060",
+    "width": 1060,
+    "viewport": 1400,
+    "english": false,
+    "saved": false,
+    "formats": []
+  },
+  {
+    "id": "wide-ko-false-3-656",
+    "width": 656,
+    "viewport": 1400,
+    "english": false,
+    "saved": false,
+    "formats": [
+      "json",
+      "csv",
+      "html"
+    ]
+  },
+  {
+    "id": "wide-ko-false-3-904",
+    "width": 904,
+    "viewport": 1400,
+    "english": false,
+    "saved": false,
+    "formats": [
+      "json",
+      "csv",
+      "html"
+    ]
+  },
+  {
+    "id": "wide-ko-false-3-1060",
+    "width": 1060,
+    "viewport": 1400,
+    "english": false,
+    "saved": false,
+    "formats": [
+      "json",
+      "csv",
+      "html"
+    ]
+  },
+  {
+    "id": "wide-ko-true-0-656",
+    "width": 656,
+    "viewport": 1400,
+    "english": false,
+    "saved": true,
+    "formats": []
+  },
+  {
+    "id": "wide-ko-true-0-904",
+    "width": 904,
+    "viewport": 1400,
+    "english": false,
+    "saved": true,
+    "formats": []
+  },
+  {
+    "id": "wide-ko-true-0-1060",
+    "width": 1060,
+    "viewport": 1400,
+    "english": false,
+    "saved": true,
+    "formats": []
+  },
+  {
+    "id": "wide-ko-true-3-656",
+    "width": 656,
+    "viewport": 1400,
+    "english": false,
+    "saved": true,
+    "formats": [
+      "json",
+      "csv",
+      "html"
+    ]
+  },
+  {
+    "id": "wide-ko-true-3-904",
+    "width": 904,
+    "viewport": 1400,
+    "english": false,
+    "saved": true,
+    "formats": [
+      "json",
+      "csv",
+      "html"
+    ]
+  },
+  {
+    "id": "wide-ko-true-3-1060",
+    "width": 1060,
+    "viewport": 1400,
+    "english": false,
+    "saved": true,
+    "formats": [
+      "json",
+      "csv",
+      "html"
+    ]
+  },
+  {
+    "id": "wide-en-false-0-656",
+    "width": 656,
+    "viewport": 1400,
+    "english": true,
+    "saved": false,
+    "formats": []
+  },
+  {
+    "id": "wide-en-false-0-904",
+    "width": 904,
+    "viewport": 1400,
+    "english": true,
+    "saved": false,
+    "formats": []
+  },
+  {
+    "id": "wide-en-false-0-1060",
+    "width": 1060,
+    "viewport": 1400,
+    "english": true,
+    "saved": false,
+    "formats": []
+  },
+  {
+    "id": "wide-en-false-3-656",
+    "width": 656,
+    "viewport": 1400,
+    "english": true,
+    "saved": false,
+    "formats": [
+      "json",
+      "csv",
+      "html"
+    ]
+  },
+  {
+    "id": "wide-en-false-3-904",
+    "width": 904,
+    "viewport": 1400,
+    "english": true,
+    "saved": false,
+    "formats": [
+      "json",
+      "csv",
+      "html"
+    ]
+  },
+  {
+    "id": "wide-en-false-3-1060",
+    "width": 1060,
+    "viewport": 1400,
+    "english": true,
+    "saved": false,
+    "formats": [
+      "json",
+      "csv",
+      "html"
+    ]
+  },
+  {
+    "id": "wide-en-true-0-656",
+    "width": 656,
+    "viewport": 1400,
+    "english": true,
+    "saved": true,
+    "formats": []
+  },
+  {
+    "id": "wide-en-true-0-904",
+    "width": 904,
+    "viewport": 1400,
+    "english": true,
+    "saved": true,
+    "formats": []
+  },
+  {
+    "id": "wide-en-true-0-1060",
+    "width": 1060,
+    "viewport": 1400,
+    "english": true,
+    "saved": true,
+    "formats": []
+  },
+  {
+    "id": "wide-en-true-3-656",
+    "width": 656,
+    "viewport": 1400,
+    "english": true,
+    "saved": true,
+    "formats": [
+      "json",
+      "csv",
+      "html"
+    ]
+  },
+  {
+    "id": "wide-en-true-3-904",
+    "width": 904,
+    "viewport": 1400,
+    "english": true,
+    "saved": true,
+    "formats": [
+      "json",
+      "csv",
+      "html"
+    ]
+  },
+  {
+    "id": "wide-en-true-3-1060",
+    "width": 1060,
+    "viewport": 1400,
+    "english": true,
+    "saved": true,
+    "formats": [
+      "json",
+      "csv",
+      "html"
+    ]
+  }
+]

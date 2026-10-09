@@ -1,0 +1,204 @@
+{
+  "capturedAtUtc": "2026-10-07T15:32:06.0343671Z",
+  "dpr": 2,
+  "events": [
+    {
+      "action": "select",
+      "name": "archive.orders"
+    },
+    {
+      "action": "select",
+      "name": "demo.customers"
+    }
+  ],
+  "rows": [
+    {
+      "id": "ko-442-34",
+      "width": 442,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 346,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 346,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 346,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 405,
+        "y": 25.09375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "demo.customers",
+      "noteText": "\uC6D0\uBCF8\uACFC \uC774\uB984\uC774 \uAC19\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(167, 177, 255) solid 3px",
+      "outlineOffset": "2px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-442-39",
+      "width": 442,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 368,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 427,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "archive.orders",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(43, 45, 49)",
+      "border": "rgb(124, 131, 140)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-442-44",
+      "width": 442,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 331.1328125,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 331.1328125,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 331.1328125,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 390.1328125,
+        "y": 25.09375,
+        "width": 36.8671875,
+        "height": 17.59375
+      },
+      "nameText": "demo.orders",
+      "noteText": "\uB2E4\uB978 \uC6D0\uBCF8 \uD14C\uC774\uBE14\uACFC \uC774\uBBF8 \uB300\uC751\uB418\uC5B4 \uC788\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC0AC\uC6A9 \uC911",
+      "selected": false,
+      "disabled": true,
+      "bg": "rgb(38, 39, 45)",
+      "border": "rgb(83, 89, 99)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(173, 179, 189)",
+      "badgeColor": "rgb(173, 179, 189)"
+    },
+    {
+      "id": "ko-442-46",
+      "width": 442,
+      "height": 86.984375,
+      "radio": {
+        "x": 15,
+        "y": 33.4921875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 58.984375
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 38.390625
+      },
+      "note": {
+        "x": 47,
+        "y": 55.390625,
+        "width": 368,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 427,
+        "y": 43.4921875,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(43, 45, 49)",
+      "border": "rgb(124, 131, 140)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    }
+  ]
+}

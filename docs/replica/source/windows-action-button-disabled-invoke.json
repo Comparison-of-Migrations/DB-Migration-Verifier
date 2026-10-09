@@ -1,0 +1,8 @@
+{
+    "enabled":  false,
+    "refused":  true,
+    "exceptionType":  "System.Management.Automation.MethodInvocationException",
+    "before":  1,
+    "after":  1,
+    "title":  "Replica ActionButton verification · clicked"
+}

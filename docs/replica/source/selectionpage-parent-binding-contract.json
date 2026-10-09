@@ -1,0 +1,123 @@
+{
+  "component": "SelectionPage parent binding contract",
+  "status": "SOURCE_REVIEWED; metadata RELOCKED4521/5c62/331b; root integration/actual flow pending",
+  "source": {
+    "path": "docs/replica/source/original.js",
+    "sha256": "53c8af8c8225c87d25173a82b4ea00ea5349b6c98077ef7b59d8d62f89a68050",
+    "lines": [
+      28,
+      29,
+      31,
+      32,
+      33,
+      53,
+      54,
+      60,
+      61,
+      67,
+      68,
+      69
+    ]
+  },
+  "publicApi": {
+    "model": "WebSelectionView(bool English,IReadOnlyList<string> Categories,IReadOnlyList<string> Tables,IReadOnlyDictionary<string,string> Maps,IReadOnlyList<string> Expanded,string Query,bool TrialReady,string Dbms,string TrialDatabase,string TrialHost,string Error=\"\")",
+    "presentation": "SetPresentation(WebSelectionView,double viewportWidth)",
+    "footer": "SetFooter(WebActionFooter)",
+    "events": [
+      "ViewChanged(WebSelectionView)",
+      "ActionRequested(string trial|mapping:<source>)"
+    ],
+    "metadata": "public string LastChangeReason { get; private set; }; source caller category:key/expand:key/bulk/clear-tables/query/table:source stored before ViewChanged; external echo silent"
+  },
+  "binding": [
+    {
+      "event": "ViewChanged",
+      "effects": [
+        "copy ordered Categories/Tables/Maps/Expanded/Query into app state",
+        "user category/table/bulk/deselect resets Stopped; query/expand/mapping does not",
+        "update Footer through page.SetFooter without rebuilding page",
+        "same-view SetPresentation echo is allowed; category preparation remount occurs only once before callback"
+      ]
+    },
+    {
+      "event": "trial",
+      "effects": [
+        "Navigate trial via app; keep selection/query/maps/expanded",
+        "Trial-back or ready primary returns select with state and current TrialReady/DB details",
+        "navigation focuses Selection heading and resets main scroll per original go"
+      ]
+    },
+    {
+      "event": "mapping:<source>",
+      "effects": [
+        "use current matching Row.ChangeButton opener",
+        "Open protected MatchingDialog with Maps current insertion order + archive.orders",
+        "draft/search not applied until Applied; one-to-one collision guarded",
+        "Applied changes only Maps[source], retains Tables/Categories/Expanded/Query",
+        "source render(false) preserves main scroll/current identity; changed query may remove source Row, opener may then be absent",
+        "Closed restores existing opener or resolves same data-action on re-created row",
+        "toast exact Match applied. Name differences remain part of verification. / 대응을 적용했습니다. 이름 차이는 검사에 남습니다."
+      ]
+    }
+  ],
+  "announcements": {
+    "category": {
+      "ko": "{count} 개 분류 선택",
+      "en": "{count} categories selected"
+    },
+    "expand": {
+      "ko": "{category} 세부 검사 펼침|세부 검사 닫힘",
+      "en": "{category} details expanded|details collapsed"
+    },
+    "bulk": {
+      "ko": "검색 결과의 선택을 변경했습니다.",
+      "en": "Selection updated for matching tables."
+    },
+    "deselect": {
+      "ko": "검색 결과의 선택을 해제했습니다.",
+      "en": "Matching tables were deselected."
+    },
+    "none": [
+      "table individual",
+      "query",
+      "search clear/Escape",
+      "mapping apply"
+    ]
+  },
+  "stateRetention": {
+    "start": "initial state resets all; query empty",
+    "restart": "clear query/run/visited/connected/saved/stopped/trial.ready; retain expanded/categories/tables/maps/formats/dbms",
+    "language": "preserve state and scroll; focused id/data identity restored",
+    "review": "rendered Footer enforces data/schema+table and trialReady gates; direct action guard only category nonempty and trialReady",
+    "bulk": "affects filteredTables only; hidden table selection retained",
+    "query": "trim/lowercase source OR mapped-target; preserves selected invisible tables and does not announce"
+  },
+  "requiredNewParentScopes": [
+    "initial actual app Selection placement in root main scroll",
+    "ViewChanged routing changes app state exactly once and keeps same page controls/focus",
+    "matching opener/apply/cancel/search-disappearance/rootfocus",
+    "Trial navigation/ready return Selection state",
+    "language/resize parent focus/scroll",
+    "start versus restart retention",
+    "announcements distinguish bulk/deselect without false announcements on Sync"
+  ],
+  "openObservations": [
+    {
+      "scope": "announcement change reason",
+      "fact": "ViewChanged alone cannot distinguish identical bulk deselect vs DeselectButton table state; manual label path has no Checkbox.Click",
+      "action": "Resolved by readonly LastChangeReason, headless16/actual8 eachOS; root exact announcement binder remains new parent scope"
+    },
+    {
+      "scope": "Bulk native Toggle provider callback",
+      "fact": "Source native Toggle1 and candidate restore Toggle in actual Windows metadata8 both publish the original bulk state change; no provider discrepancy remains.",
+      "action": "No provider repair. Root new parent announcement binding uses LastChangeReason bulk.",
+      "finding": {
+        "official": "https://raw.githubusercontent.com/AvaloniaUI/Avalonia/12.1.3/src/Avalonia.Controls/Automation/Peers/ToggleButtonAutomationPeer.cs",
+        "behavior": "IToggleProvider.Toggle invokes Owner.PerformClick(); Bulk Checkbox.Click will fire, contrary to initial IsChecked-only hypothesis",
+        "productChange": "none; actual original source Toggle1 e7fb and candidate native KOEN Toggle restore c922 passed/closed0",
+        "sourceEvidence": "artifacts/replica/workers/preflight/selectionpage/source-toggle-windows/e7fb76f8c232418183b9e98fa3580422/comparison.json",
+        "candidateEvidence": "artifacts/replica/workers/preflight/selectionpage/c922da0286bd4a0192ce9942087649a3/actual-windows-input/reason-comparison.json"
+      }
+    }
+  ]
+}

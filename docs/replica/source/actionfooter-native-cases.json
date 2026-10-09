@@ -1,0 +1,2816 @@
+[
+  {
+    "id": "ko-home",
+    "viewport": 1000,
+    "hint": "로그인 없이 예시 흐름을 살펴볼 수 있습니다.",
+    "back": null,
+    "actions": []
+  },
+  {
+    "id": "ko-connect",
+    "viewport": 1000,
+    "hint": "연결 정보를 바꾸면 다시 확인합니다.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "connect",
+        "label": "두 연결 확인",
+        "variant": "primary",
+        "iconName": "db",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-connect-busy",
+    "viewport": 1000,
+    "hint": "연결 정보를 바꾸면 다시 확인합니다.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "connect",
+        "label": "확인 중…",
+        "variant": "primary",
+        "iconName": "",
+        "enabled": false,
+        "loading": true
+      }
+    ]
+  },
+  {
+    "id": "ko-connected",
+    "viewport": 1000,
+    "hint": "연결 정보를 바꾸면 다시 확인합니다.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "preflight",
+        "label": "조회 범위 확인",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-connected-busy",
+    "viewport": 1000,
+    "hint": "연결 정보를 바꾸면 다시 확인합니다.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "preflight",
+        "label": "조회 범위 확인",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-capabilities",
+    "viewport": 1000,
+    "hint": "미조회 영역은 결과에도 남습니다.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "choose",
+        "label": "검사 범위 선택",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-select-none",
+    "viewport": 1000,
+    "hint": "검사 분류를 하나 이상 선택하세요.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "실행 전 확인",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-select-no-table",
+    "viewport": 1000,
+    "hint": "검사할 테이블을 하나 이상 선택하세요.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "실행 전 확인",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-select-trial-unready",
+    "viewport": 1000,
+    "hint": "동작 시험을 준비하거나 선택을 해제하세요.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "실행 전 확인",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-select-trial-ready",
+    "viewport": 1000,
+    "hint": "선택 범위와 제외 범위를 다음 화면에서 확인합니다.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "실행 전 확인",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-select",
+    "viewport": 1000,
+    "hint": "선택 범위와 제외 범위를 다음 화면에서 확인합니다.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "실행 전 확인",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-trial",
+    "viewport": 1000,
+    "hint": "실제 앱은 분리 확인과 시험안 확인이 필요합니다.",
+    "back": {
+      "action": "trial-back",
+      "label": "검사 선택으로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "trial-check",
+        "label": "시험 준비 확인",
+        "variant": "primary",
+        "iconName": "check",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-trial-consented",
+    "viewport": 1000,
+    "hint": "실제 앱은 분리 확인과 시험안 확인이 필요합니다.",
+    "back": {
+      "action": "trial-back",
+      "label": "검사 선택으로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "trial-check",
+        "label": "시험 준비 확인",
+        "variant": "primary",
+        "iconName": "check",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-trial-ready",
+    "viewport": 1000,
+    "hint": "실제 앱은 분리 확인과 시험안 확인이 필요합니다.",
+    "back": {
+      "action": "trial-back",
+      "label": "검사 선택으로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "trial-back",
+        "label": "준비 확인 · 돌아가기",
+        "variant": "primary",
+        "iconName": "check",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-review",
+    "viewport": 1000,
+    "hint": "쓰기를 멈춘 상태를 확인하세요.",
+    "back": {
+      "action": "back",
+      "label": "선택 수정",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "run",
+        "label": "비교 시작",
+        "variant": "primary",
+        "iconName": "play",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-review-stopped",
+    "viewport": 1000,
+    "hint": "준비한 범위로 예시 검사를 시작합니다.",
+    "back": {
+      "action": "back",
+      "label": "선택 수정",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "run",
+        "label": "비교 시작",
+        "variant": "primary",
+        "iconName": "play",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-running",
+    "viewport": 1000,
+    "hint": "화면 시안의 예시 검사입니다. 실제 DB 읽기·쓰기는 없습니다.",
+    "back": null,
+    "actions": [
+      {
+        "action": "cancel",
+        "label": "검사 취소",
+        "variant": "danger",
+        "iconName": "stop",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-running-complete",
+    "viewport": 1000,
+    "hint": "화면 시안의 예시 검사입니다. 실제 DB 읽기·쓰기는 없습니다.",
+    "back": null,
+    "actions": [
+      {
+        "action": "show-results",
+        "label": "결과 보기",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-running-interrupted",
+    "viewport": 1000,
+    "hint": "중단 이유: 사용자 취소 · 새 전체 검사만 가능",
+    "back": null,
+    "actions": [
+      {
+        "action": "show-results",
+        "label": "결과 보기",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-results",
+    "viewport": 1000,
+    "hint": "확인한 범위와 확인 불가 이유를 함께 보관합니다.",
+    "back": {
+      "action": "restart",
+      "label": "전체 재검사",
+      "variant": "quiet",
+      "iconName": "refresh",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "save",
+        "label": "결과 저장",
+        "variant": "primary",
+        "iconName": "save",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-save-none",
+    "viewport": 1000,
+    "hint": "저장할 형식을 선택하세요.",
+    "back": {
+      "action": "back",
+      "label": "결과로 돌아가기",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "download",
+        "label": "선택 형식 저장",
+        "variant": "primary",
+        "iconName": "save",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-save",
+    "viewport": 1000,
+    "hint": "브라우저 다운로드로 예시 파일을 만듭니다.",
+    "back": {
+      "action": "back",
+      "label": "결과로 돌아가기",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "download",
+        "label": "선택 형식 저장",
+        "variant": "primary",
+        "iconName": "save",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-home",
+    "viewport": 1000,
+    "hint": "Explore the sample flow without logging in.",
+    "back": null,
+    "actions": []
+  },
+  {
+    "id": "en-connect",
+    "viewport": 1000,
+    "hint": "Changes require another connection check.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "connect",
+        "label": "Check both connections",
+        "variant": "primary",
+        "iconName": "db",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-connect-busy",
+    "viewport": 1000,
+    "hint": "Changes require another connection check.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "connect",
+        "label": "Checking…",
+        "variant": "primary",
+        "iconName": "",
+        "enabled": false,
+        "loading": true
+      }
+    ]
+  },
+  {
+    "id": "en-connected",
+    "viewport": 1000,
+    "hint": "Changes require another connection check.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "preflight",
+        "label": "Check visibility",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-connected-busy",
+    "viewport": 1000,
+    "hint": "Changes require another connection check.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "preflight",
+        "label": "Check visibility",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-capabilities",
+    "viewport": 1000,
+    "hint": "Visibility gaps stay in the result.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "choose",
+        "label": "Choose checks",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-select-none",
+    "viewport": 1000,
+    "hint": "Select at least one check category.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "Review before running",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-select-no-table",
+    "viewport": 1000,
+    "hint": "Select at least one table to compare.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "Review before running",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-select-trial-unready",
+    "viewport": 1000,
+    "hint": "Prepare or deselect the behavior test.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "Review before running",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-select-trial-ready",
+    "viewport": 1000,
+    "hint": "Review selected and excluded scope next.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "Review before running",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-select",
+    "viewport": 1000,
+    "hint": "Review selected and excluded scope next.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "Review before running",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-trial",
+    "viewport": 1000,
+    "hint": "The actual app must verify isolation and the trial plan.",
+    "back": {
+      "action": "trial-back",
+      "label": "Back to selection",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "trial-check",
+        "label": "Confirm test setup",
+        "variant": "primary",
+        "iconName": "check",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-trial-consented",
+    "viewport": 1000,
+    "hint": "The actual app must verify isolation and the trial plan.",
+    "back": {
+      "action": "trial-back",
+      "label": "Back to selection",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "trial-check",
+        "label": "Confirm test setup",
+        "variant": "primary",
+        "iconName": "check",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-trial-ready",
+    "viewport": 1000,
+    "hint": "The actual app must verify isolation and the trial plan.",
+    "back": {
+      "action": "trial-back",
+      "label": "Back to selection",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "trial-back",
+        "label": "Ready · Return",
+        "variant": "primary",
+        "iconName": "check",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-review",
+    "viewport": 1000,
+    "hint": "Confirm that writes are stopped.",
+    "back": {
+      "action": "back",
+      "label": "Edit selection",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "run",
+        "label": "Start comparison",
+        "variant": "primary",
+        "iconName": "play",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-review-stopped",
+    "viewport": 1000,
+    "hint": "Start sample checks for the prepared scope.",
+    "back": {
+      "action": "back",
+      "label": "Edit selection",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "run",
+        "label": "Start comparison",
+        "variant": "primary",
+        "iconName": "play",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-running",
+    "viewport": 1000,
+    "hint": "Simulated preview checks; no real DB reads or writes.",
+    "back": null,
+    "actions": [
+      {
+        "action": "cancel",
+        "label": "Cancel checks",
+        "variant": "danger",
+        "iconName": "stop",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-running-complete",
+    "viewport": 1000,
+    "hint": "Simulated preview checks; no real DB reads or writes.",
+    "back": null,
+    "actions": [
+      {
+        "action": "show-results",
+        "label": "View results",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-running-interrupted",
+    "viewport": 1000,
+    "hint": "Reason: user cancellation · Full new check only",
+    "back": null,
+    "actions": [
+      {
+        "action": "show-results",
+        "label": "View results",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-results",
+    "viewport": 1000,
+    "hint": "Save verified scope and reasons for gaps together.",
+    "back": {
+      "action": "restart",
+      "label": "Full new check",
+      "variant": "quiet",
+      "iconName": "refresh",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "save",
+        "label": "Save results",
+        "variant": "primary",
+        "iconName": "save",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-save-none",
+    "viewport": 1000,
+    "hint": "Choose a file format.",
+    "back": {
+      "action": "back",
+      "label": "Back to results",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "download",
+        "label": "Save selected formats",
+        "variant": "primary",
+        "iconName": "save",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-save",
+    "viewport": 1000,
+    "hint": "Create sample files via browser downloads.",
+    "back": {
+      "action": "back",
+      "label": "Back to results",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "download",
+        "label": "Save selected formats",
+        "variant": "primary",
+        "iconName": "save",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-home",
+    "viewport": 1138,
+    "hint": "로그인 없이 예시 흐름을 살펴볼 수 있습니다.",
+    "back": null,
+    "actions": []
+  },
+  {
+    "id": "ko-connect",
+    "viewport": 1138,
+    "hint": "연결 정보를 바꾸면 다시 확인합니다.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "connect",
+        "label": "두 연결 확인",
+        "variant": "primary",
+        "iconName": "db",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-connect-busy",
+    "viewport": 1138,
+    "hint": "연결 정보를 바꾸면 다시 확인합니다.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "connect",
+        "label": "확인 중…",
+        "variant": "primary",
+        "iconName": "",
+        "enabled": false,
+        "loading": true
+      }
+    ]
+  },
+  {
+    "id": "ko-connected",
+    "viewport": 1138,
+    "hint": "연결 정보를 바꾸면 다시 확인합니다.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "preflight",
+        "label": "조회 범위 확인",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-connected-busy",
+    "viewport": 1138,
+    "hint": "연결 정보를 바꾸면 다시 확인합니다.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "preflight",
+        "label": "조회 범위 확인",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-capabilities",
+    "viewport": 1138,
+    "hint": "미조회 영역은 결과에도 남습니다.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "choose",
+        "label": "검사 범위 선택",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-select-none",
+    "viewport": 1138,
+    "hint": "검사 분류를 하나 이상 선택하세요.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "실행 전 확인",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-select-no-table",
+    "viewport": 1138,
+    "hint": "검사할 테이블을 하나 이상 선택하세요.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "실행 전 확인",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-select-trial-unready",
+    "viewport": 1138,
+    "hint": "동작 시험을 준비하거나 선택을 해제하세요.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "실행 전 확인",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-select-trial-ready",
+    "viewport": 1138,
+    "hint": "선택 범위와 제외 범위를 다음 화면에서 확인합니다.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "실행 전 확인",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-select",
+    "viewport": 1138,
+    "hint": "선택 범위와 제외 범위를 다음 화면에서 확인합니다.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "실행 전 확인",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-trial",
+    "viewport": 1138,
+    "hint": "실제 앱은 분리 확인과 시험안 확인이 필요합니다.",
+    "back": {
+      "action": "trial-back",
+      "label": "검사 선택으로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "trial-check",
+        "label": "시험 준비 확인",
+        "variant": "primary",
+        "iconName": "check",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-trial-consented",
+    "viewport": 1138,
+    "hint": "실제 앱은 분리 확인과 시험안 확인이 필요합니다.",
+    "back": {
+      "action": "trial-back",
+      "label": "검사 선택으로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "trial-check",
+        "label": "시험 준비 확인",
+        "variant": "primary",
+        "iconName": "check",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-trial-ready",
+    "viewport": 1138,
+    "hint": "실제 앱은 분리 확인과 시험안 확인이 필요합니다.",
+    "back": {
+      "action": "trial-back",
+      "label": "검사 선택으로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "trial-back",
+        "label": "준비 확인 · 돌아가기",
+        "variant": "primary",
+        "iconName": "check",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-review",
+    "viewport": 1138,
+    "hint": "쓰기를 멈춘 상태를 확인하세요.",
+    "back": {
+      "action": "back",
+      "label": "선택 수정",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "run",
+        "label": "비교 시작",
+        "variant": "primary",
+        "iconName": "play",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-review-stopped",
+    "viewport": 1138,
+    "hint": "준비한 범위로 예시 검사를 시작합니다.",
+    "back": {
+      "action": "back",
+      "label": "선택 수정",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "run",
+        "label": "비교 시작",
+        "variant": "primary",
+        "iconName": "play",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-running",
+    "viewport": 1138,
+    "hint": "화면 시안의 예시 검사입니다. 실제 DB 읽기·쓰기는 없습니다.",
+    "back": null,
+    "actions": [
+      {
+        "action": "cancel",
+        "label": "검사 취소",
+        "variant": "danger",
+        "iconName": "stop",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-running-complete",
+    "viewport": 1138,
+    "hint": "화면 시안의 예시 검사입니다. 실제 DB 읽기·쓰기는 없습니다.",
+    "back": null,
+    "actions": [
+      {
+        "action": "show-results",
+        "label": "결과 보기",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-running-interrupted",
+    "viewport": 1138,
+    "hint": "중단 이유: 사용자 취소 · 새 전체 검사만 가능",
+    "back": null,
+    "actions": [
+      {
+        "action": "show-results",
+        "label": "결과 보기",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-results",
+    "viewport": 1138,
+    "hint": "확인한 범위와 확인 불가 이유를 함께 보관합니다.",
+    "back": {
+      "action": "restart",
+      "label": "전체 재검사",
+      "variant": "quiet",
+      "iconName": "refresh",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "save",
+        "label": "결과 저장",
+        "variant": "primary",
+        "iconName": "save",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-save-none",
+    "viewport": 1138,
+    "hint": "저장할 형식을 선택하세요.",
+    "back": {
+      "action": "back",
+      "label": "결과로 돌아가기",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "download",
+        "label": "선택 형식 저장",
+        "variant": "primary",
+        "iconName": "save",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-save",
+    "viewport": 1138,
+    "hint": "브라우저 다운로드로 예시 파일을 만듭니다.",
+    "back": {
+      "action": "back",
+      "label": "결과로 돌아가기",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "download",
+        "label": "선택 형식 저장",
+        "variant": "primary",
+        "iconName": "save",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-home",
+    "viewport": 1138,
+    "hint": "Explore the sample flow without logging in.",
+    "back": null,
+    "actions": []
+  },
+  {
+    "id": "en-connect",
+    "viewport": 1138,
+    "hint": "Changes require another connection check.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "connect",
+        "label": "Check both connections",
+        "variant": "primary",
+        "iconName": "db",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-connect-busy",
+    "viewport": 1138,
+    "hint": "Changes require another connection check.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "connect",
+        "label": "Checking…",
+        "variant": "primary",
+        "iconName": "",
+        "enabled": false,
+        "loading": true
+      }
+    ]
+  },
+  {
+    "id": "en-connected",
+    "viewport": 1138,
+    "hint": "Changes require another connection check.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "preflight",
+        "label": "Check visibility",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-connected-busy",
+    "viewport": 1138,
+    "hint": "Changes require another connection check.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "preflight",
+        "label": "Check visibility",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-capabilities",
+    "viewport": 1138,
+    "hint": "Visibility gaps stay in the result.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "choose",
+        "label": "Choose checks",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-select-none",
+    "viewport": 1138,
+    "hint": "Select at least one check category.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "Review before running",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-select-no-table",
+    "viewport": 1138,
+    "hint": "Select at least one table to compare.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "Review before running",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-select-trial-unready",
+    "viewport": 1138,
+    "hint": "Prepare or deselect the behavior test.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "Review before running",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-select-trial-ready",
+    "viewport": 1138,
+    "hint": "Review selected and excluded scope next.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "Review before running",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-select",
+    "viewport": 1138,
+    "hint": "Review selected and excluded scope next.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "Review before running",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-trial",
+    "viewport": 1138,
+    "hint": "The actual app must verify isolation and the trial plan.",
+    "back": {
+      "action": "trial-back",
+      "label": "Back to selection",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "trial-check",
+        "label": "Confirm test setup",
+        "variant": "primary",
+        "iconName": "check",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-trial-consented",
+    "viewport": 1138,
+    "hint": "The actual app must verify isolation and the trial plan.",
+    "back": {
+      "action": "trial-back",
+      "label": "Back to selection",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "trial-check",
+        "label": "Confirm test setup",
+        "variant": "primary",
+        "iconName": "check",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-trial-ready",
+    "viewport": 1138,
+    "hint": "The actual app must verify isolation and the trial plan.",
+    "back": {
+      "action": "trial-back",
+      "label": "Back to selection",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "trial-back",
+        "label": "Ready · Return",
+        "variant": "primary",
+        "iconName": "check",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-review",
+    "viewport": 1138,
+    "hint": "Confirm that writes are stopped.",
+    "back": {
+      "action": "back",
+      "label": "Edit selection",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "run",
+        "label": "Start comparison",
+        "variant": "primary",
+        "iconName": "play",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-review-stopped",
+    "viewport": 1138,
+    "hint": "Start sample checks for the prepared scope.",
+    "back": {
+      "action": "back",
+      "label": "Edit selection",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "run",
+        "label": "Start comparison",
+        "variant": "primary",
+        "iconName": "play",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-running",
+    "viewport": 1138,
+    "hint": "Simulated preview checks; no real DB reads or writes.",
+    "back": null,
+    "actions": [
+      {
+        "action": "cancel",
+        "label": "Cancel checks",
+        "variant": "danger",
+        "iconName": "stop",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-running-complete",
+    "viewport": 1138,
+    "hint": "Simulated preview checks; no real DB reads or writes.",
+    "back": null,
+    "actions": [
+      {
+        "action": "show-results",
+        "label": "View results",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-running-interrupted",
+    "viewport": 1138,
+    "hint": "Reason: user cancellation · Full new check only",
+    "back": null,
+    "actions": [
+      {
+        "action": "show-results",
+        "label": "View results",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-results",
+    "viewport": 1138,
+    "hint": "Save verified scope and reasons for gaps together.",
+    "back": {
+      "action": "restart",
+      "label": "Full new check",
+      "variant": "quiet",
+      "iconName": "refresh",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "save",
+        "label": "Save results",
+        "variant": "primary",
+        "iconName": "save",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-save-none",
+    "viewport": 1138,
+    "hint": "Choose a file format.",
+    "back": {
+      "action": "back",
+      "label": "Back to results",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "download",
+        "label": "Save selected formats",
+        "variant": "primary",
+        "iconName": "save",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-save",
+    "viewport": 1138,
+    "hint": "Create sample files via browser downloads.",
+    "back": {
+      "action": "back",
+      "label": "Back to results",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "download",
+        "label": "Save selected formats",
+        "variant": "primary",
+        "iconName": "save",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-home",
+    "viewport": 1280,
+    "hint": "로그인 없이 예시 흐름을 살펴볼 수 있습니다.",
+    "back": null,
+    "actions": []
+  },
+  {
+    "id": "ko-connect",
+    "viewport": 1280,
+    "hint": "연결 정보를 바꾸면 다시 확인합니다.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "connect",
+        "label": "두 연결 확인",
+        "variant": "primary",
+        "iconName": "db",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-connect-busy",
+    "viewport": 1280,
+    "hint": "연결 정보를 바꾸면 다시 확인합니다.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "connect",
+        "label": "확인 중…",
+        "variant": "primary",
+        "iconName": "",
+        "enabled": false,
+        "loading": true
+      }
+    ]
+  },
+  {
+    "id": "ko-connected",
+    "viewport": 1280,
+    "hint": "연결 정보를 바꾸면 다시 확인합니다.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "preflight",
+        "label": "조회 범위 확인",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-connected-busy",
+    "viewport": 1280,
+    "hint": "연결 정보를 바꾸면 다시 확인합니다.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "preflight",
+        "label": "조회 범위 확인",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-capabilities",
+    "viewport": 1280,
+    "hint": "미조회 영역은 결과에도 남습니다.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "choose",
+        "label": "검사 범위 선택",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-select-none",
+    "viewport": 1280,
+    "hint": "검사 분류를 하나 이상 선택하세요.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "실행 전 확인",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-select-no-table",
+    "viewport": 1280,
+    "hint": "검사할 테이블을 하나 이상 선택하세요.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "실행 전 확인",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-select-trial-unready",
+    "viewport": 1280,
+    "hint": "동작 시험을 준비하거나 선택을 해제하세요.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "실행 전 확인",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-select-trial-ready",
+    "viewport": 1280,
+    "hint": "선택 범위와 제외 범위를 다음 화면에서 확인합니다.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "실행 전 확인",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-select",
+    "viewport": 1280,
+    "hint": "선택 범위와 제외 범위를 다음 화면에서 확인합니다.",
+    "back": {
+      "action": "back",
+      "label": "뒤로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "실행 전 확인",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-trial",
+    "viewport": 1280,
+    "hint": "실제 앱은 분리 확인과 시험안 확인이 필요합니다.",
+    "back": {
+      "action": "trial-back",
+      "label": "검사 선택으로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "trial-check",
+        "label": "시험 준비 확인",
+        "variant": "primary",
+        "iconName": "check",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-trial-consented",
+    "viewport": 1280,
+    "hint": "실제 앱은 분리 확인과 시험안 확인이 필요합니다.",
+    "back": {
+      "action": "trial-back",
+      "label": "검사 선택으로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "trial-check",
+        "label": "시험 준비 확인",
+        "variant": "primary",
+        "iconName": "check",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-trial-ready",
+    "viewport": 1280,
+    "hint": "실제 앱은 분리 확인과 시험안 확인이 필요합니다.",
+    "back": {
+      "action": "trial-back",
+      "label": "검사 선택으로",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "trial-back",
+        "label": "준비 확인 · 돌아가기",
+        "variant": "primary",
+        "iconName": "check",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-review",
+    "viewport": 1280,
+    "hint": "쓰기를 멈춘 상태를 확인하세요.",
+    "back": {
+      "action": "back",
+      "label": "선택 수정",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "run",
+        "label": "비교 시작",
+        "variant": "primary",
+        "iconName": "play",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-review-stopped",
+    "viewport": 1280,
+    "hint": "준비한 범위로 예시 검사를 시작합니다.",
+    "back": {
+      "action": "back",
+      "label": "선택 수정",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "run",
+        "label": "비교 시작",
+        "variant": "primary",
+        "iconName": "play",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-running",
+    "viewport": 1280,
+    "hint": "화면 시안의 예시 검사입니다. 실제 DB 읽기·쓰기는 없습니다.",
+    "back": null,
+    "actions": [
+      {
+        "action": "cancel",
+        "label": "검사 취소",
+        "variant": "danger",
+        "iconName": "stop",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-running-complete",
+    "viewport": 1280,
+    "hint": "화면 시안의 예시 검사입니다. 실제 DB 읽기·쓰기는 없습니다.",
+    "back": null,
+    "actions": [
+      {
+        "action": "show-results",
+        "label": "결과 보기",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-running-interrupted",
+    "viewport": 1280,
+    "hint": "중단 이유: 사용자 취소 · 새 전체 검사만 가능",
+    "back": null,
+    "actions": [
+      {
+        "action": "show-results",
+        "label": "결과 보기",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-results",
+    "viewport": 1280,
+    "hint": "확인한 범위와 확인 불가 이유를 함께 보관합니다.",
+    "back": {
+      "action": "restart",
+      "label": "전체 재검사",
+      "variant": "quiet",
+      "iconName": "refresh",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "save",
+        "label": "결과 저장",
+        "variant": "primary",
+        "iconName": "save",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-save-none",
+    "viewport": 1280,
+    "hint": "저장할 형식을 선택하세요.",
+    "back": {
+      "action": "back",
+      "label": "결과로 돌아가기",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "download",
+        "label": "선택 형식 저장",
+        "variant": "primary",
+        "iconName": "save",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "ko-save",
+    "viewport": 1280,
+    "hint": "브라우저 다운로드로 예시 파일을 만듭니다.",
+    "back": {
+      "action": "back",
+      "label": "결과로 돌아가기",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "download",
+        "label": "선택 형식 저장",
+        "variant": "primary",
+        "iconName": "save",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-home",
+    "viewport": 1280,
+    "hint": "Explore the sample flow without logging in.",
+    "back": null,
+    "actions": []
+  },
+  {
+    "id": "en-connect",
+    "viewport": 1280,
+    "hint": "Changes require another connection check.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "connect",
+        "label": "Check both connections",
+        "variant": "primary",
+        "iconName": "db",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-connect-busy",
+    "viewport": 1280,
+    "hint": "Changes require another connection check.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "connect",
+        "label": "Checking…",
+        "variant": "primary",
+        "iconName": "",
+        "enabled": false,
+        "loading": true
+      }
+    ]
+  },
+  {
+    "id": "en-connected",
+    "viewport": 1280,
+    "hint": "Changes require another connection check.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "preflight",
+        "label": "Check visibility",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-connected-busy",
+    "viewport": 1280,
+    "hint": "Changes require another connection check.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "preflight",
+        "label": "Check visibility",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-capabilities",
+    "viewport": 1280,
+    "hint": "Visibility gaps stay in the result.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "choose",
+        "label": "Choose checks",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-select-none",
+    "viewport": 1280,
+    "hint": "Select at least one check category.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "Review before running",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-select-no-table",
+    "viewport": 1280,
+    "hint": "Select at least one table to compare.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "Review before running",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-select-trial-unready",
+    "viewport": 1280,
+    "hint": "Prepare or deselect the behavior test.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "Review before running",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-select-trial-ready",
+    "viewport": 1280,
+    "hint": "Review selected and excluded scope next.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "Review before running",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-select",
+    "viewport": 1280,
+    "hint": "Review selected and excluded scope next.",
+    "back": {
+      "action": "back",
+      "label": "Back",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "review",
+        "label": "Review before running",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-trial",
+    "viewport": 1280,
+    "hint": "The actual app must verify isolation and the trial plan.",
+    "back": {
+      "action": "trial-back",
+      "label": "Back to selection",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "trial-check",
+        "label": "Confirm test setup",
+        "variant": "primary",
+        "iconName": "check",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-trial-consented",
+    "viewport": 1280,
+    "hint": "The actual app must verify isolation and the trial plan.",
+    "back": {
+      "action": "trial-back",
+      "label": "Back to selection",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "trial-check",
+        "label": "Confirm test setup",
+        "variant": "primary",
+        "iconName": "check",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-trial-ready",
+    "viewport": 1280,
+    "hint": "The actual app must verify isolation and the trial plan.",
+    "back": {
+      "action": "trial-back",
+      "label": "Back to selection",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "trial-back",
+        "label": "Ready · Return",
+        "variant": "primary",
+        "iconName": "check",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-review",
+    "viewport": 1280,
+    "hint": "Confirm that writes are stopped.",
+    "back": {
+      "action": "back",
+      "label": "Edit selection",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "run",
+        "label": "Start comparison",
+        "variant": "primary",
+        "iconName": "play",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-review-stopped",
+    "viewport": 1280,
+    "hint": "Start sample checks for the prepared scope.",
+    "back": {
+      "action": "back",
+      "label": "Edit selection",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "run",
+        "label": "Start comparison",
+        "variant": "primary",
+        "iconName": "play",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-running",
+    "viewport": 1280,
+    "hint": "Simulated preview checks; no real DB reads or writes.",
+    "back": null,
+    "actions": [
+      {
+        "action": "cancel",
+        "label": "Cancel checks",
+        "variant": "danger",
+        "iconName": "stop",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-running-complete",
+    "viewport": 1280,
+    "hint": "Simulated preview checks; no real DB reads or writes.",
+    "back": null,
+    "actions": [
+      {
+        "action": "show-results",
+        "label": "View results",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-running-interrupted",
+    "viewport": 1280,
+    "hint": "Reason: user cancellation · Full new check only",
+    "back": null,
+    "actions": [
+      {
+        "action": "show-results",
+        "label": "View results",
+        "variant": "primary",
+        "iconName": "arrow",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-results",
+    "viewport": 1280,
+    "hint": "Save verified scope and reasons for gaps together.",
+    "back": {
+      "action": "restart",
+      "label": "Full new check",
+      "variant": "quiet",
+      "iconName": "refresh",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "save",
+        "label": "Save results",
+        "variant": "primary",
+        "iconName": "save",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-save-none",
+    "viewport": 1280,
+    "hint": "Choose a file format.",
+    "back": {
+      "action": "back",
+      "label": "Back to results",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "download",
+        "label": "Save selected formats",
+        "variant": "primary",
+        "iconName": "save",
+        "enabled": false,
+        "loading": false
+      }
+    ]
+  },
+  {
+    "id": "en-save",
+    "viewport": 1280,
+    "hint": "Create sample files via browser downloads.",
+    "back": {
+      "action": "back",
+      "label": "Back to results",
+      "variant": "quiet",
+      "iconName": "back",
+      "enabled": true,
+      "loading": false
+    },
+    "actions": [
+      {
+        "action": "download",
+        "label": "Save selected formats",
+        "variant": "primary",
+        "iconName": "save",
+        "enabled": true,
+        "loading": false
+      }
+    ]
+  }
+]

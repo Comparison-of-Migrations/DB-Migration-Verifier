@@ -1,0 +1,191 @@
+[
+  {
+    "badge": {
+      "height": 24,
+      "width": 24,
+      "x": 15,
+      "y": 14
+    },
+    "dom": "<button type=\"button\" class=\"step  done\" data-action=\"stage:connect\"><span class=\"step-index\"><svg class=\"svg \" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"m5 12 4 4L19 6\"></path></svg></span><span>Connect DBs</span></button>",
+    "height": 52,
+    "label": {
+      "height": 20.796875,
+      "width": 79.3203125,
+      "x": 51,
+      "y": 15.6015625
+    },
+    "style": {
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(205, 208, 214)",
+      "fontWeight": "400",
+      "gap": "12px",
+      "lineHeight": "20.8px",
+      "padding": "12px 14px",
+      "shadow": "none",
+      "transition": "background-color 0.12s cubic-bezier(0.22, 1, 0.36, 1), color 0.12s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.12s cubic-bezier(0.22, 1, 0.36, 1), transform 0.08s cubic-bezier(0.22, 1, 0.36, 1)"
+    },
+    "width": 192
+  },
+  {
+    "badge": {
+      "height": 24,
+      "width": 24,
+      "x": 15,
+      "y": 14
+    },
+    "dom": "<button type=\"button\" class=\"step  done\" data-action=\"stage:capabilities\"><span class=\"step-index\"><svg class=\"svg \" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"m5 12 4 4L19 6\"></path></svg></span><span>Preflight</span></button>",
+    "height": 52,
+    "label": {
+      "height": 20.796875,
+      "width": 51.2578125,
+      "x": 51,
+      "y": 15.6015625
+    },
+    "style": {
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(205, 208, 214)",
+      "fontWeight": "400",
+      "gap": "12px",
+      "lineHeight": "20.8px",
+      "padding": "12px 14px",
+      "shadow": "none",
+      "transition": "background-color 0.12s cubic-bezier(0.22, 1, 0.36, 1), color 0.12s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.12s cubic-bezier(0.22, 1, 0.36, 1), transform 0.08s cubic-bezier(0.22, 1, 0.36, 1)"
+    },
+    "width": 192
+  },
+  {
+    "badge": {
+      "height": 24,
+      "width": 24,
+      "x": 15,
+      "y": 14
+    },
+    "dom": "<button type=\"button\" class=\"step active \" data-action=\"stage:select\" aria-current=\"step\"><span class=\"step-index\">3</span><span>Choose checks</span></button>",
+    "height": 52,
+    "label": {
+      "height": 20.796875,
+      "width": 96.8203125,
+      "x": 51,
+      "y": 15.6015625
+    },
+    "style": {
+      "bg": "rgb(60, 63, 75)",
+      "color": "rgb(242, 243, 245)",
+      "fontWeight": "650",
+      "gap": "12px",
+      "lineHeight": "20.8px",
+      "padding": "12px 14px",
+      "shadow": "rgb(139, 148, 255) 3px 0px 0px 0px inset",
+      "transition": "background-color 0.12s cubic-bezier(0.22, 1, 0.36, 1), color 0.12s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.12s cubic-bezier(0.22, 1, 0.36, 1), transform 0.08s cubic-bezier(0.22, 1, 0.36, 1)"
+    },
+    "width": 192
+  },
+  {
+    "badge": {
+      "height": 24,
+      "width": 24,
+      "x": 15,
+      "y": 14
+    },
+    "dom": "<button type=\"button\" class=\"step  \" data-action=\"stage:review\" disabled=\"\"><span class=\"step-index\">4</span><span>Review</span></button>",
+    "height": 52,
+    "label": {
+      "height": 20.796875,
+      "width": 42.8984375,
+      "x": 51,
+      "y": 15.6015625
+    },
+    "style": {
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(181, 186, 193)",
+      "fontWeight": "400",
+      "gap": "12px",
+      "lineHeight": "20.8px",
+      "padding": "12px 14px",
+      "shadow": "none",
+      "transition": "background-color 0.12s cubic-bezier(0.22, 1, 0.36, 1), color 0.12s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.12s cubic-bezier(0.22, 1, 0.36, 1), transform 0.08s cubic-bezier(0.22, 1, 0.36, 1)"
+    },
+    "width": 192
+  },
+  {
+    "badge": {
+      "height": 24,
+      "width": 24,
+      "x": 15,
+      "y": 14
+    },
+    "dom": "<button type=\"button\" class=\"step  \" data-action=\"stage:running\" disabled=\"\"><span class=\"step-index\">5</span><span>Run checks</span></button>",
+    "height": 52,
+    "label": {
+      "height": 20.796875,
+      "width": 69.796875,
+      "x": 51,
+      "y": 15.6015625
+    },
+    "style": {
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(181, 186, 193)",
+      "fontWeight": "400",
+      "gap": "12px",
+      "lineHeight": "20.8px",
+      "padding": "12px 14px",
+      "shadow": "none",
+      "transition": "background-color 0.12s cubic-bezier(0.22, 1, 0.36, 1), color 0.12s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.12s cubic-bezier(0.22, 1, 0.36, 1), transform 0.08s cubic-bezier(0.22, 1, 0.36, 1)"
+    },
+    "width": 192
+  },
+  {
+    "badge": {
+      "height": 24,
+      "width": 24,
+      "x": 15,
+      "y": 14
+    },
+    "dom": "<button type=\"button\" class=\"step  \" data-action=\"stage:results\" disabled=\"\"><span class=\"step-index\">6</span><span>Results</span></button>",
+    "height": 52,
+    "label": {
+      "height": 20.796875,
+      "width": 44.28125,
+      "x": 51,
+      "y": 15.6015625
+    },
+    "style": {
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(181, 186, 193)",
+      "fontWeight": "400",
+      "gap": "12px",
+      "lineHeight": "20.8px",
+      "padding": "12px 14px",
+      "shadow": "none",
+      "transition": "background-color 0.12s cubic-bezier(0.22, 1, 0.36, 1), color 0.12s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.12s cubic-bezier(0.22, 1, 0.36, 1), transform 0.08s cubic-bezier(0.22, 1, 0.36, 1)"
+    },
+    "width": 192
+  },
+  {
+    "badge": {
+      "height": 24,
+      "width": 24,
+      "x": 15,
+      "y": 14
+    },
+    "dom": "<button type=\"button\" class=\"step  \" data-action=\"stage:save\" disabled=\"\"><span class=\"step-index\">7</span><span>Save results</span></button>",
+    "height": 52,
+    "label": {
+      "height": 20.796875,
+      "width": 73.4296875,
+      "x": 51,
+      "y": 15.6015625
+    },
+    "style": {
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(181, 186, 193)",
+      "fontWeight": "400",
+      "gap": "12px",
+      "lineHeight": "20.8px",
+      "padding": "12px 14px",
+      "shadow": "none",
+      "transition": "background-color 0.12s cubic-bezier(0.22, 1, 0.36, 1), color 0.12s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.12s cubic-bezier(0.22, 1, 0.36, 1), transform 0.08s cubic-bezier(0.22, 1, 0.36, 1)"
+    },
+    "width": 192
+  }
+]

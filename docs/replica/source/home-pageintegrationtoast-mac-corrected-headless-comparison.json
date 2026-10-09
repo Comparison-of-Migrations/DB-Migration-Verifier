@@ -1,0 +1,50 @@
+{
+  "phase": "HEADLESS_DIFFERENCES",
+  "scope": "MainContent parent Toast geometry16 and applicable real timer/lifetime; Motion200ms unchanged/reused",
+  "source": "docs/replica/source/home-pageintegrationtoast-mac-composed-source.json",
+  "candidate": "artifacts/replica/workers/home/pageintegration/f634e87a0de741e69e526930272213e3/outputs/3b7a62a6611249a78a274d0d473126d7/candidate/pageintegration-toast.json",
+  "checks": 349,
+  "differences": [
+    {
+      "path": "en-960-normal-short.box.x",
+      "source": 557.5703125,
+      "candidate": 557.5625
+    },
+    {
+      "path": "en-960-normal-short.box.width",
+      "source": 378.4296875,
+      "candidate": 378.4375
+    },
+    {
+      "path": "en-1280-normal-short.box.x",
+      "source": 877.5703125,
+      "candidate": 877.5625
+    },
+    {
+      "path": "en-1280-normal-short.box.width",
+      "source": 378.4296875,
+      "candidate": 378.4375
+    },
+    {
+      "path": "en-960-reduced-short.box.x",
+      "source": 557.5703125,
+      "candidate": 557.5625
+    },
+    {
+      "path": "en-960-reduced-short.box.width",
+      "source": 378.4296875,
+      "candidate": 378.4375
+    },
+    {
+      "path": "en-1280-reduced-short.box.x",
+      "source": 877.5703125,
+      "candidate": 877.5625
+    },
+    {
+      "path": "en-1280-reduced-short.box.width",
+      "source": 378.4296875,
+      "candidate": 378.4375
+    }
+  ],
+  "normalization": "CSS rgba/ARGB and thickness order/omitted shadow spread normalized; numeric geometry tolerance0.001; no font/geometry waiver; actual/native noninteractive presentation seeds, not pointer input"
+}

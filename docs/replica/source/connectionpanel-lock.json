@@ -1,0 +1,7 @@
+{
+  "component": "ConnectionPanel",
+  "contract": "Each OS40 geometry/fields and actual shadow properties, existing actual input routing verified; corrected final CSS override shadow alpha16/offset2/blur4. Connection parent owns policy.",
+  "files": {
+    "src/Verifier.Desktop/WebConnectionPanel.cs": "bbdc50a4a166b0fccc9a16d414f04ed03ef3ec48f65fab102dde492071813ee9"
+  }
+}

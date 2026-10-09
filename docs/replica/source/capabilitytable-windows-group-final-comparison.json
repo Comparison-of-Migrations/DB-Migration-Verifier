@@ -1,0 +1,12 @@
+{
+  "scope": "actual RawViewWalker/ControlViewWalker KOEN2, direct5rows/4namedcells/permissionleaf, parent Groups falsecontrol/content",
+  "counts": {
+    "controlNodes": 108,
+    "bodyCells": 64
+  },
+  "errors": [],
+  "passed": true,
+  "defaultProviderBoundary": "RawView private browser Text nodes false control/content versus Avalonia leaf peers; semantic Control tree/name/contents exact. Protected HeaderItem versus Chromium DataItem role contract reused; all actual boxes positive and inner width exact. Geometry12 evidence unchanged.",
+  "uniqueBodyCells": 32,
+  "viewsPerLanguage": 2
+}

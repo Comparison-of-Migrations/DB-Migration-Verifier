@@ -1,0 +1,92 @@
+{
+  "history": [
+    {
+      "label": "interactive-ready",
+      "filter": "all",
+      "english": false,
+      "title": "\uBD88\uC77C\uCE58\uAC00 \uBC1C\uACAC\uB410\uC2B5\uB2C8\uB2E4",
+      "articleIds": [
+        "F-001",
+        "F-002",
+        "F-003",
+        "U-001"
+      ],
+      "focusId": null,
+      "focusName": null,
+      "navigationMethod": null,
+      "filterWindowPoint": {
+        "X": 200,
+        "Y": 326
+      },
+      "filterSize": {
+        "AspectRatio": 3.0094105113636362,
+        "Width": 132.4140625,
+        "Height": 44
+      },
+      "keyboard": false,
+      "trialFocused": false,
+      "trialFocusVisible": false,
+      "trialOpacity": 1,
+      "trialScale": 1,
+      "attached": true
+    },
+    {
+      "label": "filter:unknown",
+      "filter": "unknown",
+      "english": false,
+      "title": "\uBD88\uC77C\uCE58\uAC00 \uBC1C\uACAC\uB410\uC2B5\uB2C8\uB2E4",
+      "articleIds": [
+        "U-001"
+      ],
+      "focusId": "Results-filter-unknown",
+      "focusName": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D",
+      "navigationMethod": "Pointer",
+      "filterWindowPoint": {
+        "X": 200,
+        "Y": 326
+      },
+      "filterSize": {
+        "AspectRatio": 3.0094105113636362,
+        "Width": 132.4140625,
+        "Height": 44
+      },
+      "keyboard": false,
+      "trialFocused": false,
+      "trialFocusVisible": false,
+      "trialOpacity": 1,
+      "trialScale": 1,
+      "attached": true
+    },
+    {
+      "label": "filter:unknown",
+      "filter": "unknown",
+      "english": false,
+      "title": "\uBD88\uC77C\uCE58\uAC00 \uBC1C\uACAC\uB410\uC2B5\uB2C8\uB2E4",
+      "articleIds": [
+        "U-001"
+      ],
+      "focusId": "Results-filter-unknown",
+      "focusName": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D",
+      "navigationMethod": "Tab",
+      "filterWindowPoint": {
+        "X": 200,
+        "Y": 326
+      },
+      "filterSize": {
+        "AspectRatio": 3.0094105113636362,
+        "Width": 132.4140625,
+        "Height": 44
+      },
+      "keyboard": true,
+      "trialFocused": false,
+      "trialFocusVisible": false,
+      "trialOpacity": 1,
+      "trialScale": 1,
+      "attached": true
+    }
+  ],
+  "requests": [
+    "filter:unknown",
+    "filter:unknown"
+  ]
+}

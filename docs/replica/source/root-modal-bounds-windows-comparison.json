@@ -1,0 +1,22 @@
+{
+  "phase": "PASSED",
+  "scope": "New smallviewport native App parent bounds; physical input remains separate",
+  "source": "docs/replica/source/root-modal-bounds-windows-source.json",
+  "sourceRecording": "0bc1b5c3735647e58ade62a44bd59261",
+  "sourceWindow": 0,
+  "headless": {
+    "artifact": "artifacts/replica/workers/root/pageintegration/698cae0726b14fe586c1e81921e785f1/modal-bounds-headless-windows/4f0d5d7ae2e84deeb6653dc58965eefd",
+    "checks": 128,
+    "differences": 0,
+    "processCount": 0,
+    "exitCode": 0
+  },
+  "actualNative": {
+    "artifact": "artifacts/replica/workers/root/pageintegration/698cae0726b14fe586c1e81921e785f1/modal-bounds-native-auto/70d0678a4c4a4b888d816d37d520aedc",
+    "checks": 128,
+    "differences": 0,
+    "processCount": 0,
+    "exitCode": 0
+  },
+  "unchangedScopesReused": "Only Windows marker font/wrap code changed after frozen698; modal layout and parent1×1 measured marker geometry unchanged. No older child matrices rerun."
+}

@@ -1,0 +1,28 @@
+{
+  "source": "Original metric-label11px, forced40 exploratory only, fresh actual Range observation",
+  "text": "Unverified / unobserved",
+  "lineY": [
+    40,
+    57.59375,
+    75.1875
+  ],
+  "firstWordStartX": 30,
+  "firstWordLastCharacter": {
+    "char": "d",
+    "x": 76.8125,
+    "width": 6.828125
+  },
+  "slash": {
+    "x": 30,
+    "y": 57.59375,
+    "width": 3.421875
+  },
+  "lastWordStartX": 30,
+  "lastWordLastCharacter": {
+    "char": "d",
+    "x": 84.984375,
+    "width": 6.828125
+  },
+  "originalFlexItem": "min-width:auto; default flex-shrink:1; flex-wrap:wrap on Metrics",
+  "scopeDecision": "Forced40 below unbreakable word61.8125 cannot be actual allocation in original Metrics; root approved literal unchanged parent actual widths326/656/904 main72; preserve failed exploratory72."
+}

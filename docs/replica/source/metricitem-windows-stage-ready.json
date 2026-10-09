@@ -1,0 +1,10 @@
+{
+  "phase": "COLD_STAGED_NATIVE_PENDING",
+  "build": "cb166a66d3b24977a6e5ff7839f714d6",
+  "stageMode": "--headless-only; rootexplicitallowed independentdeployment",
+  "guestApp": "C:\\Users\\YOUPTE~1\\AppData\\Local\\Temp\\DBMV-Isolated-connection-metricitem-cb166a66d3b24977a6e5ff7839f714d6\\app",
+  "stageExitCode": 0,
+  "processLaunched": false,
+  "nativeInputFocusTouched": false,
+  "sourceWidths": "FreshWindowsnativelease source72 will replace servedcaseJSON; noMacwidthreuse"
+}

@@ -1,0 +1,112 @@
+{
+  "phase": "ACTUAL_OS_PASSED",
+  "checks": [
+    {
+      "id": "ko-screen-title",
+      "pass": true,
+      "rawActualUIA": {
+        "id": "screen-title",
+        "name": "동작 시험은 별도 DB에서 합니다",
+        "type": "ControlType.Text",
+        "control": true,
+        "content": true,
+        "children": 0,
+        "box": "778,567,1900,75"
+      }
+    },
+    {
+      "id": "ko-Footer-trial-check",
+      "pass": true,
+      "rawActualUIA": {
+        "id": "Footer-trial-check",
+        "name": "시험 준비 확인",
+        "type": "ControlType.Button",
+        "control": true,
+        "content": true,
+        "children": 0,
+        "box": "2380,1972,328,96"
+      }
+    },
+    {
+      "id": "ko-Footer-trial-back",
+      "pass": true,
+      "rawActualUIA": {
+        "id": "Footer-trial-back",
+        "name": "검사 선택으로",
+        "type": "ControlType.Button",
+        "control": true,
+        "content": true,
+        "children": 0,
+        "box": "778,1976,287,88"
+      }
+    },
+    {
+      "id": "ko-announcer",
+      "pass": true,
+      "rawActualUIA": {
+        "id": "announcer",
+        "name": "동작 시험은 별도 DB에서 합니다",
+        "type": "ControlType.Text",
+        "control": true,
+        "content": true,
+        "children": 0,
+        "box": "258,2103,2,2"
+      }
+    },
+    {
+      "id": "en-screen-title",
+      "pass": true,
+      "rawActualUIA": {
+        "id": "screen-title",
+        "name": "Behavior tests use a separate database",
+        "type": "ControlType.Text",
+        "control": true,
+        "content": true,
+        "children": 0,
+        "box": "778,565,1900,75"
+      }
+    },
+    {
+      "id": "en-Footer-trial-check",
+      "pass": true,
+      "rawActualUIA": {
+        "id": "Footer-trial-check",
+        "name": "Confirm test setup",
+        "type": "ControlType.Button",
+        "control": true,
+        "content": true,
+        "children": 0,
+        "box": "2353,1970,355,96"
+      }
+    },
+    {
+      "id": "en-Footer-trial-back",
+      "pass": true,
+      "rawActualUIA": {
+        "id": "Footer-trial-back",
+        "name": "Back to selection",
+        "type": "ControlType.Button",
+        "control": true,
+        "content": true,
+        "children": 0,
+        "box": "778,1974,333,88"
+      }
+    },
+    {
+      "id": "en-announcer",
+      "pass": true,
+      "rawActualUIA": {
+        "id": "announcer",
+        "name": "Behavior tests use a separate database",
+        "type": "ControlType.Text",
+        "control": true,
+        "content": true,
+        "children": 0,
+        "box": "258,2103,2,2"
+      }
+    }
+  ],
+  "visualReview": "KOEN native and KO source official captures visually reviewed: parent structure, sourcePalette, footer/control/text placement, document/main scrollbar. Different real browser/app viewport screenshots are style/structural review, not same-size pixel equality; actual parent24 geometry strict0 separately. OS raster/native chrome permitted boundary retained.",
+  "nativeManifest": "1686dbf596da4a7e84c72dd5a13a479d",
+  "sourceAnnouncementProvider": "Original status parent unnamed/child1; actual named content and public native namedText leaf represented separately, global announce flow root-owned."
+}

@@ -1,0 +1,650 @@
+[
+  {
+    "bar": {
+      "height": 5,
+      "width": 9.5390625,
+      "x": 568.265625,
+      "y": 545.46875
+    },
+    "barStyle": {
+      "background": "none",
+      "color": "rgb(255, 149, 157)",
+      "height": "5px",
+      "origin": "0px 2.5px",
+      "radius": "2px",
+      "transform": "none",
+      "width": "9.53906px"
+    },
+    "box": {
+      "height": 45.1953125,
+      "width": 190.9140625,
+      "x": 568.265625,
+      "y": 505.2734375
+    },
+    "class": "result-count different ",
+    "count": "1",
+    "kind": "different",
+    "number": {
+      "height": 31.1953125,
+      "width": 190.9140625,
+      "x": 568.265625,
+      "y": 505.2734375
+    },
+    "numberStyle": {
+      "color": "rgb(255, 149, 157)",
+      "font": "",
+      "fontVariant": "tabular-nums",
+      "letterSpacing": "-0.65px",
+      "lineHeight": "31.2px",
+      "opacity": "1",
+      "transform": "none"
+    },
+    "track": {
+      "height": 5,
+      "width": 190.9140625,
+      "x": 568.265625,
+      "y": 545.46875
+    },
+    "trackStyle": {
+      "background": "rgb(65, 67, 74)",
+      "height": "5px",
+      "marginTop": "9px",
+      "overflow": "hidden",
+      "radius": "2px"
+    }
+  },
+  {
+    "bar": {
+      "height": 5,
+      "width": 0,
+      "x": 779.1796875,
+      "y": 545.46875
+    },
+    "barStyle": {
+      "background": "repeating-linear-gradient(135deg, rgb(240, 196, 124) 0px, rgb(240, 196, 124) 3px, rgb(152, 117, 62) 3px, rgb(152, 117, 62) 5px)",
+      "color": "rgba(0, 0, 0, 0)",
+      "height": "5px",
+      "origin": "0px 2.5px",
+      "radius": "2px",
+      "transform": "none",
+      "width": "0px"
+    },
+    "box": {
+      "height": 45.1953125,
+      "width": 190.90625,
+      "x": 779.1796875,
+      "y": 505.2734375
+    },
+    "class": "result-count unknown zero",
+    "count": "0",
+    "kind": "unknown",
+    "number": {
+      "height": 31.1953125,
+      "width": 190.90625,
+      "x": 779.1796875,
+      "y": 505.2734375
+    },
+    "numberStyle": {
+      "color": "rgb(181, 186, 193)",
+      "font": "",
+      "fontVariant": "tabular-nums",
+      "letterSpacing": "-0.65px",
+      "lineHeight": "31.2px",
+      "opacity": "1",
+      "transform": "none"
+    },
+    "track": {
+      "height": 5,
+      "width": 190.90625,
+      "x": 779.1796875,
+      "y": 545.46875
+    },
+    "trackStyle": {
+      "background": "rgb(65, 67, 74)",
+      "height": "5px",
+      "marginTop": "9px",
+      "overflow": "hidden",
+      "radius": "2px"
+    }
+  },
+  {
+    "bar": {
+      "height": 5,
+      "width": 104.9921875,
+      "x": 990.0859375,
+      "y": 545.46875
+    },
+    "barStyle": {
+      "background": "none",
+      "color": "rgb(107, 221, 163)",
+      "height": "5px",
+      "origin": "0px 2.5px",
+      "radius": "2px",
+      "transform": "none",
+      "width": "104.992px"
+    },
+    "box": {
+      "height": 45.1953125,
+      "width": 190.90625,
+      "x": 990.0859375,
+      "y": 505.2734375
+    },
+    "class": "result-count equal ",
+    "count": "11",
+    "kind": "equal",
+    "number": {
+      "height": 31.1953125,
+      "width": 190.90625,
+      "x": 990.0859375,
+      "y": 505.2734375
+    },
+    "numberStyle": {
+      "color": "rgb(107, 221, 163)",
+      "font": "",
+      "fontVariant": "tabular-nums",
+      "letterSpacing": "-0.65px",
+      "lineHeight": "31.2px",
+      "opacity": "1",
+      "transform": "none"
+    },
+    "track": {
+      "height": 5,
+      "width": 190.90625,
+      "x": 990.0859375,
+      "y": 545.46875
+    },
+    "trackStyle": {
+      "background": "rgb(65, 67, 74)",
+      "height": "5px",
+      "marginTop": "9px",
+      "overflow": "hidden",
+      "radius": "2px"
+    }
+  },
+  {
+    "bar": {
+      "height": 5,
+      "width": 9.5390625,
+      "x": 568.265625,
+      "y": 627.46875
+    },
+    "barStyle": {
+      "background": "none",
+      "color": "rgb(255, 149, 157)",
+      "height": "5px",
+      "origin": "0px 2.5px",
+      "radius": "2px",
+      "transform": "none",
+      "width": "9.53906px"
+    },
+    "box": {
+      "height": 45.1953125,
+      "width": 190.9140625,
+      "x": 568.265625,
+      "y": 587.2734375
+    },
+    "class": "result-count different ",
+    "count": "1",
+    "kind": "different",
+    "number": {
+      "height": 31.1953125,
+      "width": 190.9140625,
+      "x": 568.265625,
+      "y": 587.2734375
+    },
+    "numberStyle": {
+      "color": "rgb(255, 149, 157)",
+      "font": "",
+      "fontVariant": "tabular-nums",
+      "letterSpacing": "-0.65px",
+      "lineHeight": "31.2px",
+      "opacity": "1",
+      "transform": "none"
+    },
+    "track": {
+      "height": 5,
+      "width": 190.9140625,
+      "x": 568.265625,
+      "y": 627.46875
+    },
+    "trackStyle": {
+      "background": "rgb(65, 67, 74)",
+      "height": "5px",
+      "marginTop": "9px",
+      "overflow": "hidden",
+      "radius": "2px"
+    }
+  },
+  {
+    "bar": {
+      "height": 5,
+      "width": 0,
+      "x": 779.1796875,
+      "y": 627.46875
+    },
+    "barStyle": {
+      "background": "repeating-linear-gradient(135deg, rgb(240, 196, 124) 0px, rgb(240, 196, 124) 3px, rgb(152, 117, 62) 3px, rgb(152, 117, 62) 5px)",
+      "color": "rgba(0, 0, 0, 0)",
+      "height": "5px",
+      "origin": "0px 2.5px",
+      "radius": "2px",
+      "transform": "none",
+      "width": "0px"
+    },
+    "box": {
+      "height": 45.1953125,
+      "width": 190.90625,
+      "x": 779.1796875,
+      "y": 587.2734375
+    },
+    "class": "result-count unknown zero",
+    "count": "0",
+    "kind": "unknown",
+    "number": {
+      "height": 31.1953125,
+      "width": 190.90625,
+      "x": 779.1796875,
+      "y": 587.2734375
+    },
+    "numberStyle": {
+      "color": "rgb(181, 186, 193)",
+      "font": "",
+      "fontVariant": "tabular-nums",
+      "letterSpacing": "-0.65px",
+      "lineHeight": "31.2px",
+      "opacity": "1",
+      "transform": "none"
+    },
+    "track": {
+      "height": 5,
+      "width": 190.90625,
+      "x": 779.1796875,
+      "y": 627.46875
+    },
+    "trackStyle": {
+      "background": "rgb(65, 67, 74)",
+      "height": "5px",
+      "marginTop": "9px",
+      "overflow": "hidden",
+      "radius": "2px"
+    }
+  },
+  {
+    "bar": {
+      "height": 5,
+      "width": 162.265625,
+      "x": 990.0859375,
+      "y": 627.46875
+    },
+    "barStyle": {
+      "background": "none",
+      "color": "rgb(107, 221, 163)",
+      "height": "5px",
+      "origin": "0px 2.5px",
+      "radius": "2px",
+      "transform": "none",
+      "width": "162.266px"
+    },
+    "box": {
+      "height": 45.1953125,
+      "width": 190.90625,
+      "x": 990.0859375,
+      "y": 587.2734375
+    },
+    "class": "result-count equal ",
+    "count": "17",
+    "kind": "equal",
+    "number": {
+      "height": 31.1953125,
+      "width": 190.90625,
+      "x": 990.0859375,
+      "y": 587.2734375
+    },
+    "numberStyle": {
+      "color": "rgb(107, 221, 163)",
+      "font": "",
+      "fontVariant": "tabular-nums",
+      "letterSpacing": "-0.65px",
+      "lineHeight": "31.2px",
+      "opacity": "1",
+      "transform": "none"
+    },
+    "track": {
+      "height": 5,
+      "width": 190.90625,
+      "x": 990.0859375,
+      "y": 627.46875
+    },
+    "trackStyle": {
+      "background": "rgb(65, 67, 74)",
+      "height": "5px",
+      "marginTop": "9px",
+      "overflow": "hidden",
+      "radius": "2px"
+    }
+  },
+  {
+    "bar": {
+      "height": 5,
+      "width": 9.5390625,
+      "x": 568.265625,
+      "y": 709.46875
+    },
+    "barStyle": {
+      "background": "none",
+      "color": "rgb(255, 149, 157)",
+      "height": "5px",
+      "origin": "0px 2.5px",
+      "radius": "2px",
+      "transform": "none",
+      "width": "9.53906px"
+    },
+    "box": {
+      "height": 45.1953125,
+      "width": 190.9140625,
+      "x": 568.265625,
+      "y": 669.2734375
+    },
+    "class": "result-count different ",
+    "count": "1",
+    "kind": "different",
+    "number": {
+      "height": 31.1953125,
+      "width": 190.9140625,
+      "x": 568.265625,
+      "y": 669.2734375
+    },
+    "numberStyle": {
+      "color": "rgb(255, 149, 157)",
+      "font": "",
+      "fontVariant": "tabular-nums",
+      "letterSpacing": "-0.65px",
+      "lineHeight": "31.2px",
+      "opacity": "1",
+      "transform": "none"
+    },
+    "track": {
+      "height": 5,
+      "width": 190.9140625,
+      "x": 568.265625,
+      "y": 709.46875
+    },
+    "trackStyle": {
+      "background": "rgb(65, 67, 74)",
+      "height": "5px",
+      "marginTop": "9px",
+      "overflow": "hidden",
+      "radius": "2px"
+    }
+  },
+  {
+    "bar": {
+      "height": 5,
+      "width": 19.0859375,
+      "x": 779.1796875,
+      "y": 709.46875
+    },
+    "barStyle": {
+      "background": "repeating-linear-gradient(135deg, rgb(240, 196, 124) 0px, rgb(240, 196, 124) 3px, rgb(152, 117, 62) 3px, rgb(152, 117, 62) 5px)",
+      "color": "rgba(0, 0, 0, 0)",
+      "height": "5px",
+      "origin": "0px 2.5px",
+      "radius": "2px",
+      "transform": "none",
+      "width": "19.0859px"
+    },
+    "box": {
+      "height": 45.1953125,
+      "width": 190.90625,
+      "x": 779.1796875,
+      "y": 669.2734375
+    },
+    "class": "result-count unknown ",
+    "count": "2",
+    "kind": "unknown",
+    "number": {
+      "height": 31.1953125,
+      "width": 190.90625,
+      "x": 779.1796875,
+      "y": 669.2734375
+    },
+    "numberStyle": {
+      "color": "rgb(240, 196, 124)",
+      "font": "",
+      "fontVariant": "tabular-nums",
+      "letterSpacing": "-0.65px",
+      "lineHeight": "31.2px",
+      "opacity": "1",
+      "transform": "none"
+    },
+    "track": {
+      "height": 5,
+      "width": 190.90625,
+      "x": 779.1796875,
+      "y": 709.46875
+    },
+    "trackStyle": {
+      "background": "rgb(65, 67, 74)",
+      "height": "5px",
+      "marginTop": "9px",
+      "overflow": "hidden",
+      "radius": "2px"
+    }
+  },
+  {
+    "bar": {
+      "height": 5,
+      "width": 47.7265625,
+      "x": 990.0859375,
+      "y": 709.46875
+    },
+    "barStyle": {
+      "background": "none",
+      "color": "rgb(107, 221, 163)",
+      "height": "5px",
+      "origin": "0px 2.5px",
+      "radius": "2px",
+      "transform": "none",
+      "width": "47.7266px"
+    },
+    "box": {
+      "height": 45.1953125,
+      "width": 190.90625,
+      "x": 990.0859375,
+      "y": 669.2734375
+    },
+    "class": "result-count equal ",
+    "count": "5",
+    "kind": "equal",
+    "number": {
+      "height": 31.1953125,
+      "width": 190.90625,
+      "x": 990.0859375,
+      "y": 669.2734375
+    },
+    "numberStyle": {
+      "color": "rgb(107, 221, 163)",
+      "font": "",
+      "fontVariant": "tabular-nums",
+      "letterSpacing": "-0.65px",
+      "lineHeight": "31.2px",
+      "opacity": "1",
+      "transform": "none"
+    },
+    "track": {
+      "height": 5,
+      "width": 190.90625,
+      "x": 990.0859375,
+      "y": 709.46875
+    },
+    "trackStyle": {
+      "background": "rgb(65, 67, 74)",
+      "height": "5px",
+      "marginTop": "9px",
+      "overflow": "hidden",
+      "radius": "2px"
+    }
+  },
+  {
+    "bar": {
+      "height": 5,
+      "width": 0,
+      "x": 568.265625,
+      "y": 791.96875
+    },
+    "barStyle": {
+      "background": "none",
+      "color": "rgb(255, 149, 157)",
+      "height": "5px",
+      "origin": "0px 2.5px",
+      "radius": "2px",
+      "transform": "none",
+      "width": "0px"
+    },
+    "box": {
+      "height": 45.1953125,
+      "width": 190.9140625,
+      "x": 568.265625,
+      "y": 751.7734375
+    },
+    "class": "result-count different zero",
+    "count": "0",
+    "kind": "different",
+    "number": {
+      "height": 31.1953125,
+      "width": 190.9140625,
+      "x": 568.265625,
+      "y": 751.7734375
+    },
+    "numberStyle": {
+      "color": "rgb(181, 186, 193)",
+      "font": "",
+      "fontVariant": "tabular-nums",
+      "letterSpacing": "-0.65px",
+      "lineHeight": "31.2px",
+      "opacity": "1",
+      "transform": "none"
+    },
+    "track": {
+      "height": 5,
+      "width": 190.9140625,
+      "x": 568.265625,
+      "y": 791.96875
+    },
+    "trackStyle": {
+      "background": "rgb(65, 67, 74)",
+      "height": "5px",
+      "marginTop": "9px",
+      "overflow": "hidden",
+      "radius": "2px"
+    }
+  },
+  {
+    "bar": {
+      "height": 5,
+      "width": 0,
+      "x": 779.1796875,
+      "y": 791.96875
+    },
+    "barStyle": {
+      "background": "repeating-linear-gradient(135deg, rgb(240, 196, 124) 0px, rgb(240, 196, 124) 3px, rgb(152, 117, 62) 3px, rgb(152, 117, 62) 5px)",
+      "color": "rgba(0, 0, 0, 0)",
+      "height": "5px",
+      "origin": "0px 2.5px",
+      "radius": "2px",
+      "transform": "none",
+      "width": "0px"
+    },
+    "box": {
+      "height": 45.1953125,
+      "width": 190.90625,
+      "x": 779.1796875,
+      "y": 751.7734375
+    },
+    "class": "result-count unknown zero",
+    "count": "0",
+    "kind": "unknown",
+    "number": {
+      "height": 31.1953125,
+      "width": 190.90625,
+      "x": 779.1796875,
+      "y": 751.7734375
+    },
+    "numberStyle": {
+      "color": "rgb(181, 186, 193)",
+      "font": "",
+      "fontVariant": "tabular-nums",
+      "letterSpacing": "-0.65px",
+      "lineHeight": "31.2px",
+      "opacity": "1",
+      "transform": "none"
+    },
+    "track": {
+      "height": 5,
+      "width": 190.90625,
+      "x": 779.1796875,
+      "y": 791.96875
+    },
+    "trackStyle": {
+      "background": "rgb(65, 67, 74)",
+      "height": "5px",
+      "marginTop": "9px",
+      "overflow": "hidden",
+      "radius": "2px"
+    }
+  },
+  {
+    "bar": {
+      "height": 5,
+      "width": 114.5390625,
+      "x": 990.0859375,
+      "y": 791.96875
+    },
+    "barStyle": {
+      "background": "none",
+      "color": "rgb(107, 221, 163)",
+      "height": "5px",
+      "origin": "0px 2.5px",
+      "radius": "2px",
+      "transform": "none",
+      "width": "114.539px"
+    },
+    "box": {
+      "height": 45.1953125,
+      "width": 190.90625,
+      "x": 990.0859375,
+      "y": 751.7734375
+    },
+    "class": "result-count equal ",
+    "count": "12",
+    "kind": "equal",
+    "number": {
+      "height": 31.1953125,
+      "width": 190.90625,
+      "x": 990.0859375,
+      "y": 751.7734375
+    },
+    "numberStyle": {
+      "color": "rgb(107, 221, 163)",
+      "font": "",
+      "fontVariant": "tabular-nums",
+      "letterSpacing": "-0.65px",
+      "lineHeight": "31.2px",
+      "opacity": "1",
+      "transform": "none"
+    },
+    "track": {
+      "height": 5,
+      "width": 190.90625,
+      "x": 990.0859375,
+      "y": 791.96875
+    },
+    "trackStyle": {
+      "background": "rgb(65, 67, 74)",
+      "height": "5px",
+      "marginTop": "9px",
+      "overflow": "hidden",
+      "radius": "2px"
+    }
+  }
+]

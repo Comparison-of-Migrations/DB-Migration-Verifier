@@ -1,0 +1,2597 @@
+{
+  "dpr": 2,
+  "rows": [
+    {
+      "id": "ko-326-different-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 50.734375,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 50.734375,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 50.734375,
+        "height": 55
+      },
+      "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+      "valueText": "0",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffff959d",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-326-unknown-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 95.2890625,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 95.2890625,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 95.2890625,
+        "height": 55
+      },
+      "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+      "valueText": "0",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#fff0c47c",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-326-equal-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 41.21875,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 41.21875,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 41.21875,
+        "height": 55
+      },
+      "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+      "valueText": "0",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ff6bdda3",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-326-id-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 72.8515625,
+        "height": 35.1875
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 72.8515625,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 17.59375,
+        "width": 72.8515625,
+        "height": 17.59375
+      },
+      "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+      "valueText": "UI-00000000",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffb5bac1",
+      "valueSize": 11,
+      "valueLineHeight": 17.59375,
+      "valueWeight": 400,
+      "valueSpacing": 0,
+      "tabular": true,
+      "monospaced": true,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-326-different-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 53.546875,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 53.546875,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 53.546875,
+        "height": 55
+      },
+      "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+      "valueText": "45",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffff959d",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-326-unknown-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 95.2890625,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 95.2890625,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 95.2890625,
+        "height": 55
+      },
+      "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+      "valueText": "45",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#fff0c47c",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-326-equal-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 53.546875,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 53.546875,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 53.546875,
+        "height": 55
+      },
+      "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+      "valueText": "45",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ff6bdda3",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-326-id-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 72.8515625,
+        "height": 35.1875
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 72.8515625,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 17.59375,
+        "width": 72.8515625,
+        "height": 17.59375
+      },
+      "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+      "valueText": "UI-MUZ1LP3S",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffb5bac1",
+      "valueSize": 11,
+      "valueLineHeight": 17.59375,
+      "valueWeight": 400,
+      "valueSpacing": 0,
+      "tabular": true,
+      "monospaced": true,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-326-different-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 160.6328125,
+        "height": 55
+      },
+      "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+      "valueText": "999999",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffff959d",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-326-unknown-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 160.6328125,
+        "height": 55
+      },
+      "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+      "valueText": "999999",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#fff0c47c",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-326-equal-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 160.6328125,
+        "height": 55
+      },
+      "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+      "valueText": "999999",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ff6bdda3",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-326-id-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 86.09375,
+        "height": 35.1875
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 86.09375,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 17.59375,
+        "width": 86.09375,
+        "height": 17.59375
+      },
+      "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+      "valueText": "UI-1234567890",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffb5bac1",
+      "valueSize": 11,
+      "valueLineHeight": 17.59375,
+      "valueWeight": 400,
+      "valueSpacing": 0,
+      "tabular": true,
+      "monospaced": true,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-656-different-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 50.734375,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 50.734375,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 50.734375,
+        "height": 55
+      },
+      "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+      "valueText": "0",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffff959d",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-656-unknown-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 95.2890625,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 95.2890625,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 95.2890625,
+        "height": 55
+      },
+      "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+      "valueText": "0",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#fff0c47c",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-656-equal-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 41.21875,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 41.21875,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 41.21875,
+        "height": 55
+      },
+      "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+      "valueText": "0",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ff6bdda3",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-656-id-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 72.8515625,
+        "height": 35.1875
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 72.8515625,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 17.59375,
+        "width": 72.8515625,
+        "height": 17.59375
+      },
+      "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+      "valueText": "UI-00000000",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffb5bac1",
+      "valueSize": 11,
+      "valueLineHeight": 17.59375,
+      "valueWeight": 400,
+      "valueSpacing": 0,
+      "tabular": true,
+      "monospaced": true,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-656-different-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 53.546875,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 53.546875,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 53.546875,
+        "height": 55
+      },
+      "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+      "valueText": "45",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffff959d",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-656-unknown-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 95.2890625,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 95.2890625,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 95.2890625,
+        "height": 55
+      },
+      "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+      "valueText": "45",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#fff0c47c",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-656-equal-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 53.546875,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 53.546875,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 53.546875,
+        "height": 55
+      },
+      "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+      "valueText": "45",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ff6bdda3",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-656-id-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 72.8515625,
+        "height": 35.1875
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 72.8515625,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 17.59375,
+        "width": 72.8515625,
+        "height": 17.59375
+      },
+      "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+      "valueText": "UI-MUZ1LP3S",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffb5bac1",
+      "valueSize": 11,
+      "valueLineHeight": 17.59375,
+      "valueWeight": 400,
+      "valueSpacing": 0,
+      "tabular": true,
+      "monospaced": true,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-656-different-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 160.6328125,
+        "height": 55
+      },
+      "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+      "valueText": "999999",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffff959d",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-656-unknown-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 160.6328125,
+        "height": 55
+      },
+      "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+      "valueText": "999999",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#fff0c47c",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-656-equal-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 160.6328125,
+        "height": 55
+      },
+      "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+      "valueText": "999999",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ff6bdda3",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-656-id-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 86.09375,
+        "height": 35.1875
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 86.09375,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 17.59375,
+        "width": 86.09375,
+        "height": 17.59375
+      },
+      "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+      "valueText": "UI-1234567890",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffb5bac1",
+      "valueSize": 11,
+      "valueLineHeight": 17.59375,
+      "valueWeight": 400,
+      "valueSpacing": 0,
+      "tabular": true,
+      "monospaced": true,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-904-different-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 50.734375,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 50.734375,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 50.734375,
+        "height": 55
+      },
+      "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+      "valueText": "0",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffff959d",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-904-unknown-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 95.2890625,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 95.2890625,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 95.2890625,
+        "height": 55
+      },
+      "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+      "valueText": "0",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#fff0c47c",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-904-equal-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 41.21875,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 41.21875,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 41.21875,
+        "height": 55
+      },
+      "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+      "valueText": "0",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ff6bdda3",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-904-id-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 72.8515625,
+        "height": 35.1875
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 72.8515625,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 17.59375,
+        "width": 72.8515625,
+        "height": 17.59375
+      },
+      "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+      "valueText": "UI-00000000",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffb5bac1",
+      "valueSize": 11,
+      "valueLineHeight": 17.59375,
+      "valueWeight": 400,
+      "valueSpacing": 0,
+      "tabular": true,
+      "monospaced": true,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-904-different-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 53.546875,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 53.546875,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 53.546875,
+        "height": 55
+      },
+      "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+      "valueText": "45",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffff959d",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-904-unknown-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 95.2890625,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 95.2890625,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 95.2890625,
+        "height": 55
+      },
+      "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+      "valueText": "45",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#fff0c47c",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-904-equal-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 53.546875,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 53.546875,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 53.546875,
+        "height": 55
+      },
+      "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+      "valueText": "45",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ff6bdda3",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-904-id-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 72.8515625,
+        "height": 35.1875
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 72.8515625,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 17.59375,
+        "width": 72.8515625,
+        "height": 17.59375
+      },
+      "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+      "valueText": "UI-MUZ1LP3S",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffb5bac1",
+      "valueSize": 11,
+      "valueLineHeight": 17.59375,
+      "valueWeight": 400,
+      "valueSpacing": 0,
+      "tabular": true,
+      "monospaced": true,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-904-different-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 160.6328125,
+        "height": 55
+      },
+      "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+      "valueText": "999999",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffff959d",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-904-unknown-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 160.6328125,
+        "height": 55
+      },
+      "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+      "valueText": "999999",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#fff0c47c",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-904-equal-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 160.6328125,
+        "height": 55
+      },
+      "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+      "valueText": "999999",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ff6bdda3",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-904-id-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 86.09375,
+        "height": 35.1875
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 86.09375,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 17.59375,
+        "width": 86.09375,
+        "height": 17.59375
+      },
+      "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+      "valueText": "UI-1234567890",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffb5bac1",
+      "valueSize": 11,
+      "valueLineHeight": 17.59375,
+      "valueWeight": 400,
+      "valueSpacing": 0,
+      "tabular": true,
+      "monospaced": true,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-326-different-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 86.1484375,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 86.1484375,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 86.1484375,
+        "height": 55
+      },
+      "labelText": "Different checks",
+      "valueText": "0",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffff959d",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-326-unknown-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 125.1796875,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 125.1796875,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 125.1796875,
+        "height": 55
+      },
+      "labelText": "Unverified / unobserved",
+      "valueText": "0",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#fff0c47c",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-326-equal-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 68.9765625,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 68.9765625,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 68.9765625,
+        "height": 55
+      },
+      "labelText": "Equal checks",
+      "valueText": "0",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ff6bdda3",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-326-id-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 73.421875,
+        "height": 35.1875
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 73.421875,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 17.59375,
+        "width": 73.421875,
+        "height": 17.59375
+      },
+      "labelText": "Sample run ID",
+      "valueText": "UI-00000000",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffb5bac1",
+      "valueSize": 11,
+      "valueLineHeight": 17.59375,
+      "valueWeight": 400,
+      "valueSpacing": 0,
+      "tabular": true,
+      "monospaced": true,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-326-different-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 86.1484375,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 86.1484375,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 86.1484375,
+        "height": 55
+      },
+      "labelText": "Different checks",
+      "valueText": "45",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffff959d",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-326-unknown-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 125.1796875,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 125.1796875,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 125.1796875,
+        "height": 55
+      },
+      "labelText": "Unverified / unobserved",
+      "valueText": "45",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#fff0c47c",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-326-equal-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 68.9765625,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 68.9765625,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 68.9765625,
+        "height": 55
+      },
+      "labelText": "Equal checks",
+      "valueText": "45",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ff6bdda3",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-326-id-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 73.421875,
+        "height": 35.1875
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 73.421875,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 17.59375,
+        "width": 73.421875,
+        "height": 17.59375
+      },
+      "labelText": "Sample run ID",
+      "valueText": "UI-MUZ1LP3S",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffb5bac1",
+      "valueSize": 11,
+      "valueLineHeight": 17.59375,
+      "valueWeight": 400,
+      "valueSpacing": 0,
+      "tabular": true,
+      "monospaced": true,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-326-different-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 160.6328125,
+        "height": 55
+      },
+      "labelText": "Different checks",
+      "valueText": "999999",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffff959d",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-326-unknown-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 160.6328125,
+        "height": 55
+      },
+      "labelText": "Unverified / unobserved",
+      "valueText": "999999",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#fff0c47c",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-326-equal-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 160.6328125,
+        "height": 55
+      },
+      "labelText": "Equal checks",
+      "valueText": "999999",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ff6bdda3",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-326-id-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 86.09375,
+        "height": 35.1875
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 86.09375,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 17.59375,
+        "width": 86.09375,
+        "height": 17.59375
+      },
+      "labelText": "Sample run ID",
+      "valueText": "UI-1234567890",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffb5bac1",
+      "valueSize": 11,
+      "valueLineHeight": 17.59375,
+      "valueWeight": 400,
+      "valueSpacing": 0,
+      "tabular": true,
+      "monospaced": true,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-656-different-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 86.1484375,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 86.1484375,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 86.1484375,
+        "height": 55
+      },
+      "labelText": "Different checks",
+      "valueText": "0",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffff959d",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-656-unknown-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 125.1796875,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 125.1796875,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 125.1796875,
+        "height": 55
+      },
+      "labelText": "Unverified / unobserved",
+      "valueText": "0",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#fff0c47c",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-656-equal-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 68.9765625,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 68.9765625,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 68.9765625,
+        "height": 55
+      },
+      "labelText": "Equal checks",
+      "valueText": "0",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ff6bdda3",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-656-id-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 73.421875,
+        "height": 35.1875
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 73.421875,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 17.59375,
+        "width": 73.421875,
+        "height": 17.59375
+      },
+      "labelText": "Sample run ID",
+      "valueText": "UI-00000000",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffb5bac1",
+      "valueSize": 11,
+      "valueLineHeight": 17.59375,
+      "valueWeight": 400,
+      "valueSpacing": 0,
+      "tabular": true,
+      "monospaced": true,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-656-different-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 86.1484375,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 86.1484375,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 86.1484375,
+        "height": 55
+      },
+      "labelText": "Different checks",
+      "valueText": "45",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffff959d",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-656-unknown-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 125.1796875,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 125.1796875,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 125.1796875,
+        "height": 55
+      },
+      "labelText": "Unverified / unobserved",
+      "valueText": "45",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#fff0c47c",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-656-equal-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 68.9765625,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 68.9765625,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 68.9765625,
+        "height": 55
+      },
+      "labelText": "Equal checks",
+      "valueText": "45",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ff6bdda3",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-656-id-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 73.421875,
+        "height": 35.1875
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 73.421875,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 17.59375,
+        "width": 73.421875,
+        "height": 17.59375
+      },
+      "labelText": "Sample run ID",
+      "valueText": "UI-MUZ1LP3S",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffb5bac1",
+      "valueSize": 11,
+      "valueLineHeight": 17.59375,
+      "valueWeight": 400,
+      "valueSpacing": 0,
+      "tabular": true,
+      "monospaced": true,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-656-different-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 160.6328125,
+        "height": 55
+      },
+      "labelText": "Different checks",
+      "valueText": "999999",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffff959d",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-656-unknown-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 160.6328125,
+        "height": 55
+      },
+      "labelText": "Unverified / unobserved",
+      "valueText": "999999",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#fff0c47c",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-656-equal-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 160.6328125,
+        "height": 55
+      },
+      "labelText": "Equal checks",
+      "valueText": "999999",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ff6bdda3",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-656-id-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 86.09375,
+        "height": 35.1875
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 86.09375,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 17.59375,
+        "width": 86.09375,
+        "height": 17.59375
+      },
+      "labelText": "Sample run ID",
+      "valueText": "UI-1234567890",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffb5bac1",
+      "valueSize": 11,
+      "valueLineHeight": 17.59375,
+      "valueWeight": 400,
+      "valueSpacing": 0,
+      "tabular": true,
+      "monospaced": true,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-904-different-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 86.1484375,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 86.1484375,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 86.1484375,
+        "height": 55
+      },
+      "labelText": "Different checks",
+      "valueText": "0",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffff959d",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-904-unknown-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 125.1796875,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 125.1796875,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 125.1796875,
+        "height": 55
+      },
+      "labelText": "Unverified / unobserved",
+      "valueText": "0",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#fff0c47c",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-904-equal-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 68.9765625,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 68.9765625,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 68.9765625,
+        "height": 55
+      },
+      "labelText": "Equal checks",
+      "valueText": "0",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ff6bdda3",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-904-id-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 73.421875,
+        "height": 35.1875
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 73.421875,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 17.59375,
+        "width": 73.421875,
+        "height": 17.59375
+      },
+      "labelText": "Sample run ID",
+      "valueText": "UI-00000000",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffb5bac1",
+      "valueSize": 11,
+      "valueLineHeight": 17.59375,
+      "valueWeight": 400,
+      "valueSpacing": 0,
+      "tabular": true,
+      "monospaced": true,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-904-different-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 86.1484375,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 86.1484375,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 86.1484375,
+        "height": 55
+      },
+      "labelText": "Different checks",
+      "valueText": "45",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffff959d",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-904-unknown-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 125.1796875,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 125.1796875,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 125.1796875,
+        "height": 55
+      },
+      "labelText": "Unverified / unobserved",
+      "valueText": "45",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#fff0c47c",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-904-equal-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 68.9765625,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 68.9765625,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 68.9765625,
+        "height": 55
+      },
+      "labelText": "Equal checks",
+      "valueText": "45",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ff6bdda3",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-904-id-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 73.421875,
+        "height": 35.1875
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 73.421875,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 17.59375,
+        "width": 73.421875,
+        "height": 17.59375
+      },
+      "labelText": "Sample run ID",
+      "valueText": "UI-MUZ1LP3S",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffb5bac1",
+      "valueSize": 11,
+      "valueLineHeight": 17.59375,
+      "valueWeight": 400,
+      "valueSpacing": 0,
+      "tabular": true,
+      "monospaced": true,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-904-different-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 160.6328125,
+        "height": 55
+      },
+      "labelText": "Different checks",
+      "valueText": "999999",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffff959d",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-904-unknown-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 160.6328125,
+        "height": 55
+      },
+      "labelText": "Unverified / unobserved",
+      "valueText": "999999",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#fff0c47c",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-904-equal-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 76.59375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 160.6328125,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 21.59375,
+        "width": 160.6328125,
+        "height": 55
+      },
+      "labelText": "Equal checks",
+      "valueText": "999999",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ff6bdda3",
+      "valueSize": 44,
+      "valueLineHeight": 55,
+      "valueWeight": 650,
+      "valueSpacing": -1.76,
+      "tabular": true,
+      "monospaced": false,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-904-id-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 86.09375,
+        "height": 35.1875
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 86.09375,
+        "height": 17.59375
+      },
+      "value": {
+        "x": 0,
+        "y": 17.59375,
+        "width": 86.09375,
+        "height": 17.59375
+      },
+      "labelText": "Sample run ID",
+      "valueText": "UI-1234567890",
+      "labelColor": "#ffb5bac1",
+      "valueColor": "#ffb5bac1",
+      "valueSize": 11,
+      "valueLineHeight": 17.59375,
+      "valueWeight": 400,
+      "valueSpacing": 0,
+      "tabular": true,
+      "monospaced": true,
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    }
+  ]
+}

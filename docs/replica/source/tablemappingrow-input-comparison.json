@@ -1,0 +1,10 @@
+{
+  "platforms": [
+    "mac",
+    "windows"
+  ],
+  "snapshots": 36,
+  "failed": 0,
+  "scope": "Actual label hold/cancel/release, nonfocusable-cell blur, independent change request, Enter/Space/Tab focus, normal/reduced hover and leave. Original DOM snapshots plus source row CSS endpoints. Held outside paint is an intermediate timer record; only hover/selection are asserted there. MatchingDialog is a separate parent.",
+  "errors": []
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "name": "initial",
+    "buttonFocus": false,
+    "checkboxFocus": true,
+    "checkboxFocusVisible": false,
+    "dialogOpen": false,
+    "selected": false,
+    "target": "demo.orders"
+  },
+  {
+    "name": "enter-check",
+    "buttonFocus": false,
+    "checkboxFocus": true,
+    "checkboxFocusVisible": true,
+    "dialogOpen": false,
+    "selected": false,
+    "target": "demo.orders"
+  },
+  {
+    "name": "space-check",
+    "buttonFocus": false,
+    "checkboxFocus": true,
+    "checkboxFocusVisible": true,
+    "dialogOpen": false,
+    "selected": true,
+    "target": "demo.orders"
+  },
+  {
+    "name": "space-check-again",
+    "buttonFocus": false,
+    "checkboxFocus": true,
+    "checkboxFocusVisible": true,
+    "dialogOpen": false,
+    "selected": false,
+    "target": "demo.orders"
+  },
+  {
+    "name": "choice-click",
+    "buttonFocus": false,
+    "checkboxFocus": true,
+    "checkboxFocusVisible": false,
+    "dialogOpen": false,
+    "selected": true,
+    "target": "demo.orders"
+  },
+  {
+    "name": "target-click",
+    "buttonFocus": false,
+    "checkboxFocus": false,
+    "checkboxFocusVisible": false,
+    "dialogOpen": false,
+    "selected": true,
+    "target": "demo.orders"
+  },
+  {
+    "name": "change-click",
+    "buttonFocus": false,
+    "checkboxFocus": false,
+    "checkboxFocusVisible": false,
+    "dialogOpen": true,
+    "selected": true,
+    "target": "demo.orders"
+  },
+  {
+    "name": "unverified-attempt-close-mapping",
+    "buttonFocus": false,
+    "checkboxFocus": false,
+    "checkboxFocusVisible": false,
+    "dialogOpen": true,
+    "selected": true,
+    "target": "demo.orders"
+  },
+  {
+    "name": "unverified-attempt-enter-change",
+    "buttonFocus": false,
+    "checkboxFocus": false,
+    "checkboxFocusVisible": false,
+    "dialogOpen": true,
+    "selected": true,
+    "target": "demo.orders"
+  },
+  {
+    "name": "unverified-attempt-space-change",
+    "buttonFocus": false,
+    "checkboxFocus": false,
+    "checkboxFocusVisible": false,
+    "dialogOpen": true,
+    "selected": true,
+    "target": "demo.orders"
+  },
+  {
+    "name": "unverified-attempt-close-keyboard-mapping",
+    "buttonFocus": false,
+    "checkboxFocus": false,
+    "checkboxFocusVisible": false,
+    "dialogOpen": true,
+    "selected": true,
+    "target": "demo.orders"
+  },
+  {
+    "name": "verified-enter-change",
+    "buttonFocus": false,
+    "checkboxFocus": false,
+    "checkboxFocusVisible": false,
+    "dialogOpen": true,
+    "selected": true,
+    "target": "demo.orders"
+  },
+  {
+    "name": "verified-close-enter",
+    "buttonFocus": true,
+    "checkboxFocus": false,
+    "checkboxFocusVisible": false,
+    "dialogOpen": false,
+    "selected": true,
+    "target": "demo.orders"
+  },
+  {
+    "name": "verified-space-change",
+    "buttonFocus": false,
+    "checkboxFocus": false,
+    "checkboxFocusVisible": false,
+    "dialogOpen": true,
+    "selected": true,
+    "target": "demo.orders"
+  }
+]

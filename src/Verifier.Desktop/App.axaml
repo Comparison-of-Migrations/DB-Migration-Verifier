@@ -1,0 +1,48 @@
+<Application xmlns="https://github.com/avaloniaui" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Class="Verifier.Desktop.App" Name="DB-Migration-Verifier" RequestedThemeVariant="Dark">
+ <Application.Styles>
+  <FluentTheme><FluentTheme.Palettes><ColorPaletteResources x:Key="Dark" Accent="#5865f2"/></FluentTheme.Palettes></FluentTheme>
+  <Style Selector="Window"><Setter Property="FontFamily" Value="{DynamicResource ReplicaSystemFont}"/><Setter Property="Background" Value="#313338"/><Setter Property="Foreground" Value="#dbdee1"/><Setter Property="FontSize" Value="14"/></Style>
+  <Style Selector="Button"><Setter Property="VerticalAlignment" Value="Center"/><Setter Property="VerticalContentAlignment" Value="Center"/><Setter Property="MinHeight" Value="44"/><Setter Property="Padding" Value="18,10"/><Setter Property="CornerRadius" Value="8"/><Setter Property="HorizontalContentAlignment" Value="Center"/><Setter Property="Background" Value="#383a40"/><Setter Property="Foreground" Value="#f2f3f5"/></Style>
+  <Style Selector="Button.primary"><Setter Property="MinHeight" Value="48"/><Setter Property="MinWidth" Value="164"/><Setter Property="Background" Value="#5865f2"/></Style>
+  <Style Selector="Button.primary:pointerover /template/ ContentPresenter"><Setter Property="Background" Value="#4752c4"/></Style>
+  <Style Selector="Button.primary:pressed /template/ ContentPresenter"><Setter Property="Background" Value="#3c45a5"/></Style>
+  <Style Selector="Button.quiet"><Setter Property="Background" Value="Transparent"/><Setter Property="Foreground" Value="#b5bac1"/></Style>
+  <Style Selector="Button:focus-visible /template/ ContentPresenter"><Setter Property="BorderBrush" Value="#a7b1ff"/><Setter Property="BorderThickness" Value="2"/></Style>
+  <Style Selector="Button.row"><Setter Property="HorizontalContentAlignment" Value="Stretch"/><Setter Property="MinHeight" Value="64"/><Setter Property="Padding" Value="18,12"/><Setter Property="Background" Value="#2b2d31"/></Style>
+  <Style Selector="Button.row:pointerover /template/ ContentPresenter"><Setter Property="Background" Value="#3b3d52"/></Style>
+  <Style Selector="TextBox"><Setter Property="VerticalContentAlignment" Value="Center"/><Setter Property="MinHeight" Value="44"/><Setter Property="Background" Value="#1e1f22"/><Setter Property="BorderBrush" Value="#7c838c"/><Setter Property="CornerRadius" Value="8"/></Style>
+  <Style Selector="CheckBox"><Setter Property="MinHeight" Value="44"/><Setter Property="VerticalAlignment" Value="Center"/><Setter Property="VerticalContentAlignment" Value="Center"/></Style>
+  <Style Selector="RadioButton"><Setter Property="MinHeight" Value="44"/></Style>
+
+  <Style Selector="Button"><Setter Property="BorderThickness" Value="1"/><Setter Property="BorderBrush" Value="#7c838c"/><Setter Property="Background" Value="#2b2d31"/><Setter Property="FontSize" Value="13"/></Style>
+  <Style Selector="Button:pointerover /template/ ContentPresenter"><Setter Property="Background" Value="#353740"/></Style>
+  <Style Selector="Button:pressed /template/ ContentPresenter"><Setter Property="Background" Value="#3a3e58"/></Style>
+  <Style Selector="Button.quiet"><Setter Property="BorderThickness" Value="0"/></Style>
+  <Style Selector="Button.nav"><Setter Property="HorizontalContentAlignment" Value="Stretch"/><Setter Property="Padding" Value="14,8"/><Setter Property="BorderThickness" Value="0"/><Setter Property="Background" Value="Transparent"/></Style>
+  <Style Selector="Button.nav.active"><Setter Property="Background" Value="#353740"/><Setter Property="BorderBrush" Value="#8b94ff"/><Setter Property="BorderThickness" Value="3,0,0,0"/></Style>
+  <Style Selector="Button.category-toggle"><Setter Property="MinHeight" Value="64"/><Setter Property="Padding" Value="0,8"/><Setter Property="HorizontalContentAlignment" Value="Stretch"/><Setter Property="Background" Value="Transparent"/><Setter Property="BorderThickness" Value="0"/></Style>
+  <Style Selector="Button.category-toggle"><Setter Property="HorizontalAlignment" Value="Stretch"/></Style>
+  <Style Selector="Button.result-row"><Setter Property="HorizontalAlignment" Value="Stretch"/></Style>
+  <Style Selector="Button.result-row"><Setter Property="MinHeight" Value="80"/><Setter Property="Padding" Value="18,14"/><Setter Property="HorizontalContentAlignment" Value="Stretch"/><Setter Property="BorderThickness" Value="0,0,0,1"/><Setter Property="BorderBrush" Value="#41434a"/></Style>
+  <Style Selector="Button.selected-filter"><Setter Property="Background" Value="#3b3d52"/><Setter Property="BorderBrush" Value="#8b94ff"/><Setter Property="Foreground" Value="#b4bdff"/></Style>
+  <Style Selector="Button.danger"><Setter Property="BorderBrush" Value="#a45766"/><Setter Property="Foreground" Value="#ff959d"/></Style>
+  <Style Selector="RadioButton.db-card">
+   <Setter Property="MinHeight" Value="88"/><Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+   <Setter Property="Template"><ControlTemplate><Border Name="Card" Background="#2b2d31" BorderBrush="#7c838c" BorderThickness="1" CornerRadius="10" Padding="14"><ContentPresenter Content="{TemplateBinding Content}" HorizontalAlignment="Stretch" VerticalAlignment="Center"/></Border></ControlTemplate></Setter>
+  </Style>
+  <Style Selector="RadioButton.db-card:checked /template/ Border#Card"><Setter Property="Background" Value="#353740"/><Setter Property="BorderBrush" Value="#5865f2"/><Setter Property="BorderThickness" Value="2"/></Style>
+  <Style Selector="RadioButton.db-card:pointerover /template/ Border#Card"><Setter Property="Background" Value="#353740"/><Setter Property="BorderBrush" Value="#8b94ff"/></Style>
+  <Style Selector="RadioButton.db-card:focus-visible /template/ Border#Card"><Setter Property="BorderBrush" Value="#a7b1ff"/><Setter Property="BorderThickness" Value="3"/></Style>
+  <Style Selector="RadioButton.db-card:disabled"><Setter Property="Opacity" Value="0.6"/></Style>
+  <Style Selector="ListBox.table-list ListBoxItem"><Setter Property="Padding" Value="0"/><Setter Property="HorizontalContentAlignment" Value="Stretch"/></Style>
+  <Style Selector="ListBox.detail-list ListBoxItem"><Setter Property="Padding" Value="0,0,0,10"/><Setter Property="HorizontalContentAlignment" Value="Stretch"/></Style>
+  <Style Selector="ListBox.matching-list ListBoxItem"><Setter Property="Padding" Value="0"/><Setter Property="Margin" Value="0,0,0,8"/><Setter Property="HorizontalContentAlignment" Value="Stretch"/></Style>
+  <Style Selector="ListBox.matching-list ListBoxItem:selected /template/ ContentPresenter"><Setter Property="Background" Value="#353740"/><Setter Property="BorderBrush" Value="#7c838c"/><Setter Property="BorderThickness" Value="1"/><Setter Property="CornerRadius" Value="8"/></Style>
+  <Style Selector="ListBox.matching-list ListBoxItem:focus-visible /template/ ContentPresenter"><Setter Property="BorderBrush" Value="#a7b1ff"/><Setter Property="BorderThickness" Value="2"/></Style>
+  <Style Selector="Button.nav:disabled /template/ ContentPresenter"><Setter Property="Background" Value="Transparent"/><Setter Property="BorderBrush" Value="Transparent"/></Style>
+  <Style Selector="Button.nav:disabled"><Setter Property="Opacity" Value="1"/></Style>
+  <Style Selector="Button.primary"><Setter Property="BorderBrush" Value="#5865f2"/></Style>
+  <Style Selector="Button.primary:pointerover /template/ ContentPresenter"><Setter Property="Background" Value="#4752c4"/></Style>
+  <Style Selector="Button.primary:pressed /template/ ContentPresenter"><Setter Property="Background" Value="#3c45a5"/></Style>
+ </Application.Styles>
+</Application>

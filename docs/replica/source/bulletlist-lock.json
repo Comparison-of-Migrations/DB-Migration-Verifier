@@ -1,0 +1,7 @@
+{
+  "component": "BulletList",
+  "contract": "Each OS24 list layout/wrap/text/nominal marker styles and actual attached List/ListItem add/remove/empty peers. Outside disc represented by system glyph; default OS marker/raster expressions are documented. External collapsing margins belong to parent.",
+  "files": {
+    "src/Verifier.Desktop/WebBulletList.cs": "3b1ffd5ac5019ecc9693e077afd793b4ce8e96c575a3a937548d5beda948317b"
+  }
+}

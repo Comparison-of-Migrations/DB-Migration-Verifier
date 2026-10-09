@@ -1,0 +1,224 @@
+{
+  "capturedAtUtc": "2026-10-07T09:55:09.4871331Z",
+  "dpr": 2,
+  "offset": 0,
+  "maximum": 0,
+  "clientWidth": 220,
+  "thumb": {
+    "x": 0,
+    "y": 0,
+    "width": 0,
+    "height": 0
+  },
+  "activeControl": null,
+  "focused": false,
+  "focusVisible": false,
+  "tabStop": false,
+  "events": [
+    {
+      "kind": "pressed",
+      "time": 43626.6489,
+      "x": 110,
+      "y": 100
+    },
+    {
+      "kind": "released",
+      "time": 43717.8138
+    }
+  ],
+  "frames": [
+    {
+      "time": 43632.3096,
+      "offset": 0
+    },
+    {
+      "time": 43665.5545,
+      "offset": 0
+    },
+    {
+      "time": 43682.1976,
+      "offset": 0
+    },
+    {
+      "time": 43698.8852,
+      "offset": 0
+    },
+    {
+      "time": 43715.4335,
+      "offset": 0
+    },
+    {
+      "time": 43732.4117,
+      "offset": 0
+    },
+    {
+      "time": 43749.5294,
+      "offset": 0
+    },
+    {
+      "time": 43765.4361,
+      "offset": 0
+    },
+    {
+      "time": 43781.3331,
+      "offset": 0
+    },
+    {
+      "time": 43798.8577,
+      "offset": 0
+    },
+    {
+      "time": 43821.2408,
+      "offset": 0
+    },
+    {
+      "time": 43852.6745,
+      "offset": 0
+    },
+    {
+      "time": 43887.758,
+      "offset": 0
+    },
+    {
+      "time": 43915.8161,
+      "offset": 0
+    },
+    {
+      "time": 43947.1825,
+      "offset": 0
+    },
+    {
+      "time": 43963.4381,
+      "offset": 0
+    },
+    {
+      "time": 43980.0982,
+      "offset": 0
+    },
+    {
+      "time": 44011.2356,
+      "offset": 0
+    },
+    {
+      "time": 44031.62,
+      "offset": 0
+    },
+    {
+      "time": 44049.6782,
+      "offset": 0
+    },
+    {
+      "time": 44065.6732,
+      "offset": 0
+    },
+    {
+      "time": 44097.9387,
+      "offset": 0
+    },
+    {
+      "time": 44115.875,
+      "offset": 0
+    },
+    {
+      "time": 44132.2415,
+      "offset": 0
+    },
+    {
+      "time": 44148.7102,
+      "offset": 0
+    },
+    {
+      "time": 44165.2315,
+      "offset": 0
+    },
+    {
+      "time": 44198.7845,
+      "offset": 0
+    },
+    {
+      "time": 44231.6206,
+      "offset": 0
+    },
+    {
+      "time": 44248.6127,
+      "offset": 0
+    },
+    {
+      "time": 44265.3754,
+      "offset": 0
+    },
+    {
+      "time": 44282.9442,
+      "offset": 0
+    },
+    {
+      "time": 44315.5121,
+      "offset": 0
+    },
+    {
+      "time": 44332.3508,
+      "offset": 0
+    },
+    {
+      "time": 44349.1082,
+      "offset": 0
+    },
+    {
+      "time": 44365.2105,
+      "offset": 0
+    },
+    {
+      "time": 44382.2523,
+      "offset": 0
+    },
+    {
+      "time": 44398.7468,
+      "offset": 0
+    },
+    {
+      "time": 44415.4764,
+      "offset": 0
+    },
+    {
+      "time": 44431.3156,
+      "offset": 0
+    },
+    {
+      "time": 44449.0856,
+      "offset": 0
+    },
+    {
+      "time": 44466.2998,
+      "offset": 0
+    },
+    {
+      "time": 44482.7885,
+      "offset": 0
+    },
+    {
+      "time": 44517.7056,
+      "offset": 0
+    },
+    {
+      "time": 44547.8396,
+      "offset": 0
+    },
+    {
+      "time": 44565.7499,
+      "offset": 0
+    },
+    {
+      "time": 44582.482,
+      "offset": 0
+    },
+    {
+      "time": 44599.4159,
+      "offset": 0
+    },
+    {
+      "time": 44616.4506,
+      "offset": 0
+    }
+  ],
+  "changes": []
+}

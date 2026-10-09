@@ -1,0 +1,211 @@
+[
+  {
+    "id": "english-boundary",
+    "height": 44.796875,
+    "width": 162.1953125,
+    "lines": [
+      {
+        "text": "Connect two",
+        "width": 87.0625
+      },
+      {
+        "text": "databases",
+        "width": 71.7109375
+      }
+    ]
+  },
+  {
+    "id": "english-fit",
+    "height": 22.3984375,
+    "width": 162.234375,
+    "lines": [
+      {
+        "text": "Connect two databases",
+        "width": 162.234375
+      }
+    ]
+  },
+  {
+    "id": "long-object",
+    "height": 19.203125,
+    "width": 240,
+    "lines": [
+      {
+        "text": "demo.migration_table_name_migration_table_name_migration_table_name_migration_table_name_migration_table_name_migration_table_name_migration_table_name_",
+        "width": 1098.140625
+      }
+    ]
+  },
+  {
+    "id": "ligature",
+    "height": 44.796875,
+    "width": 100,
+    "lines": [
+      {
+        "text": "office affinity",
+        "width": 85.0078125
+      },
+      {
+        "text": "ffi fl",
+        "width": 25.234375
+      }
+    ]
+  },
+  {
+    "id": "cluster",
+    "height": 22.3984375,
+    "width": 140,
+    "lines": [
+      {
+        "text": "마이그레이션 DB café é",
+        "width": 138.65625
+      }
+    ]
+  },
+  {
+    "id": "fallback-space",
+    "height": 44.796875,
+    "width": 90,
+    "lines": [
+      {
+        "text": "DB 데이터 DB",
+        "width": 82.0546875
+      },
+      {
+        "text": "데이터",
+        "width": 36.3359375
+      }
+    ]
+  },
+  {
+    "id": "whitespace",
+    "height": 22.3984375,
+    "width": 240,
+    "lines": [
+      {
+        "text": "데이터 DB\n마이그레이션",
+        "width": 135.640625
+      }
+    ]
+  },
+  {
+    "id": "home-edge-0",
+    "height": 44.796875,
+    "width": 140.0078125,
+    "lines": [
+      {
+        "text": "DB-Migration-",
+        "width": 93.421875
+      },
+      {
+        "text": "Verifier",
+        "width": 47.2578125
+      }
+    ]
+  },
+  {
+    "id": "home-edge-1",
+    "height": 97.203125,
+    "width": 430.765625,
+    "lines": [
+      {
+        "text": "마이그레이션 결과를 비교하세",
+        "width": 400.8984375
+      },
+      {
+        "text": "요",
+        "width": 29.8828125
+      }
+    ]
+  },
+  {
+    "id": "home-edge-2",
+    "height": 50.40625,
+    "width": 307.8828125,
+    "lines": [
+      {
+        "text": "옮긴 뒤의 두 DB를 비교하고, 확인한 범위까지 분명하",
+        "width": 291.7890625
+      },
+      {
+        "text": "게.",
+        "width": 16.1171875
+      }
+    ]
+  },
+  {
+    "id": "home-edge-3",
+    "height": 57,
+    "width": 479.7734375,
+    "lines": [
+      {
+        "text": "마이그레이션을 마친 개발자가 논문의 다축 검증 방법으로 두 DB의 데이터·구조·",
+        "width": 466.8125
+      },
+      {
+        "text": "권한·객체를 비교하고, 차이와 확인하지 못한 영역을 찾도록 돕습니다.",
+        "width": 403.8515625
+      }
+    ]
+  },
+  {
+    "id": "home-edge-4",
+    "height": 38.40625,
+    "width": 373.1875,
+    "lines": [
+      {
+        "text": "저장한 결과 JSON은 DB 연결이나 새 검사 없이 바로 열어 확인할 수 있습니",
+        "width": 359.2578125
+      },
+      {
+        "text": "다.",
+        "width": 13.9453125
+      }
+    ]
+  },
+  {
+    "id": "home-edge-5",
+    "height": 44.796875,
+    "width": 111.546875,
+    "lines": [
+      {
+        "text": "두 DB를 연결합니",
+        "width": 99.453125
+      },
+      {
+        "text": "다",
+        "width": 12.1171875
+      }
+    ]
+  },
+  {
+    "id": "home-edge-6",
+    "height": 48.09375,
+    "width": 302.2890625,
+    "lines": [
+      {
+        "text": "접속 후 앱이 조회 가능한 범위와 필요한 준비를 안내합니",
+        "width": 287.28125
+      },
+      {
+        "text": "다.",
+        "width": 15.03125
+      }
+    ]
+  },
+  {
+    "id": "home-edge-7",
+    "height": 44.203125,
+    "width": 439.8359375,
+    "lines": [
+      {
+        "text": "Functional Success versus Database-State, Behavioral, and",
+        "width": 364.96875
+      },
+      {
+        "text": "Operational Contracts in AI-Generated PostgreSQL Schema Migrations",
+        "width": 434.1328125
+      }
+    ]
+  }
+]

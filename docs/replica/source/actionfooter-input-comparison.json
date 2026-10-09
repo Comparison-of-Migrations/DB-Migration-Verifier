@@ -1,0 +1,79 @@
+{
+  "checks": [
+    {
+      "os": "mac",
+      "case": "connect-click",
+      "id": "ko-connect",
+      "requests": [
+        "connect"
+      ],
+      "passed": true
+    },
+    {
+      "os": "mac",
+      "case": "busy-disabled",
+      "id": "ko-connect-busy",
+      "requests": [],
+      "passed": true
+    },
+    {
+      "os": "mac",
+      "case": "none-disabled",
+      "id": "ko-select-none",
+      "requests": [],
+      "passed": true
+    },
+    {
+      "os": "mac",
+      "case": "trial-ready-english-click",
+      "id": "en-trial-ready",
+      "requests": [
+        "trial-back"
+      ],
+      "passed": true
+    },
+    {
+      "os": "windows",
+      "case": "connect-click",
+      "id": "ko-connect",
+      "requests": [
+        "connect"
+      ],
+      "passed": true
+    },
+    {
+      "os": "windows",
+      "case": "busy-disabled",
+      "id": "ko-connect-busy",
+      "requests": [],
+      "passed": true
+    },
+    {
+      "os": "windows",
+      "case": "none-disabled",
+      "id": "ko-select-none",
+      "requests": [],
+      "passed": true
+    },
+    {
+      "os": "windows",
+      "case": "trial-ready-english-click",
+      "id": "en-trial-ready",
+      "requests": [
+        "trial-back"
+      ],
+      "passed": true
+    },
+    {
+      "os": "mac",
+      "case": "pointer then Space",
+      "passed": true,
+      "requests": [
+        "connect",
+        "connect"
+      ]
+    }
+  ],
+  "failed": 0,
+  "scope": "actual pointer/Space mac; actual UIA Windows; fixed fixture state updates; disabled events suppressed. Parent page branching is not implemented by this test."
+}

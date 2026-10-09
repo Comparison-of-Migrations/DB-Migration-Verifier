@@ -1,0 +1,73 @@
+{
+  "platform": "mac",
+  "passed": true,
+  "actualLabelActivations": 3,
+  "scope": "Final transparent full-width label hit area; real enabled/disabled/numeric pointer focus ordering matches original. Additional repeated server click is preserved in event log.",
+  "native": [
+    {
+      "event": "mousedown",
+      "id": "ko-180-0",
+      "active": ""
+    },
+    {
+      "event": "mouseup",
+      "id": "ko-180-0",
+      "active": ""
+    },
+    {
+      "event": "focusin",
+      "id": "ko-180-0",
+      "active": "ko-180-0"
+    },
+    {
+      "event": "focusout",
+      "id": "ko-180-0",
+      "active": ""
+    },
+    {
+      "event": "mousedown",
+      "id": "ko-180-0",
+      "active": ""
+    },
+    {
+      "event": "focusin",
+      "id": "ko-180-0",
+      "active": "ko-180-0"
+    },
+    {
+      "event": "mouseup",
+      "id": "ko-180-0",
+      "active": "ko-180-0"
+    },
+    {
+      "event": "mousedown",
+      "id": "ko-180-3",
+      "active": "ko-180-0"
+    },
+    {
+      "event": "focusout",
+      "id": "ko-180-0",
+      "active": ""
+    },
+    {
+      "event": "mouseup",
+      "id": "ko-180-3",
+      "active": ""
+    },
+    {
+      "event": "mousedown",
+      "id": "ko-port",
+      "active": ""
+    },
+    {
+      "event": "mouseup",
+      "id": "ko-port",
+      "active": ""
+    },
+    {
+      "event": "focusin",
+      "id": "ko-port",
+      "active": "ko-port"
+    }
+  ]
+}

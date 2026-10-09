@@ -1,0 +1,11 @@
+{
+  "productSha256": "11b8cedef1e5490c7d45580ffc7460266faa16217de0b67e3ff475e8883aa46a",
+  "builds": {
+    "cd5eb8e199714289ba58b294c78b4fda": "11b8cedef1e5490c7d45580ffc7460266faa16217de0b67e3ff475e8883aa46a",
+    "0d0b4fbd092d4dd38011d5bcea504fb2": "11b8cedef1e5490c7d45580ffc7460266faa16217de0b67e3ff475e8883aa46a",
+    "b7960b49a6184bfeb2574a066f6383e6": "11b8cedef1e5490c7d45580ffc7460266faa16217de0b67e3ff475e8883aa46a"
+  },
+  "nativeProbeOnlyChange": "After saving72/9 hold firstko326different0 for actualpeer; product unchanged",
+  "phase": "before generic-parent accessibility correction; original geometry/font/text/motion proof preserved",
+  "currentProof": "metricitem-peer-product-proof.json"
+}

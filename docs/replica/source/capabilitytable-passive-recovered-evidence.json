@@ -1,0 +1,267 @@
+{
+  "transport": "beforeAwareness=1 beforeScreen=3802x2386 logicalCursor=1220,1077 physicalCursor=1220,1077\nafterAwareness=2 afterScreen=3802x2386\nrequested=636,721 actual=636,721 table=516,581,1808,632\nhit=ControlType.Window id= box=454,499,2500,1900\npostFocus=CapabilityRow-permissions\n",
+  "routed": [
+    {
+      "phase": "down-tunnel",
+      "x": 91,
+      "y": 111,
+      "handled": false,
+      "sourceType": "WebCapabilityTable",
+      "sourceId": null,
+      "ancestors": [
+        "Canvas",
+        "ContentPresenter",
+        "Window",
+        "TopLevelHost"
+      ],
+      "focusedType": "WebActionButton",
+      "focusedId": "CapabilityRow-permissions"
+    },
+    {
+      "phase": "down-bubble",
+      "x": 91,
+      "y": 111,
+      "handled": false,
+      "sourceType": "WebCapabilityTable",
+      "sourceId": null,
+      "ancestors": [
+        "Canvas",
+        "ContentPresenter",
+        "Window",
+        "TopLevelHost"
+      ],
+      "focusedType": "WebActionButton",
+      "focusedId": "CapabilityRow-permissions"
+    },
+    {
+      "phase": "up-bubble",
+      "x": 91,
+      "y": 111,
+      "handled": false,
+      "sourceType": "WebCapabilityTable",
+      "sourceId": null,
+      "ancestors": [
+        "Canvas",
+        "ContentPresenter",
+        "Window",
+        "TopLevelHost"
+      ],
+      "focusedType": "WebActionButton",
+      "focusedId": "CapabilityRow-permissions"
+    }
+  ],
+  "state": {
+    "id": "en-904",
+    "shell": {
+      "x": 0,
+      "y": 0,
+      "width": 906,
+      "height": 413.140625
+    },
+    "table": {
+      "x": 1,
+      "y": 1,
+      "width": 904,
+      "height": 411.140625
+    },
+    "headers": [
+      {
+        "x": 1,
+        "y": 1,
+        "width": 272.1484375,
+        "height": 62.890625
+      },
+      {
+        "x": 273.1484375,
+        "y": 1,
+        "width": 122.734375,
+        "height": 62.890625
+      },
+      {
+        "x": 395.8828125,
+        "y": 1,
+        "width": 157.484375,
+        "height": 62.890625
+      },
+      {
+        "x": 553.3671875,
+        "y": 1,
+        "width": 351.6328125,
+        "height": 62.890625
+      }
+    ],
+    "rows": [
+      {
+        "box": {
+          "x": 1,
+          "y": 63.890625,
+          "width": 904,
+          "height": 87.1875
+        },
+        "cells": [
+          {
+            "x": 1,
+            "y": 63.890625,
+            "width": 272.1484375,
+            "height": 87.1875
+          },
+          {
+            "x": 273.1484375,
+            "y": 63.890625,
+            "width": 122.734375,
+            "height": 87.1875
+          },
+          {
+            "x": 395.8828125,
+            "y": 63.890625,
+            "width": 157.484375,
+            "height": 87.1875
+          },
+          {
+            "x": 553.3671875,
+            "y": 63.890625,
+            "width": 351.6328125,
+            "height": 87.1875
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 1,
+          "y": 151.078125,
+          "width": 904,
+          "height": 87.1875
+        },
+        "cells": [
+          {
+            "x": 1,
+            "y": 151.078125,
+            "width": 272.1484375,
+            "height": 87.1875
+          },
+          {
+            "x": 273.1484375,
+            "y": 151.078125,
+            "width": 122.734375,
+            "height": 87.1875
+          },
+          {
+            "x": 395.8828125,
+            "y": 151.078125,
+            "width": 157.484375,
+            "height": 87.1875
+          },
+          {
+            "x": 553.3671875,
+            "y": 151.078125,
+            "width": 351.6328125,
+            "height": 87.1875
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 1,
+          "y": 238.265625,
+          "width": 904,
+          "height": 87.1875
+        },
+        "cells": [
+          {
+            "x": 1,
+            "y": 238.265625,
+            "width": 272.1484375,
+            "height": 87.1875
+          },
+          {
+            "x": 273.1484375,
+            "y": 238.265625,
+            "width": 122.734375,
+            "height": 87.1875
+          },
+          {
+            "x": 395.8828125,
+            "y": 238.265625,
+            "width": 157.484375,
+            "height": 87.1875
+          },
+          {
+            "x": 553.3671875,
+            "y": 238.265625,
+            "width": 351.6328125,
+            "height": 87.1875
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 1,
+          "y": 325.453125,
+          "width": 904,
+          "height": 86.6875
+        },
+        "cells": [
+          {
+            "x": 1,
+            "y": 325.453125,
+            "width": 272.1484375,
+            "height": 86.6875
+          },
+          {
+            "x": 273.1484375,
+            "y": 325.453125,
+            "width": 122.734375,
+            "height": 86.6875
+          },
+          {
+            "x": 395.8828125,
+            "y": 325.453125,
+            "width": 157.484375,
+            "height": 86.6875
+          },
+          {
+            "x": 553.3671875,
+            "y": 325.453125,
+            "width": 351.6328125,
+            "height": 86.6875
+          }
+        ]
+      }
+    ],
+    "columns": [
+      272.1484375,
+      122.734375,
+      157.484375,
+      351.6328125
+    ],
+    "minColumns": [
+      109.5625,
+      122.4609375,
+      157.484375,
+      206.7421875
+    ],
+    "maxColumns": [
+      342.703125,
+      122.859375,
+      157.484375,
+      414.484375
+    ],
+    "clientWidth": 904,
+    "clientHeight": 411,
+    "scrollWidth": 904,
+    "scrollHeight": 411,
+    "scrollLeft": 0,
+    "gutter": 0,
+    "permissions": 0,
+    "english": true,
+    "attached": true,
+    "permissionsButton": {
+      "x": 741.8828125,
+      "y": 259.859375,
+      "width": 145.1171875,
+      "height": 44
+    },
+    "buttonFocused": true,
+    "viewportFocused": false
+  }
+}

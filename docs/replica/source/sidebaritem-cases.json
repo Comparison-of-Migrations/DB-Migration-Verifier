@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "ko-1-128-normal",
+    "lang": "ko",
+    "label": "DB 연결",
+    "index": 1,
+    "width": 128,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-1-128-active",
+    "lang": "ko",
+    "label": "DB 연결",
+    "index": 1,
+    "width": 128,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-1-192-normal",
+    "lang": "ko",
+    "label": "DB 연결",
+    "index": 1,
+    "width": 192,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-1-192-active",
+    "lang": "ko",
+    "label": "DB 연결",
+    "index": 1,
+    "width": 192,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-1-260-normal",
+    "lang": "ko",
+    "label": "DB 연결",
+    "index": 1,
+    "width": 260,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-1-260-active",
+    "lang": "ko",
+    "label": "DB 연결",
+    "index": 1,
+    "width": 260,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-2-128-normal",
+    "lang": "ko",
+    "label": "사전 확인",
+    "index": 2,
+    "width": 128,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-2-128-active",
+    "lang": "ko",
+    "label": "사전 확인",
+    "index": 2,
+    "width": 128,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-2-192-normal",
+    "lang": "ko",
+    "label": "사전 확인",
+    "index": 2,
+    "width": 192,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-2-192-active",
+    "lang": "ko",
+    "label": "사전 확인",
+    "index": 2,
+    "width": 192,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-2-260-normal",
+    "lang": "ko",
+    "label": "사전 확인",
+    "index": 2,
+    "width": 260,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-2-260-active",
+    "lang": "ko",
+    "label": "사전 확인",
+    "index": 2,
+    "width": 260,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-3-128-normal",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 128,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-3-128-active",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 128,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-3-192-normal",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 192,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-3-192-active",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 192,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-3-260-normal",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 260,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-3-260-active",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 260,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-4-128-normal",
+    "lang": "ko",
+    "label": "실행 전 확인",
+    "index": 4,
+    "width": 128,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-4-128-active",
+    "lang": "ko",
+    "label": "실행 전 확인",
+    "index": 4,
+    "width": 128,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-4-192-normal",
+    "lang": "ko",
+    "label": "실행 전 확인",
+    "index": 4,
+    "width": 192,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-4-192-active",
+    "lang": "ko",
+    "label": "실행 전 확인",
+    "index": 4,
+    "width": 192,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-4-260-normal",
+    "lang": "ko",
+    "label": "실행 전 확인",
+    "index": 4,
+    "width": 260,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-4-260-active",
+    "lang": "ko",
+    "label": "실행 전 확인",
+    "index": 4,
+    "width": 260,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-5-128-normal",
+    "lang": "ko",
+    "label": "검사 진행",
+    "index": 5,
+    "width": 128,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-5-128-active",
+    "lang": "ko",
+    "label": "검사 진행",
+    "index": 5,
+    "width": 128,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-5-192-normal",
+    "lang": "ko",
+    "label": "검사 진행",
+    "index": 5,
+    "width": 192,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-5-192-active",
+    "lang": "ko",
+    "label": "검사 진행",
+    "index": 5,
+    "width": 192,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-5-260-normal",
+    "lang": "ko",
+    "label": "검사 진행",
+    "index": 5,
+    "width": 260,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-5-260-active",
+    "lang": "ko",
+    "label": "검사 진행",
+    "index": 5,
+    "width": 260,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-6-128-normal",
+    "lang": "ko",
+    "label": "결과 확인",
+    "index": 6,
+    "width": 128,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-6-128-active",
+    "lang": "ko",
+    "label": "결과 확인",
+    "index": 6,
+    "width": 128,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-6-192-normal",
+    "lang": "ko",
+    "label": "결과 확인",
+    "index": 6,
+    "width": 192,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-6-192-active",
+    "lang": "ko",
+    "label": "결과 확인",
+    "index": 6,
+    "width": 192,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-6-260-normal",
+    "lang": "ko",
+    "label": "결과 확인",
+    "index": 6,
+    "width": 260,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-6-260-active",
+    "lang": "ko",
+    "label": "결과 확인",
+    "index": 6,
+    "width": 260,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-7-128-normal",
+    "lang": "ko",
+    "label": "결과 저장",
+    "index": 7,
+    "width": 128,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-7-128-active",
+    "lang": "ko",
+    "label": "결과 저장",
+    "index": 7,
+    "width": 128,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-7-192-normal",
+    "lang": "ko",
+    "label": "결과 저장",
+    "index": 7,
+    "width": 192,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-7-192-active",
+    "lang": "ko",
+    "label": "결과 저장",
+    "index": 7,
+    "width": 192,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-7-260-normal",
+    "lang": "ko",
+    "label": "결과 저장",
+    "index": 7,
+    "width": 260,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-7-260-active",
+    "lang": "ko",
+    "label": "결과 저장",
+    "index": 7,
+    "width": 260,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-1-128-normal",
+    "lang": "en",
+    "label": "Connect DBs",
+    "index": 1,
+    "width": 128,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-1-128-active",
+    "lang": "en",
+    "label": "Connect DBs",
+    "index": 1,
+    "width": 128,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-1-192-normal",
+    "lang": "en",
+    "label": "Connect DBs",
+    "index": 1,
+    "width": 192,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-1-192-active",
+    "lang": "en",
+    "label": "Connect DBs",
+    "index": 1,
+    "width": 192,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-1-260-normal",
+    "lang": "en",
+    "label": "Connect DBs",
+    "index": 1,
+    "width": 260,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-1-260-active",
+    "lang": "en",
+    "label": "Connect DBs",
+    "index": 1,
+    "width": 260,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-2-128-normal",
+    "lang": "en",
+    "label": "Preflight",
+    "index": 2,
+    "width": 128,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-2-128-active",
+    "lang": "en",
+    "label": "Preflight",
+    "index": 2,
+    "width": 128,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-2-192-normal",
+    "lang": "en",
+    "label": "Preflight",
+    "index": 2,
+    "width": 192,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-2-192-active",
+    "lang": "en",
+    "label": "Preflight",
+    "index": 2,
+    "width": 192,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-2-260-normal",
+    "lang": "en",
+    "label": "Preflight",
+    "index": 2,
+    "width": 260,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-2-260-active",
+    "lang": "en",
+    "label": "Preflight",
+    "index": 2,
+    "width": 260,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-3-128-normal",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 128,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-3-128-active",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 128,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-3-192-normal",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 192,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-3-192-active",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 192,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-3-260-normal",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 260,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-3-260-active",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 260,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-4-128-normal",
+    "lang": "en",
+    "label": "Review",
+    "index": 4,
+    "width": 128,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-4-128-active",
+    "lang": "en",
+    "label": "Review",
+    "index": 4,
+    "width": 128,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-4-192-normal",
+    "lang": "en",
+    "label": "Review",
+    "index": 4,
+    "width": 192,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-4-192-active",
+    "lang": "en",
+    "label": "Review",
+    "index": 4,
+    "width": 192,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-4-260-normal",
+    "lang": "en",
+    "label": "Review",
+    "index": 4,
+    "width": 260,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-4-260-active",
+    "lang": "en",
+    "label": "Review",
+    "index": 4,
+    "width": 260,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-5-128-normal",
+    "lang": "en",
+    "label": "Run checks",
+    "index": 5,
+    "width": 128,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-5-128-active",
+    "lang": "en",
+    "label": "Run checks",
+    "index": 5,
+    "width": 128,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-5-192-normal",
+    "lang": "en",
+    "label": "Run checks",
+    "index": 5,
+    "width": 192,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-5-192-active",
+    "lang": "en",
+    "label": "Run checks",
+    "index": 5,
+    "width": 192,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-5-260-normal",
+    "lang": "en",
+    "label": "Run checks",
+    "index": 5,
+    "width": 260,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-5-260-active",
+    "lang": "en",
+    "label": "Run checks",
+    "index": 5,
+    "width": 260,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-6-128-normal",
+    "lang": "en",
+    "label": "Results",
+    "index": 6,
+    "width": 128,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-6-128-active",
+    "lang": "en",
+    "label": "Results",
+    "index": 6,
+    "width": 128,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-6-192-normal",
+    "lang": "en",
+    "label": "Results",
+    "index": 6,
+    "width": 192,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-6-192-active",
+    "lang": "en",
+    "label": "Results",
+    "index": 6,
+    "width": 192,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-6-260-normal",
+    "lang": "en",
+    "label": "Results",
+    "index": 6,
+    "width": 260,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-6-260-active",
+    "lang": "en",
+    "label": "Results",
+    "index": 6,
+    "width": 260,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-7-128-normal",
+    "lang": "en",
+    "label": "Save results",
+    "index": 7,
+    "width": 128,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-7-128-active",
+    "lang": "en",
+    "label": "Save results",
+    "index": 7,
+    "width": 128,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-7-192-normal",
+    "lang": "en",
+    "label": "Save results",
+    "index": 7,
+    "width": 192,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-7-192-active",
+    "lang": "en",
+    "label": "Save results",
+    "index": 7,
+    "width": 192,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-7-260-normal",
+    "lang": "en",
+    "label": "Save results",
+    "index": 7,
+    "width": 260,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-7-260-active",
+    "lang": "en",
+    "label": "Save results",
+    "index": 7,
+    "width": 260,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-normal-0-hover",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 192,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "hover"
+  },
+  {
+    "id": "ko-normal-0-pressed",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 192,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "pressed"
+  },
+  {
+    "id": "ko-normal-0-focus-visible",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 192,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "focus-visible"
+  },
+  {
+    "id": "ko-normal-0-idle",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 192,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-normal-1-hover",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 192,
+    "state": "normal",
+    "disabled": true,
+    "interaction": "hover"
+  },
+  {
+    "id": "ko-normal-1-pressed",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 192,
+    "state": "normal",
+    "disabled": true,
+    "interaction": "pressed"
+  },
+  {
+    "id": "ko-normal-1-focus-visible",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 192,
+    "state": "normal",
+    "disabled": true,
+    "interaction": "focus-visible"
+  },
+  {
+    "id": "ko-normal-1-idle",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 192,
+    "state": "normal",
+    "disabled": true,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-active-0-hover",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 192,
+    "state": "active",
+    "disabled": false,
+    "interaction": "hover"
+  },
+  {
+    "id": "ko-active-0-pressed",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 192,
+    "state": "active",
+    "disabled": false,
+    "interaction": "pressed"
+  },
+  {
+    "id": "ko-active-0-focus-visible",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 192,
+    "state": "active",
+    "disabled": false,
+    "interaction": "focus-visible"
+  },
+  {
+    "id": "ko-active-0-idle",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 192,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-active-1-hover",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 192,
+    "state": "active",
+    "disabled": true,
+    "interaction": "hover"
+  },
+  {
+    "id": "ko-active-1-pressed",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 192,
+    "state": "active",
+    "disabled": true,
+    "interaction": "pressed"
+  },
+  {
+    "id": "ko-active-1-focus-visible",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 192,
+    "state": "active",
+    "disabled": true,
+    "interaction": "focus-visible"
+  },
+  {
+    "id": "ko-active-1-idle",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 192,
+    "state": "active",
+    "disabled": true,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-done-0-hover",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 192,
+    "state": "done",
+    "disabled": false,
+    "interaction": "hover"
+  },
+  {
+    "id": "ko-done-0-pressed",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 192,
+    "state": "done",
+    "disabled": false,
+    "interaction": "pressed"
+  },
+  {
+    "id": "ko-done-0-focus-visible",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 192,
+    "state": "done",
+    "disabled": false,
+    "interaction": "focus-visible"
+  },
+  {
+    "id": "ko-done-0-idle",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 192,
+    "state": "done",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "ko-done-1-hover",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 192,
+    "state": "done",
+    "disabled": true,
+    "interaction": "hover"
+  },
+  {
+    "id": "ko-done-1-pressed",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 192,
+    "state": "done",
+    "disabled": true,
+    "interaction": "pressed"
+  },
+  {
+    "id": "ko-done-1-focus-visible",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 192,
+    "state": "done",
+    "disabled": true,
+    "interaction": "focus-visible"
+  },
+  {
+    "id": "ko-done-1-idle",
+    "lang": "ko",
+    "label": "검사 선택",
+    "index": 3,
+    "width": 192,
+    "state": "done",
+    "disabled": true,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-normal-0-hover",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 192,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "hover"
+  },
+  {
+    "id": "en-normal-0-pressed",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 192,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "pressed"
+  },
+  {
+    "id": "en-normal-0-focus-visible",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 192,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "focus-visible"
+  },
+  {
+    "id": "en-normal-0-idle",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 192,
+    "state": "normal",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-normal-1-hover",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 192,
+    "state": "normal",
+    "disabled": true,
+    "interaction": "hover"
+  },
+  {
+    "id": "en-normal-1-pressed",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 192,
+    "state": "normal",
+    "disabled": true,
+    "interaction": "pressed"
+  },
+  {
+    "id": "en-normal-1-focus-visible",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 192,
+    "state": "normal",
+    "disabled": true,
+    "interaction": "focus-visible"
+  },
+  {
+    "id": "en-normal-1-idle",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 192,
+    "state": "normal",
+    "disabled": true,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-active-0-hover",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 192,
+    "state": "active",
+    "disabled": false,
+    "interaction": "hover"
+  },
+  {
+    "id": "en-active-0-pressed",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 192,
+    "state": "active",
+    "disabled": false,
+    "interaction": "pressed"
+  },
+  {
+    "id": "en-active-0-focus-visible",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 192,
+    "state": "active",
+    "disabled": false,
+    "interaction": "focus-visible"
+  },
+  {
+    "id": "en-active-0-idle",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 192,
+    "state": "active",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-active-1-hover",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 192,
+    "state": "active",
+    "disabled": true,
+    "interaction": "hover"
+  },
+  {
+    "id": "en-active-1-pressed",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 192,
+    "state": "active",
+    "disabled": true,
+    "interaction": "pressed"
+  },
+  {
+    "id": "en-active-1-focus-visible",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 192,
+    "state": "active",
+    "disabled": true,
+    "interaction": "focus-visible"
+  },
+  {
+    "id": "en-active-1-idle",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 192,
+    "state": "active",
+    "disabled": true,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-done-0-hover",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 192,
+    "state": "done",
+    "disabled": false,
+    "interaction": "hover"
+  },
+  {
+    "id": "en-done-0-pressed",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 192,
+    "state": "done",
+    "disabled": false,
+    "interaction": "pressed"
+  },
+  {
+    "id": "en-done-0-focus-visible",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 192,
+    "state": "done",
+    "disabled": false,
+    "interaction": "focus-visible"
+  },
+  {
+    "id": "en-done-0-idle",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 192,
+    "state": "done",
+    "disabled": false,
+    "interaction": "idle"
+  },
+  {
+    "id": "en-done-1-hover",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 192,
+    "state": "done",
+    "disabled": true,
+    "interaction": "hover"
+  },
+  {
+    "id": "en-done-1-pressed",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 192,
+    "state": "done",
+    "disabled": true,
+    "interaction": "pressed"
+  },
+  {
+    "id": "en-done-1-focus-visible",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 192,
+    "state": "done",
+    "disabled": true,
+    "interaction": "focus-visible"
+  },
+  {
+    "id": "en-done-1-idle",
+    "lang": "en",
+    "label": "Choose checks",
+    "index": 3,
+    "width": 192,
+    "state": "done",
+    "disabled": true,
+    "interaction": "idle"
+  }
+]

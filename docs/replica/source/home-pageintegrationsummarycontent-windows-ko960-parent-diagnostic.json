@@ -1,0 +1,136 @@
+{
+  "phase": "DIAGNOSTIC_RECORDED",
+  "scope": "Failed only Review defaultKO960 scrollbar fixed-point parent allocation; no product edit/no old29 rerun",
+  "source": {
+    "content": {
+      "x": -28,
+      "y": -28,
+      "width": 740,
+      "height": 720
+    },
+    "clientWidth": 725,
+    "clientHeight": 720,
+    "scrollWidth": 725,
+    "scrollHeight": 735,
+    "offsetWidth": 740,
+    "offsetHeight": 720,
+    "padding": "28px",
+    "page": {
+      "x": 0,
+      "y": 0,
+      "width": 669,
+      "height": 678.78125
+    },
+    "footer": {
+      "x": -28,
+      "y": 692,
+      "width": 740,
+      "height": 84
+    },
+    "footerText": "선택 수정쓰기를 멈춘 상태를 확인하세요.비교 시작",
+    "bodyClientWidth": 960,
+    "bodyScrollHeight": 900
+  },
+  "candidate": {
+    "viewport": {
+      "x": -28,
+      "y": -28,
+      "width": 740,
+      "height": 720
+    },
+    "ClientWidth": 740,
+    "ClientHeight": 720,
+    "ScrollHeight": 720,
+    "GutterWidth": 0,
+    "padding": "28,28,28,28",
+    "page": {
+      "x": 0,
+      "y": 0,
+      "width": 684,
+      "height": 656.78125
+    },
+    "pageDesiredHeight": 656.78125,
+    "footer": {
+      "x": -28,
+      "y": 692,
+      "width": 740,
+      "height": 84
+    },
+    "footerDesiredHeight": 84,
+    "documentGutterWidth": 15,
+    "documentGutterHeight": 15
+  },
+  "candidateValue": {
+    "label": "원본 → 대상",
+    "value": "migration_sample → migration_sample원본과 대상은 서로 다른 예시 서버입니다.",
+    "strong": false,
+    "mono": true,
+    "suffixPainted": true,
+    "logicalLines": [
+      "migration_sample → migration_sample원본과 대상은 서로 다른 예시 서버입니다."
+    ],
+    "labelLines": [
+      "원본 → 대상"
+    ],
+    "valueLines": [
+      "migration_sample → migration_sample원본과 대상은 서로 다른 예시 서버입니다."
+    ],
+    "labelFont": {
+      "size": 13,
+      "weight": 400
+    },
+    "valueFont": {
+      "size": 12,
+      "weight": 400
+    },
+    "publicPaint": [
+      {
+        "Text": "migration_sample → migration_sample원본과 대상은 서로 다른 예시 서버입니다.",
+        "family": "Consolas",
+        "FontSize": 12,
+        "weight": 400,
+        "LineHeight": 22,
+        "TabularNumbers": true,
+        "color": "#ffdbdee1",
+        "widths": [
+          474.50390625
+        ]
+      }
+    ],
+    "mutedRegions": [
+      {
+        "x": 230.921875,
+        "y": 0,
+        "width": 249.078125,
+        "height": 22
+      }
+    ],
+    "boxes": {
+      "row": {
+        "x": 27,
+        "y": 176.9921875,
+        "width": 630,
+        "height": 55
+      },
+      "label": {
+        "x": 27,
+        "y": 192.9921875,
+        "width": 130,
+        "height": 22
+      },
+      "value": {
+        "x": 177,
+        "y": 192.9921875,
+        "width": 480,
+        "height": 22
+      }
+    }
+  },
+  "transport": [
+    {
+      "exitCode": null,
+      "pid": 11988,
+      "ownedHeadlessProcess": 0
+    }
+  ]
+}

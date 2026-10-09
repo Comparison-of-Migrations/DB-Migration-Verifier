@@ -1,0 +1,9 @@
+{
+  "cases": 24,
+  "flows": 28,
+  "sourceHashes": {
+    "js": "53c8af8c8225c87d25173a82b4ea00ea5349b6c98077ef7b59d8d62f89a68050",
+    "css": "656a04f03636788a8029d53cb4a9cddddabb07d7f8e0fee20945bfcf31c5319c"
+  },
+  "scope": "Byte-copy original runtime with external seeded measurement; no product source changes"
+}

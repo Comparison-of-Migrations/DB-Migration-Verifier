@@ -1,0 +1,28 @@
+{
+  "status": "SCOPED_MAC_PARENT_RESIZE_PASSED_NOT_FULL_APP_LOCK",
+  "scope": "Six connected parent pages KOEN externalAXSize1280→1100→960→1280 at900, passive publicfocusseed; pendingProgresswithouttimer; priorchildren matrices/paint/callbacks reused. Summary staticrows implementation boundary recorded; fullstaticAXsubtree notobserved bythisscope.",
+  "frozenManifest": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/connection/pageintegration/e92337ed7ce2481e969741e283893e09/build.json",
+  "workspaceSha256": "d2c772b94914fded12bf6e605799ac1b2033bc8f7c3ba2b4eeabcbf8156eac10",
+  "nativePid": 49095,
+  "comparisons": {
+    "headless48": {
+      "checks": 2595,
+      "differences": 0,
+      "path": "pageintegrationparentresize-mac-headless-comparison.json"
+    },
+    "actual48": {
+      "checks": 2595,
+      "differences": 0,
+      "path": "pageintegrationparentresize-mac-actual-comparison.json"
+    }
+  },
+  "cleanup": {
+    "ownedNativeProcess": 0,
+    "ownedWindow": 0,
+    "path": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/connection/pageintegration/e92337ed7ce2481e969741e283893e09/PageIntegrationParentResizeCheck.app"
+  },
+  "pending": [
+    "Windows originalsource48/headless/native48 underlease",
+    "Root fullapplication flow and separatelyneeded semantic tree boundary"
+  ]
+}

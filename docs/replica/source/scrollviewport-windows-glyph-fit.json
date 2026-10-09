@@ -1,0 +1,32 @@
+{
+  "family": "Segoe Fluent Icons",
+  "results": [
+    {
+      "name": "up-normal",
+      "error": 68,
+      "size": 7.5,
+      "x": 3.75,
+      "baseline": 12.75,
+      "hint": "None",
+      "subpixel": true
+    },
+    {
+      "name": "down-normal",
+      "error": 73,
+      "size": 7.5,
+      "x": 3.75,
+      "baseline": 12.75,
+      "hint": "None",
+      "subpixel": true
+    },
+    {
+      "name": "down-pressed",
+      "error": 4,
+      "size": 6.5,
+      "x": 4.25,
+      "baseline": 12.25,
+      "hint": "None",
+      "subpixel": true
+    }
+  ]
+}

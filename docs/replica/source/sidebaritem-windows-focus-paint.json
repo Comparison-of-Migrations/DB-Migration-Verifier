@@ -1,0 +1,197 @@
+{
+  "scope": "Original computed focus color versus exact native PNG left outline center; includes synthetic disabled CSS endpoint, not a claim disabled controls accept focus",
+  "checks": [
+    {
+      "id": "ko-normal-0-focus-visible",
+      "expected": [
+        167,
+        177,
+        255,
+        255
+      ],
+      "actual": [
+        167,
+        177,
+        255,
+        255
+      ],
+      "passed": true
+    },
+    {
+      "id": "ko-normal-1-focus-visible",
+      "expected": [
+        167,
+        177,
+        255,
+        255
+      ],
+      "actual": [
+        167,
+        177,
+        255,
+        255
+      ],
+      "passed": true
+    },
+    {
+      "id": "ko-active-0-focus-visible",
+      "expected": [
+        187,
+        193,
+        255,
+        255
+      ],
+      "actual": [
+        187,
+        193,
+        255,
+        255
+      ],
+      "passed": true
+    },
+    {
+      "id": "ko-active-1-focus-visible",
+      "expected": [
+        187,
+        193,
+        255,
+        255
+      ],
+      "actual": [
+        187,
+        193,
+        255,
+        255
+      ],
+      "passed": true
+    },
+    {
+      "id": "ko-done-0-focus-visible",
+      "expected": [
+        167,
+        177,
+        255,
+        255
+      ],
+      "actual": [
+        167,
+        177,
+        255,
+        255
+      ],
+      "passed": true
+    },
+    {
+      "id": "ko-done-1-focus-visible",
+      "expected": [
+        167,
+        177,
+        255,
+        255
+      ],
+      "actual": [
+        167,
+        177,
+        255,
+        255
+      ],
+      "passed": true
+    },
+    {
+      "id": "en-normal-0-focus-visible",
+      "expected": [
+        167,
+        177,
+        255,
+        255
+      ],
+      "actual": [
+        167,
+        177,
+        255,
+        255
+      ],
+      "passed": true
+    },
+    {
+      "id": "en-normal-1-focus-visible",
+      "expected": [
+        167,
+        177,
+        255,
+        255
+      ],
+      "actual": [
+        167,
+        177,
+        255,
+        255
+      ],
+      "passed": true
+    },
+    {
+      "id": "en-active-0-focus-visible",
+      "expected": [
+        187,
+        193,
+        255,
+        255
+      ],
+      "actual": [
+        187,
+        193,
+        255,
+        255
+      ],
+      "passed": true
+    },
+    {
+      "id": "en-active-1-focus-visible",
+      "expected": [
+        187,
+        193,
+        255,
+        255
+      ],
+      "actual": [
+        187,
+        193,
+        255,
+        255
+      ],
+      "passed": true
+    },
+    {
+      "id": "en-done-0-focus-visible",
+      "expected": [
+        167,
+        177,
+        255,
+        255
+      ],
+      "actual": [
+        167,
+        177,
+        255,
+        255
+      ],
+      "passed": true
+    },
+    {
+      "id": "en-done-1-focus-visible",
+      "expected": [
+        167,
+        177,
+        255,
+        255
+      ],
+      "actual": [
+        167,
+        177,
+        255,
+        255
+      ],
+      "passed": true
+    }
+  ]
+}

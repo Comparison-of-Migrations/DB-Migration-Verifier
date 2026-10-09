@@ -1,0 +1,10 @@
+{
+  "phase": "HEADLESS_PASSED",
+  "scope": "Only new full static Review/Save summary content/order/strong/mono/logicallines/actual wrapped lines/relativeplacement30",
+  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/pageintegrationsummarycontent-source/fda231d217344567bf50e7707f0a8429/source.json",
+  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/pageintegration/2b8c3571a91c4306b787bb2c5d865e7f/actual-summary-content-windows/headless-c3678e1112e74262b1dbb70c03a0e254/pageintegration-summary-content.json",
+  "cases": 1,
+  "checks": 138,
+  "differences": [],
+  "reuse": "Protected SummaryItem/SummaryList/InlineText leaf typography/paint/clips/renderer semantic implementation unchanged; literal suffix compared as full combined value plus positive public muted clips. Exact source HTML tag vs native control class is not asserted. Existing first-row parent48 passes retained; full items placement is newly assessed. ActualOS semantic public names/AX and paint inspection remain separate."
+}

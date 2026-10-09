@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kr-0",
+    "font": "650 14px system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "spacing": "-0.35px",
+    "width": 140.0181884765625,
+    "ascent": 14,
+    "descent": 3,
+    "inkAscent": 10.821929931640625,
+    "inkDescent": 2.6374969482421875
+  },
+  {
+    "id": "kr-1",
+    "font": "bold 36px system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "spacing": "-1.26px",
+    "width": 430.776611328125,
+    "ascent": 35,
+    "descent": 8,
+    "inkAscent": 29.231998443603516,
+    "inkDescent": 2.844005584716797
+  },
+  {
+    "id": "en-1",
+    "font": "bold 36px system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "spacing": "-1.26px",
+    "width": 432.71697998046875,
+    "ascent": 35,
+    "descent": 8,
+    "inkAscent": 26.6044921875,
+    "inkDescent": 6.5390625
+  },
+  {
+    "id": "en-5",
+    "font": "bold 14px system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "spacing": "0px",
+    "width": 162.23046875,
+    "ascent": 14,
+    "descent": 3,
+    "inkAscent": 10.404296875,
+    "inkDescent": 0.2529296875
+  }
+]

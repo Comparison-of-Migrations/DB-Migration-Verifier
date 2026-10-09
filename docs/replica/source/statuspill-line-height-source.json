@@ -1,0 +1,30 @@
+[
+  {
+    "computed": "19.2px",
+    "id": "pill-line-inherited",
+    "rect": {
+      "bottom": 49.1953125,
+      "height": 19.1953125,
+      "left": 700,
+      "right": 723.640625,
+      "top": 30,
+      "width": 23.640625,
+      "x": 700,
+      "y": 30
+    }
+  },
+  {
+    "computed": "19.2px",
+    "id": "pill-line-explicit",
+    "rect": {
+      "bottom": 49.203125,
+      "height": 19.203125,
+      "left": 723.640625,
+      "right": 747.28125,
+      "top": 30,
+      "width": 23.640625,
+      "x": 723.640625,
+      "y": 30
+    }
+  }
+]

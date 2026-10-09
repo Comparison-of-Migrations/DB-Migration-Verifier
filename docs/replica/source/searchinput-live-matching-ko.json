@@ -1,0 +1,42 @@
+{
+  "dialogCount": 1,
+  "focus": "match-search",
+  "html": "<div class=\"search-field\"><svg class=\"svg \" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><circle cx=\"10\" cy=\"10\" r=\"6\"></circle><path d=\"m15 15 6 6\"></path></svg><label class=\"sr\" for=\"match-search\">대상 테이블 검색</label><input id=\"match-search\" type=\"search\" placeholder=\"대상 테이블 이름 검색\" autocomplete=\"off\"></div>",
+  "icon": {
+    "height": 18,
+    "width": 18,
+    "x": 13,
+    "y": 13
+  },
+  "input": {
+    "bottom": 444.6953125,
+    "height": 44,
+    "left": 641,
+    "right": 1091,
+    "top": 400.6953125,
+    "width": 450,
+    "x": 641,
+    "y": 400.6953125
+  },
+  "rect": {
+    "bottom": 444.6953125,
+    "height": 44,
+    "left": 641,
+    "right": 1091,
+    "top": 400.6953125,
+    "width": 450,
+    "x": 641,
+    "y": 400.6953125
+  },
+  "style": {
+    "backgroundColor": "rgb(30, 31, 34)",
+    "borderColor": "rgb(167, 177, 255)",
+    "boxShadow": "rgba(167, 177, 255, 0.133) 0px 0px 0px 3px",
+    "color": "rgb(219, 222, 225)",
+    "fontSize": "13px",
+    "height": "44px",
+    "lineHeight": "20.8px",
+    "padding": "9px 44px 9px 40px"
+  },
+  "value": ""
+}

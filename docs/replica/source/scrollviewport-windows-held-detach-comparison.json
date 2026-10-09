@@ -1,0 +1,20 @@
+{
+  "case": "held scrollbar detach and reinsert while pointer remains pressed",
+  "rows": [
+    {
+      "side": "source",
+      "offset": 0,
+      "positiveFrames": 43,
+      "finalZeroFrames": 96,
+      "stayedAtZeroAfterReset": true
+    },
+    {
+      "side": "native",
+      "offset": 0,
+      "positiveFrames": 18,
+      "finalZeroFrames": 38,
+      "stayedAtZeroAfterReset": true
+    }
+  ],
+  "passed": true
+}

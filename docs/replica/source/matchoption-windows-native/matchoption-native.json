@@ -1,0 +1,6397 @@
+{
+  "dpr": 2,
+  "rows": [
+    {
+      "id": "ko-240-0",
+      "width": 240,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 166,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 166,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 166,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 225,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "demo.customers",
+      "noteText": "\uC6D0\uBCF8\uACFC \uC774\uB984\uC774 \uAC19\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(43, 45, 49)",
+      "border": "rgb(124, 131, 140)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-240-1",
+      "width": 240,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 144,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 144,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 144,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 203,
+        "y": 25.09375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "demo.customers",
+      "noteText": "\uC6D0\uBCF8\uACFC \uC774\uB984\uC774 \uAC19\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-240-2",
+      "width": 240,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 166,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 166,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 166,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 225,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "demo.customers",
+      "noteText": "\uC6D0\uBCF8\uACFC \uC774\uB984\uC774 \uAC19\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-240-3",
+      "width": 240,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 144,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 144,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 144,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 203,
+        "y": 25.09375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "demo.customers",
+      "noteText": "\uC6D0\uBCF8\uACFC \uC774\uB984\uC774 \uAC19\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-240-4",
+      "width": 240,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 144,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 144,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 144,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 203,
+        "y": 25.09375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "demo.customers",
+      "noteText": "\uC6D0\uBCF8\uACFC \uC774\uB984\uC774 \uAC19\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(167, 177, 255) solid 3px",
+      "outlineOffset": "2px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-240-5",
+      "width": 240,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 166,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 166,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 166,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 225,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "archive.orders",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(43, 45, 49)",
+      "border": "rgb(124, 131, 140)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-240-6",
+      "width": 240,
+      "height": 85.3828125,
+      "radio": {
+        "x": 15,
+        "y": 32.6875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 144,
+        "height": 57.3828125
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 144,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 144,
+        "height": 35.1875
+      },
+      "badge": {
+        "x": 203,
+        "y": 33.890625,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "archive.orders",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-240-7",
+      "width": 240,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 166,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 166,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 166,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 225,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "archive.orders",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-240-8",
+      "width": 240,
+      "height": 85.3828125,
+      "radio": {
+        "x": 15,
+        "y": 32.6875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 144,
+        "height": 57.3828125
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 144,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 144,
+        "height": 35.1875
+      },
+      "badge": {
+        "x": 203,
+        "y": 33.890625,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "archive.orders",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-240-9",
+      "width": 240,
+      "height": 85.3828125,
+      "radio": {
+        "x": 15,
+        "y": 32.6875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 144,
+        "height": 57.3828125
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 144,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 144,
+        "height": 35.1875
+      },
+      "badge": {
+        "x": 203,
+        "y": 33.890625,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "archive.orders",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(167, 177, 255) solid 3px",
+      "outlineOffset": "2px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-240-10",
+      "width": 240,
+      "height": 85.3828125,
+      "radio": {
+        "x": 15,
+        "y": 32.6875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 129.1328125,
+        "height": 57.3828125
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 129.1328125,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 129.1328125,
+        "height": 35.1875
+      },
+      "badge": {
+        "x": 188.1328125,
+        "y": 33.890625,
+        "width": 36.8671875,
+        "height": 17.59375
+      },
+      "nameText": "demo.orders",
+      "noteText": "\uB2E4\uB978 \uC6D0\uBCF8 \uD14C\uC774\uBE14\uACFC \uC774\uBBF8 \uB300\uC751\uB418\uC5B4 \uC788\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC0AC\uC6A9 \uC911",
+      "selected": false,
+      "disabled": true,
+      "bg": "rgb(38, 39, 45)",
+      "border": "rgb(83, 89, 99)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(173, 179, 189)",
+      "badgeColor": "rgb(173, 179, 189)"
+    },
+    {
+      "id": "ko-240-11",
+      "width": 240,
+      "height": 85.3828125,
+      "radio": {
+        "x": 15,
+        "y": 32.6875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 129.1328125,
+        "height": 57.3828125
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 129.1328125,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 129.1328125,
+        "height": 35.1875
+      },
+      "badge": {
+        "x": 188.1328125,
+        "y": 33.890625,
+        "width": 36.8671875,
+        "height": 17.59375
+      },
+      "nameText": "demo.orders",
+      "noteText": "\uB2E4\uB978 \uC6D0\uBCF8 \uD14C\uC774\uBE14\uACFC \uC774\uBBF8 \uB300\uC751\uB418\uC5B4 \uC788\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC0AC\uC6A9 \uC911",
+      "selected": false,
+      "disabled": true,
+      "bg": "rgb(38, 39, 45)",
+      "border": "rgb(83, 89, 99)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(173, 179, 189)",
+      "badgeColor": "rgb(173, 179, 189)"
+    },
+    {
+      "id": "ko-240-12",
+      "width": 240,
+      "height": 106.1796875,
+      "radio": {
+        "x": 15,
+        "y": 43.0859375,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 166,
+        "height": 78.1796875
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 166,
+        "height": 57.5859375
+      },
+      "note": {
+        "x": 47,
+        "y": 74.5859375,
+        "width": 166,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 225,
+        "y": 53.0859375,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(43, 45, 49)",
+      "border": "rgb(124, 131, 140)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-240-13",
+      "width": 240,
+      "height": 123.7734375,
+      "radio": {
+        "x": 15,
+        "y": 51.8828125,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 144,
+        "height": 95.7734375
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 144,
+        "height": 57.5859375
+      },
+      "note": {
+        "x": 47,
+        "y": 74.5859375,
+        "width": 144,
+        "height": 35.1875
+      },
+      "badge": {
+        "x": 203,
+        "y": 53.0859375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-240-14",
+      "width": 240,
+      "height": 106.1796875,
+      "radio": {
+        "x": 15,
+        "y": 43.0859375,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 166,
+        "height": 78.1796875
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 166,
+        "height": 57.5859375
+      },
+      "note": {
+        "x": 47,
+        "y": 74.5859375,
+        "width": 166,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 225,
+        "y": 53.0859375,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-240-15",
+      "width": 240,
+      "height": 123.7734375,
+      "radio": {
+        "x": 15,
+        "y": 51.8828125,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 144,
+        "height": 95.7734375
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 144,
+        "height": 57.5859375
+      },
+      "note": {
+        "x": 47,
+        "y": 74.5859375,
+        "width": 144,
+        "height": 35.1875
+      },
+      "badge": {
+        "x": 203,
+        "y": 53.0859375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-240-16",
+      "width": 240,
+      "height": 123.7734375,
+      "radio": {
+        "x": 15,
+        "y": 51.8828125,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 144,
+        "height": 95.7734375
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 144,
+        "height": 57.5859375
+      },
+      "note": {
+        "x": 47,
+        "y": 74.5859375,
+        "width": 144,
+        "height": 35.1875
+      },
+      "badge": {
+        "x": 203,
+        "y": 53.0859375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(167, 177, 255) solid 3px",
+      "outlineOffset": "2px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-342-17",
+      "width": 342,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 268,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 268,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 268,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 327,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "demo.customers",
+      "noteText": "\uC6D0\uBCF8\uACFC \uC774\uB984\uC774 \uAC19\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(43, 45, 49)",
+      "border": "rgb(124, 131, 140)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-342-18",
+      "width": 342,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 246,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 246,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 246,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 305,
+        "y": 25.09375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "demo.customers",
+      "noteText": "\uC6D0\uBCF8\uACFC \uC774\uB984\uC774 \uAC19\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-342-19",
+      "width": 342,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 268,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 268,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 268,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 327,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "demo.customers",
+      "noteText": "\uC6D0\uBCF8\uACFC \uC774\uB984\uC774 \uAC19\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-342-20",
+      "width": 342,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 246,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 246,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 246,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 305,
+        "y": 25.09375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "demo.customers",
+      "noteText": "\uC6D0\uBCF8\uACFC \uC774\uB984\uC774 \uAC19\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-342-21",
+      "width": 342,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 246,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 246,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 246,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 305,
+        "y": 25.09375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "demo.customers",
+      "noteText": "\uC6D0\uBCF8\uACFC \uC774\uB984\uC774 \uAC19\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(167, 177, 255) solid 3px",
+      "outlineOffset": "2px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-342-22",
+      "width": 342,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 268,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 268,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 268,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 327,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "archive.orders",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(43, 45, 49)",
+      "border": "rgb(124, 131, 140)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-342-23",
+      "width": 342,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 246,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 246,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 246,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 305,
+        "y": 25.09375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "archive.orders",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-342-24",
+      "width": 342,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 268,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 268,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 268,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 327,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "archive.orders",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-342-25",
+      "width": 342,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 246,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 246,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 246,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 305,
+        "y": 25.09375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "archive.orders",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-342-26",
+      "width": 342,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 246,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 246,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 246,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 305,
+        "y": 25.09375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "archive.orders",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(167, 177, 255) solid 3px",
+      "outlineOffset": "2px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-342-27",
+      "width": 342,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 231.1328125,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 231.1328125,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 231.1328125,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 290.1328125,
+        "y": 25.09375,
+        "width": 36.8671875,
+        "height": 17.59375
+      },
+      "nameText": "demo.orders",
+      "noteText": "\uB2E4\uB978 \uC6D0\uBCF8 \uD14C\uC774\uBE14\uACFC \uC774\uBBF8 \uB300\uC751\uB418\uC5B4 \uC788\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC0AC\uC6A9 \uC911",
+      "selected": false,
+      "disabled": true,
+      "bg": "rgb(38, 39, 45)",
+      "border": "rgb(83, 89, 99)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(173, 179, 189)",
+      "badgeColor": "rgb(173, 179, 189)"
+    },
+    {
+      "id": "ko-342-28",
+      "width": 342,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 231.1328125,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 231.1328125,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 231.1328125,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 290.1328125,
+        "y": 25.09375,
+        "width": 36.8671875,
+        "height": 17.59375
+      },
+      "nameText": "demo.orders",
+      "noteText": "\uB2E4\uB978 \uC6D0\uBCF8 \uD14C\uC774\uBE14\uACFC \uC774\uBBF8 \uB300\uC751\uB418\uC5B4 \uC788\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC0AC\uC6A9 \uC911",
+      "selected": false,
+      "disabled": true,
+      "bg": "rgb(38, 39, 45)",
+      "border": "rgb(83, 89, 99)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(173, 179, 189)",
+      "badgeColor": "rgb(173, 179, 189)"
+    },
+    {
+      "id": "ko-342-29",
+      "width": 342,
+      "height": 86.984375,
+      "radio": {
+        "x": 15,
+        "y": 33.4921875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 268,
+        "height": 58.984375
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 268,
+        "height": 38.390625
+      },
+      "note": {
+        "x": 47,
+        "y": 55.390625,
+        "width": 268,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 327,
+        "y": 43.4921875,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(43, 45, 49)",
+      "border": "rgb(124, 131, 140)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-342-30",
+      "width": 342,
+      "height": 86.984375,
+      "radio": {
+        "x": 15,
+        "y": 33.4921875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 246,
+        "height": 58.984375
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 246,
+        "height": 38.390625
+      },
+      "note": {
+        "x": 47,
+        "y": 55.390625,
+        "width": 246,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 305,
+        "y": 34.6953125,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-342-31",
+      "width": 342,
+      "height": 86.984375,
+      "radio": {
+        "x": 15,
+        "y": 33.4921875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 268,
+        "height": 58.984375
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 268,
+        "height": 38.390625
+      },
+      "note": {
+        "x": 47,
+        "y": 55.390625,
+        "width": 268,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 327,
+        "y": 43.4921875,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-342-32",
+      "width": 342,
+      "height": 86.984375,
+      "radio": {
+        "x": 15,
+        "y": 33.4921875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 246,
+        "height": 58.984375
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 246,
+        "height": 38.390625
+      },
+      "note": {
+        "x": 47,
+        "y": 55.390625,
+        "width": 246,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 305,
+        "y": 34.6953125,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-342-33",
+      "width": 342,
+      "height": 86.984375,
+      "radio": {
+        "x": 15,
+        "y": 33.4921875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 246,
+        "height": 58.984375
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 246,
+        "height": 38.390625
+      },
+      "note": {
+        "x": 47,
+        "y": 55.390625,
+        "width": 246,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 305,
+        "y": 34.6953125,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(167, 177, 255) solid 3px",
+      "outlineOffset": "2px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-442-34",
+      "width": 442,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 368,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 427,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "demo.customers",
+      "noteText": "\uC6D0\uBCF8\uACFC \uC774\uB984\uC774 \uAC19\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(43, 45, 49)",
+      "border": "rgb(124, 131, 140)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-442-35",
+      "width": 442,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 346,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 346,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 346,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 405,
+        "y": 25.09375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "demo.customers",
+      "noteText": "\uC6D0\uBCF8\uACFC \uC774\uB984\uC774 \uAC19\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-442-36",
+      "width": 442,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 368,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 427,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "demo.customers",
+      "noteText": "\uC6D0\uBCF8\uACFC \uC774\uB984\uC774 \uAC19\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-442-37",
+      "width": 442,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 346,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 346,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 346,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 405,
+        "y": 25.09375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "demo.customers",
+      "noteText": "\uC6D0\uBCF8\uACFC \uC774\uB984\uC774 \uAC19\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-442-38",
+      "width": 442,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 346,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 346,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 346,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 405,
+        "y": 25.09375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "demo.customers",
+      "noteText": "\uC6D0\uBCF8\uACFC \uC774\uB984\uC774 \uAC19\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(167, 177, 255) solid 3px",
+      "outlineOffset": "2px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-442-39",
+      "width": 442,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 368,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 427,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "archive.orders",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(43, 45, 49)",
+      "border": "rgb(124, 131, 140)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-442-40",
+      "width": 442,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 346,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 346,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 346,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 405,
+        "y": 25.09375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "archive.orders",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-442-41",
+      "width": 442,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 368,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 427,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "archive.orders",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-442-42",
+      "width": 442,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 346,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 346,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 346,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 405,
+        "y": 25.09375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "archive.orders",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-442-43",
+      "width": 442,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 346,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 346,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 346,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 405,
+        "y": 25.09375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "archive.orders",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(167, 177, 255) solid 3px",
+      "outlineOffset": "2px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-442-44",
+      "width": 442,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 331.1328125,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 331.1328125,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 331.1328125,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 390.1328125,
+        "y": 25.09375,
+        "width": 36.8671875,
+        "height": 17.59375
+      },
+      "nameText": "demo.orders",
+      "noteText": "\uB2E4\uB978 \uC6D0\uBCF8 \uD14C\uC774\uBE14\uACFC \uC774\uBBF8 \uB300\uC751\uB418\uC5B4 \uC788\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC0AC\uC6A9 \uC911",
+      "selected": false,
+      "disabled": true,
+      "bg": "rgb(38, 39, 45)",
+      "border": "rgb(83, 89, 99)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(173, 179, 189)",
+      "badgeColor": "rgb(173, 179, 189)"
+    },
+    {
+      "id": "ko-442-45",
+      "width": 442,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 331.1328125,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 331.1328125,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 331.1328125,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 390.1328125,
+        "y": 25.09375,
+        "width": 36.8671875,
+        "height": 17.59375
+      },
+      "nameText": "demo.orders",
+      "noteText": "\uB2E4\uB978 \uC6D0\uBCF8 \uD14C\uC774\uBE14\uACFC \uC774\uBBF8 \uB300\uC751\uB418\uC5B4 \uC788\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC0AC\uC6A9 \uC911",
+      "selected": false,
+      "disabled": true,
+      "bg": "rgb(38, 39, 45)",
+      "border": "rgb(83, 89, 99)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(173, 179, 189)",
+      "badgeColor": "rgb(173, 179, 189)"
+    },
+    {
+      "id": "ko-442-46",
+      "width": 442,
+      "height": 86.984375,
+      "radio": {
+        "x": 15,
+        "y": 33.4921875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 58.984375
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 38.390625
+      },
+      "note": {
+        "x": 47,
+        "y": 55.390625,
+        "width": 368,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 427,
+        "y": 43.4921875,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(43, 45, 49)",
+      "border": "rgb(124, 131, 140)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-442-47",
+      "width": 442,
+      "height": 86.984375,
+      "radio": {
+        "x": 15,
+        "y": 33.4921875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 346,
+        "height": 58.984375
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 346,
+        "height": 38.390625
+      },
+      "note": {
+        "x": 47,
+        "y": 55.390625,
+        "width": 346,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 405,
+        "y": 34.6953125,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-442-48",
+      "width": 442,
+      "height": 86.984375,
+      "radio": {
+        "x": 15,
+        "y": 33.4921875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 58.984375
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 38.390625
+      },
+      "note": {
+        "x": 47,
+        "y": 55.390625,
+        "width": 368,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 427,
+        "y": 43.4921875,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-442-49",
+      "width": 442,
+      "height": 86.984375,
+      "radio": {
+        "x": 15,
+        "y": 33.4921875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 346,
+        "height": 58.984375
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 346,
+        "height": 38.390625
+      },
+      "note": {
+        "x": 47,
+        "y": 55.390625,
+        "width": 346,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 405,
+        "y": 34.6953125,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-442-50",
+      "width": 442,
+      "height": 86.984375,
+      "radio": {
+        "x": 15,
+        "y": 33.4921875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 346,
+        "height": 58.984375
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 346,
+        "height": 38.390625
+      },
+      "note": {
+        "x": 47,
+        "y": 55.390625,
+        "width": 346,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 405,
+        "y": 34.6953125,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(167, 177, 255) solid 3px",
+      "outlineOffset": "2px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-492-51",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 418,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 418,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 418,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 477,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "demo.customers",
+      "noteText": "\uC6D0\uBCF8\uACFC \uC774\uB984\uC774 \uAC19\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(43, 45, 49)",
+      "border": "rgb(124, 131, 140)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-492-52",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 396,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 396,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 396,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 455,
+        "y": 25.09375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "demo.customers",
+      "noteText": "\uC6D0\uBCF8\uACFC \uC774\uB984\uC774 \uAC19\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-492-53",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 418,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 418,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 418,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 477,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "demo.customers",
+      "noteText": "\uC6D0\uBCF8\uACFC \uC774\uB984\uC774 \uAC19\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-492-54",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 396,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 396,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 396,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 455,
+        "y": 25.09375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "demo.customers",
+      "noteText": "\uC6D0\uBCF8\uACFC \uC774\uB984\uC774 \uAC19\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-492-55",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 396,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 396,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 396,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 455,
+        "y": 25.09375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "demo.customers",
+      "noteText": "\uC6D0\uBCF8\uACFC \uC774\uB984\uC774 \uAC19\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(167, 177, 255) solid 3px",
+      "outlineOffset": "2px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-492-56",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 418,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 418,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 418,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 477,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "archive.orders",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(43, 45, 49)",
+      "border": "rgb(124, 131, 140)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-492-57",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 396,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 396,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 396,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 455,
+        "y": 25.09375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "archive.orders",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-492-58",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 418,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 418,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 418,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 477,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "archive.orders",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-492-59",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 396,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 396,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 396,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 455,
+        "y": 25.09375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "archive.orders",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-492-60",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 396,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 396,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 396,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 455,
+        "y": 25.09375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "archive.orders",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(167, 177, 255) solid 3px",
+      "outlineOffset": "2px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-492-61",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 381.1328125,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 381.1328125,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 381.1328125,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 440.1328125,
+        "y": 25.09375,
+        "width": 36.8671875,
+        "height": 17.59375
+      },
+      "nameText": "demo.orders",
+      "noteText": "\uB2E4\uB978 \uC6D0\uBCF8 \uD14C\uC774\uBE14\uACFC \uC774\uBBF8 \uB300\uC751\uB418\uC5B4 \uC788\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC0AC\uC6A9 \uC911",
+      "selected": false,
+      "disabled": true,
+      "bg": "rgb(38, 39, 45)",
+      "border": "rgb(83, 89, 99)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(173, 179, 189)",
+      "badgeColor": "rgb(173, 179, 189)"
+    },
+    {
+      "id": "ko-492-62",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 381.1328125,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 381.1328125,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 381.1328125,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 440.1328125,
+        "y": 25.09375,
+        "width": 36.8671875,
+        "height": 17.59375
+      },
+      "nameText": "demo.orders",
+      "noteText": "\uB2E4\uB978 \uC6D0\uBCF8 \uD14C\uC774\uBE14\uACFC \uC774\uBBF8 \uB300\uC751\uB418\uC5B4 \uC788\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC0AC\uC6A9 \uC911",
+      "selected": false,
+      "disabled": true,
+      "bg": "rgb(38, 39, 45)",
+      "border": "rgb(83, 89, 99)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(173, 179, 189)",
+      "badgeColor": "rgb(173, 179, 189)"
+    },
+    {
+      "id": "ko-492-63",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 418,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 418,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 418,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 477,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(43, 45, 49)",
+      "border": "rgb(124, 131, 140)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-492-64",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 396,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 396,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 396,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 455,
+        "y": 25.09375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-492-65",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 418,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 418,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 418,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 477,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-492-66",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 396,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 396,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 396,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 455,
+        "y": 25.09375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "ko-492-67",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 396,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 396,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 396,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 455,
+        "y": 25.09375,
+        "width": 22,
+        "height": 17.59375
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "\uC774\uB984 \uCC28\uC774\uB294 \uACB0\uACFC\uC5D0 \uB0A8\uC2B5\uB2C8\uB2E4.",
+      "badgeText": "\uC120\uD0DD",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(167, 177, 255) solid 3px",
+      "outlineOffset": "2px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-240-68",
+      "width": 240,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 166,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 166,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 166,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 225,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "demo.customers",
+      "noteText": "Same name as the source.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(43, 45, 49)",
+      "border": "rgb(124, 131, 140)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-240-69",
+      "width": 240,
+      "height": 85.3828125,
+      "radio": {
+        "x": 15,
+        "y": 32.6875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 122.1875,
+        "height": 57.3828125
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 122.1875,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 122.1875,
+        "height": 35.1875
+      },
+      "badge": {
+        "x": 181.1875,
+        "y": 33.890625,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "demo.customers",
+      "noteText": "Same name as the source.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-240-70",
+      "width": 240,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 166,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 166,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 166,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 225,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "demo.customers",
+      "noteText": "Same name as the source.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-240-71",
+      "width": 240,
+      "height": 85.3828125,
+      "radio": {
+        "x": 15,
+        "y": 32.6875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 122.1875,
+        "height": 57.3828125
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 122.1875,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 122.1875,
+        "height": 35.1875
+      },
+      "badge": {
+        "x": 181.1875,
+        "y": 33.890625,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "demo.customers",
+      "noteText": "Same name as the source.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-240-72",
+      "width": 240,
+      "height": 85.3828125,
+      "radio": {
+        "x": 15,
+        "y": 32.6875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 122.1875,
+        "height": 57.3828125
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 122.1875,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 122.1875,
+        "height": 35.1875
+      },
+      "badge": {
+        "x": 181.1875,
+        "y": 33.890625,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "demo.customers",
+      "noteText": "Same name as the source.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(167, 177, 255) solid 3px",
+      "outlineOffset": "2px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-240-73",
+      "width": 240,
+      "height": 85.3828125,
+      "radio": {
+        "x": 15,
+        "y": 32.6875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 166,
+        "height": 57.3828125
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 166,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 166,
+        "height": 35.1875
+      },
+      "badge": {
+        "x": 225,
+        "y": 42.6875,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "archive.orders",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(43, 45, 49)",
+      "border": "rgb(124, 131, 140)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-240-74",
+      "width": 240,
+      "height": 85.3828125,
+      "radio": {
+        "x": 15,
+        "y": 32.6875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 122.1875,
+        "height": 57.3828125
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 122.1875,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 122.1875,
+        "height": 35.1875
+      },
+      "badge": {
+        "x": 181.1875,
+        "y": 33.890625,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "archive.orders",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-240-75",
+      "width": 240,
+      "height": 85.3828125,
+      "radio": {
+        "x": 15,
+        "y": 32.6875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 166,
+        "height": 57.3828125
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 166,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 166,
+        "height": 35.1875
+      },
+      "badge": {
+        "x": 225,
+        "y": 42.6875,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "archive.orders",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-240-76",
+      "width": 240,
+      "height": 85.3828125,
+      "radio": {
+        "x": 15,
+        "y": 32.6875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 122.1875,
+        "height": 57.3828125
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 122.1875,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 122.1875,
+        "height": 35.1875
+      },
+      "badge": {
+        "x": 181.1875,
+        "y": 33.890625,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "archive.orders",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-240-77",
+      "width": 240,
+      "height": 85.3828125,
+      "radio": {
+        "x": 15,
+        "y": 32.6875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 122.1875,
+        "height": 57.3828125
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 122.1875,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 122.1875,
+        "height": 35.1875
+      },
+      "badge": {
+        "x": 181.1875,
+        "y": 33.890625,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "archive.orders",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(167, 177, 255) solid 3px",
+      "outlineOffset": "2px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-240-78",
+      "width": 240,
+      "height": 85.3828125,
+      "radio": {
+        "x": 15,
+        "y": 32.6875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 134.203125,
+        "height": 57.3828125
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 134.203125,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 134.203125,
+        "height": 35.1875
+      },
+      "badge": {
+        "x": 193.203125,
+        "y": 33.890625,
+        "width": 31.796875,
+        "height": 17.59375
+      },
+      "nameText": "demo.orders",
+      "noteText": "Already matched to another source table.",
+      "badgeText": "In use",
+      "selected": false,
+      "disabled": true,
+      "bg": "rgb(38, 39, 45)",
+      "border": "rgb(83, 89, 99)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(173, 179, 189)",
+      "badgeColor": "rgb(173, 179, 189)"
+    },
+    {
+      "id": "en-240-79",
+      "width": 240,
+      "height": 85.3828125,
+      "radio": {
+        "x": 15,
+        "y": 32.6875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 134.203125,
+        "height": 57.3828125
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 134.203125,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 134.203125,
+        "height": 35.1875
+      },
+      "badge": {
+        "x": 193.203125,
+        "y": 33.890625,
+        "width": 31.796875,
+        "height": 17.59375
+      },
+      "nameText": "demo.orders",
+      "noteText": "Already matched to another source table.",
+      "badgeText": "In use",
+      "selected": false,
+      "disabled": true,
+      "bg": "rgb(38, 39, 45)",
+      "border": "rgb(83, 89, 99)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(173, 179, 189)",
+      "badgeColor": "rgb(173, 179, 189)"
+    },
+    {
+      "id": "en-240-80",
+      "width": 240,
+      "height": 123.7734375,
+      "radio": {
+        "x": 15,
+        "y": 51.8828125,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 166,
+        "height": 95.7734375
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 166,
+        "height": 57.5859375
+      },
+      "note": {
+        "x": 47,
+        "y": 74.5859375,
+        "width": 166,
+        "height": 35.1875
+      },
+      "badge": {
+        "x": 225,
+        "y": 61.8828125,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(43, 45, 49)",
+      "border": "rgb(124, 131, 140)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-240-81",
+      "width": 240,
+      "height": 142.96875,
+      "radio": {
+        "x": 15,
+        "y": 61.484375,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 122.1875,
+        "height": 114.96875
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 122.1875,
+        "height": 76.78125
+      },
+      "note": {
+        "x": 47,
+        "y": 93.78125,
+        "width": 122.1875,
+        "height": 35.1875
+      },
+      "badge": {
+        "x": 181.1875,
+        "y": 62.6875,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-240-82",
+      "width": 240,
+      "height": 123.7734375,
+      "radio": {
+        "x": 15,
+        "y": 51.8828125,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 166,
+        "height": 95.7734375
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 166,
+        "height": 57.5859375
+      },
+      "note": {
+        "x": 47,
+        "y": 74.5859375,
+        "width": 166,
+        "height": 35.1875
+      },
+      "badge": {
+        "x": 225,
+        "y": 61.8828125,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-240-83",
+      "width": 240,
+      "height": 142.96875,
+      "radio": {
+        "x": 15,
+        "y": 61.484375,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 122.1875,
+        "height": 114.96875
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 122.1875,
+        "height": 76.78125
+      },
+      "note": {
+        "x": 47,
+        "y": 93.78125,
+        "width": 122.1875,
+        "height": 35.1875
+      },
+      "badge": {
+        "x": 181.1875,
+        "y": 62.6875,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-240-84",
+      "width": 240,
+      "height": 142.96875,
+      "radio": {
+        "x": 15,
+        "y": 61.484375,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 122.1875,
+        "height": 114.96875
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 122.1875,
+        "height": 76.78125
+      },
+      "note": {
+        "x": 47,
+        "y": 93.78125,
+        "width": 122.1875,
+        "height": 35.1875
+      },
+      "badge": {
+        "x": 181.1875,
+        "y": 62.6875,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(167, 177, 255) solid 3px",
+      "outlineOffset": "2px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-342-85",
+      "width": 342,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 268,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 268,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 268,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 327,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "demo.customers",
+      "noteText": "Same name as the source.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(43, 45, 49)",
+      "border": "rgb(124, 131, 140)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-342-86",
+      "width": 342,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 224.1875,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 224.1875,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 224.1875,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 283.1875,
+        "y": 25.09375,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "demo.customers",
+      "noteText": "Same name as the source.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-342-87",
+      "width": 342,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 268,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 268,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 268,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 327,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "demo.customers",
+      "noteText": "Same name as the source.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-342-88",
+      "width": 342,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 224.1875,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 224.1875,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 224.1875,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 283.1875,
+        "y": 25.09375,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "demo.customers",
+      "noteText": "Same name as the source.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-342-89",
+      "width": 342,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 224.1875,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 224.1875,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 224.1875,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 283.1875,
+        "y": 25.09375,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "demo.customers",
+      "noteText": "Same name as the source.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(167, 177, 255) solid 3px",
+      "outlineOffset": "2px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-342-90",
+      "width": 342,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 268,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 268,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 268,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 327,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "archive.orders",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(43, 45, 49)",
+      "border": "rgb(124, 131, 140)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-342-91",
+      "width": 342,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 224.1875,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 224.1875,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 224.1875,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 283.1875,
+        "y": 25.09375,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "archive.orders",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-342-92",
+      "width": 342,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 268,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 268,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 268,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 327,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "archive.orders",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-342-93",
+      "width": 342,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 224.1875,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 224.1875,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 224.1875,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 283.1875,
+        "y": 25.09375,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "archive.orders",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-342-94",
+      "width": 342,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 224.1875,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 224.1875,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 224.1875,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 283.1875,
+        "y": 25.09375,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "archive.orders",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(167, 177, 255) solid 3px",
+      "outlineOffset": "2px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-342-95",
+      "width": 342,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 236.203125,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 236.203125,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 236.203125,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 295.203125,
+        "y": 25.09375,
+        "width": 31.796875,
+        "height": 17.59375
+      },
+      "nameText": "demo.orders",
+      "noteText": "Already matched to another source table.",
+      "badgeText": "In use",
+      "selected": false,
+      "disabled": true,
+      "bg": "rgb(38, 39, 45)",
+      "border": "rgb(83, 89, 99)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(173, 179, 189)",
+      "badgeColor": "rgb(173, 179, 189)"
+    },
+    {
+      "id": "en-342-96",
+      "width": 342,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 236.203125,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 236.203125,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 236.203125,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 295.203125,
+        "y": 25.09375,
+        "width": 31.796875,
+        "height": 17.59375
+      },
+      "nameText": "demo.orders",
+      "noteText": "Already matched to another source table.",
+      "badgeText": "In use",
+      "selected": false,
+      "disabled": true,
+      "bg": "rgb(38, 39, 45)",
+      "border": "rgb(83, 89, 99)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(173, 179, 189)",
+      "badgeColor": "rgb(173, 179, 189)"
+    },
+    {
+      "id": "en-342-97",
+      "width": 342,
+      "height": 86.984375,
+      "radio": {
+        "x": 15,
+        "y": 33.4921875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 268,
+        "height": 58.984375
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 268,
+        "height": 38.390625
+      },
+      "note": {
+        "x": 47,
+        "y": 55.390625,
+        "width": 268,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 327,
+        "y": 43.4921875,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(43, 45, 49)",
+      "border": "rgb(124, 131, 140)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-342-98",
+      "width": 342,
+      "height": 86.984375,
+      "radio": {
+        "x": 15,
+        "y": 33.4921875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 224.1875,
+        "height": 58.984375
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 224.1875,
+        "height": 38.390625
+      },
+      "note": {
+        "x": 47,
+        "y": 55.390625,
+        "width": 224.1875,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 283.1875,
+        "y": 34.6953125,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-342-99",
+      "width": 342,
+      "height": 86.984375,
+      "radio": {
+        "x": 15,
+        "y": 33.4921875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 268,
+        "height": 58.984375
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 268,
+        "height": 38.390625
+      },
+      "note": {
+        "x": 47,
+        "y": 55.390625,
+        "width": 268,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 327,
+        "y": 43.4921875,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-342-100",
+      "width": 342,
+      "height": 86.984375,
+      "radio": {
+        "x": 15,
+        "y": 33.4921875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 224.1875,
+        "height": 58.984375
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 224.1875,
+        "height": 38.390625
+      },
+      "note": {
+        "x": 47,
+        "y": 55.390625,
+        "width": 224.1875,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 283.1875,
+        "y": 34.6953125,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-342-101",
+      "width": 342,
+      "height": 86.984375,
+      "radio": {
+        "x": 15,
+        "y": 33.4921875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 224.1875,
+        "height": 58.984375
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 224.1875,
+        "height": 38.390625
+      },
+      "note": {
+        "x": 47,
+        "y": 55.390625,
+        "width": 224.1875,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 283.1875,
+        "y": 34.6953125,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(167, 177, 255) solid 3px",
+      "outlineOffset": "2px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-442-102",
+      "width": 442,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 368,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 427,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "demo.customers",
+      "noteText": "Same name as the source.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(43, 45, 49)",
+      "border": "rgb(124, 131, 140)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-442-103",
+      "width": 442,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 324.1875,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 324.1875,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 324.1875,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 383.1875,
+        "y": 25.09375,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "demo.customers",
+      "noteText": "Same name as the source.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-442-104",
+      "width": 442,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 368,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 427,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "demo.customers",
+      "noteText": "Same name as the source.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-442-105",
+      "width": 442,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 324.1875,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 324.1875,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 324.1875,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 383.1875,
+        "y": 25.09375,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "demo.customers",
+      "noteText": "Same name as the source.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-442-106",
+      "width": 442,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 324.1875,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 324.1875,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 324.1875,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 383.1875,
+        "y": 25.09375,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "demo.customers",
+      "noteText": "Same name as the source.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(167, 177, 255) solid 3px",
+      "outlineOffset": "2px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-442-107",
+      "width": 442,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 368,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 427,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "archive.orders",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(43, 45, 49)",
+      "border": "rgb(124, 131, 140)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-442-108",
+      "width": 442,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 324.1875,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 324.1875,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 324.1875,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 383.1875,
+        "y": 25.09375,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "archive.orders",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-442-109",
+      "width": 442,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 368,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 427,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "archive.orders",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-442-110",
+      "width": 442,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 324.1875,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 324.1875,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 324.1875,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 383.1875,
+        "y": 25.09375,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "archive.orders",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-442-111",
+      "width": 442,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 324.1875,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 324.1875,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 324.1875,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 383.1875,
+        "y": 25.09375,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "archive.orders",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(167, 177, 255) solid 3px",
+      "outlineOffset": "2px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-442-112",
+      "width": 442,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 336.203125,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 336.203125,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 336.203125,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 395.203125,
+        "y": 25.09375,
+        "width": 31.796875,
+        "height": 17.59375
+      },
+      "nameText": "demo.orders",
+      "noteText": "Already matched to another source table.",
+      "badgeText": "In use",
+      "selected": false,
+      "disabled": true,
+      "bg": "rgb(38, 39, 45)",
+      "border": "rgb(83, 89, 99)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(173, 179, 189)",
+      "badgeColor": "rgb(173, 179, 189)"
+    },
+    {
+      "id": "en-442-113",
+      "width": 442,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 336.203125,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 336.203125,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 336.203125,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 395.203125,
+        "y": 25.09375,
+        "width": 31.796875,
+        "height": 17.59375
+      },
+      "nameText": "demo.orders",
+      "noteText": "Already matched to another source table.",
+      "badgeText": "In use",
+      "selected": false,
+      "disabled": true,
+      "bg": "rgb(38, 39, 45)",
+      "border": "rgb(83, 89, 99)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(173, 179, 189)",
+      "badgeColor": "rgb(173, 179, 189)"
+    },
+    {
+      "id": "en-442-114",
+      "width": 442,
+      "height": 86.984375,
+      "radio": {
+        "x": 15,
+        "y": 33.4921875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 58.984375
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 38.390625
+      },
+      "note": {
+        "x": 47,
+        "y": 55.390625,
+        "width": 368,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 427,
+        "y": 43.4921875,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(43, 45, 49)",
+      "border": "rgb(124, 131, 140)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-442-115",
+      "width": 442,
+      "height": 86.984375,
+      "radio": {
+        "x": 15,
+        "y": 33.4921875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 324.1875,
+        "height": 58.984375
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 324.1875,
+        "height": 38.390625
+      },
+      "note": {
+        "x": 47,
+        "y": 55.390625,
+        "width": 324.1875,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 383.1875,
+        "y": 34.6953125,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-442-116",
+      "width": 442,
+      "height": 86.984375,
+      "radio": {
+        "x": 15,
+        "y": 33.4921875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 58.984375
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 368,
+        "height": 38.390625
+      },
+      "note": {
+        "x": 47,
+        "y": 55.390625,
+        "width": 368,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 427,
+        "y": 43.4921875,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-442-117",
+      "width": 442,
+      "height": 86.984375,
+      "radio": {
+        "x": 15,
+        "y": 33.4921875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 324.1875,
+        "height": 58.984375
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 324.1875,
+        "height": 38.390625
+      },
+      "note": {
+        "x": 47,
+        "y": 55.390625,
+        "width": 324.1875,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 383.1875,
+        "y": 34.6953125,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-442-118",
+      "width": 442,
+      "height": 86.984375,
+      "radio": {
+        "x": 15,
+        "y": 33.4921875,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 324.1875,
+        "height": 58.984375
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 324.1875,
+        "height": 38.390625
+      },
+      "note": {
+        "x": 47,
+        "y": 55.390625,
+        "width": 324.1875,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 383.1875,
+        "y": 34.6953125,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(167, 177, 255) solid 3px",
+      "outlineOffset": "2px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-492-119",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 418,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 418,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 418,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 477,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "demo.customers",
+      "noteText": "Same name as the source.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(43, 45, 49)",
+      "border": "rgb(124, 131, 140)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-492-120",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 374.1875,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 374.1875,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 374.1875,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 433.1875,
+        "y": 25.09375,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "demo.customers",
+      "noteText": "Same name as the source.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-492-121",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 418,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 418,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 418,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 477,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "demo.customers",
+      "noteText": "Same name as the source.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-492-122",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 374.1875,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 374.1875,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 374.1875,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 433.1875,
+        "y": 25.09375,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "demo.customers",
+      "noteText": "Same name as the source.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-492-123",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 374.1875,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 374.1875,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 374.1875,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 433.1875,
+        "y": 25.09375,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "demo.customers",
+      "noteText": "Same name as the source.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(167, 177, 255) solid 3px",
+      "outlineOffset": "2px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-492-124",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 418,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 418,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 418,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 477,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "archive.orders",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(43, 45, 49)",
+      "border": "rgb(124, 131, 140)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-492-125",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 374.1875,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 374.1875,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 374.1875,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 433.1875,
+        "y": 25.09375,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "archive.orders",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-492-126",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 418,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 418,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 418,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 477,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "archive.orders",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-492-127",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 374.1875,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 374.1875,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 374.1875,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 433.1875,
+        "y": 25.09375,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "archive.orders",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-492-128",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 374.1875,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 374.1875,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 374.1875,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 433.1875,
+        "y": 25.09375,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "archive.orders",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(167, 177, 255) solid 3px",
+      "outlineOffset": "2px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-492-129",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 386.203125,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 386.203125,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 386.203125,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 445.203125,
+        "y": 25.09375,
+        "width": 31.796875,
+        "height": 17.59375
+      },
+      "nameText": "demo.orders",
+      "noteText": "Already matched to another source table.",
+      "badgeText": "In use",
+      "selected": false,
+      "disabled": true,
+      "bg": "rgb(38, 39, 45)",
+      "border": "rgb(83, 89, 99)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(173, 179, 189)",
+      "badgeColor": "rgb(173, 179, 189)"
+    },
+    {
+      "id": "en-492-130",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 386.203125,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 386.203125,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 386.203125,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 445.203125,
+        "y": 25.09375,
+        "width": 31.796875,
+        "height": 17.59375
+      },
+      "nameText": "demo.orders",
+      "noteText": "Already matched to another source table.",
+      "badgeText": "In use",
+      "selected": false,
+      "disabled": true,
+      "bg": "rgb(38, 39, 45)",
+      "border": "rgb(83, 89, 99)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(173, 179, 189)",
+      "badgeColor": "rgb(173, 179, 189)"
+    },
+    {
+      "id": "en-492-131",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 418,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 418,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 418,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 477,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(43, 45, 49)",
+      "border": "rgb(124, 131, 140)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-492-132",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 374.1875,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 374.1875,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 374.1875,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 433.1875,
+        "y": 25.09375,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-492-133",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 418,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 418,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 418,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 477,
+        "y": 33.890625,
+        "width": 0,
+        "height": 0
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "",
+      "selected": false,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "none",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-492-134",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 374.1875,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 374.1875,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 374.1875,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 433.1875,
+        "y": 25.09375,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(56, 59, 68)",
+      "border": "rgb(167, 177, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(219, 222, 225) none 3px",
+      "outlineOffset": "0px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    },
+    {
+      "id": "en-492-135",
+      "width": 492,
+      "height": 67.7890625,
+      "radio": {
+        "x": 15,
+        "y": 23.890625,
+        "width": 20,
+        "height": 20
+      },
+      "body": {
+        "x": 47,
+        "y": 14,
+        "width": 374.1875,
+        "height": 39.7890625
+      },
+      "name": {
+        "x": 47,
+        "y": 14,
+        "width": 374.1875,
+        "height": 19.1953125
+      },
+      "note": {
+        "x": 47,
+        "y": 36.1953125,
+        "width": 374.1875,
+        "height": 17.59375
+      },
+      "badge": {
+        "x": 433.1875,
+        "y": 25.09375,
+        "width": 43.8125,
+        "height": 17.59375
+      },
+      "nameText": "example_schema.table_with_a_long_name_for_exact_wrapping",
+      "noteText": "Name differences remain in the result.",
+      "badgeText": "Selected",
+      "selected": true,
+      "disabled": false,
+      "bg": "rgb(59, 61, 82)",
+      "border": "rgb(139, 148, 255)",
+      "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+      "outline": "rgb(167, 177, 255) solid 3px",
+      "outlineOffset": "2px",
+      "nameColor": "rgb(219, 222, 225)",
+      "badgeColor": "rgb(180, 189, 255)"
+    }
+  ]
+}

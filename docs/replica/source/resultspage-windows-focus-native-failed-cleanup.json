@@ -1,0 +1,10 @@
+{
+  "nativeProcessCount": 0,
+  "nativeWindowCount": 0,
+  "sourceWindowCount": 0,
+  "proof": "official tasklist ReplicaProbe.exe ANY path absent; therefore exact cold native process and its window absent; no source launched in this batch, prior owned source closed0",
+  "processQuery": "resultspage-windows-focus-minimal-process-query.json",
+  "build": "DBMV-Isolated-connection-resultspage-26abcdb4d9434c6b8950a2e1e1fc7e38",
+  "time": "2026-10-08T16:33:23.542691+00:00",
+  "scopeStatus": "FAILED_FIRST_PUBLICATION; Space/hold not sent; finallyclose rejected because candidate window already absent"
+}

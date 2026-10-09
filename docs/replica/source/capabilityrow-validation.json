@@ -1,0 +1,63 @@
+{
+  "component": "CapabilityRow",
+  "state": "LOCKED",
+  "implementationHash": "f9d85fc032bcbc5206a8ddfeb0e367055e7be203bea7df18011300051ee5d269",
+  "headlessSnapshot": "1c4124782a014ae2ac7ccf24d6c5e9d8",
+  "headlessOutput": "991c8cfa96214828b2de3803ffcdab9d",
+  "nativeMacSnapshot": "1cb84cb8cf4f470dba133eb739d5ee47",
+  "nativeWindowsSnapshot": "646d56b9ecb14ae0b931cdd636582694",
+  "reports": {
+    "capabilityrow-mac-comparison.json": {
+      "cases": 48,
+      "errors": 0
+    },
+    "capabilityrow-windows-comparison.json": {
+      "cases": 48,
+      "errors": 0
+    },
+    "capabilityrow-mac-timing-comparison.json": {
+      "cases": 48,
+      "errors": 0
+    },
+    "capabilityrow-windows-timing-comparison.json": {
+      "cases": 48,
+      "errors": 0
+    },
+    "capabilityrow-mac-input/actual-comparison.json": {
+      "cases": 11,
+      "errors": 0
+    },
+    "capabilityrow-windows-input/actual-comparison.json": {
+      "cases": 11,
+      "errors": 0
+    }
+  },
+  "remaining": [],
+  "accessibilityProtocolEvidence": [
+    "capabilityrow-mac-input/live-original-dom-snapshot.txt",
+    "capabilityrow-mac-input/live-original-ax-tree.txt",
+    "capabilityrow-mac-input/fixture-dom-snapshot.txt",
+    "capabilityrow-mac-input/source-ax-tree.txt",
+    "capabilityrow-mac-input/actual-ax-tree.txt"
+  ],
+  "parentRequiredSemanticException": {
+    "reason": "Actual Windows CapabilityTable source named DataItem cells/direct leaf permission Button",
+    "implementationHash": "f9d85fc032bcbc5206a8ddfeb0e367055e7be203bea7df18011300051ee5d269",
+    "scope": "Windows Cell name/type/children only; Mac default semantic/layout/input unchanged",
+    "source": "docs/replica/source/capabilityrow-table-semantic-source.json",
+    "headlessMac": "artifacts/replica/workers/preflight/capabilityrow/29bbde020a20426b89b1cea89bd3fa11/outputs/892632b4bafb4b27bb552d5eca13e44b/candidate/comparison.json",
+    "headlessWindows": "artifacts/replica/workers/preflight/capabilityrow/0e4a68a0627344e7a672f61fce9c2992/headless-windows-semantic/95770058d823495e8e88cd92856ac8f6/comparison.json",
+    "actualMac": "artifacts/replica/workers/preflight/capabilityrow/d667a4990fcb4329b92f34826059478b/actual-macos-semantic/comparison.json",
+    "actualWindows": "artifacts/replica/workers/preflight/capabilityrow/7562326b5ebf445aac3022ca654f6525/actual-windows-semantic/3c9070e62120455fa4d4b83fd616824a/comparison.json",
+    "sharedButtonParent": "artifacts/replica/workers/preflight/capabilityrow/7562326b5ebf445aac3022ca654f6525/actual-windows-semantic/3c9070e62120455fa4d4b83fd616824a/capabilityrow-shared-button-parent-evidence.json",
+    "checksEach": 48,
+    "errorsEach": 0,
+    "changedProductRenderLayoutInput": false,
+    "cleanupEach": {
+      "nativeProcess": 0,
+      "nativeWindow": 0
+    },
+    "dependencyActionButtonRelockedHash": "0556d146f7ce9a971757bf0f08305ae34a118b558e934c4c11379c352d42c5aa"
+  },
+  "previousImplementationHash": "ad560ed5b5c7560047c81d1de275df720540ad1080e91955da01f2b523102c29"
+}

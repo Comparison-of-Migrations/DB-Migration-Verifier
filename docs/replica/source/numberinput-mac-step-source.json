@@ -1,0 +1,482 @@
+[
+  {
+    "value": "3306",
+    "key": "ArrowUp",
+    "before": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "3306"
+    },
+    "after": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "3307"
+    }
+  },
+  {
+    "value": "3306",
+    "key": "ArrowDown",
+    "before": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "3306"
+    },
+    "after": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "3305"
+    }
+  },
+  {
+    "value": "",
+    "key": "ArrowUp",
+    "before": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": ""
+    },
+    "after": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "1"
+    }
+  },
+  {
+    "value": "",
+    "key": "ArrowDown",
+    "before": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": ""
+    },
+    "after": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "1"
+    }
+  },
+  {
+    "value": "1",
+    "key": "ArrowUp",
+    "before": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "1"
+    },
+    "after": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "2"
+    }
+  },
+  {
+    "value": "1",
+    "key": "ArrowDown",
+    "before": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "1"
+    },
+    "after": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "1"
+    }
+  },
+  {
+    "value": "65535",
+    "key": "ArrowUp",
+    "before": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "65535"
+    },
+    "after": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "65535"
+    }
+  },
+  {
+    "value": "65535",
+    "key": "ArrowDown",
+    "before": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "65535"
+    },
+    "after": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "65534"
+    }
+  },
+  {
+    "value": "0",
+    "key": "ArrowUp",
+    "before": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": true,
+      "valid": false,
+      "value": "0"
+    },
+    "after": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "1"
+    }
+  },
+  {
+    "value": "0",
+    "key": "ArrowDown",
+    "before": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": true,
+      "valid": false,
+      "value": "0"
+    },
+    "after": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": true,
+      "valid": false,
+      "value": "0"
+    }
+  },
+  {
+    "value": "65536",
+    "key": "ArrowUp",
+    "before": {
+      "bad": false,
+      "over": true,
+      "step": false,
+      "under": false,
+      "valid": false,
+      "value": "65536"
+    },
+    "after": {
+      "bad": false,
+      "over": true,
+      "step": false,
+      "under": false,
+      "valid": false,
+      "value": "65536"
+    }
+  },
+  {
+    "value": "65536",
+    "key": "ArrowDown",
+    "before": {
+      "bad": false,
+      "over": true,
+      "step": false,
+      "under": false,
+      "valid": false,
+      "value": "65536"
+    },
+    "after": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "65535"
+    }
+  },
+  {
+    "value": "1.5",
+    "key": "ArrowUp",
+    "before": {
+      "bad": false,
+      "over": false,
+      "step": true,
+      "under": false,
+      "valid": false,
+      "value": "1.5"
+    },
+    "after": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "2"
+    }
+  },
+  {
+    "value": "1.5",
+    "key": "ArrowDown",
+    "before": {
+      "bad": false,
+      "over": false,
+      "step": true,
+      "under": false,
+      "valid": false,
+      "value": "1.5"
+    },
+    "after": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "1"
+    }
+  },
+  {
+    "value": "1e3",
+    "key": "ArrowUp",
+    "before": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "1e3"
+    },
+    "after": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "1001"
+    }
+  },
+  {
+    "value": "1e3",
+    "key": "ArrowDown",
+    "before": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "1e3"
+    },
+    "after": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "999"
+    }
+  },
+  {
+    "value": "0001",
+    "key": "ArrowUp",
+    "before": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "0001"
+    },
+    "after": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "2"
+    }
+  },
+  {
+    "value": "0001",
+    "key": "ArrowDown",
+    "before": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "0001"
+    },
+    "after": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "0001"
+    }
+  },
+  {
+    "value": "-1",
+    "key": "ArrowUp",
+    "before": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": true,
+      "valid": false,
+      "value": "-1"
+    },
+    "after": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "1"
+    }
+  },
+  {
+    "value": "-1",
+    "key": "ArrowDown",
+    "before": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": true,
+      "valid": false,
+      "value": "-1"
+    },
+    "after": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": true,
+      "valid": false,
+      "value": "-1"
+    }
+  },
+  {
+    "value": "1e+3",
+    "key": "ArrowUp",
+    "before": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "1e+3"
+    },
+    "after": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "1001"
+    }
+  },
+  {
+    "value": "1e+3",
+    "key": "ArrowDown",
+    "before": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "1e+3"
+    },
+    "after": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "999"
+    }
+  },
+  {
+    "value": "1e-3",
+    "key": "ArrowUp",
+    "before": {
+      "bad": false,
+      "over": false,
+      "step": true,
+      "under": true,
+      "valid": false,
+      "value": "1e-3"
+    },
+    "after": {
+      "bad": false,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "1"
+    }
+  },
+  {
+    "value": "1e-3",
+    "key": "ArrowDown",
+    "before": {
+      "bad": false,
+      "over": false,
+      "step": true,
+      "under": true,
+      "valid": false,
+      "value": "1e-3"
+    },
+    "after": {
+      "bad": false,
+      "over": false,
+      "step": true,
+      "under": true,
+      "valid": false,
+      "value": "1e-3"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "status": "FAILED",
+  "checks": 2595,
+  "differences": [
+    {
+      "context": "review-ko",
+      "index": 2,
+      "key": "boxes.page.width",
+      "actual": 669,
+      "expected": 684
+    },
+    {
+      "context": "review-ko",
+      "index": 2,
+      "key": "boxes.page.height",
+      "actual": 678.78125,
+      "expected": 656.78125
+    },
+    {
+      "context": "review-ko",
+      "index": 2,
+      "key": "boxes.heading.width",
+      "actual": 669,
+      "expected": 684
+    },
+    {
+      "context": "review-ko",
+      "index": 2,
+      "key": "boxes.focus.y",
+      "actual": 749.5859375,
+      "expected": 727.5859375
+    },
+    {
+      "context": "review-ko",
+      "index": 2,
+      "key": "boxes.summaryValue.width",
+      "actual": 465,
+      "expected": 480
+    }
+  ],
+  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/pageintegrationparentresize-windows-source.json",
+  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/connection/pageintegration/3f08d2b59915489c871f206724388c7a/actual-parent-resize-windows/headless-acbfae5768dd4799aaf574c9475d31fd/pageintegrationparentresize-records.json",
+  "contexts": 12,
+  "states": 48,
+  "scope": "Only six connected parent resize identities/focus/selection/entry/layout at KOEN widths1280/1100/960/1280; passive API seed and pending Progress without timer. Existing child matrices and trusted callbacks reused; actual OS resize and close0 evidence separate."
+}

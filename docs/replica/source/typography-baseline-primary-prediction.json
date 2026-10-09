@@ -1,0 +1,1014 @@
+{
+  "state": "measured hypothesis; renderer unchanged",
+  "cases": [
+    {
+      "id": "kr-0",
+      "predicted": {
+        "baseline": 16.0,
+        "rangeHeight": 16.5,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "kr-1",
+      "predicted": {
+        "baseline": 38.0,
+        "rangeHeight": 42.5,
+        "leading": 3.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "kr-2",
+      "predicted": {
+        "baseline": 17.5,
+        "rangeHeight": 16.5,
+        "leading": 4.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "kr-3",
+      "predicted": {
+        "baseline": 20.0,
+        "rangeHeight": 17.5,
+        "leading": 5.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "kr-4",
+      "predicted": {
+        "baseline": 14.0,
+        "rangeHeight": 14.0,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "kr-5",
+      "predicted": {
+        "baseline": 16.0,
+        "rangeHeight": 16.5,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "kr-6",
+      "predicted": {
+        "baseline": 17.0,
+        "rangeHeight": 15.0,
+        "leading": 4.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "kr-7",
+      "predicted": {
+        "baseline": 16.0,
+        "rangeHeight": 15.0,
+        "leading": 3.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "en-0",
+      "predicted": {
+        "baseline": 16.0,
+        "rangeHeight": 16.5,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "en-1",
+      "predicted": {
+        "baseline": 38.0,
+        "rangeHeight": 42.5,
+        "leading": 3.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "en-2",
+      "predicted": {
+        "baseline": 17.5,
+        "rangeHeight": 16.5,
+        "leading": 4.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "en-3",
+      "predicted": {
+        "baseline": 20.0,
+        "rangeHeight": 17.5,
+        "leading": 5.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "en-4",
+      "predicted": {
+        "baseline": 14.0,
+        "rangeHeight": 14.0,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "en-5",
+      "predicted": {
+        "baseline": 16.0,
+        "rangeHeight": 16.5,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "en-6",
+      "predicted": {
+        "baseline": 17.0,
+        "rangeHeight": 15.0,
+        "leading": 4.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "en-7",
+      "predicted": {
+        "baseline": 16.0,
+        "rangeHeight": 15.0,
+        "leading": 3.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-00",
+      "predicted": {
+        "baseline": 12.5,
+        "rangeHeight": 13.0,
+        "leading": 2.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-01",
+      "predicted": {
+        "baseline": 44.0,
+        "rangeHeight": 52.0,
+        "leading": 1.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-02",
+      "predicted": {
+        "baseline": 12.5,
+        "rangeHeight": 13.0,
+        "leading": 2.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-03",
+      "predicted": {
+        "baseline": 44.0,
+        "rangeHeight": 52.0,
+        "leading": 1.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-04",
+      "predicted": {
+        "baseline": 12.5,
+        "rangeHeight": 13.0,
+        "leading": 2.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-05",
+      "predicted": {
+        "baseline": 44.0,
+        "rangeHeight": 52.0,
+        "leading": 1.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-06",
+      "predicted": {
+        "baseline": 12.5,
+        "rangeHeight": 13.0,
+        "leading": 2.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-07",
+      "predicted": {
+        "baseline": 12.5,
+        "rangeHeight": 12.5,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-08",
+      "predicted": {
+        "baseline": 15.0,
+        "rangeHeight": 15.0,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-09",
+      "predicted": {
+        "baseline": 12.0,
+        "rangeHeight": 11.5,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-10",
+      "predicted": {
+        "baseline": 25.0,
+        "rangeHeight": 30.5,
+        "leading": 0.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-11",
+      "predicted": {
+        "baseline": 25.0,
+        "rangeHeight": 30.5,
+        "leading": 0.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-12",
+      "predicted": {
+        "baseline": 25.0,
+        "rangeHeight": 30.5,
+        "leading": 0.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-13",
+      "predicted": {
+        "baseline": 15.0,
+        "rangeHeight": 15.0,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-14",
+      "predicted": {
+        "baseline": 12.0,
+        "rangeHeight": 11.5,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-15",
+      "predicted": {
+        "baseline": 25.0,
+        "rangeHeight": 30.5,
+        "leading": 0.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-16",
+      "predicted": {
+        "baseline": 15.0,
+        "rangeHeight": 15.0,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-17",
+      "predicted": {
+        "baseline": 12.0,
+        "rangeHeight": 11.5,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-18",
+      "predicted": {
+        "baseline": 25.0,
+        "rangeHeight": 30.5,
+        "leading": 0.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-19",
+      "predicted": {
+        "baseline": 25.0,
+        "rangeHeight": 30.5,
+        "leading": 0.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-20",
+      "predicted": {
+        "baseline": 15.0,
+        "rangeHeight": 15.0,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-21",
+      "predicted": {
+        "baseline": 25.0,
+        "rangeHeight": 30.5,
+        "leading": 0.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-22",
+      "predicted": {
+        "baseline": 16.0,
+        "rangeHeight": 16.5,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-23",
+      "predicted": {
+        "baseline": 13.5,
+        "rangeHeight": 14.0,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-24",
+      "predicted": {
+        "baseline": 13.5,
+        "rangeHeight": 14.0,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-25",
+      "predicted": {
+        "baseline": 16.0,
+        "rangeHeight": 16.5,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-26",
+      "predicted": {
+        "baseline": 13.5,
+        "rangeHeight": 14.0,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-27",
+      "predicted": {
+        "baseline": 13.5,
+        "rangeHeight": 14.0,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-28",
+      "predicted": {
+        "baseline": 16.0,
+        "rangeHeight": 16.5,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-29",
+      "predicted": {
+        "baseline": 13.5,
+        "rangeHeight": 14.0,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-30",
+      "predicted": {
+        "baseline": 13.5,
+        "rangeHeight": 14.0,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-31",
+      "predicted": {
+        "baseline": 16.0,
+        "rangeHeight": 16.5,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-32",
+      "predicted": {
+        "baseline": 13.5,
+        "rangeHeight": 14.0,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    }
+  ],
+  "scales": [
+    {
+      "id": "kr-0",
+      "zoom": 0.5,
+      "predicted": {
+        "baseline": 16.0,
+        "rangeHeight": 17.0,
+        "leading": 2.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "kr-1",
+      "zoom": 0.5,
+      "predicted": {
+        "baseline": 37.0,
+        "rangeHeight": 43.0,
+        "leading": 2.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "kr-2",
+      "zoom": 0.5,
+      "predicted": {
+        "baseline": 18.0,
+        "rangeHeight": 17.0,
+        "leading": 4.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "kr-3",
+      "zoom": 0.5,
+      "predicted": {
+        "baseline": 20.0,
+        "rangeHeight": 18.0,
+        "leading": 5.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "kr-4",
+      "zoom": 0.5,
+      "predicted": {
+        "baseline": 14.0,
+        "rangeHeight": 15.0,
+        "leading": 2.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "kr-6",
+      "zoom": 0.5,
+      "predicted": {
+        "baseline": 17.0,
+        "rangeHeight": 16.0,
+        "leading": 4.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "kr-7",
+      "zoom": 0.5,
+      "predicted": {
+        "baseline": 16.0,
+        "rangeHeight": 16.0,
+        "leading": 3.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-00",
+      "zoom": 0.5,
+      "predicted": {
+        "baseline": 13.0,
+        "rangeHeight": 13.0,
+        "leading": 2.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-01",
+      "zoom": 0.5,
+      "predicted": {
+        "baseline": 44.0,
+        "rangeHeight": 52.0,
+        "leading": 1.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-07",
+      "zoom": 0.5,
+      "predicted": {
+        "baseline": 12.0,
+        "rangeHeight": 13.0,
+        "leading": 2.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-08",
+      "zoom": 0.5,
+      "predicted": {
+        "baseline": 15.0,
+        "rangeHeight": 16.0,
+        "leading": 2.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-10",
+      "zoom": 0.5,
+      "predicted": {
+        "baseline": 25.0,
+        "rangeHeight": 30.0,
+        "leading": 0.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-23",
+      "zoom": 0.5,
+      "predicted": {
+        "baseline": 13.0,
+        "rangeHeight": 14.0,
+        "leading": 2.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "kr-0",
+      "zoom": 1,
+      "predicted": {
+        "baseline": 16.0,
+        "rangeHeight": 16.5,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "kr-1",
+      "zoom": 1,
+      "predicted": {
+        "baseline": 38.0,
+        "rangeHeight": 42.5,
+        "leading": 3.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "kr-2",
+      "zoom": 1,
+      "predicted": {
+        "baseline": 17.5,
+        "rangeHeight": 16.5,
+        "leading": 4.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "kr-3",
+      "zoom": 1,
+      "predicted": {
+        "baseline": 20.0,
+        "rangeHeight": 17.5,
+        "leading": 5.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "kr-4",
+      "zoom": 1,
+      "predicted": {
+        "baseline": 14.0,
+        "rangeHeight": 14.0,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "kr-6",
+      "zoom": 1,
+      "predicted": {
+        "baseline": 17.0,
+        "rangeHeight": 15.0,
+        "leading": 4.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "kr-7",
+      "zoom": 1,
+      "predicted": {
+        "baseline": 16.0,
+        "rangeHeight": 15.0,
+        "leading": 3.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-00",
+      "zoom": 1,
+      "predicted": {
+        "baseline": 12.5,
+        "rangeHeight": 13.0,
+        "leading": 2.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-01",
+      "zoom": 1,
+      "predicted": {
+        "baseline": 44.0,
+        "rangeHeight": 52.0,
+        "leading": 1.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-07",
+      "zoom": 1,
+      "predicted": {
+        "baseline": 12.5,
+        "rangeHeight": 12.5,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-08",
+      "zoom": 1,
+      "predicted": {
+        "baseline": 15.0,
+        "rangeHeight": 15.0,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-10",
+      "zoom": 1,
+      "predicted": {
+        "baseline": 25.0,
+        "rangeHeight": 30.5,
+        "leading": 0.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-23",
+      "zoom": 1,
+      "predicted": {
+        "baseline": 13.5,
+        "rangeHeight": 14.0,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "kr-0",
+      "zoom": 2,
+      "predicted": {
+        "baseline": 16.25,
+        "rangeHeight": 16.5,
+        "leading": 2.75
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "kr-1",
+      "zoom": 2,
+      "predicted": {
+        "baseline": 37.75,
+        "rangeHeight": 42.25,
+        "leading": 3.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "kr-2",
+      "zoom": 2,
+      "predicted": {
+        "baseline": 17.75,
+        "rangeHeight": 16.5,
+        "leading": 4.25
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "kr-3",
+      "zoom": 2,
+      "predicted": {
+        "baseline": 19.75,
+        "rangeHeight": 17.75,
+        "leading": 5.25
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "kr-4",
+      "zoom": 2,
+      "predicted": {
+        "baseline": 14.0,
+        "rangeHeight": 14.0,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "kr-6",
+      "zoom": 2,
+      "predicted": {
+        "baseline": 16.75,
+        "rangeHeight": 15.25,
+        "leading": 4.25
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "kr-7",
+      "zoom": 2,
+      "predicted": {
+        "baseline": 15.75,
+        "rangeHeight": 15.25,
+        "leading": 3.25
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-00",
+      "zoom": 2,
+      "predicted": {
+        "baseline": 13.0,
+        "rangeHeight": 13.0,
+        "leading": 2.25
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-01",
+      "zoom": 2,
+      "predicted": {
+        "baseline": 44.0,
+        "rangeHeight": 51.75,
+        "leading": 1.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-07",
+      "zoom": 2,
+      "predicted": {
+        "baseline": 12.5,
+        "rangeHeight": 12.75,
+        "leading": 2.25
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-08",
+      "zoom": 2,
+      "predicted": {
+        "baseline": 15.25,
+        "rangeHeight": 15.25,
+        "leading": 2.75
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-10",
+      "zoom": 2,
+      "predicted": {
+        "baseline": 25.25,
+        "rangeHeight": 30.75,
+        "leading": 0.0
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    },
+    {
+      "id": "role-23",
+      "zoom": 2,
+      "predicted": {
+        "baseline": 13.75,
+        "rangeHeight": 14.0,
+        "leading": 2.5
+      },
+      "baselineDifference": 0.0,
+      "rangeDifference": 0.0,
+      "leadingDifference": 0.0
+    }
+  ]
+}

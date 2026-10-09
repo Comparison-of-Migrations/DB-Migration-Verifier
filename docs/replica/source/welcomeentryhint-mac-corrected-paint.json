@@ -1,0 +1,25 @@
+{
+  "reason": "Probe-only language utility at canvas0,0 excluded; complete standard headless PNG equality retained.",
+  "rows": [
+    {
+      "file": "welcomeentryhint-ko-438.png",
+      "productCropPixels": [
+        60,
+        120,
+        2080,
+        400
+      ],
+      "identical": true
+    },
+    {
+      "file": "welcomeentryhint-en-438.png",
+      "productCropPixels": [
+        60,
+        120,
+        2080,
+        400
+      ],
+      "identical": true
+    }
+  ]
+}

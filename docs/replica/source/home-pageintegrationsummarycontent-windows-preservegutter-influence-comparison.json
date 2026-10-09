@@ -1,0 +1,10 @@
+{
+  "phase": "HEADLESS_PASSED",
+  "scope": "ScrollViewport existing-gutter branch influence only: direct Review-default-KO viewport960 (target1), exact source/candidate subset; not a fresh full30 regression",
+  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/pageintegrationsummarycontent-source/fda231d217344567bf50e7707f0a8429/source.json",
+  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/pageintegration/1997788f1c544eafb7f30bc19800f185/actual-summary-content-windows/headless-a9b19c3c385c4b489334e2ef93c3bdf1/pageintegration-summary-content.json",
+  "cases": 1,
+  "checks": 138,
+  "differences": [],
+  "reuse": "Protected SummaryItem/SummaryList/InlineText typography/paint/clips unchanged; root Mac InlineText namedText peer correction has separate affected4 actual proof; literal suffix compared as full combined value plus positive public muted clips. Exact source HTML tag vs native control class is not asserted. Existing first-row parent48 passes retained; full items placement is newly assessed. ActualOS semantic public names/AX and paint inspection remain separate."
+}

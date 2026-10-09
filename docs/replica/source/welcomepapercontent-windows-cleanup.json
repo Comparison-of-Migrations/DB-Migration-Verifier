@@ -1,0 +1,132 @@
+{
+  "manifest": "artifacts/replica/workers/home/welcomepapercontent/466fd725521e40eaaf1d616126ee05f7/build.json",
+  "ownedProcessCount": 0,
+  "ownedSourceWindowCount": 0,
+  "result": "Owned PaperContent source and native closed",
+  "lifecycleSource600Assertions": 3,
+  "lifecycle": [
+    {
+      "english": false,
+      "attached": true,
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 600,
+        "height": 92.578125
+      },
+      "label": {
+        "box": {
+          "x": 0,
+          "y": 0,
+          "width": 600,
+          "height": 19.1953125
+        },
+        "text": "\uc774 \uc571\uc758 \uc5f0\uad6c \uadfc\uac70",
+        "color": "rgb(181, 186, 193)"
+      },
+      "title": {
+        "box": {
+          "x": 0,
+          "y": 25.1953125,
+          "width": 600,
+          "height": 44.1875
+        },
+        "text": "Functional Success versus Database-State, Behavioral, and Operational Contracts in AI-Generated PostgreSQL Schema Migrations",
+        "color": "rgb(242, 243, 245)"
+      },
+      "body": {
+        "box": {
+          "x": 0,
+          "y": 73.3828125,
+          "width": 600,
+          "height": 19.1953125
+        },
+        "text": "\uae30\ubcf8 \uae30\ub2a5 \uc131\uacf5\uacfc \ub113\uc740 DB \uacc4\uc57d \ucda9\uc871\uc744 \uad6c\ubd84\ud558\ub294 \uc5f0\uad6c\ub97c \uac80\uc0ac \ubd84\ub958\uc640 \ubbf8\uac80\uc99d \ud45c\uc2dc\uc5d0 \ubc18\uc601\ud569\ub2c8\ub2e4.",
+        "color": "rgb(181, 186, 193)"
+      },
+      "children": 3
+    },
+    {
+      "english": true,
+      "attached": true,
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 600,
+        "height": 111.7734375
+      },
+      "label": {
+        "box": {
+          "x": 0,
+          "y": 0,
+          "width": 600,
+          "height": 19.1953125
+        },
+        "text": "Research behind this app",
+        "color": "rgb(181, 186, 193)"
+      },
+      "title": {
+        "box": {
+          "x": 0,
+          "y": 25.1953125,
+          "width": 600,
+          "height": 44.1875
+        },
+        "text": "Functional Success versus Database-State, Behavioral, and Operational Contracts in AI-Generated PostgreSQL Schema Migrations",
+        "color": "rgb(242, 243, 245)"
+      },
+      "body": {
+        "box": {
+          "x": 0,
+          "y": 73.3828125,
+          "width": 600,
+          "height": 38.390625
+        },
+        "text": "The research distinction between functional success and wider contracts informs the check categories and unverified states.",
+        "color": "rgb(181, 186, 193)"
+      },
+      "children": 3
+    },
+    {
+      "english": false,
+      "attached": true,
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 600,
+        "height": 92.578125
+      },
+      "label": {
+        "box": {
+          "x": 0,
+          "y": 0,
+          "width": 600,
+          "height": 19.1953125
+        },
+        "text": "\uc774 \uc571\uc758 \uc5f0\uad6c \uadfc\uac70",
+        "color": "rgb(181, 186, 193)"
+      },
+      "title": {
+        "box": {
+          "x": 0,
+          "y": 25.1953125,
+          "width": 600,
+          "height": 44.1875
+        },
+        "text": "Functional Success versus Database-State, Behavioral, and Operational Contracts in AI-Generated PostgreSQL Schema Migrations",
+        "color": "rgb(242, 243, 245)"
+      },
+      "body": {
+        "box": {
+          "x": 0,
+          "y": 73.3828125,
+          "width": 600,
+          "height": 19.1953125
+        },
+        "text": "\uae30\ubcf8 \uae30\ub2a5 \uc131\uacf5\uacfc \ub113\uc740 DB \uacc4\uc57d \ucda9\uc871\uc744 \uad6c\ubd84\ud558\ub294 \uc5f0\uad6c\ub97c \uac80\uc0ac \ubd84\ub958\uc640 \ubbf8\uac80\uc99d \ud45c\uc2dc\uc5d0 \ubc18\uc601\ud569\ub2c8\ub2e4.",
+        "color": "rgb(181, 186, 193)"
+      },
+      "children": 3
+    }
+  ]
+}

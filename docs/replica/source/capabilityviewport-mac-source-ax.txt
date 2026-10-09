@@ -1,0 +1,5 @@
+Browser tab: 14, Title: "CapabilityViewport · original isolation", URL: "http://10.211.55.2:8768/capabilityviewport.html?os=mac".
+0 AXWebArea CapabilityViewport · original isolation, URL: 10.211.55.2:8768/capabilityviewport.html?os=mac
+	1 button Viewport diagnostics recorded, ID: capabilityviewport-record
+
+The focused UI element is 1 button Viewport diagnostics recorded, ID: capabilityviewport-record

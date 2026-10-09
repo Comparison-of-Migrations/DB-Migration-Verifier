@@ -1,0 +1,38 @@
+[
+  {
+    "half": "up",
+    "scope": "last actual pointerdown until release; counts depend on helper POST latency",
+    "source": {
+      "inputCount": 35,
+      "firstRepeatMs": 250.09999990463257,
+      "repeatMedianMs": 52.0,
+      "changeCount": 1,
+      "changeAfterRelease": true
+    },
+    "native": {
+      "inputCount": 34,
+      "firstRepeatMs": 256.4279000000024,
+      "repeatMedianMs": 50.00790000000052,
+      "changeCount": 1,
+      "changeAfterRelease": true
+    }
+  },
+  {
+    "half": "down",
+    "scope": "last actual pointerdown until release; counts depend on helper POST latency",
+    "source": {
+      "inputCount": 34,
+      "firstRepeatMs": 262.2000000476837,
+      "repeatMedianMs": 50.049999952316284,
+      "changeCount": 1,
+      "changeAfterRelease": true
+    },
+    "native": {
+      "inputCount": 35,
+      "firstRepeatMs": 255.9402000000009,
+      "repeatMedianMs": 49.980899999998655,
+      "changeCount": 2,
+      "changeAfterRelease": false
+    }
+  }
+]

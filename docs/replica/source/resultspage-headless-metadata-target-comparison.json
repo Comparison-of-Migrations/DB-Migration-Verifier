@@ -1,0 +1,27 @@
+{
+  "status": "FAILED",
+  "sourceCases": 6,
+  "nativeCases": 6,
+  "errors": [
+    {
+      "path": "ko-1000-326-trial-pending.trial.title.height",
+      "source": 22.5,
+      "native": 32.5
+    },
+    {
+      "path": "en-1000-326-trial-pending.trial.title.height",
+      "source": 22.5,
+      "native": 32.5
+    },
+    {
+      "path": "ko-1280-904-trial-mixed.trial.title.height",
+      "source": 22.5,
+      "native": 32.5
+    },
+    {
+      "path": "en-1280-904-trial-mixed.trial.title.height",
+      "source": 22.5,
+      "native": 32.5
+    }
+  ]
+}

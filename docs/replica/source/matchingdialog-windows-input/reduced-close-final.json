@@ -1,0 +1,40 @@
+{
+  "capturedAtUtc": "2026-10-08T00:05:48.5152207Z",
+  "dpr": 2,
+  "visible": false,
+  "closing": true,
+  "reduced": true,
+  "backgroundEnabled": true,
+  "backgroundBlur": null,
+  "focus": "MatchingDialog-open",
+  "events": [
+    {
+      "action": "draft",
+      "value": "archive.orders"
+    },
+    {
+      "action": "close"
+    },
+    {
+      "action": "draft",
+      "value": "archive.orders"
+    },
+    {
+      "action": "apply",
+      "value": "archive.orders"
+    },
+    {
+      "action": "close"
+    },
+    {
+      "action": "close"
+    },
+    {
+      "action": "close"
+    },
+    {
+      "action": "close"
+    }
+  ],
+  "row": null
+}

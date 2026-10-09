@@ -1,0 +1,60 @@
+Browser tab: 12, Title: "CapabilityHeader Input · original isolation", URL: "http://10.211.55.2:8768/capabilityheader-input.html?os=mac".
+0 AXWebArea CapabilityHeader Input · original isolation, URL: 10.211.55.2:8768/capabilityheader-input.html?os=mac
+	1 container
+		2 table
+			3 row
+				4 cell CapabilityHeader-cell-0
+					5 text 검사 분류
+				6 cell CapabilityHeader-cell-1
+					7 text 원본 / 대상
+				8 cell CapabilityHeader-cell-2
+					9 text 검사 가능 범위
+				10 cell CapabilityHeader-cell-3
+					11 text 안내
+			12 row
+				13 cell
+					14 text 데이터
+					15 text 전체 값·누락·중복·참조 관계
+				16 cell
+					17 text 연결 확인
+				18 cell
+					19 text 가능
+				20 cell
+					21 text 선택 대상의 예시 조회 가능
+			22 row
+				23 cell
+					24 text 구조·제약
+					25 text 컬럼·자료형·키·제약·인덱스·partition
+				26 cell
+					27 text 연결 확인
+				28 cell
+					29 text 가능
+				30 cell
+					31 text 선택 대상의 예시 조회 가능
+			32 row
+				33 cell
+					34 text 사용자·권한
+					35 text 사용자·역할·소유자·권한·행 정책
+				36 cell
+					37 text 연결 확인
+				38 cell
+					39 text 일부 가능
+				40 cell
+					41 text 권한 정의 2개 조회 범위 미확인
+					42 button 필요한 권한 보기
+			43 row
+				44 cell
+					45 text 관련 객체
+					46 text view·함수·trigger·sequence·사용자 타입
+				47 cell
+					48 text 연결 확인
+				49 cell
+					50 text 가능
+				51 cell
+					52 text 선택 대상의 예시 조회 가능
+		53 button language, ID: CapabilityHeader-language
+		54 button width, ID: CapabilityHeader-width
+		55 button mount, ID: CapabilityHeader-mount
+		56 button Header input recorded, ID: capabilityheader-input-record
+
+The focused UI element is 0 AXWebArea CapabilityHeader Input · original isolation, URL: 10.211.55.2:8768/capabilityheader-input.html?os=mac

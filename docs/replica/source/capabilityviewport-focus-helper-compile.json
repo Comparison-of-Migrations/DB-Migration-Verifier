@@ -1,0 +1,16 @@
+[
+  {
+    "kind": "source",
+    "sha256": "9B4EFDFAA76F051360710F27AEC7843679C2762FF31298FA7DCC980EB212B7C2",
+    "compile": "Compiled owned helper only; no native window or input",
+    "inputSent": false,
+    "nativeWindowCreated": false
+  },
+  {
+    "kind": "native",
+    "sha256": "87BA0E99FF21FE05A054FBD8E631B5CD7756DF12257A6E8B67F5A0D652D40258",
+    "compile": "Compiled owned helper only; no native window or input",
+    "inputSent": false,
+    "nativeWindowCreated": false
+  }
+]

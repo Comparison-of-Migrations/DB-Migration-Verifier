@@ -1,0 +1,19 @@
+[
+  {
+    "action": "pointer focus-button",
+    "focused": true,
+    "focusVisible": false
+  },
+  {
+    "action": "Enter",
+    "focused": true,
+    "focusVisible": true,
+    "outline": "rgb(88, 101, 242) solid 3px"
+  },
+  {
+    "action": "Tab",
+    "focused": false,
+    "focusVisible": false,
+    "focusId": "after-title"
+  }
+]

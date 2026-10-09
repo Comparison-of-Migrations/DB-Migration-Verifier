@@ -1,0 +1,57 @@
+{
+  "phase": "ACTUAL_TARGETED_KO_TIMERS_AND_STATUS_PASSED",
+  "scope": "Only KO2 lifecycle observer continuation and real native Windows status attestation. Parent geometry16/EN2/Dispose reused. No unqueried live-property or screenreader speech claim.",
+  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/home-pageintegrationtoast-windows-composed-source.json",
+  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/pageintegration/e50adb652d0541e3a713c4fa7ded9f11/toast-fetch-ko-timer-windows/pageintegration-toast.json",
+  "transitionChecks": [
+    {
+      "id": "ko-960-normal",
+      "removalAgeMs": 4229.033299999999,
+      "directSampleMs": 3826.7352,
+      "continuousBefore4100": true
+    },
+    {
+      "id": "ko-960-reduced",
+      "removalAgeMs": 4225.375,
+      "directSampleMs": 3819.9732,
+      "continuousBefore4100": true
+    }
+  ],
+  "status": {
+    "name": "",
+    "id": "",
+    "type": "ControlType.StatusBar",
+    "control": true,
+    "content": true,
+    "x": 1113,
+    "y": 1491,
+    "width": 840,
+    "height": 227,
+    "children": [
+      {
+        "name": "예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다.",
+        "type": "ControlType.Text",
+        "control": true,
+        "content": true,
+        "x": 1151,
+        "y": 1521,
+        "width": 764,
+        "height": 167
+      }
+    ]
+  },
+  "ready": {
+    "pid": 5772,
+    "path": "C:\\Users\\youptebook\\AppData\\Local\\Temp\\DBMV-Isolated-home-pageintegration-e50adb652d0541e3a713c4fa7ded9f11\\app\\ReplicaProbe.exe",
+    "title": "Replica PageIntegration application verification",
+    "hwnd": 1443086,
+    "nativeWindowObserved": true
+  },
+  "cleanup": {
+    "pid": 5772,
+    "ownedNativeProcess": 0,
+    "ownedWindow": 0,
+    "method": "Probe finally Window.Close; external exact persisted PID/window inventory",
+    "exitCode": 0
+  }
+}

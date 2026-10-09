@@ -1,0 +1,25 @@
+- table:
+  - rowgroup:
+    - row "검사 분류 원본 / 대상 검사 가능 범위 안내":
+      - columnheader "검사 분류"
+      - columnheader "원본 / 대상"
+      - columnheader "검사 가능 범위"
+      - columnheader "안내"
+  - rowgroup:
+    - row "사용자·권한 사용자·역할·소유자·권한·행 정책 연결 확인 일부 가능 권한 정의 2개 조회 범위 미확인 필요한 권한 보기":
+      - cell "사용자·권한 사용자·역할·소유자·권한·행 정책":
+        - strong: 사용자·권한
+        - generic: 사용자·역할·소유자·권한·행 정책
+      - cell "연결 확인":
+        - generic: 연결 확인
+      - cell "일부 가능":
+        - generic: 일부 가능
+      - cell "권한 정의 2개 조회 범위 미확인 필요한 권한 보기":
+        - generic: 권한 정의 2개 조회 범위 미확인
+        - button "필요한 권한 보기":
+          - generic: 필요한 권한 보기
+- button "language"
+- button "reduced"
+- button "mount"
+- button "data"
+- button "Record CapabilityRow Input"

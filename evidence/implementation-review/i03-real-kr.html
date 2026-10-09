@@ -1,0 +1,45 @@
+<!doctype html><html lang="ko"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; base-uri 'none'; form-action 'none'"><title>DB-Migration-Verifier · 24ea342b-1797-428c-a064-c640ffff978d</title>
+<style>body{margin:0;background:#313338;color:#dbdee1;font:14px/1.6 system-ui,sans-serif}main{max-width:1100px;margin:auto;padding:40px}h1{color:#f2f3f5;font-size:30px;margin:0}h2{font-size:18px;color:#f2f3f5}small,.muted{color:#b5bac1}header,section{margin-bottom:24px}section{border:1px solid #41434a;border-radius:10px;padding:24px;background:#2b2d31}.metrics{display:flex;gap:40px;margin:24px 0}.number{font-size:32px;font-weight:600;font-variant-numeric:tabular-nums}.bad{color:#ff959d}.warn{color:#f0c47c}.good{color:#6bdda3}table{border-collapse:collapse;width:100%;table-layout:fixed}th,td{text-align:left;vertical-align:top;padding:12px;border-bottom:1px solid #41434a;overflow-wrap:anywhere;white-space:pre-wrap}th{color:#b5bac1;font-weight:500}code{overflow-wrap:anywhere;white-space:pre-wrap}ul{padding-left:20px}.scope{overflow-wrap:anywhere;white-space:pre-wrap}@media print{body{background:white;color:#111}main{padding:0}section{background:white;break-inside:avoid}.muted,small,th{color:#333}}</style><main>
+<header><small>DB-Migration-Verifier</small><h1>마이그레이션 비교 결과</h1><p>선택한 범위의 차이와 확인하지 못한 영역을 함께 보관합니다.</p><p class="muted">사용자 DB 비교 결과</p></header>
+<section><h2>검사 요약</h2><p>Run ID: <code>24ea342b-1797-428c-a064-c640ffff978d</code><br>시작 / 종료: 2026-10-02T05:57:06.8579990+00:00 / 2026-10-02T05:57:06.8897560+00:00<br>Adapter: PostgreSql-v1 · Format: 2</p>
+<div class="metrics"><div class="bad">불일치 검사<div class="number">1</div></div><div class="warn">확인 불가·미검증 검사<div class="number">9</div></div><div class="good">일치 검사<div class="number">1</div></div></div>
+<p>차이와 확인 불가가 같은 검사에 공존할 수 있습니다. 수치는 검사 ID 개수이며 전체 DB의 성공률이 아닙니다.</p><p>HasDifferences: true · HasUnknown: true · AllEqual: false</p><h2>선택 테이블</h2><ul class="scope">
+<li>demo.rename_source</li>
+<li>demo.rename_target</li>
+</ul></section>
+<section><h2>실행한 테이블·컬럼 대응</h2><p>대응은 값 변환 승인이 아닙니다. 이름·타입·순서의 차이는 구조 검사에 남습니다.</p>
+<h2>demo.rename_source → demo.rename_target</h2><table><tr><th>원본 컬럼</th><th>대상 컬럼</th></tr>
+<tr><td>identifier</td><td>new_identifier</td></tr>
+<tr><td>label</td><td>title</td></tr>
+</table>
+</section>
+<section><h2>DATA-01 · RP-D01</h2><p>데이터 · 선택됨 · 실행 완료 · <strong class="good">일치</strong> · 추가 미확인 사유 없음</p><small>Data / Completed / Equal / None</small>
+</section>
+<section><h2>DATA-02 · RP-D01</h2><p>데이터 · 선택됨 · 미시작 · <strong class="warn">미검증</strong> · 상세 검사 미구현</p><small>Data / Pending / Unverified / NotImplemented</small>
+</section>
+<section><h2>SCHEMA-01 · RP-C01</h2><p>구조·제약 · 선택됨 · 실행 완료 · <strong class="bad">불일치</strong> · 상세 검사 미구현</p><small>Schema / Completed / Different / NotImplemented</small>
+<h2>차이의 위치와 종류</h2><table><tr><th>테이블 / 컬럼</th><th>종류 / 건수</th><th>앱 내부 번호</th></tr>
+<tr><td>demo.rename_source<br>—</td><td>TableName · 1</td><td><code>d665924bb6c6476f8e8f5095d354ca1a</code></td></tr>
+<tr><td>demo.rename_source<br>identifier</td><td>ColumnDefinition · 1</td><td><code>a392830b417e4b9c9414e12d11b475a9</code></td></tr>
+<tr><td>demo.rename_source<br>label</td><td>ColumnDefinition · 1</td><td><code>a5a86fe1322c48d6bf36e5b58fa3938f</code></td></tr>
+</table>
+</section>
+<section><h2>SCHEMA-02 · RP-C01</h2><p>구조·제약 · 선택됨 · 미시작 · <strong class="warn">미검증</strong> · 상세 검사 미구현</p><small>Schema / Pending / Unverified / NotImplemented</small>
+</section>
+<section><h2>SCHEMA-03 · RP-C02</h2><p>구조·제약 · 선택됨 · 미시작 · <strong class="warn">미검증</strong> · 상세 검사 미구현</p><small>Schema / Pending / Unverified / NotImplemented</small>
+</section>
+<section><h2>ACCESS-01 · RP-A01</h2><p>사용자·권한 · 선택됨 · 미시작 · <strong class="warn">미검증</strong> · 상세 검사 미구현</p><small>Access / Pending / Unverified / NotImplemented</small>
+</section>
+<section><h2>ACCESS-02 · RP-A02</h2><p>사용자·권한 · 선택됨 · 미시작 · <strong class="warn">미검증</strong> · 상세 검사 미구현</p><small>Access / Pending / Unverified / NotImplemented</small>
+</section>
+<section><h2>OBJECT-01 · RP-O01</h2><p>관련 객체 · 선택됨 · 미시작 · <strong class="warn">미검증</strong> · 상세 검사 미구현</p><small>Objects / Pending / Unverified / NotImplemented</small>
+</section>
+<section><h2>OBJECT-02 · RP-O01</h2><p>관련 객체 · 선택됨 · 미시작 · <strong class="warn">미검증</strong> · 상세 검사 미구현</p><small>Objects / Pending / Unverified / NotImplemented</small>
+</section>
+<section><h2>OBJECT-03 · RP-O01</h2><p>관련 객체 · 선택됨 · 미시작 · <strong class="warn">미검증</strong> · 상세 검사 미구현</p><small>Objects / Pending / Unverified / NotImplemented</small>
+</section>
+<section><h2>BEHAVIOR-01 · RP-B01</h2><p>별도 DB 동작 시험 · 선택 제외 · 미시작 · <strong class="warn">미검증</strong> · 상세 검사 미구현</p><small>Behavior / Pending / Unverified / NotImplemented</small>
+</section>
+<section><h2>BEHAVIOR-02 · RP-A02</h2><p>별도 DB 동작 시험 · 선택 제외 · 미시작 · <strong class="warn">미검증</strong> · 상세 검사 미구현</p><small>Behavior / Pending / Unverified / NotImplemented</small>
+</section>
+<footer><p>원본값·행 키·접속 정보·계정 이름·원 SQL 정의는 포함하지 않습니다. 다시 열기에는 JSON 파일을 사용하세요.</p><small>Functional Success versus Database-State, Behavioral, and Operational Contracts in AI-Generated PostgreSQL Schema Migrations</small></footer></main></html>

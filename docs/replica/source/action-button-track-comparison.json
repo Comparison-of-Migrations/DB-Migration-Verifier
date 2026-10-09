@@ -1,0 +1,15 @@
+{
+  "sampleCount": 39,
+  "tracks": [
+    "background-color",
+    "color",
+    "box-shadow",
+    "transform"
+  ],
+  "geometryTolerancePx": 0.0001,
+  "scaleTolerance": 1e-06,
+  "colorComparison": "Equal painted RGBA bytes; source CSS serialization has finite precision",
+  "shadowNormalization": "none equals an invisible zero-length shadow at transition time0",
+  "maxReverseDurationDeltaMs": 2.0081358798051951e-10,
+  "errors": []
+}

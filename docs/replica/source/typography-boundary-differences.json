@@ -1,0 +1,194 @@
+[
+  {
+    "id": "english-boundary",
+    "webHeight": 44.796875,
+    "nativeHeight": 44.8,
+    "webWidths": [
+      87.0625,
+      71.7109375
+    ],
+    "nativeWidths": [
+      87.0625,
+      71.708984375
+    ]
+  },
+  {
+    "id": "english-fit",
+    "webHeight": 22.3984375,
+    "nativeHeight": 22.4,
+    "webWidths": [
+      162.234375
+    ],
+    "nativeWidths": [
+      162.23046875
+    ]
+  },
+  {
+    "id": "long-object",
+    "webHeight": 19.203125,
+    "nativeHeight": 96,
+    "webWidths": [
+      1098.140625
+    ],
+    "nativeWidths": [
+      238.412109375,
+      238.412109375,
+      238.412109375,
+      238.412109375,
+      144.4921875
+    ]
+  },
+  {
+    "id": "ligature",
+    "webHeight": 44.796875,
+    "nativeHeight": 44.8,
+    "webWidths": [
+      85.0078125,
+      25.234375
+    ],
+    "nativeWidths": [
+      85.0048828125,
+      25.2314453125
+    ]
+  },
+  {
+    "id": "cluster",
+    "webHeight": 22.3984375,
+    "nativeHeight": 22.4,
+    "webWidths": [
+      138.65625
+    ],
+    "nativeWidths": [
+      138.65414428710938
+    ]
+  },
+  {
+    "id": "fallback-space",
+    "webHeight": 44.796875,
+    "nativeHeight": 44.8,
+    "webWidths": [
+      82.0546875,
+      36.3359375
+    ],
+    "nativeWidths": [
+      82.04875183105469,
+      36.33000183105469
+    ]
+  },
+  {
+    "id": "whitespace",
+    "webHeight": 22.3984375,
+    "nativeHeight": 44.8,
+    "webWidths": [
+      135.640625
+    ],
+    "nativeWidths": [
+      74.33781433105469,
+      86.50961303710938
+    ]
+  },
+  {
+    "id": "home-edge-0",
+    "webHeight": 44.796875,
+    "nativeHeight": 44.8,
+    "webWidths": [
+      93.421875,
+      47.2578125
+    ],
+    "nativeWidths": [
+      93.41809387207033,
+      47.2550079345703
+    ]
+  },
+  {
+    "id": "home-edge-1",
+    "webHeight": 97.203125,
+    "nativeHeight": 97.2,
+    "webWidths": [
+      400.8984375,
+      29.8828125
+    ],
+    "nativeWidths": [
+      400.89655456542977,
+      29.879999389648436
+    ]
+  },
+  {
+    "id": "home-edge-2",
+    "webHeight": 50.40625,
+    "nativeHeight": 50.4,
+    "webWidths": [
+      291.7890625,
+      16.1171875
+    ],
+    "nativeWidths": [
+      291.78790283203125,
+      16.115859985351562
+    ]
+  },
+  {
+    "id": "home-edge-3",
+    "webHeight": 57,
+    "nativeHeight": 57,
+    "webWidths": [
+      466.8125,
+      403.8515625
+    ],
+    "nativeWidths": [
+      466.8101501464844,
+      403.8470458984375
+    ]
+  },
+  {
+    "id": "home-edge-4",
+    "webHeight": 38.40625,
+    "nativeHeight": 38.4,
+    "webWidths": [
+      359.2578125,
+      13.9453125
+    ],
+    "nativeWidths": [
+      359.253173828125,
+      13.9425048828125
+    ]
+  },
+  {
+    "id": "home-edge-5",
+    "webHeight": 44.796875,
+    "nativeHeight": 44.8,
+    "webWidths": [
+      99.453125,
+      12.1171875
+    ],
+    "nativeWidths": [
+      99.45004272460938,
+      12.110000610351562
+    ]
+  },
+  {
+    "id": "home-edge-6",
+    "webHeight": 48.09375,
+    "nativeHeight": 48.1,
+    "webWidths": [
+      287.28125,
+      15.03125
+    ],
+    "nativeWidths": [
+      287.2755126953125,
+      15.0281982421875
+    ]
+  },
+  {
+    "id": "home-edge-7",
+    "webHeight": 44.203125,
+    "nativeHeight": 44.2,
+    "webWidths": [
+      364.96875,
+      434.1328125
+    ],
+    "nativeWidths": [
+      439.8501910400395,
+      359.2442919921878
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "component": "Review",
+  "contract": "Literal review() body including category insertion/exclusion order, trial BR, permission branch, stopped replacement/focus and footer guard; application owns navigation/actual run.",
+  "files": {
+    "src/Verifier.Desktop/WebReviewPage.cs": "92a40c21cae011e0efbfeaada3b6b4b9a9c326e322998ce9d8a5555a0b3a3d77"
+  }
+}

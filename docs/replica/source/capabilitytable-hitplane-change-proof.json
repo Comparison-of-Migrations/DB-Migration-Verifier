@@ -1,0 +1,28 @@
+{
+  "before": "artifacts/replica/workers/preflight/capabilitytable/2f1d87c39ecb422e8225c2097edc1e67/source/src/Verifier.Desktop/WebCapabilityTable.cs",
+  "beforeHash": "b0d4e122378501b43cd5402711a6c5ba0db230a8f78ac0fd4034d3a97ce7cc7f",
+  "after": "src/Verifier.Desktop/WebCapabilityTable.cs",
+  "afterHash": "36b004aff3af1569f19ea6103a961a61fa34bbc9ab90fb04f6ccac3c9de3ffcd",
+  "onlyDifference": [
+    "--- \n",
+    "+++ \n",
+    "@@ -24,7 +24,7 @@\n",
+    "     public WebCapabilityTable()",
+    "     {",
+    "         UseLayoutRounding=false;Focusable=false;Background=Brushes.Transparent;",
+    "-        Rows=WebCapabilityRow.Definitions.Select((d,i)=>{var row=new WebCapabilityRow();row.SetPresentation(d.Key,false,i==3);row.PermissionsRequested+=(_,_)=>PermissionsRequested?.Invoke(this,EventArgs.Empty);return row;}).ToArray();",
+    "+        Rows=WebCapabilityRow.Definitions.Select((d,i)=>{var row=new WebCapabilityRow{Background=Brushes.Transparent};row.SetPresentation(d.Key,false,i==3);row.PermissionsRequested+=(_,_)=>PermissionsRequested?.Invoke(this,EventArgs.Empty);return row;}).ToArray();",
+    "         _table=new TableContent(Header,Rows);Viewport.Content=_table;",
+    "         _surface.IsHitTestVisible=false;Children.Add(_surface);Children.Add(Viewport);",
+    "     }"
+  ],
+  "geometryAllocatorPeerPaintMethodsByteEquivalent": true,
+  "newScope": "row fullhitplane pointer/hover/passive padding; protectedchildfiles unchanged",
+  "reuse": {
+    "macGeometry12": "docs/replica/source/capabilitytable-mac-actual-comparison.json",
+    "macParent9": "docs/replica/source/capabilitytable-mac-parent-comparison.json",
+    "macAX": "docs/replica/source/capabilitytable-mac-final-ax-comparison.json",
+    "windowsGeometry12": "docs/replica/source/capabilitytable-windows-actual-comparison.json",
+    "rootButtonRowFinal": "docs/replica/source/capabilityrow-validation.json"
+  }
+}

@@ -1,0 +1,3378 @@
+{
+  "scope": "Recorded source numeric value/validity rules; no paint or UI completion claim",
+  "checks": 123,
+  "failed": 0,
+  "rows": [
+    {
+      "id": "numberinput-mac-step-source.json-0-before",
+      "raw": "3306",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "3306"
+      },
+      "actual": {
+        "value": "3306",
+        "number": 3306,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-0-after",
+      "raw": "3307",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "3307"
+      },
+      "actual": {
+        "value": "3307",
+        "number": 3307,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-1-before",
+      "raw": "3306",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "3306"
+      },
+      "actual": {
+        "value": "3306",
+        "number": 3306,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-1-after",
+      "raw": "3305",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "3305"
+      },
+      "actual": {
+        "value": "3305",
+        "number": 3305,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-2-before",
+      "raw": "",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": ""
+      },
+      "actual": {
+        "value": "",
+        "number": null,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-2-after",
+      "raw": "1",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1"
+      },
+      "actual": {
+        "value": "1",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-3-before",
+      "raw": "",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": ""
+      },
+      "actual": {
+        "value": "",
+        "number": null,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-3-after",
+      "raw": "1",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1"
+      },
+      "actual": {
+        "value": "1",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-4-before",
+      "raw": "1",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1"
+      },
+      "actual": {
+        "value": "1",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-4-after",
+      "raw": "2",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "2"
+      },
+      "actual": {
+        "value": "2",
+        "number": 2,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-5-before",
+      "raw": "1",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1"
+      },
+      "actual": {
+        "value": "1",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-5-after",
+      "raw": "1",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1"
+      },
+      "actual": {
+        "value": "1",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-6-before",
+      "raw": "65535",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "65535"
+      },
+      "actual": {
+        "value": "65535",
+        "number": 65535,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-6-after",
+      "raw": "65535",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "65535"
+      },
+      "actual": {
+        "value": "65535",
+        "number": 65535,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-7-before",
+      "raw": "65535",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "65535"
+      },
+      "actual": {
+        "value": "65535",
+        "number": 65535,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-7-after",
+      "raw": "65534",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "65534"
+      },
+      "actual": {
+        "value": "65534",
+        "number": 65534,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-8-before",
+      "raw": "0",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": true,
+        "valid": false,
+        "value": "0"
+      },
+      "actual": {
+        "value": "0",
+        "number": 0,
+        "bad": false,
+        "under": true,
+        "over": false,
+        "step": false,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": true,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-8-after",
+      "raw": "1",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1"
+      },
+      "actual": {
+        "value": "1",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-9-before",
+      "raw": "0",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": true,
+        "valid": false,
+        "value": "0"
+      },
+      "actual": {
+        "value": "0",
+        "number": 0,
+        "bad": false,
+        "under": true,
+        "over": false,
+        "step": false,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": true,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-9-after",
+      "raw": "0",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": true,
+        "valid": false,
+        "value": "0"
+      },
+      "actual": {
+        "value": "0",
+        "number": 0,
+        "bad": false,
+        "under": true,
+        "over": false,
+        "step": false,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": true,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-10-before",
+      "raw": "65536",
+      "expected": {
+        "bad": false,
+        "over": true,
+        "step": false,
+        "under": false,
+        "valid": false,
+        "value": "65536"
+      },
+      "actual": {
+        "value": "65536",
+        "number": 65536,
+        "bad": false,
+        "under": false,
+        "over": true,
+        "step": false,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": true,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-10-after",
+      "raw": "65536",
+      "expected": {
+        "bad": false,
+        "over": true,
+        "step": false,
+        "under": false,
+        "valid": false,
+        "value": "65536"
+      },
+      "actual": {
+        "value": "65536",
+        "number": 65536,
+        "bad": false,
+        "under": false,
+        "over": true,
+        "step": false,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": true,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-11-before",
+      "raw": "65536",
+      "expected": {
+        "bad": false,
+        "over": true,
+        "step": false,
+        "under": false,
+        "valid": false,
+        "value": "65536"
+      },
+      "actual": {
+        "value": "65536",
+        "number": 65536,
+        "bad": false,
+        "under": false,
+        "over": true,
+        "step": false,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": true,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-11-after",
+      "raw": "65535",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "65535"
+      },
+      "actual": {
+        "value": "65535",
+        "number": 65535,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-12-before",
+      "raw": "1.5",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": true,
+        "under": false,
+        "valid": false,
+        "value": "1.5"
+      },
+      "actual": {
+        "value": "1.5",
+        "number": 1.5,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": true,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": true
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-12-after",
+      "raw": "2",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "2"
+      },
+      "actual": {
+        "value": "2",
+        "number": 2,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-13-before",
+      "raw": "1.5",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": true,
+        "under": false,
+        "valid": false,
+        "value": "1.5"
+      },
+      "actual": {
+        "value": "1.5",
+        "number": 1.5,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": true,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": true
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-13-after",
+      "raw": "1",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1"
+      },
+      "actual": {
+        "value": "1",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-14-before",
+      "raw": "1e3",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1e3"
+      },
+      "actual": {
+        "value": "1e3",
+        "number": 1000,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-14-after",
+      "raw": "1001",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1001"
+      },
+      "actual": {
+        "value": "1001",
+        "number": 1001,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-15-before",
+      "raw": "1e3",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1e3"
+      },
+      "actual": {
+        "value": "1e3",
+        "number": 1000,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-15-after",
+      "raw": "999",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "999"
+      },
+      "actual": {
+        "value": "999",
+        "number": 999,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-16-before",
+      "raw": "0001",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "0001"
+      },
+      "actual": {
+        "value": "0001",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-16-after",
+      "raw": "2",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "2"
+      },
+      "actual": {
+        "value": "2",
+        "number": 2,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-17-before",
+      "raw": "0001",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "0001"
+      },
+      "actual": {
+        "value": "0001",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-17-after",
+      "raw": "0001",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "0001"
+      },
+      "actual": {
+        "value": "0001",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-18-before",
+      "raw": "-1",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": true,
+        "valid": false,
+        "value": "-1"
+      },
+      "actual": {
+        "value": "-1",
+        "number": -1,
+        "bad": false,
+        "under": true,
+        "over": false,
+        "step": false,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": true,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-18-after",
+      "raw": "1",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1"
+      },
+      "actual": {
+        "value": "1",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-19-before",
+      "raw": "-1",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": true,
+        "valid": false,
+        "value": "-1"
+      },
+      "actual": {
+        "value": "-1",
+        "number": -1,
+        "bad": false,
+        "under": true,
+        "over": false,
+        "step": false,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": true,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-19-after",
+      "raw": "-1",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": true,
+        "valid": false,
+        "value": "-1"
+      },
+      "actual": {
+        "value": "-1",
+        "number": -1,
+        "bad": false,
+        "under": true,
+        "over": false,
+        "step": false,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": true,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-20-before",
+      "raw": "1e\u002B3",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1e\u002B3"
+      },
+      "actual": {
+        "value": "1e\u002B3",
+        "number": 1000,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-20-after",
+      "raw": "1001",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1001"
+      },
+      "actual": {
+        "value": "1001",
+        "number": 1001,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-21-before",
+      "raw": "1e\u002B3",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1e\u002B3"
+      },
+      "actual": {
+        "value": "1e\u002B3",
+        "number": 1000,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-21-after",
+      "raw": "999",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "999"
+      },
+      "actual": {
+        "value": "999",
+        "number": 999,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-22-before",
+      "raw": "1e-3",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": true,
+        "under": true,
+        "valid": false,
+        "value": "1e-3"
+      },
+      "actual": {
+        "value": "1e-3",
+        "number": 0.001,
+        "bad": false,
+        "under": true,
+        "over": false,
+        "step": true,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": true,
+        "rangeOverflow": false,
+        "stepMismatch": true
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-22-after",
+      "raw": "1",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1"
+      },
+      "actual": {
+        "value": "1",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-23-before",
+      "raw": "1e-3",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": true,
+        "under": true,
+        "valid": false,
+        "value": "1e-3"
+      },
+      "actual": {
+        "value": "1e-3",
+        "number": 0.001,
+        "bad": false,
+        "under": true,
+        "over": false,
+        "step": true,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": true,
+        "rangeOverflow": false,
+        "stepMismatch": true
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-step-source.json-23-after",
+      "raw": "1e-3",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": true,
+        "under": true,
+        "valid": false,
+        "value": "1e-3"
+      },
+      "actual": {
+        "value": "1e-3",
+        "number": 0.001,
+        "bad": false,
+        "under": true,
+        "over": false,
+        "step": true,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": true,
+        "rangeOverflow": false,
+        "stepMismatch": true
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-0-before",
+      "raw": "1.0000000000000001",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1.0000000000000001"
+      },
+      "actual": {
+        "value": "1.0000000000000001",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-0-after",
+      "raw": "2",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "2"
+      },
+      "actual": {
+        "value": "2",
+        "number": 2,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-1-before",
+      "raw": "1.0000000000000001",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1.0000000000000001"
+      },
+      "actual": {
+        "value": "1.0000000000000001",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-1-after",
+      "raw": "1",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1"
+      },
+      "actual": {
+        "value": "1",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-2-before",
+      "raw": "1.000000000001",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1.000000000001"
+      },
+      "actual": {
+        "value": "1.000000000001",
+        "number": 1.000000000001,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-2-after",
+      "raw": "2",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "2"
+      },
+      "actual": {
+        "value": "2",
+        "number": 2,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-3-before",
+      "raw": "1.000000000001",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1.000000000001"
+      },
+      "actual": {
+        "value": "1.000000000001",
+        "number": 1.000000000001,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-3-after",
+      "raw": "1",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1"
+      },
+      "actual": {
+        "value": "1",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-4-before",
+      "raw": "0.99999999999999999",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": true,
+        "valid": false,
+        "value": "0.99999999999999999"
+      },
+      "actual": {
+        "value": "0.99999999999999999",
+        "number": 1,
+        "bad": false,
+        "under": true,
+        "over": false,
+        "step": false,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": true,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-4-after",
+      "raw": "1",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1"
+      },
+      "actual": {
+        "value": "1",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-5-before",
+      "raw": "0.99999999999999999",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": true,
+        "valid": false,
+        "value": "0.99999999999999999"
+      },
+      "actual": {
+        "value": "0.99999999999999999",
+        "number": 1,
+        "bad": false,
+        "under": true,
+        "over": false,
+        "step": false,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": true,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-5-after",
+      "raw": "0.99999999999999999",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": true,
+        "valid": false,
+        "value": "0.99999999999999999"
+      },
+      "actual": {
+        "value": "0.99999999999999999",
+        "number": 1,
+        "bad": false,
+        "under": true,
+        "over": false,
+        "step": false,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": true,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-6-before",
+      "raw": "65535.00000000000001",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "65535.00000000000001"
+      },
+      "actual": {
+        "value": "65535.00000000000001",
+        "number": 65535,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-6-after",
+      "raw": "65535.00000000000001",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "65535.00000000000001"
+      },
+      "actual": {
+        "value": "65535.00000000000001",
+        "number": 65535,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-7-before",
+      "raw": "65535.00000000000001",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "65535.00000000000001"
+      },
+      "actual": {
+        "value": "65535.00000000000001",
+        "number": 65535,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-7-after",
+      "raw": "65534",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "65534"
+      },
+      "actual": {
+        "value": "65534",
+        "number": 65534,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-8-before",
+      "raw": "65534.99999999999999",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "65534.99999999999999"
+      },
+      "actual": {
+        "value": "65534.99999999999999",
+        "number": 65535,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-8-after",
+      "raw": "65535",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "65535"
+      },
+      "actual": {
+        "value": "65535",
+        "number": 65535,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-9-before",
+      "raw": "65534.99999999999999",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "65534.99999999999999"
+      },
+      "actual": {
+        "value": "65534.99999999999999",
+        "number": 65535,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-9-after",
+      "raw": "65534",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "65534"
+      },
+      "actual": {
+        "value": "65534",
+        "number": 65534,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-10-before",
+      "raw": "65534.00000001",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "65534.00000001"
+      },
+      "actual": {
+        "value": "65534.00000001",
+        "number": 65534.00000001,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-10-after",
+      "raw": "65535",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "65535"
+      },
+      "actual": {
+        "value": "65535",
+        "number": 65535,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-11-before",
+      "raw": "65534.00000001",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "65534.00000001"
+      },
+      "actual": {
+        "value": "65534.00000001",
+        "number": 65534.00000001,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-11-after",
+      "raw": "65533",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "65533"
+      },
+      "actual": {
+        "value": "65533",
+        "number": 65533,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-12-before",
+      "raw": "65534.99999999",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "65534.99999999"
+      },
+      "actual": {
+        "value": "65534.99999999",
+        "number": 65534.99999999,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-12-after",
+      "raw": "65535",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "65535"
+      },
+      "actual": {
+        "value": "65535",
+        "number": 65535,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-13-before",
+      "raw": "65534.99999999",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "65534.99999999"
+      },
+      "actual": {
+        "value": "65534.99999999",
+        "number": 65534.99999999,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-13-after",
+      "raw": "65534",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "65534"
+      },
+      "actual": {
+        "value": "65534",
+        "number": 65534,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-14-before",
+      "raw": "1e-300",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": true,
+        "valid": false,
+        "value": "1e-300"
+      },
+      "actual": {
+        "value": "1e-300",
+        "number": 1E-300,
+        "bad": false,
+        "under": true,
+        "over": false,
+        "step": false,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": true,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-14-after",
+      "raw": "1",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1"
+      },
+      "actual": {
+        "value": "1",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-15-before",
+      "raw": "1e-300",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": true,
+        "valid": false,
+        "value": "1e-300"
+      },
+      "actual": {
+        "value": "1e-300",
+        "number": 1E-300,
+        "bad": false,
+        "under": true,
+        "over": false,
+        "step": false,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": true,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-15-after",
+      "raw": "1e-300",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": true,
+        "valid": false,
+        "value": "1e-300"
+      },
+      "actual": {
+        "value": "1e-300",
+        "number": 1E-300,
+        "bad": false,
+        "under": true,
+        "over": false,
+        "step": false,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": true,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-16-before",
+      "raw": "5e-324",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": true,
+        "valid": false,
+        "value": "5e-324"
+      },
+      "actual": {
+        "value": "5e-324",
+        "number": 5E-324,
+        "bad": false,
+        "under": true,
+        "over": false,
+        "step": false,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": true,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-16-after",
+      "raw": "1",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1"
+      },
+      "actual": {
+        "value": "1",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-17-before",
+      "raw": "5e-324",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": true,
+        "valid": false,
+        "value": "5e-324"
+      },
+      "actual": {
+        "value": "5e-324",
+        "number": 5E-324,
+        "bad": false,
+        "under": true,
+        "over": false,
+        "step": false,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": true,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-17-after",
+      "raw": "5e-324",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": true,
+        "valid": false,
+        "value": "5e-324"
+      },
+      "actual": {
+        "value": "5e-324",
+        "number": 5E-324,
+        "bad": false,
+        "under": true,
+        "over": false,
+        "step": false,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": true,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-18-before",
+      "raw": "",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": ""
+      },
+      "actual": {
+        "value": "",
+        "number": null,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-18-after",
+      "raw": "1",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1"
+      },
+      "actual": {
+        "value": "1",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-19-before",
+      "raw": "",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": ""
+      },
+      "actual": {
+        "value": "",
+        "number": null,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-mac-precision-step-source.json-19-after",
+      "raw": "1",
+      "expected": {
+        "bad": false,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1"
+      },
+      "actual": {
+        "value": "1",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "typing-0",
+      "raw": "-",
+      "expected": {
+        "bad": true,
+        "number": null,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": false,
+        "value": ""
+      },
+      "actual": {
+        "value": "",
+        "number": null,
+        "bad": true,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": false,
+        "badInput": true,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "typing-1",
+      "raw": "\u002B",
+      "expected": {
+        "bad": true,
+        "number": null,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": false,
+        "value": ""
+      },
+      "actual": {
+        "value": "",
+        "number": null,
+        "bad": true,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": false,
+        "badInput": true,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "typing-2",
+      "raw": "e",
+      "expected": {
+        "bad": true,
+        "number": null,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": false,
+        "value": ""
+      },
+      "actual": {
+        "value": "",
+        "number": null,
+        "bad": true,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": false,
+        "badInput": true,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "typing-3",
+      "raw": ".",
+      "expected": {
+        "bad": true,
+        "number": null,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": false,
+        "value": ""
+      },
+      "actual": {
+        "value": "",
+        "number": null,
+        "bad": true,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": false,
+        "badInput": true,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "typing-4",
+      "raw": "1e",
+      "expected": {
+        "bad": true,
+        "number": null,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": false,
+        "value": ""
+      },
+      "actual": {
+        "value": "",
+        "number": null,
+        "bad": true,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": false,
+        "badInput": true,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "typing-5",
+      "raw": "1.",
+      "expected": {
+        "bad": false,
+        "number": 1,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1"
+      },
+      "actual": {
+        "value": "1",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "typing-6",
+      "raw": "123",
+      "expected": {
+        "bad": false,
+        "number": 123,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "123"
+      },
+      "actual": {
+        "value": "123",
+        "number": 123,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "typing-7",
+      "raw": "--1",
+      "expected": {
+        "bad": true,
+        "number": null,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": false,
+        "value": ""
+      },
+      "actual": {
+        "value": "",
+        "number": null,
+        "bad": true,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": false,
+        "badInput": true,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "typing-8",
+      "raw": "1.5",
+      "expected": {
+        "bad": false,
+        "number": 1.5,
+        "over": false,
+        "step": true,
+        "under": false,
+        "valid": false,
+        "value": "1.5"
+      },
+      "actual": {
+        "value": "1.5",
+        "number": 1.5,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": true,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": true
+      },
+      "differences": []
+    },
+    {
+      "id": "typing-9",
+      "raw": "12\u002B3",
+      "expected": {
+        "bad": true,
+        "number": null,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": false,
+        "value": ""
+      },
+      "actual": {
+        "value": "",
+        "number": null,
+        "bad": true,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": false,
+        "badInput": true,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "typing-10",
+      "raw": "1-2",
+      "expected": {
+        "bad": true,
+        "number": null,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": false,
+        "value": ""
+      },
+      "actual": {
+        "value": "",
+        "number": null,
+        "bad": true,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": false,
+        "badInput": true,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "typing-11",
+      "raw": "1e\u002B3",
+      "expected": {
+        "bad": false,
+        "number": 1000,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "1e\u002B3"
+      },
+      "actual": {
+        "value": "1e\u002B3",
+        "number": 1000,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "typing-12",
+      "raw": "1e23",
+      "expected": {
+        "bad": false,
+        "number": 1e+23,
+        "over": true,
+        "step": false,
+        "under": false,
+        "valid": false,
+        "value": "1e23"
+      },
+      "actual": {
+        "value": "1e23",
+        "number": 1E+23,
+        "bad": false,
+        "under": false,
+        "over": true,
+        "step": false,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": true,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "typing-13",
+      "raw": "123",
+      "expected": {
+        "bad": false,
+        "number": 123,
+        "over": false,
+        "step": false,
+        "under": false,
+        "valid": true,
+        "value": "123"
+      },
+      "actual": {
+        "value": "123",
+        "number": 123,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "lexical-0",
+      "raw": "\u002B1",
+      "expected": {
+        "text": "\u002B1",
+        "bad": false,
+        "number": 1,
+        "valid": true,
+        "value": "1"
+      },
+      "actual": {
+        "value": "1",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "lexical-1",
+      "raw": "1.0",
+      "expected": {
+        "text": "1.0",
+        "bad": false,
+        "number": 1,
+        "valid": true,
+        "value": "1.0"
+      },
+      "actual": {
+        "value": "1.0",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "lexical-2",
+      "raw": "01",
+      "expected": {
+        "text": "01",
+        "bad": false,
+        "number": 1,
+        "valid": true,
+        "value": "01"
+      },
+      "actual": {
+        "value": "01",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "lexical-3",
+      "raw": "01.",
+      "expected": {
+        "text": "01.",
+        "bad": false,
+        "number": 1,
+        "valid": true,
+        "value": "01"
+      },
+      "actual": {
+        "value": "01",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "lexical-4",
+      "raw": "\u002B1e3",
+      "expected": {
+        "text": "\u002B1e3",
+        "bad": true,
+        "number": null,
+        "valid": false,
+        "value": ""
+      },
+      "actual": {
+        "value": "",
+        "number": null,
+        "bad": true,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": false,
+        "badInput": true,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "lexical-5",
+      "raw": "1e03",
+      "expected": {
+        "text": "1e03",
+        "bad": false,
+        "number": 1000,
+        "valid": true,
+        "value": "1e03"
+      },
+      "actual": {
+        "value": "1e03",
+        "number": 1000,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "lexical-6",
+      "raw": "-0",
+      "expected": {
+        "text": "-0",
+        "bad": false,
+        "number": 0,
+        "valid": false,
+        "value": "-0"
+      },
+      "actual": {
+        "value": "-0",
+        "number": -0,
+        "bad": false,
+        "under": true,
+        "over": false,
+        "step": false,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": true,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "lexical-7",
+      "raw": ".5",
+      "expected": {
+        "text": ".5",
+        "bad": false,
+        "number": 0.5,
+        "valid": false,
+        "value": ".5"
+      },
+      "actual": {
+        "value": ".5",
+        "number": 0.5,
+        "bad": false,
+        "under": true,
+        "over": false,
+        "step": true,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": true,
+        "rangeOverflow": false,
+        "stepMismatch": true
+      },
+      "differences": []
+    },
+    {
+      "id": "lexical-8",
+      "raw": "1",
+      "expected": {
+        "text": " 1 ",
+        "bad": false,
+        "number": 1,
+        "valid": true,
+        "value": "1"
+      },
+      "actual": {
+        "value": "1",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-windows-step-3306-up.json",
+      "raw": "3307",
+      "expected": {
+        "id": "number-default",
+        "value": "3307",
+        "number": 3307,
+        "focused": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false,
+        "valid": true,
+        "rect": {
+          "x": 30,
+          "y": 20,
+          "width": 112,
+          "height": 44
+        },
+        "font": "14px / 22.4px system-ui, -apple-system, BlinkMacSystemFont, \u0022Segoe UI\u0022, sans-serif",
+        "padding": "9px 12px",
+        "color": "rgb(219, 222, 225)",
+        "background": "rgb(30, 31, 34)",
+        "border": "rgb(167, 177, 255)"
+      },
+      "actual": {
+        "value": "3307",
+        "number": 3307,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-windows-step-65536-down.json",
+      "raw": "65535",
+      "expected": {
+        "id": "number-default",
+        "value": "65535",
+        "number": 65535,
+        "focused": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false,
+        "valid": true,
+        "rect": {
+          "x": 30,
+          "y": 20,
+          "width": 112,
+          "height": 44
+        },
+        "font": "14px / 22.4px system-ui, -apple-system, BlinkMacSystemFont, \u0022Segoe UI\u0022, sans-serif",
+        "padding": "9px 12px",
+        "color": "rgb(219, 222, 225)",
+        "background": "rgb(30, 31, 34)",
+        "border": "rgb(167, 177, 255)"
+      },
+      "actual": {
+        "value": "65535",
+        "number": 65535,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-windows-step-0-up.json",
+      "raw": "1",
+      "expected": {
+        "id": "number-default",
+        "value": "1",
+        "number": 1,
+        "focused": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false,
+        "valid": true,
+        "rect": {
+          "x": 30,
+          "y": 20,
+          "width": 112,
+          "height": 44
+        },
+        "font": "14px / 22.4px system-ui, -apple-system, BlinkMacSystemFont, \u0022Segoe UI\u0022, sans-serif",
+        "padding": "9px 12px",
+        "color": "rgb(219, 222, 225)",
+        "background": "rgb(30, 31, 34)",
+        "border": "rgb(167, 177, 255)"
+      },
+      "actual": {
+        "value": "1",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-windows-step-0001-down.json",
+      "raw": "0001",
+      "expected": {
+        "id": "number-default",
+        "value": "0001",
+        "number": 1,
+        "focused": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false,
+        "valid": true,
+        "rect": {
+          "x": 30,
+          "y": 20,
+          "width": 112,
+          "height": 44
+        },
+        "font": "14px / 22.4px system-ui, -apple-system, BlinkMacSystemFont, \u0022Segoe UI\u0022, sans-serif",
+        "padding": "9px 12px",
+        "color": "rgb(219, 222, 225)",
+        "background": "rgb(30, 31, 34)",
+        "border": "rgb(167, 177, 255)"
+      },
+      "actual": {
+        "value": "0001",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-windows-step-1dot5-up.json",
+      "raw": "2",
+      "expected": {
+        "id": "number-default",
+        "value": "2",
+        "number": 2,
+        "focused": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false,
+        "valid": true,
+        "rect": {
+          "x": 30,
+          "y": 20,
+          "width": 112,
+          "height": 44
+        },
+        "font": "14px / 22.4px system-ui, -apple-system, BlinkMacSystemFont, \u0022Segoe UI\u0022, sans-serif",
+        "padding": "9px 12px",
+        "color": "rgb(219, 222, 225)",
+        "background": "rgb(30, 31, 34)",
+        "border": "rgb(167, 177, 255)"
+      },
+      "actual": {
+        "value": "2",
+        "number": 2,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-windows-step-1eminus3-up.json",
+      "raw": "1",
+      "expected": {
+        "id": "number-default",
+        "value": "1",
+        "number": 1,
+        "focused": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false,
+        "valid": true,
+        "rect": {
+          "x": 30,
+          "y": 20,
+          "width": 112,
+          "height": 44
+        },
+        "font": "14px / 22.4px system-ui, -apple-system, \u0022system-ui\u0022, \u0022Segoe UI\u0022, sans-serif",
+        "padding": "9px 12px",
+        "color": "rgb(219, 222, 225)",
+        "background": "rgb(30, 31, 34)",
+        "border": "rgb(167, 177, 255)"
+      },
+      "actual": {
+        "value": "1",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-windows-step-65535-up.json",
+      "raw": "65535",
+      "expected": {
+        "id": "number-default",
+        "value": "65535",
+        "number": 65535,
+        "focused": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false,
+        "valid": true,
+        "rect": {
+          "x": 30,
+          "y": 20,
+          "width": 112,
+          "height": 44
+        },
+        "font": "14px / 22.4px system-ui, -apple-system, BlinkMacSystemFont, \u0022Segoe UI\u0022, sans-serif",
+        "padding": "9px 12px",
+        "color": "rgb(219, 222, 225)",
+        "background": "rgb(30, 31, 34)",
+        "border": "rgb(167, 177, 255)"
+      },
+      "actual": {
+        "value": "65535",
+        "number": 65535,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-windows-step-0-down.json",
+      "raw": "0",
+      "expected": {
+        "id": "number-default",
+        "value": "0",
+        "number": 0,
+        "focused": true,
+        "badInput": false,
+        "rangeUnderflow": true,
+        "rangeOverflow": false,
+        "stepMismatch": false,
+        "valid": false,
+        "rect": {
+          "x": 30,
+          "y": 20,
+          "width": 112,
+          "height": 44
+        },
+        "font": "14px / 22.4px system-ui, -apple-system, BlinkMacSystemFont, \u0022Segoe UI\u0022, sans-serif",
+        "padding": "9px 12px",
+        "color": "rgb(219, 222, 225)",
+        "background": "rgb(30, 31, 34)",
+        "border": "rgb(167, 177, 255)"
+      },
+      "actual": {
+        "value": "0",
+        "number": 0,
+        "bad": false,
+        "under": true,
+        "over": false,
+        "step": false,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": true,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-windows-step-1e3-down.json",
+      "raw": "999",
+      "expected": {
+        "id": "number-default",
+        "value": "999",
+        "number": 999,
+        "focused": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false,
+        "valid": true,
+        "rect": {
+          "x": 30,
+          "y": 20,
+          "width": 112,
+          "height": 44
+        },
+        "font": "14px / 22.4px system-ui, -apple-system, BlinkMacSystemFont, \u0022Segoe UI\u0022, sans-serif",
+        "padding": "9px 12px",
+        "color": "rgb(219, 222, 225)",
+        "background": "rgb(30, 31, 34)",
+        "border": "rgb(167, 177, 255)"
+      },
+      "actual": {
+        "value": "999",
+        "number": 999,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-windows-step-65536-up.json",
+      "raw": "65536",
+      "expected": {
+        "id": "number-default",
+        "value": "65536",
+        "number": 65536,
+        "focused": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": true,
+        "stepMismatch": false,
+        "valid": false,
+        "rect": {
+          "x": 30,
+          "y": 20,
+          "width": 112,
+          "height": 44
+        },
+        "font": "14px / 22.4px system-ui, -apple-system, BlinkMacSystemFont, \u0022Segoe UI\u0022, sans-serif",
+        "padding": "9px 12px",
+        "color": "rgb(219, 222, 225)",
+        "background": "rgb(30, 31, 34)",
+        "border": "rgb(167, 177, 255)"
+      },
+      "actual": {
+        "value": "65536",
+        "number": 65536,
+        "bad": false,
+        "under": false,
+        "over": true,
+        "step": false,
+        "valid": false,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": true,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-windows-step-empty-down.json",
+      "raw": "1",
+      "expected": {
+        "id": "number-default",
+        "value": "1",
+        "number": 1,
+        "focused": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false,
+        "valid": true,
+        "rect": {
+          "x": 30,
+          "y": 20,
+          "width": 112,
+          "height": 44
+        },
+        "font": "14px / 22.4px system-ui, -apple-system, BlinkMacSystemFont, \u0022Segoe UI\u0022, sans-serif",
+        "padding": "9px 12px",
+        "color": "rgb(219, 222, 225)",
+        "background": "rgb(30, 31, 34)",
+        "border": "rgb(167, 177, 255)"
+      },
+      "actual": {
+        "value": "1",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    },
+    {
+      "id": "numberinput-windows-step-1-down.json",
+      "raw": "1",
+      "expected": {
+        "id": "number-default",
+        "value": "1",
+        "number": 1,
+        "focused": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false,
+        "valid": true,
+        "rect": {
+          "x": 30,
+          "y": 20,
+          "width": 112,
+          "height": 44
+        },
+        "font": "14px / 22.4px system-ui, -apple-system, BlinkMacSystemFont, \u0022Segoe UI\u0022, sans-serif",
+        "padding": "9px 12px",
+        "color": "rgb(219, 222, 225)",
+        "background": "rgb(30, 31, 34)",
+        "border": "rgb(167, 177, 255)"
+      },
+      "actual": {
+        "value": "1",
+        "number": 1,
+        "bad": false,
+        "under": false,
+        "over": false,
+        "step": false,
+        "valid": true,
+        "badInput": false,
+        "rangeUnderflow": false,
+        "rangeOverflow": false,
+        "stepMismatch": false
+      },
+      "differences": []
+    }
+  ]
+}

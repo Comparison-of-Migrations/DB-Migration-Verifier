@@ -1,0 +1,8 @@
+{
+  "component": "HomePage",
+  "contract": "Literal original home() page, locked children reused; KOEN x8 viewport source/headless/actual geometry16/life3 bothOS strict0; actual source/native callbacks24 bothOS, neutral passive6/EnterSpace4 bothOS noextraactions, affected headless16 focus/lifecycle; KOEN EntryGroup1/actions4/Help1/Hint1 and actual paint; exactcleanup0. Rawhome-body explicitlymaps sourceBODY; Windows UIA neutralWindow mapping preserved. Parent App navigation/file/modal/entrance/scroll delegated, root integration separate.",
+  "files": {
+    "src/Verifier.Desktop/WebHomePage.cs": "e91e33a458d99099515dd2dc0ed7bc3d2c8b3cf40a69376d00e2bb68bd18753b",
+    "src/Verifier.Desktop/WebWelcomeEntryHint.cs": "f59adf0271c0edda0e7a6befcb0511079dac3da975873bdad5b0c6af7191d3f2"
+  }
+}

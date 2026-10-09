@@ -1,0 +1,10 @@
+{
+  "phase": "ACTUAL_OS_PASSED",
+  "scope": "Only new full static Review/Save summary content/order/strong/mono/logicallines/actual wrapped lines/relativeplacement30",
+  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/home-pageintegrationsummarycontent-mac-source-root-b.json",
+  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/pageintegration/fcfe5b61fb964599a5fdae13c36320f7/actual-summary-content-macos/pageintegration-summary-content.json",
+  "cases": 30,
+  "checks": 2599,
+  "differences": [],
+  "reuse": "Protected SummaryItem/SummaryList/InlineText leaf typography/paint/clips/renderer semantic implementation unchanged; literal suffix compared as full combined value plus positive public muted clips. Exact source HTML tag vs native control class is not asserted. Existing first-row parent48 passes retained; full items placement is newly assessed. ActualOS semantic public names/AX and paint inspection remain separate."
+}

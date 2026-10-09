@@ -1,0 +1,38 @@
+[
+  {
+    "color": "rgb(242, 243, 245)",
+    "family": "system",
+    "lineHeight": 27,
+    "size": 18,
+    "spacing": -0.27,
+    "tabular": false,
+    "text": "Source DB",
+    "weight": 700,
+    "id": "opsz-9",
+    "opticalSize": 9
+  },
+  {
+    "color": "rgb(242, 243, 245)",
+    "family": "system",
+    "lineHeight": 27,
+    "size": 18,
+    "spacing": -0.27,
+    "tabular": false,
+    "text": "Source DB",
+    "weight": 700,
+    "id": "opsz-18",
+    "opticalSize": 18
+  },
+  {
+    "color": "rgb(242, 243, 245)",
+    "family": "system",
+    "lineHeight": 27,
+    "size": 18,
+    "spacing": -0.27,
+    "tabular": false,
+    "text": "Source DB",
+    "weight": 700,
+    "id": "opsz-36",
+    "opticalSize": 36
+  }
+]

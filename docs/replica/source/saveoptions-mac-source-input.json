@@ -1,0 +1,73 @@
+{
+  "source": "Actual CUA source SaveOptions36 and original Save30",
+  "observed": [
+    {
+      "action": "JSON body: deselect all",
+      "selected": [],
+      "changes": 1,
+      "focused": "json",
+      "focusVisible": false,
+      "downloadEnabled": false
+    },
+    {
+      "action": "Space: JSON",
+      "selected": [
+        "json"
+      ],
+      "changes": 2,
+      "focused": "json",
+      "focusVisible": true,
+      "downloadEnabled": true
+    },
+    {
+      "action": "Tab: CSV",
+      "selected": [
+        "json"
+      ],
+      "changes": 2,
+      "focused": "csv",
+      "focusVisible": true
+    },
+    {
+      "action": "Enter: CSV",
+      "selected": [
+        "json"
+      ],
+      "changes": 2,
+      "focused": "csv",
+      "focusVisible": true
+    },
+    {
+      "action": "Space: CSV",
+      "selected": [
+        "json",
+        "csv"
+      ],
+      "changes": 3,
+      "focused": "csv",
+      "focusVisible": true
+    },
+    {
+      "action": "Language",
+      "selected": [
+        "json",
+        "csv"
+      ],
+      "changes": 3,
+      "focused": null,
+      "focusVisible": false,
+      "english": true
+    },
+    {
+      "action": "JSON remove/add",
+      "selected": [
+        "csv",
+        "json"
+      ],
+      "changes": 5,
+      "focused": "json",
+      "focusVisible": false,
+      "english": true
+    }
+  ]
+}

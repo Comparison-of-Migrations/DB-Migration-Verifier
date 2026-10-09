@@ -1,0 +1,22 @@
+[
+  {
+    "mode": "wheel-down",
+    "best": {
+      "duration": 174,
+      "delay": -9,
+      "mae": 0.10582447463849742,
+      "maximum": 0.38556142276959804
+    },
+    "predictedInverse": 200
+  },
+  {
+    "mode": "arrow-down",
+    "best": {
+      "duration": 197,
+      "delay": -6,
+      "mae": 0.09485567470609646,
+      "maximum": 0.38005730500827184
+    },
+    "predictedInverse": 200
+  }
+]

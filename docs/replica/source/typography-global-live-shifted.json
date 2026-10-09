@@ -1,0 +1,10 @@
+{
+  "parentX": 0.125,
+  "parentY": 0.125,
+  "childX": 10,
+  "childY": 10,
+  "paintedPhase": {
+    "X": 0.125,
+    "Y": 0.125
+  }
+}

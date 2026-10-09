@@ -1,0 +1,31 @@
+{
+  "component": "Connection",
+  "contract": "Literal connection page assembly; each OS96 source/native geometry and validation62 zero; each OS actual input10 plus keyboard/pointer/focus, busy partial input, normal/reduced lifecycle; isolated realSkia headless96/62+10 passed separately. Parent owns App navigation/global state/scroll. Public SetViewport updates only existing pair gap/Picker compact/Advanced gap, preserving page/editor/fields/radios/focus/value/caret and entry; new external parent resize default8+expanded4 eachOS strict0.",
+  "files": {
+    "src/Verifier.Desktop/WebConnectionPage.cs": "1a816a5383b6785fb1792163c15172e638f030b0a29e27a5a58a0a6f631b40f9"
+  },
+  "evidence": [
+    "connectionpage-mac-comparison.json",
+    "connectionpage-windows-comparison.json",
+    "connectionpage-mac-input-comparison.json",
+    "connectionpage-windows-input-comparison.json",
+    "connectionpage-headless-comparison.json",
+    "connectionpage-headless-input-comparison.json",
+    "connectionpage-windows-input-timing.json",
+    "home-pageintegrationconnection-resize-mac-headless-default-comparison.json",
+    "home-pageintegrationconnection-resize-mac-headless-expanded-comparison.json",
+    "home-pageintegrationconnection-resize-mac-actual-default-comparison.json",
+    "home-pageintegrationconnection-resize-mac-actual-expanded-comparison.json",
+    "home-pageintegrationconnection-resize-windows-headless-default-comparison.json",
+    "home-pageintegrationconnection-resize-windows-headless-expanded-comparison.json",
+    "home-pageintegrationconnection-resize-windows-actual-default-comparison.json",
+    "home-pageintegrationconnection-resize-windows-actual-expanded-comparison.json"
+  ],
+  "viewportException": {
+    "beforeManifest": "connectionpage-before-viewport-manifest.json",
+    "spec": "docs/replica/specs/Connection.md",
+    "proofMatrix": "home-pageintegrationconnection-resize-proof-matrix.json",
+    "diff": "home-pageintegrationconnection-resize-product-diff.txt",
+    "reuse": "Old constructor/SetPresentation/state/validation/input/events/entry code unchanged; only new viewport pairgap/compact/dependent Advanced gap path. Typography Mac31 and Advanced actual4 eachOS reLOCK precede parent. Root later unrelated NavigateError/mappingClosed branches outside resize scope do not invalidate frozen proofs."
+  }
+}

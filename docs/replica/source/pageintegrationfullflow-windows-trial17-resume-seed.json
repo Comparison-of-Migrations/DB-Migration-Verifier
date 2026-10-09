@@ -1,0 +1,74 @@
+{
+  "scope": "Saved physical Trial17 public checkpoint for explicit probe-only setup. Setup is not new physical proof.",
+  "savedSequence": 303,
+  "state": {
+    "id": "native-observation-303",
+    "screen": "trial",
+    "english": false,
+    "connected": true,
+    "busy": false,
+    "error": "",
+    "categories": [
+      "data",
+      "schema",
+      "access",
+      "objects",
+      "trial"
+    ],
+    "tables": [
+      "demo.customers",
+      "demo.orders",
+      "demo.line_items"
+    ],
+    "maps": {
+      "demo.customers": "demo.customers",
+      "demo.orders": "archive.orders",
+      "demo.line_items": "demo.line_items"
+    },
+    "expanded": [],
+    "trial": {
+      "host": "trial.example.invalid",
+      "db": "migration_test",
+      "validInput": "1",
+      "invalidInput": "-1",
+      "ready": false,
+      "consent": false
+    },
+    "stopped": false,
+    "visited": [
+      "connect",
+      "capabilities",
+      "select"
+    ],
+    "filter": "all",
+    "formats": [
+      "json"
+    ],
+    "saved": false,
+    "run": null,
+    "modal": null,
+    "query": "",
+    "title": "동작 시험은 별도 DB에서 합니다",
+    "focus": "screen-title",
+    "announcement": "동작 시험은 별도 DB에서 합니다",
+    "offset": 0,
+    "footer": [
+      {
+        "action": "trial-back",
+        "label": "검사 선택으로",
+        "enabled": true
+      },
+      {
+        "action": "trial-check",
+        "label": "시험 준비 확인",
+        "enabled": false
+      }
+    ]
+  },
+  "viewport": {
+    "x": 220,
+    "y": 96,
+    "width": 1045,
+    "height": 720
+  }
+}

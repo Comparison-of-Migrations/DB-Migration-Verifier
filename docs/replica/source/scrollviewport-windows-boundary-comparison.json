@@ -1,0 +1,6 @@
+{
+  "platform": "windows",
+  "cases": 14,
+  "differences": [],
+  "scope": "dynamic extent/resize/nonfinite/fractional clamp/nearest bring-into-view; actual input/UA animation separate"
+}

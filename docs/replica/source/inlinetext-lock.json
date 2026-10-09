@@ -1,0 +1,18 @@
+{
+  "component": "InlineText",
+  "contract": "Same full visual mono sentence and complementary clips unchanged; Mac combined singleText leaf; Windows source-proven ordered prefix/suffix existing Text leaves via standard Name, default nonempty and Raw empty reading.",
+  "files": {
+    "src/Verifier.Desktop/WebInlineText.cs": "d13556f91cd5369908a1134e7caee10fa49b034f355fb7d8ec6e0ef279abbe55"
+  },
+  "evidence": "docs/replica/source/home-pageintegrationsummarycontent-mac-inline-peer4-comparison.json",
+  "windowsReadingException": {
+    "headless": "docs/replica/source/home-pageintegrationsummarycontent-windows-inline-headless-comparison.json",
+    "actual": "docs/replica/source/home-pageintegrationsummarycontent-windows-inline-actual-comparison.json",
+    "cleanup": {
+      "pid": 12588,
+      "ownedNativeProcess": 0,
+      "ownedWindow": 0
+    },
+    "providerBoundary": "Original DOM glyph-fragment UIA boxes/anonymous Group and default native full paint-control boxes/Panel flattening differ; documented real provider expression, not paint/layout/name/order/data change; no numeric box equality claim"
+  }
+}

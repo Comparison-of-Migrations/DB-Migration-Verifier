@@ -1,0 +1,34 @@
+{
+  "originalPlainParent": {
+    "name": null,
+    "texts": [
+      "불일치 항목",
+      "3",
+      "확인 불가·미검증 항목",
+      "2",
+      "일치 항목",
+      "45",
+      "예시 검사 ID",
+      "UI-MUZ1LP3S"
+    ]
+  },
+  "candidate": {
+    "title": "Replica Metrics verification",
+    "method": "Actual CUA AX of exact MetricsCheck.app",
+    "containerName": null,
+    "texts": [
+      "불일치 항목",
+      "3",
+      "확인 불가·미검증 항목",
+      "2",
+      "일치 항목",
+      "45",
+      "예시 검사 ID",
+      "UI-MUZ1LP3S"
+    ],
+    "componentTextCount": 8,
+    "controlActions": [],
+    "paint": "Actual CUA screenshot inspected plus native PNGs"
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "Id": "en-0",
+    "metrics": [
+      {
+        "ptem": false,
+        "width": 143.17619934082032,
+        "glyphCount": 21
+      },
+      {
+        "ptem": true,
+        "width": 140.01799621582032,
+        "glyphCount": 21
+      }
+    ]
+  },
+  {
+    "Id": "en-1",
+    "metrics": [
+      {
+        "ptem": false,
+        "width": 422.0117578125,
+        "glyphCount": 29
+      },
+      {
+        "ptem": true,
+        "width": 432.7168359375,
+        "glyphCount": 29
+      }
+    ]
+  },
+  {
+    "Id": "en-2",
+    "metrics": [
+      {
+        "ptem": false,
+        "width": 448.73828125,
+        "glyphCount": 65
+      },
+      {
+        "ptem": true,
+        "width": 438.962890625,
+        "glyphCount": 65
+      }
+    ]
+  },
+  {
+    "Id": "en-4",
+    "metrics": [
+      {
+        "ptem": false,
+        "width": 443.232421875,
+        "glyphCount": 75
+      },
+      {
+        "ptem": true,
+        "width": 443.232421875,
+        "glyphCount": 75
+      }
+    ]
+  },
+  {
+    "Id": "en-5",
+    "metrics": [
+      {
+        "ptem": false,
+        "width": 165.388671875,
+        "glyphCount": 21
+      },
+      {
+        "ptem": true,
+        "width": 162.23046875,
+        "glyphCount": 21
+      }
+    ]
+  },
+  {
+    "Id": "en-6",
+    "metrics": [
+      {
+        "ptem": false,
+        "width": 397.31884765625,
+        "glyphCount": 66
+      },
+      {
+        "ptem": true,
+        "width": 392.29150390625,
+        "glyphCount": 66
+      }
+    ]
+  }
+]

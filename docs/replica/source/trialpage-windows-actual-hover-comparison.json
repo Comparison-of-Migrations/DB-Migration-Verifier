@@ -1,0 +1,115 @@
+{
+  "cases": [
+    {
+      "language": "ko",
+      "reduced": false,
+      "mode": "hover",
+      "sourceBackground": "rgb(58, 60, 68)",
+      "nativeBackground": "rgb(58, 60, 68)",
+      "duration": "0.16s",
+      "callbacks": 0
+    },
+    {
+      "language": "ko",
+      "reduced": false,
+      "mode": "leave",
+      "sourceBackground": "rgba(0, 0, 0, 0)",
+      "nativeBackground": "rgba(0, 0, 0, 0)",
+      "duration": "0.16s",
+      "callbacks": 0
+    },
+    {
+      "language": "ko",
+      "reduced": false,
+      "mode": "cancel",
+      "sourceBackground": "rgba(0, 0, 0, 0)",
+      "nativeBackground": "rgba(0, 0, 0, 0)",
+      "duration": "0.16s",
+      "callbacks": 0
+    },
+    {
+      "language": "ko",
+      "reduced": true,
+      "mode": "hover",
+      "sourceBackground": "rgb(58, 60, 68)",
+      "nativeBackground": "rgb(58, 60, 68)",
+      "duration": "0s",
+      "callbacks": 0
+    },
+    {
+      "language": "ko",
+      "reduced": true,
+      "mode": "leave",
+      "sourceBackground": "rgba(0, 0, 0, 0)",
+      "nativeBackground": "rgba(0, 0, 0, 0)",
+      "duration": "0s",
+      "callbacks": 0
+    },
+    {
+      "language": "ko",
+      "reduced": true,
+      "mode": "cancel",
+      "sourceBackground": "rgba(0, 0, 0, 0)",
+      "nativeBackground": "rgba(0, 0, 0, 0)",
+      "duration": "0s",
+      "callbacks": 0
+    },
+    {
+      "language": "en",
+      "reduced": false,
+      "mode": "hover",
+      "sourceBackground": "rgb(58, 60, 68)",
+      "nativeBackground": "rgb(58, 60, 68)",
+      "duration": "0.16s",
+      "callbacks": 0
+    },
+    {
+      "language": "en",
+      "reduced": false,
+      "mode": "leave",
+      "sourceBackground": "rgba(0, 0, 0, 0)",
+      "nativeBackground": "rgba(0, 0, 0, 0)",
+      "duration": "0.16s",
+      "callbacks": 0
+    },
+    {
+      "language": "en",
+      "reduced": false,
+      "mode": "cancel",
+      "sourceBackground": "rgba(0, 0, 0, 0)",
+      "nativeBackground": "rgba(0, 0, 0, 0)",
+      "duration": "0.16s",
+      "callbacks": 0
+    },
+    {
+      "language": "en",
+      "reduced": true,
+      "mode": "hover",
+      "sourceBackground": "rgb(58, 60, 68)",
+      "nativeBackground": "rgb(58, 60, 68)",
+      "duration": "0s",
+      "callbacks": 0
+    },
+    {
+      "language": "en",
+      "reduced": true,
+      "mode": "leave",
+      "sourceBackground": "rgba(0, 0, 0, 0)",
+      "nativeBackground": "rgba(0, 0, 0, 0)",
+      "duration": "0s",
+      "callbacks": 0
+    },
+    {
+      "language": "en",
+      "reduced": true,
+      "mode": "cancel",
+      "sourceBackground": "rgba(0, 0, 0, 0)",
+      "nativeBackground": "rgba(0, 0, 0, 0)",
+      "duration": "0s",
+      "callbacks": 0
+    }
+  ],
+  "sourceCssSha256": "656a04f03636788a8029d53cb4a9cddddabb07d7f8e0fee20945bfcf31c5319c",
+  "phase": "ACTUAL_SOURCE_NATIVE_PASSED",
+  "errors": []
+}

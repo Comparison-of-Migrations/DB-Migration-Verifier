@@ -1,0 +1,13 @@
+{
+  "finalProductSha256": "88b96ae4342d0592bf255a86747f5fa5376fe9099966c76f15541a3f3fd82025",
+  "originalHeadlessBuild": "e82541499da541508afb6e442366e447",
+  "unchangedAfterRemovingOnly": [
+    "Windows-only outer-text AccessibilityView.Raw clause",
+    "aggregate AutomationProperties.SetName call"
+  ],
+  "geometryTextMotionBranchesByteIdentical": true,
+  "headless42And8Preserved": true,
+  "mac42And8Preserved": true,
+  "newActualMacUnnamedPeer": "findingarticle-mac-peer-final.json",
+  "newActualWindows42And8AndPeer": "findingarticle-windows-comparison.json"
+}

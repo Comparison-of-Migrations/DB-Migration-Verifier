@@ -1,0 +1,18 @@
+[
+  {
+    "target": "source",
+    "inputs": 35,
+    "firstRepeatMs": 250.09999990463257,
+    "medianPeriodMs": 52.0,
+    "changes": 1,
+    "changeAfterRelease": true
+  },
+  {
+    "target": "native",
+    "inputs": 29,
+    "firstRepeatMs": 253.7566999999981,
+    "medianPeriodMs": 59.6425000000163,
+    "changes": 1,
+    "changeAfterRelease": true
+  }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "id":  "CapabilityViewport-reset",
+        "name":  "reset",
+        "content":  true,
+        "focusable":  false,
+        "type":  "ControlType.Button",
+        "rect":  "111,156,99,88",
+        "control":  true
+    },
+    {
+        "id":  "CapabilityViewport-middle",
+        "name":  "middle",
+        "content":  true,
+        "focusable":  false,
+        "type":  "ControlType.Button",
+        "rect":  "291,156,121,88",
+        "control":  true
+    },
+    {
+        "id":  "CapabilityViewport-child-toggle",
+        "name":  "child-toggle",
+        "content":  true,
+        "focusable":  false,
+        "type":  "ControlType.Button",
+        "rect":  "491,156,176,88",
+        "control":  true
+    },
+    {
+        "id":  "CapabilityViewport-fit",
+        "name":  "fit",
+        "content":  true,
+        "focusable":  false,
+        "type":  "ControlType.Button",
+        "rect":  "731,156,69,88",
+        "control":  true
+    },
+    {
+        "id":  "CapabilityViewport-mount",
+        "name":  "mount",
+        "content":  true,
+        "focusable":  false,
+        "type":  "ControlType.Button",
+        "rect":  "911,156,118,88",
+        "control":  true
+    },
+    {
+        "id":  "CapabilityViewport-record",
+        "name":  "record",
+        "content":  true,
+        "focusable":  false,
+        "type":  "ControlType.Button",
+        "rect":  "1131,156,116,88",
+        "control":  true
+    }
+]

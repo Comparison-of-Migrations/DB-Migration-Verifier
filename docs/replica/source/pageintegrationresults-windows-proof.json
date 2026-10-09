@@ -1,0 +1,110 @@
+{
+  "status": "SCOPED_WINDOWS_PARENT_SUPPORT_PASSED_NOT_FULL_APP_LOCK",
+  "sourceActual30": "pageintegrationresults-windows-actual-source-proof.json",
+  "candidateActual30": "pageintegrationresults-windows-actual-comparison.json",
+  "retainedExactChecks": 489,
+  "knownBeforeCorrection": {
+    "modalBoxX": {
+      "candidate": 330,
+      "source": 322.5,
+      "conditions": 6
+    },
+    "announcementPeer": {
+      "candidate": "Named Text leaf",
+      "source": "Unnamed StatusBar -> named Text leaf",
+      "conditions": "KOEN Control/Content"
+    }
+  },
+  "parentCorrection": {
+    "component": "ReplicaWorkspace root-owned",
+    "modal": "CSSviewport Measure retained; document client dimensions used for centering Arrange",
+    "marker": "Root own direct TextBlock actual visual child, no Typography wrapper or protected child edit",
+    "mac": "Same leaf role/name/children0 and overlay dimensions; old actual proof reused"
+  },
+  "headless": {
+    "modal6ExactChecks": 24,
+    "retained": "pageintegrationresults-windows-root-boundary-headless.json",
+    "newPeer2": "pageintegrationresults-windows-root-direct-peer-headless.json",
+    "newPeerChecks": 27,
+    "newPeerDifferences": 0,
+    "processExitCode": 0,
+    "runtimeCount": 0,
+    "frozenPeer": "artifacts/replica/workers/connection/pageintegration/cbe4a59c052b4d7dbaec7cddf81e0a90/build.json",
+    "frozenModal": "artifacts/replica/workers/connection/pageintegration/1acd8a998bb54432862c58c06d22e278/build.json",
+    "composition": "new peer27/0 + retainedmodal24; not repeatedwholeboundary"
+  },
+  "actualNewScopePending": [],
+  "paint": {
+    "status": "PASSED actualfileinspection",
+    "pointerFilterKOEN": "No outline",
+    "researchCallerEscapeKOEN": "Whole 3px outline",
+    "nativeFrame": "Complete 2560x1800 no crop",
+    "runtime": "e57cf5b7f6ad479592eb6ef9c53ae9ae"
+  },
+  "cleanup": {
+    "nativePid1464": "ownedWindow0/process0 immediate after actual30",
+    "source": "ownedWindow0 immediate after each finite source scope",
+    "headlessC7": "runtime0",
+    "nativePid8520": "ownedWindow0/process0 immediate finally after failed actual peer observer",
+    "nativePid4256": "ownedWindow0/process0 immediatefinally after newactual2/missingEN3",
+    "nativePid4920": "ownedWindow0/process0 immediatefinally after markerlayout2/native traversal"
+  },
+  "diagnostic": {
+    "UIAFromPoint": "Readonly UiaNodeFromPoint HRESULT E_FAIL at exactknown native button center; cause unproven; guard uses exactroot HWND/PID/title/path/physicalcursor/freshnamedvisibleenabledtarget, trusted input traces retained",
+    "rootBoundaryC7": "Actual TreeWalker.GetFirstChild HRESULT E_FAIL before first completed peer, KOmodal3 saved exact, no EN setup; immediate nativePID8520 window/process0; no OS exemption"
+  },
+  "frozenRuntime": "artifacts/replica/workers/connection/pageintegration/928561703c224f70a66df399a6be74ad/build.json",
+  "actualRootBoundary": {
+    "modal6": "pageintegrationresults-windows-root-modal-actual.json",
+    "modalChecks": 25,
+    "modalDifferences": 0,
+    "composition": "Retained c7 KOactual3 plus fresh3e6bab ENactual3; APIsetup geometry, not callback replay",
+    "peerKO": "pageintegrationresults-windows-root-peer-ko-actual.json",
+    "peerEN": "pageintegrationresults-windows-root-peer-en-actual.json",
+    "peerChecksPerLanguage": 44,
+    "peerDifferences": 0,
+    "runtime": "artifacts/replica/workers/connection/pageintegration/3e6bab0fd555469db21e426137ea865d/build.json",
+    "nativeNavigation": "Control/Content GetFirstChild succeeded bothlanguages; no COMexception",
+    "cleanup": "Exact PID4256/path3e6bab/ownedWindow0/nativeProcess0 immediate"
+  },
+  "clippedTextRepresentation": {
+    "scope": "physical UIA boxes relative to marker; source inline ink overflow vs candidate control arrangedbox. Parent2x2/clipped/nonfocusable; not included in role44 comparator and not OSwaived",
+    "sourceKO": {
+      "width": 28,
+      "height": 441,
+      "topOffset": 3
+    },
+    "candidateKO": {
+      "width": 2,
+      "height": 448,
+      "topOffset": 0
+    },
+    "sourceEN": {
+      "width": 141,
+      "height": 127,
+      "topOffset": 3
+    },
+    "candidateEN": {
+      "width": 2,
+      "height": 134,
+      "topOffset": 0
+    },
+    "concern": "OrdinaryTextBlock WrapWithOverflow differs from existing locked WindowsWebTextBlock custom CSS wrap. Parent-only direct locked inner class reuse proposed to root; no childedit.",
+    "status": "CONFIRMED_SAME_LINE_BEHAVIOR_DIFFERENT_BOUNDING_PRIMITIVES",
+    "resolution": "Direct existing locked WindowsWebTextBlock preserves source10/3 lines and actual line advances within .01. Source Range inline ink union yields browserUIA glyph bounds; native provider returns arranged control1px width/full line boxes. Clipped parent1x1 and names/controlcontent/navigation exact. Bounding primitives separately recorded, not pixel-equated or OS-exempted."
+  },
+  "markerLayout": {
+    "source": "pageintegrationresults-windows-marker-layout-source.json",
+    "comparison": "pageintegrationresults-windows-marker-layout-actual-comparison.json",
+    "checks": 36,
+    "differences": 0,
+    "lines": {
+      "ko": 10,
+      "en": 3
+    },
+    "scope": "Actual public TextLayout lineTexts/linecounts/advances/lineHeight/clipped1x1 parent +actual native traversal2; semantic44/modal6/callback30 retained",
+    "nativeRuntime": "artifacts/replica/workers/connection/pageintegration/928561703c224f70a66df399a6be74ad/build.json",
+    "roundingReuse": "FrozenconstantDPR2 equals latest root TopLevel.RenderScaling at actualDPR2; no shape/function affected in scoped conditions",
+    "cleanup": "Exact PID4920/window0/process0/sourceWindow0 immediately; firstuncertainactorpayloadSHAaudit0 before fresh execution"
+  }
+}

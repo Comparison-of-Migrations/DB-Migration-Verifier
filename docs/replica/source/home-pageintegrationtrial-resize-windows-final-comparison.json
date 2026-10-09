@@ -1,0 +1,95 @@
+{
+  "phase": "ACTUAL_OS_PASSED",
+  "scope": "New connected Trial KOEN resize identity/caret/entry8 only; source handler oracle; candidate actual native external window resize",
+  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/home-pageintegrationtrial-resize-windows-source.json",
+  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/home-pageintegrationtrial-resize-windows-composed.json",
+  "cases": 8,
+  "geometryChecks": 416,
+  "geometrySource": null,
+  "geometryReuse": "Fresh connected source geometry per row when included; optional legacy Trial80 oracle only where same viewport/client/gutter/intrinsicheight condition is explicitly proven.",
+  "differences": [],
+  "candidateAdditionalPublicFields": {
+    "ko-0": {
+      "fieldRetained": true,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 1,
+        "translateY": 0
+      }
+    },
+    "ko-1": {
+      "fieldRetained": true,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 1,
+        "translateY": 0
+      }
+    },
+    "ko-2": {
+      "fieldRetained": true,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 1,
+        "translateY": 0
+      }
+    },
+    "ko-3": {
+      "fieldRetained": true,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 1,
+        "translateY": 0
+      }
+    },
+    "en-0": {
+      "fieldRetained": true,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 1,
+        "translateY": 0
+      }
+    },
+    "en-1": {
+      "fieldRetained": true,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 1,
+        "translateY": 0
+      }
+    },
+    "en-2": {
+      "fieldRetained": true,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 1,
+        "translateY": 0
+      }
+    },
+    "en-3": {
+      "fieldRetained": true,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 1,
+        "translateY": 0
+      }
+    }
+  },
+  "oldScopes": "Existing Trial geometry/input/state/AX/paint evidence reused; not rerun by this comparison",
+  "composition": {
+    "koSnapshot": "85381f5278bc40d082e57071ce61094b",
+    "enSnapshot": "67d261564f2b48ac93cde2928d6d99f3",
+    "productChangesBetweenSnapshots": {
+      "src/Verifier.Desktop/ReplicaWorkspace.cs": {
+        "ko": "cbb156a5d49de0b1ef1d90e8bd55cc4587bae0ca83e05b629dd4b3b706183cb9",
+        "en": "6ade7c82ad123dd487a2a203ca9992ab40bceaf7c92062de66060263bab7cd8b"
+      }
+    },
+    "observerOnlyRepair": "Immutable unique state-NNNNNN JSON publish and nativeEN-only baseline. No duplicate KO resize inputs.",
+    "sourceCleanup": "artifacts/replica/workers/home/pageintegrationtrial-resize-source/1be2f05522024b16aa03813db661435f/cleanup.json",
+    "nativeCleanup": [
+      "artifacts/replica/workers/home/pageintegration/85381f5278bc40d082e57071ce61094b/actual-resize-windows/partial-ko4/cleanup.json",
+      "artifacts/replica/workers/home/pageintegration/67d261564f2b48ac93cde2928d6d99f3/actual-resize-windows/cleanup.json"
+    ],
+    "productScopeReuseReason": "Trial61e and Workspace resize branch unchanged. Shared Workspace only Windows AnnouncementMarker TextBlock added SystemFontFamily/WrapWithOverflow betweenKO/EN snapshots; no announcement requested in these Trial defaultresize states, no parentresize/editor/geometry effect. Full8 freshsource geometry match independently proves scope."
+  }
+}

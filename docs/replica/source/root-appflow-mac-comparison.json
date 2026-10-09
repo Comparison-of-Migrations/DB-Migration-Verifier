@@ -1,0 +1,10 @@
+{
+  "phase": "HANDLER_FLOW_PASSED",
+  "scope": "Recorded handler transitions only; actual OS input is separately required",
+  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/root-appflow-mac-source.json",
+  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/root/pageintegration/39fb734232dd43679f8b9dd31df2a8e6/outputs/b0c6a315dacb4ff3ae83db49040093f1/candidate/pageintegration-flow.json",
+  "transitions": 52,
+  "checks": 2988,
+  "normalization": "Validated generated run ID only; every source row field is compared",
+  "differences": []
+}

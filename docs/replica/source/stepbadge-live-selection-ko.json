@@ -1,0 +1,170 @@
+[
+  {
+    "dom": "<span class=\"step-index\"><svg class=\"svg \" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"m5 12 4 4L19 6\"></path></svg></span>",
+    "parent": "<button type=\"button\" class=\"step  done\" data-action=\"stage:connect\"><span class=\"step-index\"><svg class=\"svg \" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"m5 12 4 4L19 6\"></path></svg></span><span>DB 연결</span></button>",
+    "rect": {
+      "bottom": 177.6953125,
+      "height": 24,
+      "left": 29,
+      "right": 53,
+      "top": 153.6953125,
+      "width": 24,
+      "x": 29,
+      "y": 153.6953125
+    },
+    "style": {
+      "background": "rgb(54, 56, 70)",
+      "border": "1px solid rgb(105, 113, 133)",
+      "color": "rgb(209, 214, 255)",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "19.2px",
+      "radius": "5px",
+      "transitionDuration": "0s"
+    }
+  },
+  {
+    "dom": "<span class=\"step-index\"><svg class=\"svg \" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"m5 12 4 4L19 6\"></path></svg></span>",
+    "parent": "<button type=\"button\" class=\"step  done\" data-action=\"stage:capabilities\"><span class=\"step-index\"><svg class=\"svg \" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"m5 12 4 4L19 6\"></path></svg></span><span>사전 확인</span></button>",
+    "rect": {
+      "bottom": 237.6953125,
+      "height": 24,
+      "left": 29,
+      "right": 53,
+      "top": 213.6953125,
+      "width": 24,
+      "x": 29,
+      "y": 213.6953125
+    },
+    "style": {
+      "background": "rgb(54, 56, 70)",
+      "border": "1px solid rgb(105, 113, 133)",
+      "color": "rgb(209, 214, 255)",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "19.2px",
+      "radius": "5px",
+      "transitionDuration": "0s"
+    }
+  },
+  {
+    "dom": "<span class=\"step-index\">3</span>",
+    "parent": "<button type=\"button\" class=\"step active \" data-action=\"stage:select\" aria-current=\"step\"><span class=\"step-index\">3</span><span>검사 선택</span></button>",
+    "rect": {
+      "bottom": 297.6953125,
+      "height": 24,
+      "left": 29,
+      "right": 53,
+      "top": 273.6953125,
+      "width": 24,
+      "x": 29,
+      "y": 273.6953125
+    },
+    "style": {
+      "background": "rgb(88, 101, 242)",
+      "border": "1px solid rgb(88, 101, 242)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "12px",
+      "fontWeight": "650",
+      "lineHeight": "19.2px",
+      "radius": "5px",
+      "transitionDuration": "0s"
+    }
+  },
+  {
+    "dom": "<span class=\"step-index\">4</span>",
+    "parent": "<button type=\"button\" class=\"step  \" data-action=\"stage:review\" disabled=\"\"><span class=\"step-index\">4</span><span>실행 전 확인</span></button>",
+    "rect": {
+      "bottom": 357.6953125,
+      "height": 24,
+      "left": 29,
+      "right": 53,
+      "top": 333.6953125,
+      "width": 24,
+      "x": 29,
+      "y": 333.6953125
+    },
+    "style": {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "1px solid rgb(124, 131, 140)",
+      "color": "rgb(181, 186, 193)",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "19.2px",
+      "radius": "5px",
+      "transitionDuration": "0s"
+    }
+  },
+  {
+    "dom": "<span class=\"step-index\">5</span>",
+    "parent": "<button type=\"button\" class=\"step  \" data-action=\"stage:running\" disabled=\"\"><span class=\"step-index\">5</span><span>검사 진행</span></button>",
+    "rect": {
+      "bottom": 417.6953125,
+      "height": 24,
+      "left": 29,
+      "right": 53,
+      "top": 393.6953125,
+      "width": 24,
+      "x": 29,
+      "y": 393.6953125
+    },
+    "style": {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "1px solid rgb(124, 131, 140)",
+      "color": "rgb(181, 186, 193)",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "19.2px",
+      "radius": "5px",
+      "transitionDuration": "0s"
+    }
+  },
+  {
+    "dom": "<span class=\"step-index\">6</span>",
+    "parent": "<button type=\"button\" class=\"step  \" data-action=\"stage:results\" disabled=\"\"><span class=\"step-index\">6</span><span>결과 확인</span></button>",
+    "rect": {
+      "bottom": 477.6953125,
+      "height": 24,
+      "left": 29,
+      "right": 53,
+      "top": 453.6953125,
+      "width": 24,
+      "x": 29,
+      "y": 453.6953125
+    },
+    "style": {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "1px solid rgb(124, 131, 140)",
+      "color": "rgb(181, 186, 193)",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "19.2px",
+      "radius": "5px",
+      "transitionDuration": "0s"
+    }
+  },
+  {
+    "dom": "<span class=\"step-index\">7</span>",
+    "parent": "<button type=\"button\" class=\"step  \" data-action=\"stage:save\" disabled=\"\"><span class=\"step-index\">7</span><span>결과 저장</span></button>",
+    "rect": {
+      "bottom": 537.6953125,
+      "height": 24,
+      "left": 29,
+      "right": 53,
+      "top": 513.6953125,
+      "width": 24,
+      "x": 29,
+      "y": 513.6953125
+    },
+    "style": {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "1px solid rgb(124, 131, 140)",
+      "color": "rgb(181, 186, 193)",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "19.2px",
+      "radius": "5px",
+      "transitionDuration": "0s"
+    }
+  }
+]

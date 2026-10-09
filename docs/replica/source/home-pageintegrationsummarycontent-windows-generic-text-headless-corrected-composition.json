@@ -1,0 +1,13 @@
+{
+  "phase": "HEADLESS_PASSED",
+  "scope": "Corrected composition of previously valid plainpublic44 and ClearValue-nameupdates4/28; preserves invalid SetName-empty expectation failure separately",
+  "checks": 72,
+  "differences": [],
+  "productSystemTextSha256": "6e8fcef607cced029b447b981b08c0a2700184479e181c345087df807f8eb06a",
+  "sourceProductsEqual": true,
+  "initialPlain44": "artifacts/replica/workers/home/pageintegration/d598578a3316412fbf874e8198c2ac6f/actual-summary-content-windows/headless-1a4f635c9d17494f98a975a32ecd516d/pageintegration-summary-content.json",
+  "correctedUpdates28": "docs/replica/source/home-pageintegrationsummarycontent-windows-generic-text-name-updates-comparison.json",
+  "preservedInvalidHelper": "docs/replica/source/home-pageintegrationsummarycontent-windows-generic-text-headless-comparison.json",
+  "geometry4Reuse": "docs/replica/source/home-pageintegrationsummarycontent-windows-generic-text-headless-geometry4-comparison.json",
+  "actual4": "docs/replica/source/home-pageintegrationsummarycontent-windows-generic-text-actual-comparison.json"
+}

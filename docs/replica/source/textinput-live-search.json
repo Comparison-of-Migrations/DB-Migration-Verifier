@@ -1,0 +1,20 @@
+{
+  "css": {
+    "background-color": "rgb(30, 31, 34)",
+    "border": "1px solid rgb(124, 131, 140)",
+    "color": "rgb(219, 222, 225)",
+    "font-size": "13px",
+    "line-height": "20.8px",
+    "outline": "rgb(219, 222, 225) none 3px",
+    "padding": "9px 44px 9px 40px",
+    "transition": "border-color 0.12s, box-shadow 0.12s"
+  },
+  "placeholder": "rgb(163, 169, 178)",
+  "rect": {
+    "height": 44,
+    "width": 380,
+    "x": 248,
+    "y": 696.1875
+  },
+  "type": "search"
+}

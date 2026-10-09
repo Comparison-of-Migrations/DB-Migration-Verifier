@@ -1,0 +1,19 @@
+<!doctype html><meta charset="utf-8"><title>Source motion temporal oracle</title>
+<style>body{margin:0;background:#313338;color:#dbdee1;font:12px system-ui}.atlas{display:grid;grid-template-columns:repeat(6,150px);gap:12px;padding:16px}.cell{height:76px}.sample{width:100px;height:40px;background:#5865f2;opacity:1;transform-origin:center}pre{white-space:pre-wrap} @keyframes pulse{50%{opacity:.3}}</style>
+<div class="atlas" id="atlas"></div><pre id="metrics" hidden></pre>
+<script>
+const ease='cubic-bezier(.22,1,.36,1)',defs=[
+['Page',200,[{opacity:.35,transform:'translateY(6px)'},{opacity:1,transform:'translateY(0px)'}],ease],
+['Modal',280,[{opacity:0,transform:'translateY(10px)'},{opacity:1,transform:'translateY(0px)'}],ease],
+['Drawer',280,[{opacity:0,transform:'translateX(20px)'},{opacity:1,transform:'translateX(0px)'}],ease],
+['Toast',200,[{opacity:0,transform:'translateY(10px)'},{opacity:1,transform:'translateY(0px)'}],ease],
+['ResultNumber',220,[{opacity:.6,transform:'translateY(5px)'},{opacity:1,transform:'translateY(0px)'}],ease],
+['ResultBar',320,[{transform:'scaleX(0)'},{transform:'scaleX(1)'}],ease],
+['Press',160,[{transform:'scale(1)',opacity:1},{transform:'scale(.98)',opacity:.86},{transform:'scale(1)',opacity:1}],'ease-out'],
+['ModalClose',160,[{opacity:1,transform:'translateY(0px)'},{opacity:0,transform:'translateY(6px)'}],'ease-out','forwards'],
+['SearchFade',160,[{opacity:.5},{opacity:1}],'ease-out'],
+['RunningDot',1000,null,'ease-in-out','none',Infinity],
+['Spinner',800,[{transform:'rotate(0deg)'},{transform:'rotate(360deg)'}],'linear','none',Infinity]
+],times=[0,.125,.25,.375,.5,.625,.75,.875,1,1.001,1.25,1.5],rows=[];
+for(const [kind,duration,frames,easing,fill='none',iterations=1] of defs){const samples=[];for(const fraction of times){const cell=document.createElement('div');cell.className='cell';const e=document.createElement('div');e.className='sample';cell.append(e,`${kind} ${fraction}`);atlas.append(cell);if(kind==='ResultBar')e.style.transformOrigin='left';let a;if(kind==='RunningDot'){e.style.animation='pulse 1000ms ease-in-out infinite';a=e.getAnimations()[0]}else a=e.animate(frames,{duration,easing,fill,iterations});a.pause();a.currentTime=duration*fraction;const s=getComputedStyle(e),m=new DOMMatrix(s.transform);samples.push({fraction,opacity:Number(s.opacity),matrix:[m.a,m.b,m.c,m.d,m.e,m.f]});}rows.push({kind,duration,fill,infinite:iterations===Infinity,samples})}document.querySelector('#metrics').textContent=JSON.stringify(rows,null,2);
+</script>

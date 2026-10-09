@@ -1,0 +1,35 @@
+[
+  {
+    "half": "up",
+    "state": "hover",
+    "physicalBox": [
+      30,
+      44
+    ],
+    "rgbError": 216,
+    "differentPixels": 58,
+    "maximumChannelDifference": 2
+  },
+  {
+    "half": "up",
+    "state": "hold",
+    "physicalBox": [
+      30,
+      44
+    ],
+    "rgbError": 198,
+    "differentPixels": 52,
+    "maximumChannelDifference": 2
+  },
+  {
+    "half": "down",
+    "state": "hold",
+    "physicalBox": [
+      30,
+      44
+    ],
+    "rgbError": 192,
+    "differentPixels": 52,
+    "maximumChannelDifference": 2
+  }
+]

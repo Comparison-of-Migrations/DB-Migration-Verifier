@@ -1,0 +1,74 @@
+{
+  "requests": 3,
+  "english": false,
+  "viewportWidth": 960,
+  "focused": true,
+  "row": {
+    "id": "ko-960",
+    "root": {
+      "x": 0,
+      "y": 30,
+      "width": 680,
+      "height": 199.578125
+    },
+    "icon": {
+      "box": {
+        "x": 0,
+        "y": 62.2890625,
+        "width": 22,
+        "height": 22
+      },
+      "stroke": "rgb(181, 186, 193)",
+      "strokeWidth": "1.7px"
+    },
+    "content": {
+      "box": {
+        "x": 36,
+        "y": 27,
+        "width": 644,
+        "height": 92.578125
+      },
+      "label": {
+        "box": {
+          "x": 36,
+          "y": 27,
+          "width": 644,
+          "height": 19.1953125
+        },
+        "text": "\uc774 \uc571\uc758 \uc5f0\uad6c \uadfc\uac70",
+        "color": "rgb(181, 186, 193)"
+      },
+      "title": {
+        "box": {
+          "x": 36,
+          "y": 52.1953125,
+          "width": 644,
+          "height": 44.1875
+        },
+        "text": "Functional Success versus Database-State, Behavioral, and Operational Contracts in AI-Generated PostgreSQL Schema Migrations",
+        "color": "rgb(242, 243, 245)"
+      },
+      "body": {
+        "box": {
+          "x": 36,
+          "y": 100.3828125,
+          "width": 644,
+          "height": 19.1953125
+        },
+        "text": "\uae30\ubcf8 \uae30\ub2a5 \uc131\uacf5\uacfc \ub113\uc740 DB \uacc4\uc57d \ucda9\uc871\uc744 \uad6c\ubd84\ud558\ub294 \uc5f0\uad6c\ub97c \uac80\uc0ac \ubd84\ub958\uc640 \ubbf8\uac80\uc99d \ud45c\uc2dc\uc5d0 \ubc18\uc601\ud569\ub2c8\ub2e4.",
+        "color": "rgb(181, 186, 193)"
+      }
+    },
+    "button": {
+      "box": {
+        "x": 36,
+        "y": 133.578125,
+        "width": 108.2265625,
+        "height": 44
+      },
+      "text": "\uc5f0\uad6c \ubc18\uc601 \ubcf4\uae30",
+      "color": "rgb(181, 186, 193)",
+      "enabled": true
+    }
+  }
+}

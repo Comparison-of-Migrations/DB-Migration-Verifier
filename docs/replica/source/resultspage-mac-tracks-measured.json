@@ -1,0 +1,61 @@
+{
+  "sourceFrameCount": 1271,
+  "sourceAnimationDurationsObserved": [
+    80,
+    82.88670654103534,
+    95.0433660919967,
+    120,
+    160
+  ],
+  "sourceRequests": [
+    "detail:trial"
+  ],
+  "nativePointerCallback": {
+    "history": [
+      {
+        "label": "interactive-ready",
+        "filter": "all",
+        "english": false,
+        "title": "불일치가 발견됐습니다",
+        "articleIds": [
+          "F-001",
+          "F-002",
+          "F-003",
+          "U-001"
+        ],
+        "focusId": null,
+        "focusName": null,
+        "keyboard": false,
+        "trialFocused": false,
+        "trialFocusVisible": false,
+        "trialOpacity": 1,
+        "trialScale": 1,
+        "attached": true
+      },
+      {
+        "label": "detail:trial",
+        "filter": "all",
+        "english": false,
+        "title": "불일치가 발견됐습니다",
+        "articleIds": [
+          "F-001",
+          "F-002",
+          "F-003",
+          "U-001"
+        ],
+        "focusId": "Results-trial",
+        "focusName": "시험 기대 결과 비교 결과와 별도 판정 · 정리 내역 포함 기대 불충족 충족 / 불충족 / 미검증 3 / 1 / 0",
+        "keyboard": false,
+        "trialFocused": true,
+        "trialFocusVisible": false,
+        "trialOpacity": 1,
+        "trialScale": 1,
+        "attached": true
+      }
+    ],
+    "requests": [
+      "detail:trial"
+    ]
+  },
+  "scope": "Measured actual traces include source full80/120/160ms and shortened reversal durations; independent OS ticks sampled, bit-exact curves not inferred. Native per-mode elapsed CGEvent reports and sampled times preserved."
+}

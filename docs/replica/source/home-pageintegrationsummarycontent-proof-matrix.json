@@ -1,0 +1,76 @@
+{
+  "phase": "VERIFIED_PARENT_CONTENT",
+  "scope": "Existing Review/Save full static summary parent content only, no new independently reusable component; whole application/flows separate",
+  "matrix": {
+    "modes": [
+      "review-default",
+      "review-trial",
+      "save-completed",
+      "save-interrupted",
+      "save-pending"
+    ],
+    "languages": [
+      "ko",
+      "en"
+    ],
+    "viewports": [
+      960,
+      1180,
+      1280
+    ],
+    "cases": 30
+  },
+  "original": {
+    "mac": "docs/replica/source/home-pageintegrationsummarycontent-mac-source-root-b.json",
+    "windows": "artifacts/replica/workers/home/pageintegrationsummarycontent-source/c296457ac0d342bda4b20bb844037747/source.json",
+    "windowsReading4": "docs/replica/source/home-pageintegrationsummarycontent-windows-original-controlview4-shape.json"
+  },
+  "passes": {
+    "macHeadless30": "docs/replica/source/home-pageintegrationsummarycontent-mac-headless-comparison.json",
+    "macActual30": "docs/replica/source/home-pageintegrationsummarycontent-mac-actual-comparison.json",
+    "windowsHeadless30": "docs/replica/source/home-pageintegrationsummarycontent-windows-corrected-headless-comparison.json",
+    "windowsActual30": "docs/replica/source/home-pageintegrationsummarycontent-windows-actual-comparison.json",
+    "macInlineActual4": "docs/replica/source/home-pageintegrationsummarycontent-mac-inline-peer4-comparison.json",
+    "macInlineUpdates3": "docs/replica/source/home-pageintegrationsummarycontent-mac-inline-peer-updates-comparison.json",
+    "windowsGenericHeadless72": "docs/replica/source/home-pageintegrationsummarycontent-windows-generic-text-headless-corrected-composition.json",
+    "windowsGenericActual4": "docs/replica/source/home-pageintegrationsummarycontent-windows-generic-text-actual-comparison.json",
+    "windowsInlineHeadless4Updates3": "docs/replica/source/home-pageintegrationsummarycontent-windows-inline-headless-comparison.json",
+    "windowsInlineActual4": "docs/replica/source/home-pageintegrationsummarycontent-windows-inline-actual-comparison.json",
+    "changedScrollInfluence1": "docs/replica/source/home-pageintegrationsummarycontent-windows-preservegutter-influence-comparison.json"
+  },
+  "changedChildren": {
+    "Typography": "6e8fcef607cced029b447b981b08c0a2700184479e181c345087df807f8eb06a",
+    "InlineText": "d13556f91cd5369908a1134e7caee10fa49b034f355fb7d8ec6e0ef279abbe55",
+    "ScrollViewport": "c721642162eba7effbd475f33380334b48be44734698c4f9e6c7487ac1e9ba32"
+  },
+  "reuse": "Name-only Typography/Inline semantic changes have dedicated source/public/actualaffected proofs; paint/layout literal30 unchanged. Root existing-gutter changedParent directSummary1 strict138/0 and independent actualhistory18/2499 confirm allocation; source/candidate sameconditions permit prior actual30/leaf32 reuse. No native30 replay required.",
+  "providerBoundary": "Root accepted source anonymouscontentGroup/textglyphfragment vs standardnativePanelflatten/paintbox; source/candidate exactnames/order/reading info and positiveattachedbounds recorded, not numerically identical glyphrects. Root accepted/reportlinked InlineText before-reLOCK, no remaining reading omission.",
+  "cleanup": {
+    "nativeMacPids": [
+      84687,
+      96054
+    ],
+    "nativeWindowsPids": [
+      4464,
+      11316,
+      12588
+    ],
+    "allOwnWindowProcess": 0,
+    "sourceNonceWindows": [
+      "c296457ac0d342bda4b20bb844037747",
+      "fda231d217344567bf50e7707f0a8429",
+      "5edbbb975a094a60972f08f41bbb3a96"
+    ],
+    "sourceUniqueWindows": 0,
+    "completedActors": 0,
+    "headlessRuntime": 0
+  },
+  "remaining": [],
+  "rootDependentReLock": {
+    "ScrollViewport": "c721642162eba7effbd475f33380334b48be44734698c4f9e6c7487ac1e9ba32",
+    "sourceHistory18": "docs/replica/source/pageintegrationparentresize-windows-history-source.json",
+    "result": "Root source/headless/actual18 each2499/0 +KO4/233 +directSummaryKO960/138; actual4924 first8/1113 +8984 remaining10/1389 eachimmediateclose0; rootreported primitive reLOCK and allguardsPASS",
+    "globalProduct": "Root fullproduct44ac bothRID0/0/all129sourcehashmatch/no pendingproductchange"
+  },
+  "guardLog": "artifacts/replica/workers/home/summary-final-protected-check.log"
+}

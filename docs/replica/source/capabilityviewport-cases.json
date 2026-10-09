@@ -1,0 +1,194 @@
+[
+  {
+    "id": "478-fit-120",
+    "width": 478,
+    "mode": "fit",
+    "height": 120,
+    "logicalWidth": 458,
+    "extentWidth": 458
+  },
+  {
+    "id": "478-fit-684.6796875",
+    "width": 478,
+    "mode": "fit",
+    "height": 684.6796875,
+    "logicalWidth": 458,
+    "extentWidth": 458
+  },
+  {
+    "id": "478-intrinsic-120",
+    "width": 478,
+    "mode": "intrinsic",
+    "height": 120,
+    "logicalWidth": 615.7265625,
+    "extentWidth": 615.7265625
+  },
+  {
+    "id": "478-intrinsic-684.6796875",
+    "width": 478,
+    "mode": "intrinsic",
+    "height": 684.6796875,
+    "logicalWidth": 615.7265625,
+    "extentWidth": 615.7265625
+  },
+  {
+    "id": "478-descendant-120",
+    "width": 478,
+    "mode": "descendant",
+    "height": 120,
+    "logicalWidth": 478,
+    "extentWidth": 498.2734375
+  },
+  {
+    "id": "478-descendant-684.6796875",
+    "width": 478,
+    "mode": "descendant",
+    "height": 684.6796875,
+    "logicalWidth": 478,
+    "extentWidth": 498.2734375
+  },
+  {
+    "id": "478.25-fit-120",
+    "width": 478.25,
+    "mode": "fit",
+    "height": 120,
+    "logicalWidth": 458.25,
+    "extentWidth": 458.25
+  },
+  {
+    "id": "478.25-fit-684.6796875",
+    "width": 478.25,
+    "mode": "fit",
+    "height": 684.6796875,
+    "logicalWidth": 458.25,
+    "extentWidth": 458.25
+  },
+  {
+    "id": "478.25-intrinsic-120",
+    "width": 478.25,
+    "mode": "intrinsic",
+    "height": 120,
+    "logicalWidth": 615.9765625,
+    "extentWidth": 615.9765625
+  },
+  {
+    "id": "478.25-intrinsic-684.6796875",
+    "width": 478.25,
+    "mode": "intrinsic",
+    "height": 684.6796875,
+    "logicalWidth": 615.9765625,
+    "extentWidth": 615.9765625
+  },
+  {
+    "id": "478.25-descendant-120",
+    "width": 478.25,
+    "mode": "descendant",
+    "height": 120,
+    "logicalWidth": 478.25,
+    "extentWidth": 498.5234375
+  },
+  {
+    "id": "478.25-descendant-684.6796875",
+    "width": 478.25,
+    "mode": "descendant",
+    "height": 684.6796875,
+    "logicalWidth": 478.25,
+    "extentWidth": 498.5234375
+  },
+  {
+    "id": "610-fit-120",
+    "width": 610,
+    "mode": "fit",
+    "height": 120,
+    "logicalWidth": 590,
+    "extentWidth": 590
+  },
+  {
+    "id": "610-fit-684.6796875",
+    "width": 610,
+    "mode": "fit",
+    "height": 684.6796875,
+    "logicalWidth": 590,
+    "extentWidth": 590
+  },
+  {
+    "id": "610-intrinsic-120",
+    "width": 610,
+    "mode": "intrinsic",
+    "height": 120,
+    "logicalWidth": 747.7265625,
+    "extentWidth": 747.7265625
+  },
+  {
+    "id": "610-intrinsic-684.6796875",
+    "width": 610,
+    "mode": "intrinsic",
+    "height": 684.6796875,
+    "logicalWidth": 747.7265625,
+    "extentWidth": 747.7265625
+  },
+  {
+    "id": "610-descendant-120",
+    "width": 610,
+    "mode": "descendant",
+    "height": 120,
+    "logicalWidth": 610,
+    "extentWidth": 630.2734375
+  },
+  {
+    "id": "610-descendant-684.6796875",
+    "width": 610,
+    "mode": "descendant",
+    "height": 684.6796875,
+    "logicalWidth": 610,
+    "extentWidth": 630.2734375
+  },
+  {
+    "id": "656-fit-120",
+    "width": 656,
+    "mode": "fit",
+    "height": 120,
+    "logicalWidth": 636,
+    "extentWidth": 636
+  },
+  {
+    "id": "656-fit-684.6796875",
+    "width": 656,
+    "mode": "fit",
+    "height": 684.6796875,
+    "logicalWidth": 636,
+    "extentWidth": 636
+  },
+  {
+    "id": "656-intrinsic-120",
+    "width": 656,
+    "mode": "intrinsic",
+    "height": 120,
+    "logicalWidth": 793.7265625,
+    "extentWidth": 793.7265625
+  },
+  {
+    "id": "656-intrinsic-684.6796875",
+    "width": 656,
+    "mode": "intrinsic",
+    "height": 684.6796875,
+    "logicalWidth": 793.7265625,
+    "extentWidth": 793.7265625
+  },
+  {
+    "id": "656-descendant-120",
+    "width": 656,
+    "mode": "descendant",
+    "height": 120,
+    "logicalWidth": 656,
+    "extentWidth": 676.2734375
+  },
+  {
+    "id": "656-descendant-684.6796875",
+    "width": 656,
+    "mode": "descendant",
+    "height": 684.6796875,
+    "logicalWidth": 656,
+    "extentWidth": 676.2734375
+  }
+]

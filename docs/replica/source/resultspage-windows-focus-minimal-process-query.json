@@ -1,0 +1,6 @@
+{
+  "scope": "readonly ReplicaProbe tasklist name only; exact path not inferred",
+  "returncode": 0,
+  "stdout": "\uc815\ubcf4: \uc2e4\ud589 \uc911\uc778 \uc791\uc5c5 \uc911 \uc9c0\uc815\ub41c \uc870\uac74\uc5d0 \uc77c\uce58\ud558\ub294 \uc791\uc5c5\uc774 \uc5c6\uc2b5\ub2c8\ub2e4.\r\n",
+  "stderr": ""
+}

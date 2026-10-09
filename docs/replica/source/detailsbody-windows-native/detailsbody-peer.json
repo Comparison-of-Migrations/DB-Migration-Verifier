@@ -1,0 +1,645 @@
+{
+  "capturedAtUtc": "2026-10-08T00:36:33.6244347Z",
+  "rows": [
+    {
+      "id": "ko-438-data-completed",
+      "listRole": "List",
+      "items": 2,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-438-data-interrupted",
+      "listRole": "List",
+      "items": 2,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-438-data-pending",
+      "listRole": "List",
+      "items": 2,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-438-data-absent",
+      "listRole": "List",
+      "items": 2,
+      "children": 2,
+      "scopeAttached": false,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-438-schema-completed",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-438-schema-interrupted",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-438-schema-pending",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-438-schema-absent",
+      "listRole": "List",
+      "items": 3,
+      "children": 2,
+      "scopeAttached": false,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-438-access-completed",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-438-access-interrupted",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-438-access-pending",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-438-access-absent",
+      "listRole": "List",
+      "items": 3,
+      "children": 2,
+      "scopeAttached": false,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-438-objects-completed",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-438-objects-interrupted",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-438-objects-pending",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-438-objects-absent",
+      "listRole": "List",
+      "items": 3,
+      "children": 2,
+      "scopeAttached": false,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-438-trial-completed",
+      "listRole": "List",
+      "items": 3,
+      "children": 4,
+      "scopeAttached": true,
+      "cleanupAttached": true
+    },
+    {
+      "id": "ko-438-trial-interrupted",
+      "listRole": "List",
+      "items": 3,
+      "children": 4,
+      "scopeAttached": true,
+      "cleanupAttached": true
+    },
+    {
+      "id": "ko-438-trial-pending",
+      "listRole": "List",
+      "items": 3,
+      "children": 4,
+      "scopeAttached": true,
+      "cleanupAttached": true
+    },
+    {
+      "id": "ko-438-trial-absent",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": false,
+      "cleanupAttached": true
+    },
+    {
+      "id": "ko-570-data-completed",
+      "listRole": "List",
+      "items": 2,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-570-data-interrupted",
+      "listRole": "List",
+      "items": 2,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-570-data-pending",
+      "listRole": "List",
+      "items": 2,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-570-data-absent",
+      "listRole": "List",
+      "items": 2,
+      "children": 2,
+      "scopeAttached": false,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-570-schema-completed",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-570-schema-interrupted",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-570-schema-pending",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-570-schema-absent",
+      "listRole": "List",
+      "items": 3,
+      "children": 2,
+      "scopeAttached": false,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-570-access-completed",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-570-access-interrupted",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-570-access-pending",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-570-access-absent",
+      "listRole": "List",
+      "items": 3,
+      "children": 2,
+      "scopeAttached": false,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-570-objects-completed",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-570-objects-interrupted",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-570-objects-pending",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-570-objects-absent",
+      "listRole": "List",
+      "items": 3,
+      "children": 2,
+      "scopeAttached": false,
+      "cleanupAttached": false
+    },
+    {
+      "id": "ko-570-trial-completed",
+      "listRole": "List",
+      "items": 3,
+      "children": 4,
+      "scopeAttached": true,
+      "cleanupAttached": true
+    },
+    {
+      "id": "ko-570-trial-interrupted",
+      "listRole": "List",
+      "items": 3,
+      "children": 4,
+      "scopeAttached": true,
+      "cleanupAttached": true
+    },
+    {
+      "id": "ko-570-trial-pending",
+      "listRole": "List",
+      "items": 3,
+      "children": 4,
+      "scopeAttached": true,
+      "cleanupAttached": true
+    },
+    {
+      "id": "ko-570-trial-absent",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": false,
+      "cleanupAttached": true
+    },
+    {
+      "id": "en-438-data-completed",
+      "listRole": "List",
+      "items": 2,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-438-data-interrupted",
+      "listRole": "List",
+      "items": 2,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-438-data-pending",
+      "listRole": "List",
+      "items": 2,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-438-data-absent",
+      "listRole": "List",
+      "items": 2,
+      "children": 2,
+      "scopeAttached": false,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-438-schema-completed",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-438-schema-interrupted",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-438-schema-pending",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-438-schema-absent",
+      "listRole": "List",
+      "items": 3,
+      "children": 2,
+      "scopeAttached": false,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-438-access-completed",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-438-access-interrupted",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-438-access-pending",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-438-access-absent",
+      "listRole": "List",
+      "items": 3,
+      "children": 2,
+      "scopeAttached": false,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-438-objects-completed",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-438-objects-interrupted",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-438-objects-pending",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-438-objects-absent",
+      "listRole": "List",
+      "items": 3,
+      "children": 2,
+      "scopeAttached": false,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-438-trial-completed",
+      "listRole": "List",
+      "items": 3,
+      "children": 4,
+      "scopeAttached": true,
+      "cleanupAttached": true
+    },
+    {
+      "id": "en-438-trial-interrupted",
+      "listRole": "List",
+      "items": 3,
+      "children": 4,
+      "scopeAttached": true,
+      "cleanupAttached": true
+    },
+    {
+      "id": "en-438-trial-pending",
+      "listRole": "List",
+      "items": 3,
+      "children": 4,
+      "scopeAttached": true,
+      "cleanupAttached": true
+    },
+    {
+      "id": "en-438-trial-absent",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": false,
+      "cleanupAttached": true
+    },
+    {
+      "id": "en-570-data-completed",
+      "listRole": "List",
+      "items": 2,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-570-data-interrupted",
+      "listRole": "List",
+      "items": 2,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-570-data-pending",
+      "listRole": "List",
+      "items": 2,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-570-data-absent",
+      "listRole": "List",
+      "items": 2,
+      "children": 2,
+      "scopeAttached": false,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-570-schema-completed",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-570-schema-interrupted",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-570-schema-pending",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-570-schema-absent",
+      "listRole": "List",
+      "items": 3,
+      "children": 2,
+      "scopeAttached": false,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-570-access-completed",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-570-access-interrupted",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-570-access-pending",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-570-access-absent",
+      "listRole": "List",
+      "items": 3,
+      "children": 2,
+      "scopeAttached": false,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-570-objects-completed",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-570-objects-interrupted",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-570-objects-pending",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": true,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-570-objects-absent",
+      "listRole": "List",
+      "items": 3,
+      "children": 2,
+      "scopeAttached": false,
+      "cleanupAttached": false
+    },
+    {
+      "id": "en-570-trial-completed",
+      "listRole": "List",
+      "items": 3,
+      "children": 4,
+      "scopeAttached": true,
+      "cleanupAttached": true
+    },
+    {
+      "id": "en-570-trial-interrupted",
+      "listRole": "List",
+      "items": 3,
+      "children": 4,
+      "scopeAttached": true,
+      "cleanupAttached": true
+    },
+    {
+      "id": "en-570-trial-pending",
+      "listRole": "List",
+      "items": 3,
+      "children": 4,
+      "scopeAttached": true,
+      "cleanupAttached": true
+    },
+    {
+      "id": "en-570-trial-absent",
+      "listRole": "List",
+      "items": 3,
+      "children": 3,
+      "scopeAttached": false,
+      "cleanupAttached": true
+    }
+  ]
+}

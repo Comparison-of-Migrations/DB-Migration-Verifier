@@ -1,0 +1,7 @@
+{
+  "component": "PageHeading",
+  "contract": "Literal common heading h1+p geometry, resources, programmatic focus modality, HeadingLevel1 and exclusion from Tab order. Parent owns page entrance and scroll. Home parent override36/48.6/-1.26/max700. Headless common84/Home12 plus actual bothOS84+12 strict0, actual Home focus/input; previous common input retained.",
+  "files": {
+    "src/Verifier.Desktop/WebPageHeading.cs": "8e9867bddfffee1a04f0233c22f617f8c53a85d60237e6ac3d0b3fd53969c0e5"
+  }
+}

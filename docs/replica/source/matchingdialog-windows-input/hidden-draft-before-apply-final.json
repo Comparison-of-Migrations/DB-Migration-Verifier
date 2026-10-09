@@ -1,0 +1,165 @@
+{
+  "capturedAtUtc": "2026-10-08T00:04:11.9192068Z",
+  "dpr": 2,
+  "visible": true,
+  "closing": false,
+  "reduced": false,
+  "backgroundEnabled": false,
+  "backgroundBlur": 2,
+  "focus": "MatchingDialog-search",
+  "events": [
+    {
+      "action": "draft",
+      "value": "archive.orders"
+    },
+    {
+      "action": "close"
+    },
+    {
+      "action": "draft",
+      "value": "archive.orders"
+    }
+  ],
+  "row": {
+    "id": "ko-960-600-all",
+    "parts": {
+      "dialog": {
+        "x": 760,
+        "y": 75.109375,
+        "width": 500,
+        "height": 569.7734375
+      },
+      "head": {
+        "x": 761,
+        "y": 76.109375,
+        "width": 498,
+        "height": 85
+      },
+      "title": {
+        "x": 785,
+        "y": 104.609375,
+        "width": 386,
+        "height": 27
+      },
+      "close": {
+        "x": 1191,
+        "y": 96.109375,
+        "width": 44,
+        "height": 44
+      },
+      "body": {
+        "x": 761,
+        "y": 161.109375,
+        "width": 498,
+        "height": 397.7734375
+      },
+      "source": {
+        "x": 785,
+        "y": 185.109375,
+        "width": 450,
+        "height": 75.59375
+      },
+      "sourceLabel": {
+        "x": 802,
+        "y": 200.109375,
+        "width": 416,
+        "height": 19.1953125
+      },
+      "targetLabel": {
+        "x": 785,
+        "y": 280.703125,
+        "width": 450,
+        "height": 24
+      },
+      "search": {
+        "x": 785,
+        "y": 314.703125,
+        "width": 450,
+        "height": 44
+      },
+      "list": {
+        "x": 785,
+        "y": 372.703125,
+        "width": 450,
+        "height": 75.7890625
+      },
+      "note": {
+        "x": 785,
+        "y": 458.4921875,
+        "width": 450,
+        "height": 22
+      },
+      "policy": {
+        "x": 785,
+        "y": 496.4921875,
+        "width": 450,
+        "height": 38.390625
+      },
+      "footer": {
+        "x": 761,
+        "y": 558.8828125,
+        "width": 498,
+        "height": 85
+      },
+      "cancel": {
+        "x": 999,
+        "y": 577.8828125,
+        "width": 60,
+        "height": 48
+      },
+      "apply": {
+        "x": 1071,
+        "y": 577.8828125,
+        "width": 164,
+        "height": 48
+      }
+    },
+    "cards": [
+      {
+        "name": "demo.customers",
+        "selected": false,
+        "disabled": false,
+        "box": {
+          "x": 789,
+          "y": 376.703125,
+          "width": 442,
+          "height": 67.7890625
+        },
+        "attached": true,
+        "parents": [
+          "StackPanel",
+          "ViewportContent",
+          "WebScrollViewport",
+          "MatchingBody",
+          "ViewportContent",
+          "WebScrollViewport",
+          "DialogFlow",
+          "ViewportContent",
+          "WebScrollViewport",
+          "WebSurfaceBox",
+          "WebMatchingDialog",
+          "Canvas",
+          "ContentPresenter",
+          "Window",
+          "TopLevelHost"
+        ]
+      }
+    ],
+    "texts": {
+      "title": "\uD14C\uC774\uBE14 \uB300\uC751 \uBCC0\uACBD",
+      "sourceLabel": "\uC6D0\uBCF8 \uD14C\uC774\uBE14",
+      "targetLabel": "\uB300\uC751\uD560 \uB300\uC0C1 \uD14C\uC774\uBE14",
+      "note": "\uAC80\uC0C9\uC740 \uB300\uC751\uC744 \uBC14\uAFB8\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4. \uC120\uD0DD \uD6C4 \uC801\uC6A9\uD558\uC138\uC694.",
+      "policy": "\uC77C\uB300\uC77C \uB300\uC751\uB9CC \uD5C8\uC6A9\uD569\uB2C8\uB2E4. \uC774\uB984 \uCC28\uC774\uB294 \uAD6C\uC870 \uBD88\uC77C\uCE58\uB85C \uB0A8\uC73C\uBA70 \uAC12 \uBCC0\uD658\uC744 \uC2B9\uC778\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "cancel": "\uCDE8\uC18C",
+      "apply": "\uB300\uC751 \uC801\uC6A9"
+    },
+    "bodyScrollHeight": 398,
+    "listScrollHeight": 76,
+    "bodyScrollTop": 0,
+    "listScrollTop": 0,
+    "draft": "archive.orders",
+    "shadow": "rgba(0, 0, 0, 0.14) 0px 18px 48px 0px",
+    "empty": null
+  }
+}

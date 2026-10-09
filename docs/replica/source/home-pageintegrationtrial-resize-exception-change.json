@@ -1,0 +1,17 @@
+{
+  "scope": "Root-approved narrow TrialPage SetViewport exception only; parent root owns Workspace",
+  "beforeSha256": "b5efc0d08e750bd3bf252df115d7e55df592eb7a0eda169a3fe63f6837461e1a",
+  "afterSha256": "61e2fec7c795051aa8450b6dd223535adeb08ced1f4646ad99c3cd73e3e705a7",
+  "originalProof": "home-pageintegrationtrial-resize-mac-source.json",
+  "beforeCandidateComparison": "home-pageintegrationtrial-resize-headless-comparison.json",
+  "changedProductFiles": [
+    "src/Verifier.Desktop/WebTrialPage.cs"
+  ],
+  "preservedConstruction": "SetPresentation unchanged; Split constructor/Measure/Arrange expressions unchanged; existing branches remain constructor gap16/20",
+  "verification": "LOCK: corrected headless8+freshgeometry416 and actualeachOS8+geometry416 strict0; immediate source/nativecleanup0",
+  "proofs": {
+    "headless": "home-pageintegrationtrial-resize-headless-fresh-geometry-comparison.json",
+    "mac": "home-pageintegrationtrial-resize-mac-final-comparison.json",
+    "windows": "home-pageintegrationtrial-resize-windows-final-comparison.json"
+  }
+}

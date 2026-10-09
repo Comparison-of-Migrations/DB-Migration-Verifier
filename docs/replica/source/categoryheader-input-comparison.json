@@ -1,0 +1,132 @@
+{
+  "sourceKeyboard": [
+    {
+      "expanded": "true",
+      "focusVisible": true,
+      "key": "Enter",
+      "selected": true
+    },
+    {
+      "expanded": "true",
+      "focusVisible": true,
+      "key": "Space",
+      "selected": false
+    }
+  ],
+  "platforms": {
+    "mac": {
+      "normalHeld": {
+        "selected": false,
+        "expanded": true,
+        "changes": 2,
+        "expands": 3,
+        "checkboxFocus": false,
+        "checkboxFocusVisible": false,
+        "buttonFocus": true,
+        "buttonPressed": true,
+        "buttonHover": true,
+        "buttonScale": 0.98,
+        "headBackground": "#00000000",
+        "reduced": false,
+        "clickActive": false,
+        "choiceBackground": "#00000000"
+      },
+      "reducedHeld": {
+        "selected": false,
+        "expanded": false,
+        "changes": 2,
+        "expands": 2,
+        "checkboxFocus": false,
+        "checkboxFocusVisible": false,
+        "buttonFocus": true,
+        "buttonPressed": true,
+        "buttonHover": true,
+        "buttonScale": 0.98,
+        "headBackground": "#00000000",
+        "reduced": true,
+        "clickActive": false,
+        "choiceBackground": "#00000000"
+      },
+      "reducedReleased": {
+        "selected": false,
+        "expanded": true,
+        "changes": 2,
+        "expands": 3,
+        "checkboxFocus": false,
+        "checkboxFocusVisible": false,
+        "buttonFocus": true,
+        "buttonPressed": false,
+        "buttonHover": true,
+        "buttonScale": 1,
+        "headBackground": "#00000000",
+        "reduced": true,
+        "clickActive": false,
+        "choiceBackground": "#00000000"
+      },
+      "keyboardIndependent": true,
+      "actualClickPlaybackThenCompletion": true
+    },
+    "windows": {
+      "normalHeld": {
+        "selected": true,
+        "expanded": true,
+        "changes": 1,
+        "expands": 1,
+        "checkboxFocus": false,
+        "checkboxFocusVisible": false,
+        "buttonFocus": true,
+        "buttonPressed": true,
+        "buttonHover": true,
+        "buttonScale": 0.98,
+        "headBackground": "#ff343640",
+        "reduced": false,
+        "clickActive": false,
+        "choiceBackground": "#00000000"
+      },
+      "reducedHeld": {
+        "selected": false,
+        "expanded": true,
+        "changes": 2,
+        "expands": 3,
+        "checkboxFocus": false,
+        "checkboxFocusVisible": false,
+        "buttonFocus": true,
+        "buttonPressed": true,
+        "buttonHover": true,
+        "buttonScale": 0.98,
+        "headBackground": "#00000000",
+        "reduced": true,
+        "clickActive": false,
+        "choiceBackground": "#00000000"
+      },
+      "reducedReleased": {
+        "selected": false,
+        "expanded": false,
+        "changes": 2,
+        "expands": 4,
+        "checkboxFocus": false,
+        "checkboxFocusVisible": false,
+        "buttonFocus": true,
+        "buttonPressed": false,
+        "buttonHover": true,
+        "buttonScale": 1,
+        "headBackground": "#00000000",
+        "reduced": true,
+        "clickActive": false,
+        "choiceBackground": "#00000000"
+      },
+      "keyboardIndependent": true,
+      "actualClickPlaybackThenCompletion": true
+    }
+  },
+  "macExpandedAX": {
+    "api": "CGEvent",
+    "expanded": false,
+    "mode": "inspect",
+    "pid": 75660,
+    "role": "AXButton",
+    "title": "Replica CategoryHeader verification",
+    "x": 1021.5999999999999,
+    "y": 356
+  }
+}

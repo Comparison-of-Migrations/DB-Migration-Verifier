@@ -1,0 +1,352 @@
+[
+  {
+    "color": "rgb(242, 243, 245)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 20.8,
+    "size": 13,
+    "spacing": 0,
+    "tabular": false,
+    "text": "비교는 읽기 전용",
+    "weight": 700
+  },
+  {
+    "color": "rgb(242, 243, 245)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 37.8,
+    "size": 28,
+    "spacing": -0.98,
+    "tabular": false,
+    "text": "비교할 두 DB를 연결하세요",
+    "weight": 700
+  },
+  {
+    "color": "rgb(181, 186, 193)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 25.2,
+    "size": 14,
+    "spacing": 0,
+    "tabular": false,
+    "text": "같은 DBMS의 원본과 대상을 지정합니다. 접속 정보는 결과 파일에 넣지 않습니다.",
+    "weight": 400
+  },
+  {
+    "color": "rgb(219, 222, 225)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 22.4,
+    "size": 14,
+    "spacing": 0,
+    "tabular": false,
+    "text": "SQL ServerMicrosoft · 1433",
+    "weight": 400
+  },
+  {
+    "color": "rgb(242, 243, 245)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 20.8,
+    "size": 13,
+    "spacing": 0,
+    "tabular": false,
+    "text": "SQL Server",
+    "weight": 700
+  },
+  {
+    "color": "rgb(181, 186, 193)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 16,
+    "size": 10,
+    "spacing": 0,
+    "tabular": false,
+    "text": "Microsoft · 1433",
+    "weight": 400
+  },
+  {
+    "color": "rgb(219, 222, 225)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 22.4,
+    "size": 14,
+    "spacing": 0,
+    "tabular": false,
+    "text": "PostgreSQLPostgreSQL · 5432",
+    "weight": 400
+  },
+  {
+    "color": "rgb(242, 243, 245)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 20.8,
+    "size": 13,
+    "spacing": 0,
+    "tabular": false,
+    "text": "PostgreSQL",
+    "weight": 700
+  },
+  {
+    "color": "rgb(181, 186, 193)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 16,
+    "size": 10,
+    "spacing": 0,
+    "tabular": false,
+    "text": "PostgreSQL · 5432",
+    "weight": 400
+  },
+  {
+    "color": "rgb(219, 222, 225)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 22.4,
+    "size": 14,
+    "spacing": 0,
+    "tabular": false,
+    "text": "MySQLMySQL · 3306",
+    "weight": 400
+  },
+  {
+    "color": "rgb(242, 243, 245)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 20.8,
+    "size": 13,
+    "spacing": 0,
+    "tabular": false,
+    "text": "MySQL",
+    "weight": 700
+  },
+  {
+    "color": "rgb(181, 186, 193)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 16,
+    "size": 10,
+    "spacing": 0,
+    "tabular": false,
+    "text": "MySQL · 3306",
+    "weight": 400
+  },
+  {
+    "color": "rgb(219, 222, 225)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 22.4,
+    "size": 14,
+    "spacing": 0,
+    "tabular": false,
+    "text": "MariaDBMariaDB · 3306",
+    "weight": 400
+  },
+  {
+    "color": "rgb(242, 243, 245)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 20.8,
+    "size": 13,
+    "spacing": 0,
+    "tabular": false,
+    "text": "MariaDB",
+    "weight": 700
+  },
+  {
+    "color": "rgb(181, 186, 193)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 16,
+    "size": 10,
+    "spacing": 0,
+    "tabular": false,
+    "text": "MariaDB · 3306",
+    "weight": 400
+  },
+  {
+    "color": "rgb(181, 186, 193)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 19.2,
+    "size": 12,
+    "spacing": 0,
+    "tabular": false,
+    "text": "원본과 대상은 같은 종류로 비교합니다. 선택하면 양쪽 예시 포트도 바뀝니다.",
+    "weight": 400
+  },
+  {
+    "color": "rgb(242, 243, 245)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 27,
+    "size": 18,
+    "spacing": -0.27,
+    "tabular": false,
+    "text": "원본 DB",
+    "weight": 700
+  },
+  {
+    "color": "rgb(181, 186, 193)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 19.2,
+    "size": 12,
+    "spacing": 0,
+    "tabular": false,
+    "text": "마이그레이션 전 상태",
+    "weight": 400
+  },
+  {
+    "color": "rgb(219, 222, 225)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 19.2,
+    "size": 12,
+    "spacing": 0,
+    "tabular": false,
+    "text": "서버 주소",
+    "weight": 600
+  },
+  {
+    "color": "rgb(219, 222, 225)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 19.2,
+    "size": 12,
+    "spacing": 0,
+    "tabular": false,
+    "text": "포트",
+    "weight": 600
+  },
+  {
+    "color": "rgb(219, 222, 225)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 19.2,
+    "size": 12,
+    "spacing": 0,
+    "tabular": false,
+    "text": "데이터베이스",
+    "weight": 600
+  },
+  {
+    "color": "rgb(219, 222, 225)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 19.2,
+    "size": 12,
+    "spacing": 0,
+    "tabular": false,
+    "text": "조회 계정",
+    "weight": 600
+  },
+  {
+    "color": "rgb(219, 222, 225)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 19.2,
+    "size": 12,
+    "spacing": 0,
+    "tabular": false,
+    "text": "비밀번호",
+    "weight": 600
+  },
+  {
+    "color": "rgb(181, 186, 193)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 19.2,
+    "size": 12,
+    "spacing": 0,
+    "tabular": false,
+    "text": "실제 앱에서는 기본 미저장, 선택 시 OS 보안 저장소를 사용합니다.",
+    "weight": 400
+  },
+  {
+    "color": "rgb(242, 243, 245)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 27,
+    "size": 18,
+    "spacing": -0.27,
+    "tabular": false,
+    "text": "대상 DB",
+    "weight": 700
+  },
+  {
+    "color": "rgb(181, 186, 193)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 19.2,
+    "size": 12,
+    "spacing": 0,
+    "tabular": false,
+    "text": "마이그레이션 후 상태",
+    "weight": 400
+  },
+  {
+    "color": "rgb(219, 222, 225)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 19.2,
+    "size": 12,
+    "spacing": 0,
+    "tabular": false,
+    "text": "서버 주소",
+    "weight": 600
+  },
+  {
+    "color": "rgb(219, 222, 225)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 19.2,
+    "size": 12,
+    "spacing": 0,
+    "tabular": false,
+    "text": "포트",
+    "weight": 600
+  },
+  {
+    "color": "rgb(219, 222, 225)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 19.2,
+    "size": 12,
+    "spacing": 0,
+    "tabular": false,
+    "text": "데이터베이스",
+    "weight": 600
+  },
+  {
+    "color": "rgb(219, 222, 225)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 19.2,
+    "size": 12,
+    "spacing": 0,
+    "tabular": false,
+    "text": "조회 계정",
+    "weight": 600
+  },
+  {
+    "color": "rgb(219, 222, 225)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 19.2,
+    "size": 12,
+    "spacing": 0,
+    "tabular": false,
+    "text": "비밀번호",
+    "weight": 600
+  },
+  {
+    "color": "rgb(181, 186, 193)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 19.2,
+    "size": 12,
+    "spacing": 0,
+    "tabular": false,
+    "text": "실제 앱에서는 기본 미저장, 선택 시 OS 보안 저장소를 사용합니다.",
+    "weight": 400
+  },
+  {
+    "color": "rgb(181, 186, 193)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 20.8,
+    "size": 13,
+    "spacing": 0,
+    "tabular": false,
+    "text": "고급 연결 설정",
+    "weight": 600
+  },
+  {
+    "color": "rgb(181, 186, 193)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 20.8,
+    "size": 13,
+    "spacing": 0,
+    "tabular": false,
+    "text": "뒤로",
+    "weight": 600
+  },
+  {
+    "color": "rgb(255, 255, 255)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 20.8,
+    "size": 13,
+    "spacing": 0,
+    "tabular": false,
+    "text": "두 연결 확인",
+    "weight": 600
+  }
+]

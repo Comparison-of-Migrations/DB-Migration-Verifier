@@ -1,0 +1,39 @@
+{
+  "checks": [
+    {
+      "platform": "mac",
+      "values": [
+        "fixture.example.invalid",
+        "5432",
+        "fixture_sample",
+        "fixture_reader",
+        ""
+      ],
+      "lastInputs": {
+        "host": "fixture.example.invalid",
+        "port": "5432",
+        "db": "fixture_sample",
+        "user": "fixture_reader"
+      },
+      "passed": true
+    },
+    {
+      "platform": "windows",
+      "values": [
+        "fixture.example.invalid",
+        "5432",
+        "fixture_sample",
+        "fixture_reader",
+        ""
+      ],
+      "lastInputs": {
+        "host": "fixture.example.invalid",
+        "port": "5432",
+        "db": "fixture_sample",
+        "user": "fixture_reader"
+      },
+      "passed": true
+    }
+  ],
+  "scope": "Mac actual AX text and keyboard number editing, trusted original input; Windows actual UIA ValuePattern. Final four values and disabled password preserved. Keyboard port emits each edited prefix; comparison matches final values rather than demanding identical tool event counts."
+}

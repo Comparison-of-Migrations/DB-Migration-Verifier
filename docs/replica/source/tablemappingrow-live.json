@@ -1,0 +1,1145 @@
+[
+  {
+    "children": [
+      {
+        "cls": "",
+        "rect": {
+          "height": 69,
+          "width": 298.046875,
+          "x": 0,
+          "y": 0
+        },
+        "style": {
+          "alignItems": "normal",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "",
+          "borderRadius": "0px",
+          "color": "rgb(219, 222, 225)",
+          "display": "table-cell",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "gap": "normal",
+          "lineHeight": "20.8px",
+          "margin": "0px",
+          "minHeight": "0px",
+          "padding": "12px 18px",
+          "transition": "all",
+          "verticalAlign": "middle"
+        },
+        "tag": "TD",
+        "text": "demo.customers"
+      },
+      {
+        "cls": "table-choice",
+        "rect": {
+          "height": 44,
+          "width": 262.046875,
+          "x": 18,
+          "y": 12.5
+        },
+        "style": {
+          "alignItems": "center",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(219, 222, 225)",
+          "borderRadius": "0px",
+          "color": "rgb(219, 222, 225)",
+          "display": "flex",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "gap": "12px",
+          "lineHeight": "20.8px",
+          "margin": "0px",
+          "minHeight": "44px",
+          "padding": "0px",
+          "transition": "all",
+          "verticalAlign": "baseline"
+        },
+        "tag": "LABEL",
+        "text": "demo.customers"
+      },
+      {
+        "cls": "",
+        "rect": {
+          "height": 20,
+          "width": 20,
+          "x": 18,
+          "y": 24.5
+        },
+        "style": {
+          "alignItems": "normal",
+          "background": "rgb(88, 101, 242)",
+          "border": "1.5px solid rgb(139, 148, 255)",
+          "borderRadius": "5px",
+          "color": "rgb(255, 255, 255)",
+          "display": "grid",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "gap": "normal",
+          "lineHeight": "20.8px",
+          "margin": "0px",
+          "minHeight": "20px",
+          "padding": "0px",
+          "transition": "background-color 0.12s, border-color 0.12s, box-shadow 0.12s, transform 0.08s",
+          "verticalAlign": "middle"
+        },
+        "tag": "INPUT",
+        "text": ""
+      },
+      {
+        "cls": "mono",
+        "rect": {
+          "height": 19.1953125,
+          "width": 101.1484375,
+          "x": 50,
+          "y": 24.8984375
+        },
+        "style": {
+          "alignItems": "normal",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(219, 222, 225)",
+          "borderRadius": "0px",
+          "color": "rgb(219, 222, 225)",
+          "display": "block",
+          "fontFamily": "ui-monospace, SFMono-Regular, Consolas, monospace",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "gap": "normal",
+          "lineHeight": "19.2px",
+          "margin": "0px",
+          "minHeight": "auto",
+          "padding": "0px",
+          "transition": "all",
+          "verticalAlign": "baseline"
+        },
+        "tag": "SPAN",
+        "text": "demo.customers"
+      },
+      {
+        "cls": "mono",
+        "rect": {
+          "height": 69,
+          "width": 243.96875,
+          "x": 298.046875,
+          "y": 0
+        },
+        "style": {
+          "alignItems": "normal",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "",
+          "borderRadius": "0px",
+          "color": "rgb(219, 222, 225)",
+          "display": "table-cell",
+          "fontFamily": "ui-monospace, SFMono-Regular, Consolas, monospace",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "gap": "normal",
+          "lineHeight": "19.2px",
+          "margin": "0px",
+          "minHeight": "0px",
+          "padding": "12px 18px",
+          "transition": "all",
+          "verticalAlign": "middle"
+        },
+        "tag": "TD",
+        "text": "demo.customers"
+      },
+      {
+        "cls": "",
+        "rect": {
+          "height": 69,
+          "width": 170.5,
+          "x": 542.015625,
+          "y": 0
+        },
+        "style": {
+          "alignItems": "normal",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "",
+          "borderRadius": "0px",
+          "color": "rgb(219, 222, 225)",
+          "display": "table-cell",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "gap": "normal",
+          "lineHeight": "20.8px",
+          "margin": "0px",
+          "minHeight": "0px",
+          "padding": "12px 18px",
+          "transition": "all",
+          "verticalAlign": "middle"
+        },
+        "tag": "TD",
+        "text": "동일 이름"
+      },
+      {
+        "cls": "match-method ",
+        "rect": {
+          "height": 19.1953125,
+          "width": 134.5,
+          "x": 560.015625,
+          "y": 24.8984375
+        },
+        "style": {
+          "alignItems": "center",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(181, 186, 193)",
+          "borderRadius": "0px",
+          "color": "rgb(181, 186, 193)",
+          "display": "flex",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "gap": "6px",
+          "lineHeight": "19.2px",
+          "margin": "0px",
+          "minHeight": "0px",
+          "padding": "0px",
+          "transition": "all",
+          "verticalAlign": "baseline"
+        },
+        "tag": "SPAN",
+        "text": "동일 이름"
+      },
+      {
+        "cls": "svg ",
+        "rect": {
+          "height": 14,
+          "width": 14,
+          "x": 560.015625,
+          "y": 27.4921875
+        },
+        "style": {
+          "alignItems": "normal",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(181, 186, 193)",
+          "borderRadius": "0px",
+          "color": "rgb(181, 186, 193)",
+          "display": "block",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "gap": "normal",
+          "lineHeight": "19.2px",
+          "margin": "0px",
+          "minHeight": "auto",
+          "padding": "0px",
+          "transition": "all",
+          "verticalAlign": "middle"
+        },
+        "tag": "svg",
+        "text": ""
+      },
+      {
+        "cls": "",
+        "rect": {
+          "height": 69,
+          "width": 239.484375,
+          "x": 712.515625,
+          "y": 0
+        },
+        "style": {
+          "alignItems": "normal",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "",
+          "borderRadius": "0px",
+          "color": "rgb(219, 222, 225)",
+          "display": "table-cell",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "gap": "normal",
+          "lineHeight": "20.8px",
+          "margin": "0px",
+          "minHeight": "0px",
+          "padding": "12px 18px",
+          "transition": "all",
+          "verticalAlign": "middle"
+        },
+        "tag": "TD",
+        "text": "대응 변경"
+      },
+      {
+        "cls": "btn quiet",
+        "rect": {
+          "height": 44,
+          "width": 105.7109375,
+          "x": 730.515625,
+          "y": 12.5
+        },
+        "style": {
+          "alignItems": "center",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "1px solid rgba(0, 0, 0, 0)",
+          "borderRadius": "8px",
+          "color": "rgb(181, 186, 193)",
+          "display": "inline-flex",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "600",
+          "gap": "9px",
+          "lineHeight": "19.2px",
+          "margin": "0px",
+          "minHeight": "44px",
+          "padding": "10px 16px",
+          "transition": "background-color 0.12s cubic-bezier(0.22, 1, 0.36, 1), color 0.12s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.12s cubic-bezier(0.22, 1, 0.36, 1), transform 0.08s cubic-bezier(0.22, 1, 0.36, 1)",
+          "verticalAlign": "baseline"
+        },
+        "tag": "BUTTON",
+        "text": "대응 변경"
+      },
+      {
+        "cls": "svg ",
+        "rect": {
+          "height": 18,
+          "width": 18,
+          "x": 747.515625,
+          "y": 25.5
+        },
+        "style": {
+          "alignItems": "normal",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(181, 186, 193)",
+          "borderRadius": "0px",
+          "color": "rgb(181, 186, 193)",
+          "display": "block",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "600",
+          "gap": "normal",
+          "lineHeight": "19.2px",
+          "margin": "0px",
+          "minHeight": "auto",
+          "padding": "0px",
+          "transition": "all",
+          "verticalAlign": "middle"
+        },
+        "tag": "svg",
+        "text": ""
+      },
+      {
+        "cls": "",
+        "rect": {
+          "height": 19.1953125,
+          "width": 44.7109375,
+          "x": 774.515625,
+          "y": 24.8984375
+        },
+        "style": {
+          "alignItems": "normal",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(181, 186, 193)",
+          "borderRadius": "0px",
+          "color": "rgb(181, 186, 193)",
+          "display": "block",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "600",
+          "gap": "normal",
+          "lineHeight": "19.2px",
+          "margin": "0px",
+          "minHeight": "auto",
+          "padding": "0px",
+          "transition": "all",
+          "verticalAlign": "baseline"
+        },
+        "tag": "SPAN",
+        "text": "대응 변경"
+      }
+    ],
+    "row": {
+      "cls": "",
+      "rect": {
+        "height": 69,
+        "width": 952,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "alignItems": "normal",
+        "background": "rgb(52, 54, 64)",
+        "border": "0px none rgb(219, 222, 225)",
+        "borderRadius": "0px",
+        "color": "rgb(219, 222, 225)",
+        "display": "table-row",
+        "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "padding": "0px",
+        "transition": "background-color 0.16s",
+        "verticalAlign": "middle"
+      },
+      "tag": "TR",
+      "text": "demo.customersdemo.customers동일 이름대응 변경"
+    }
+  },
+  {
+    "children": [
+      {
+        "cls": "",
+        "rect": {
+          "height": 69,
+          "width": 298.046875,
+          "x": 0,
+          "y": 0
+        },
+        "style": {
+          "alignItems": "normal",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "",
+          "borderRadius": "0px",
+          "color": "rgb(219, 222, 225)",
+          "display": "table-cell",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "gap": "normal",
+          "lineHeight": "20.8px",
+          "margin": "0px",
+          "minHeight": "0px",
+          "padding": "12px 18px",
+          "transition": "all",
+          "verticalAlign": "middle"
+        },
+        "tag": "TD",
+        "text": "demo.orders"
+      },
+      {
+        "cls": "table-choice",
+        "rect": {
+          "height": 44,
+          "width": 262.046875,
+          "x": 18,
+          "y": 12.5
+        },
+        "style": {
+          "alignItems": "center",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(219, 222, 225)",
+          "borderRadius": "0px",
+          "color": "rgb(219, 222, 225)",
+          "display": "flex",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "gap": "12px",
+          "lineHeight": "20.8px",
+          "margin": "0px",
+          "minHeight": "44px",
+          "padding": "0px",
+          "transition": "all",
+          "verticalAlign": "baseline"
+        },
+        "tag": "LABEL",
+        "text": "demo.orders"
+      },
+      {
+        "cls": "",
+        "rect": {
+          "height": 20,
+          "width": 20,
+          "x": 18,
+          "y": 24.5
+        },
+        "style": {
+          "alignItems": "normal",
+          "background": "rgb(88, 101, 242)",
+          "border": "1.5px solid rgb(139, 148, 255)",
+          "borderRadius": "5px",
+          "color": "rgb(255, 255, 255)",
+          "display": "grid",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "gap": "normal",
+          "lineHeight": "20.8px",
+          "margin": "0px",
+          "minHeight": "20px",
+          "padding": "0px",
+          "transition": "background-color 0.12s, border-color 0.12s, box-shadow 0.12s, transform 0.08s",
+          "verticalAlign": "middle"
+        },
+        "tag": "INPUT",
+        "text": ""
+      },
+      {
+        "cls": "mono",
+        "rect": {
+          "height": 19.1953125,
+          "width": 79.4765625,
+          "x": 50,
+          "y": 24.8984375
+        },
+        "style": {
+          "alignItems": "normal",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(219, 222, 225)",
+          "borderRadius": "0px",
+          "color": "rgb(219, 222, 225)",
+          "display": "block",
+          "fontFamily": "ui-monospace, SFMono-Regular, Consolas, monospace",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "gap": "normal",
+          "lineHeight": "19.2px",
+          "margin": "0px",
+          "minHeight": "auto",
+          "padding": "0px",
+          "transition": "all",
+          "verticalAlign": "baseline"
+        },
+        "tag": "SPAN",
+        "text": "demo.orders"
+      },
+      {
+        "cls": "mono",
+        "rect": {
+          "height": 69,
+          "width": 243.96875,
+          "x": 298.046875,
+          "y": 0
+        },
+        "style": {
+          "alignItems": "normal",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "",
+          "borderRadius": "0px",
+          "color": "rgb(219, 222, 225)",
+          "display": "table-cell",
+          "fontFamily": "ui-monospace, SFMono-Regular, Consolas, monospace",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "gap": "normal",
+          "lineHeight": "19.2px",
+          "margin": "0px",
+          "minHeight": "0px",
+          "padding": "12px 18px",
+          "transition": "all",
+          "verticalAlign": "middle"
+        },
+        "tag": "TD",
+        "text": "demo.orders"
+      },
+      {
+        "cls": "",
+        "rect": {
+          "height": 69,
+          "width": 170.5,
+          "x": 542.015625,
+          "y": 0
+        },
+        "style": {
+          "alignItems": "normal",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "",
+          "borderRadius": "0px",
+          "color": "rgb(219, 222, 225)",
+          "display": "table-cell",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "gap": "normal",
+          "lineHeight": "20.8px",
+          "margin": "0px",
+          "minHeight": "0px",
+          "padding": "12px 18px",
+          "transition": "all",
+          "verticalAlign": "middle"
+        },
+        "tag": "TD",
+        "text": "동일 이름"
+      },
+      {
+        "cls": "match-method ",
+        "rect": {
+          "height": 19.1953125,
+          "width": 134.5,
+          "x": 560.015625,
+          "y": 24.8984375
+        },
+        "style": {
+          "alignItems": "center",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(181, 186, 193)",
+          "borderRadius": "0px",
+          "color": "rgb(181, 186, 193)",
+          "display": "flex",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "gap": "6px",
+          "lineHeight": "19.2px",
+          "margin": "0px",
+          "minHeight": "0px",
+          "padding": "0px",
+          "transition": "all",
+          "verticalAlign": "baseline"
+        },
+        "tag": "SPAN",
+        "text": "동일 이름"
+      },
+      {
+        "cls": "svg ",
+        "rect": {
+          "height": 14,
+          "width": 14,
+          "x": 560.015625,
+          "y": 27.4921875
+        },
+        "style": {
+          "alignItems": "normal",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(181, 186, 193)",
+          "borderRadius": "0px",
+          "color": "rgb(181, 186, 193)",
+          "display": "block",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "gap": "normal",
+          "lineHeight": "19.2px",
+          "margin": "0px",
+          "minHeight": "auto",
+          "padding": "0px",
+          "transition": "all",
+          "verticalAlign": "middle"
+        },
+        "tag": "svg",
+        "text": ""
+      },
+      {
+        "cls": "",
+        "rect": {
+          "height": 69,
+          "width": 239.484375,
+          "x": 712.515625,
+          "y": 0
+        },
+        "style": {
+          "alignItems": "normal",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "",
+          "borderRadius": "0px",
+          "color": "rgb(219, 222, 225)",
+          "display": "table-cell",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "gap": "normal",
+          "lineHeight": "20.8px",
+          "margin": "0px",
+          "minHeight": "0px",
+          "padding": "12px 18px",
+          "transition": "all",
+          "verticalAlign": "middle"
+        },
+        "tag": "TD",
+        "text": "대응 변경"
+      },
+      {
+        "cls": "btn quiet",
+        "rect": {
+          "height": 44,
+          "width": 105.7109375,
+          "x": 730.515625,
+          "y": 12.5
+        },
+        "style": {
+          "alignItems": "center",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "1px solid rgba(0, 0, 0, 0)",
+          "borderRadius": "8px",
+          "color": "rgb(181, 186, 193)",
+          "display": "inline-flex",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "600",
+          "gap": "9px",
+          "lineHeight": "19.2px",
+          "margin": "0px",
+          "minHeight": "44px",
+          "padding": "10px 16px",
+          "transition": "background-color 0.12s cubic-bezier(0.22, 1, 0.36, 1), color 0.12s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.12s cubic-bezier(0.22, 1, 0.36, 1), transform 0.08s cubic-bezier(0.22, 1, 0.36, 1)",
+          "verticalAlign": "baseline"
+        },
+        "tag": "BUTTON",
+        "text": "대응 변경"
+      },
+      {
+        "cls": "svg ",
+        "rect": {
+          "height": 18,
+          "width": 18,
+          "x": 747.515625,
+          "y": 25.5
+        },
+        "style": {
+          "alignItems": "normal",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(181, 186, 193)",
+          "borderRadius": "0px",
+          "color": "rgb(181, 186, 193)",
+          "display": "block",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "600",
+          "gap": "normal",
+          "lineHeight": "19.2px",
+          "margin": "0px",
+          "minHeight": "auto",
+          "padding": "0px",
+          "transition": "all",
+          "verticalAlign": "middle"
+        },
+        "tag": "svg",
+        "text": ""
+      },
+      {
+        "cls": "",
+        "rect": {
+          "height": 19.1953125,
+          "width": 44.7109375,
+          "x": 774.515625,
+          "y": 24.8984375
+        },
+        "style": {
+          "alignItems": "normal",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(181, 186, 193)",
+          "borderRadius": "0px",
+          "color": "rgb(181, 186, 193)",
+          "display": "block",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "600",
+          "gap": "normal",
+          "lineHeight": "19.2px",
+          "margin": "0px",
+          "minHeight": "auto",
+          "padding": "0px",
+          "transition": "all",
+          "verticalAlign": "baseline"
+        },
+        "tag": "SPAN",
+        "text": "대응 변경"
+      }
+    ],
+    "row": {
+      "cls": "",
+      "rect": {
+        "height": 69,
+        "width": 952,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "alignItems": "normal",
+        "background": "rgb(52, 54, 64)",
+        "border": "0px none rgb(219, 222, 225)",
+        "borderRadius": "0px",
+        "color": "rgb(219, 222, 225)",
+        "display": "table-row",
+        "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "padding": "0px",
+        "transition": "background-color 0.16s",
+        "verticalAlign": "middle"
+      },
+      "tag": "TR",
+      "text": "demo.ordersdemo.orders동일 이름대응 변경"
+    }
+  },
+  {
+    "children": [
+      {
+        "cls": "",
+        "rect": {
+          "height": 68.5,
+          "width": 298.046875,
+          "x": 0,
+          "y": 0
+        },
+        "style": {
+          "alignItems": "normal",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "",
+          "borderRadius": "0px",
+          "color": "rgb(219, 222, 225)",
+          "display": "table-cell",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "gap": "normal",
+          "lineHeight": "20.8px",
+          "margin": "0px",
+          "minHeight": "0px",
+          "padding": "12px 18px",
+          "transition": "all",
+          "verticalAlign": "middle"
+        },
+        "tag": "TD",
+        "text": "demo.line_items"
+      },
+      {
+        "cls": "table-choice",
+        "rect": {
+          "height": 44,
+          "width": 262.046875,
+          "x": 18,
+          "y": 12.5
+        },
+        "style": {
+          "alignItems": "center",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(219, 222, 225)",
+          "borderRadius": "0px",
+          "color": "rgb(219, 222, 225)",
+          "display": "flex",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "gap": "12px",
+          "lineHeight": "20.8px",
+          "margin": "0px",
+          "minHeight": "44px",
+          "padding": "0px",
+          "transition": "all",
+          "verticalAlign": "baseline"
+        },
+        "tag": "LABEL",
+        "text": "demo.line_items"
+      },
+      {
+        "cls": "",
+        "rect": {
+          "height": 20,
+          "width": 20,
+          "x": 18,
+          "y": 24.5
+        },
+        "style": {
+          "alignItems": "normal",
+          "background": "rgb(88, 101, 242)",
+          "border": "1.5px solid rgb(139, 148, 255)",
+          "borderRadius": "5px",
+          "color": "rgb(255, 255, 255)",
+          "display": "grid",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "gap": "normal",
+          "lineHeight": "20.8px",
+          "margin": "0px",
+          "minHeight": "20px",
+          "padding": "0px",
+          "transition": "background-color 0.12s, border-color 0.12s, box-shadow 0.12s, transform 0.08s",
+          "verticalAlign": "middle"
+        },
+        "tag": "INPUT",
+        "text": ""
+      },
+      {
+        "cls": "mono",
+        "rect": {
+          "height": 19.1953125,
+          "width": 108.375,
+          "x": 50,
+          "y": 24.8984375
+        },
+        "style": {
+          "alignItems": "normal",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(219, 222, 225)",
+          "borderRadius": "0px",
+          "color": "rgb(219, 222, 225)",
+          "display": "block",
+          "fontFamily": "ui-monospace, SFMono-Regular, Consolas, monospace",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "gap": "normal",
+          "lineHeight": "19.2px",
+          "margin": "0px",
+          "minHeight": "auto",
+          "padding": "0px",
+          "transition": "all",
+          "verticalAlign": "baseline"
+        },
+        "tag": "SPAN",
+        "text": "demo.line_items"
+      },
+      {
+        "cls": "mono",
+        "rect": {
+          "height": 68.5,
+          "width": 243.96875,
+          "x": 298.046875,
+          "y": 0
+        },
+        "style": {
+          "alignItems": "normal",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "",
+          "borderRadius": "0px",
+          "color": "rgb(219, 222, 225)",
+          "display": "table-cell",
+          "fontFamily": "ui-monospace, SFMono-Regular, Consolas, monospace",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "gap": "normal",
+          "lineHeight": "19.2px",
+          "margin": "0px",
+          "minHeight": "0px",
+          "padding": "12px 18px",
+          "transition": "all",
+          "verticalAlign": "middle"
+        },
+        "tag": "TD",
+        "text": "demo.line_items"
+      },
+      {
+        "cls": "",
+        "rect": {
+          "height": 68.5,
+          "width": 170.5,
+          "x": 542.015625,
+          "y": 0
+        },
+        "style": {
+          "alignItems": "normal",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "",
+          "borderRadius": "0px",
+          "color": "rgb(219, 222, 225)",
+          "display": "table-cell",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "gap": "normal",
+          "lineHeight": "20.8px",
+          "margin": "0px",
+          "minHeight": "0px",
+          "padding": "12px 18px",
+          "transition": "all",
+          "verticalAlign": "middle"
+        },
+        "tag": "TD",
+        "text": "동일 이름"
+      },
+      {
+        "cls": "match-method ",
+        "rect": {
+          "height": 19.1953125,
+          "width": 134.5,
+          "x": 560.015625,
+          "y": 24.8984375
+        },
+        "style": {
+          "alignItems": "center",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(181, 186, 193)",
+          "borderRadius": "0px",
+          "color": "rgb(181, 186, 193)",
+          "display": "flex",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "gap": "6px",
+          "lineHeight": "19.2px",
+          "margin": "0px",
+          "minHeight": "0px",
+          "padding": "0px",
+          "transition": "all",
+          "verticalAlign": "baseline"
+        },
+        "tag": "SPAN",
+        "text": "동일 이름"
+      },
+      {
+        "cls": "svg ",
+        "rect": {
+          "height": 14,
+          "width": 14,
+          "x": 560.015625,
+          "y": 27.4921875
+        },
+        "style": {
+          "alignItems": "normal",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(181, 186, 193)",
+          "borderRadius": "0px",
+          "color": "rgb(181, 186, 193)",
+          "display": "block",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "gap": "normal",
+          "lineHeight": "19.2px",
+          "margin": "0px",
+          "minHeight": "auto",
+          "padding": "0px",
+          "transition": "all",
+          "verticalAlign": "middle"
+        },
+        "tag": "svg",
+        "text": ""
+      },
+      {
+        "cls": "",
+        "rect": {
+          "height": 68.5,
+          "width": 239.484375,
+          "x": 712.515625,
+          "y": 0
+        },
+        "style": {
+          "alignItems": "normal",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "",
+          "borderRadius": "0px",
+          "color": "rgb(219, 222, 225)",
+          "display": "table-cell",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "gap": "normal",
+          "lineHeight": "20.8px",
+          "margin": "0px",
+          "minHeight": "0px",
+          "padding": "12px 18px",
+          "transition": "all",
+          "verticalAlign": "middle"
+        },
+        "tag": "TD",
+        "text": "대응 변경"
+      },
+      {
+        "cls": "btn quiet",
+        "rect": {
+          "height": 44,
+          "width": 105.7109375,
+          "x": 730.515625,
+          "y": 12.5
+        },
+        "style": {
+          "alignItems": "center",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "1px solid rgba(0, 0, 0, 0)",
+          "borderRadius": "8px",
+          "color": "rgb(181, 186, 193)",
+          "display": "inline-flex",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "600",
+          "gap": "9px",
+          "lineHeight": "19.2px",
+          "margin": "0px",
+          "minHeight": "44px",
+          "padding": "10px 16px",
+          "transition": "background-color 0.12s cubic-bezier(0.22, 1, 0.36, 1), color 0.12s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.12s cubic-bezier(0.22, 1, 0.36, 1), transform 0.08s cubic-bezier(0.22, 1, 0.36, 1)",
+          "verticalAlign": "baseline"
+        },
+        "tag": "BUTTON",
+        "text": "대응 변경"
+      },
+      {
+        "cls": "svg ",
+        "rect": {
+          "height": 18,
+          "width": 18,
+          "x": 747.515625,
+          "y": 25.5
+        },
+        "style": {
+          "alignItems": "normal",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(181, 186, 193)",
+          "borderRadius": "0px",
+          "color": "rgb(181, 186, 193)",
+          "display": "block",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "600",
+          "gap": "normal",
+          "lineHeight": "19.2px",
+          "margin": "0px",
+          "minHeight": "auto",
+          "padding": "0px",
+          "transition": "all",
+          "verticalAlign": "middle"
+        },
+        "tag": "svg",
+        "text": ""
+      },
+      {
+        "cls": "",
+        "rect": {
+          "height": 19.1953125,
+          "width": 44.7109375,
+          "x": 774.515625,
+          "y": 24.8984375
+        },
+        "style": {
+          "alignItems": "normal",
+          "background": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(181, 186, 193)",
+          "borderRadius": "0px",
+          "color": "rgb(181, 186, 193)",
+          "display": "block",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "600",
+          "gap": "normal",
+          "lineHeight": "19.2px",
+          "margin": "0px",
+          "minHeight": "auto",
+          "padding": "0px",
+          "transition": "all",
+          "verticalAlign": "baseline"
+        },
+        "tag": "SPAN",
+        "text": "대응 변경"
+      }
+    ],
+    "row": {
+      "cls": "",
+      "rect": {
+        "height": 68.5,
+        "width": 952,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "alignItems": "normal",
+        "background": "rgb(52, 54, 64)",
+        "border": "0px none rgb(219, 222, 225)",
+        "borderRadius": "0px",
+        "color": "rgb(219, 222, 225)",
+        "display": "table-row",
+        "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "padding": "0px",
+        "transition": "background-color 0.16s",
+        "verticalAlign": "middle"
+      },
+      "tag": "TR",
+      "text": "demo.line_itemsdemo.line_items동일 이름대응 변경"
+    }
+  }
+]

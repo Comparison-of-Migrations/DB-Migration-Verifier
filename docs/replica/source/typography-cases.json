@@ -1,0 +1,162 @@
+[
+  {
+    "id": "kr-0",
+    "text": "DB-Migration-Verifier",
+    "size": 14.0,
+    "lineHeight": 22.4,
+    "weight": 650,
+    "spacing": -0.35,
+    "color": "rgb(242, 243, 245)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif"
+  },
+  {
+    "id": "kr-1",
+    "text": "마이그레이션 결과를 비교하세요",
+    "size": 36.0,
+    "lineHeight": 48.6,
+    "weight": 700,
+    "spacing": -1.26,
+    "color": "rgb(242, 243, 245)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif"
+  },
+  {
+    "id": "kr-2",
+    "text": "옮긴 뒤의 두 DB를 비교하고, 확인한 범위까지 분명하게.",
+    "size": 14.0,
+    "lineHeight": 25.2,
+    "weight": 400,
+    "spacing": 0,
+    "color": "rgb(181, 186, 193)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif"
+  },
+  {
+    "id": "kr-3",
+    "text": "마이그레이션을 마친 개발자가 논문의 다축 검증 방법으로 두 DB의 데이터·구조·권한·객체를 비교하고, 차이와 확인하지 못한 영역을 찾도록 돕습니다.",
+    "size": 15.0,
+    "lineHeight": 28.5,
+    "weight": 400,
+    "spacing": 0,
+    "color": "rgb(181, 186, 193)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif"
+  },
+  {
+    "id": "kr-4",
+    "text": "저장한 결과 JSON은 DB 연결이나 새 검사 없이 바로 열어 확인할 수 있습니다.",
+    "size": 12.0,
+    "lineHeight": 19.2,
+    "weight": 400,
+    "spacing": 0,
+    "color": "rgb(181, 186, 193)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif"
+  },
+  {
+    "id": "kr-5",
+    "text": "두 DB를 연결합니다",
+    "size": 14.0,
+    "lineHeight": 22.4,
+    "weight": 700,
+    "spacing": 0,
+    "color": "rgb(242, 243, 245)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif"
+  },
+  {
+    "id": "kr-6",
+    "text": "접속 후 앱이 조회 가능한 범위와 필요한 준비를 안내합니다.",
+    "size": 13.0,
+    "lineHeight": 24.05,
+    "weight": 400,
+    "spacing": 0,
+    "color": "rgb(181, 186, 193)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif"
+  },
+  {
+    "id": "kr-7",
+    "text": "Functional Success versus Database-State, Behavioral, and Operational Contracts in AI-Generated PostgreSQL Schema Migrations",
+    "size": 13.0,
+    "lineHeight": 22.1,
+    "weight": 600,
+    "spacing": -0.195,
+    "color": "rgb(242, 243, 245)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif"
+  },
+  {
+    "id": "en-0",
+    "text": "DB-Migration-Verifier",
+    "size": 14.0,
+    "lineHeight": 22.4,
+    "weight": 650,
+    "spacing": -0.35,
+    "color": "rgb(242, 243, 245)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif"
+  },
+  {
+    "id": "en-1",
+    "text": "Verify your migration results",
+    "size": 36.0,
+    "lineHeight": 48.6,
+    "weight": 700,
+    "spacing": -1.26,
+    "color": "rgb(242, 243, 245)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif"
+  },
+  {
+    "id": "en-2",
+    "text": "Compare the two databases and see exactly what has been verified.",
+    "size": 14.0,
+    "lineHeight": 25.2,
+    "weight": 400,
+    "spacing": 0,
+    "color": "rgb(181, 186, 193)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif"
+  },
+  {
+    "id": "en-3",
+    "text": "Helps developers after migration compare data, schema, permissions and objects using the paper’s multi-axis approach, and identify differences and unverified areas.",
+    "size": 15.0,
+    "lineHeight": 28.5,
+    "weight": 400,
+    "spacing": 0,
+    "color": "rgb(181, 186, 193)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif"
+  },
+  {
+    "id": "en-4",
+    "text": "Open a saved result JSON without connecting to a DB or running a new check.",
+    "size": 12.0,
+    "lineHeight": 19.2,
+    "weight": 400,
+    "spacing": 0,
+    "color": "rgb(181, 186, 193)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif"
+  },
+  {
+    "id": "en-5",
+    "text": "Connect two databases",
+    "size": 14.0,
+    "lineHeight": 22.4,
+    "weight": 700,
+    "spacing": 0,
+    "color": "rgb(242, 243, 245)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif"
+  },
+  {
+    "id": "en-6",
+    "text": "The app checks visibility and explains any additional preparation.",
+    "size": 13.0,
+    "lineHeight": 24.05,
+    "weight": 400,
+    "spacing": 0,
+    "color": "rgb(181, 186, 193)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif"
+  },
+  {
+    "id": "en-7",
+    "text": "Functional Success versus Database-State, Behavioral, and Operational Contracts in AI-Generated PostgreSQL Schema Migrations",
+    "size": 13.0,
+    "lineHeight": 22.1,
+    "weight": 600,
+    "spacing": -0.195,
+    "color": "rgb(242, 243, 245)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "label": "child-clipped",
+    "name": "Required permissions",
+    "control": true,
+    "content": true,
+    "offscreen": true
+  },
+  {
+    "label": "child-visible",
+    "name": "Required permissions",
+    "control": true,
+    "content": true,
+    "offscreen": false
+  }
+]

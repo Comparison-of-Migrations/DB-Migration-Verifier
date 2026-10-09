@@ -1,0 +1,22 @@
+[
+  {
+    "event": "mousedown",
+    "id": "ko-180-0",
+    "active": "ko-180-0"
+  },
+  {
+    "event": "focusout",
+    "id": "ko-180-0",
+    "active": ""
+  },
+  {
+    "event": "mouseup",
+    "id": "ko-180-0",
+    "active": ""
+  },
+  {
+    "event": "focusin",
+    "id": "ko-180-0",
+    "active": "ko-180-0"
+  }
+]

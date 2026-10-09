@@ -1,0 +1,21 @@
+{
+  "phase": "EXACT_COMPLETED_SUMMARYLIST_SOURCE_WINDOW_CLOSED",
+  "proof": "artifacts/replica/workers/root/completed-source-closure/cleanup.json",
+  "sha256": "e282eea807cdd04a57fc0c0503857139a05c4eb4b4799bea46293f176d3b1581",
+  "closure": {
+    "phase": "EXACT_COMPLETED_SOURCE_WINDOW_CLOSED",
+    "hwnd": 3671056,
+    "pid": 10056,
+    "title": "SummaryList · original isolation - 프로필 1 - Microsoft​ Edge",
+    "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "creationTicks": 639270711897433369,
+    "url": "10.211.55.2:8768/summarylist.html",
+    "marker": "summarylist-record",
+    "projectTabCount": 1,
+    "sourceWindow": 0,
+    "browserProcessTermination": false,
+    "boundary": "Shared Edge PID and other windows preserved",
+    "utc": "2026-10-09T00:36:32.7824334Z"
+  },
+  "scope": "Fresh HWND/PID/canonicalpath/title/creation/exactURL/summarylist-record/sole-project-tab guard then window-only close. Shared Edge process and other windows preserved; not global OS cleanup."
+}

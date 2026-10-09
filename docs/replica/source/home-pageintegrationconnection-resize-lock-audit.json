@@ -1,0 +1,798 @@
+{
+  "scope": "Read-only all manifests audit; only root-assigned Advanced/Connection pending exceptions excluded from success; not a LOCK or actual test",
+  "manifests": 68,
+  "unapprovedMismatches": [],
+  "rows": [
+    {
+      "manifest": "action-button-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebActionButton.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "actionfooter-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebActionFooter.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "advancedconnection-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebAdvancedConnection.cs",
+          "matches": false,
+          "approvedPending": true
+        }
+      ]
+    },
+    {
+      "manifest": "bulletlist-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebBulletList.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "capabilityheader-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebCapabilityHeader.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "capabilityrow-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebCapabilityRow.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "capabilitytable-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebCapabilityTable.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "capabilityviewport-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebCapabilityViewport.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "categoryheader-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebCategoryHeader.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "categorysection-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebCategorySection.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "checkbox-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebCheckbox.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "choice-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebChoice.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "connectionpage-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebConnectionPage.cs",
+          "matches": false,
+          "approvedPending": true
+        }
+      ]
+    },
+    {
+      "manifest": "connectionpanel-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebConnectionPanel.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "dbmsoption-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebDbmsOption.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "dbmspicker-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebDbmsPicker.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "detailsbody-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebResultDetailsBody.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "downloadoption-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebDownloadOption.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "field-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebField.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "findingarticle-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebFindingArticle.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "homepage-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebHomePage.cs",
+          "matches": true,
+          "approvedPending": false
+        },
+        {
+          "file": "src/Verifier.Desktop/WebWelcomeEntryHint.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "iconbutton-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebIconButton.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "infodialog-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebInfoDialog.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "infodialogbody-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebInfoDialogBody.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "inlinetext-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebInlineText.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "matchingdialog-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebMatchingDialog.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "matchoption-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebMatchOption.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "metricitem-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebMetricItem.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "metrics-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebMetrics.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "motion-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebMotion.cs",
+          "matches": true,
+          "approvedPending": false
+        },
+        {
+          "file": "src/Verifier.Desktop/WebMotionPlayback.cs",
+          "matches": true,
+          "approvedPending": false
+        },
+        {
+          "file": "src/Verifier.Desktop/WebCubicBezierEasing.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "notice-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebNotice.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "numberinput-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebNumberInput.cs",
+          "matches": true,
+          "approvedPending": false
+        },
+        {
+          "file": "src/Verifier.Desktop/WebNumberRules.cs",
+          "matches": true,
+          "approvedPending": false
+        },
+        {
+          "file": "src/Verifier.Desktop/NumberSpinTiming.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "pageheading-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebPageHeading.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "preflightpage-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebPreflightPage.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "prepareddb-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebPreparedDb.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "progressmeter-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebProgressMeter.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "progresspage-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebProgressPage.cs",
+          "matches": true,
+          "approvedPending": false
+        },
+        {
+          "file": "src/Verifier.Desktop/WebRunningDot.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "radio-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebRadio.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "resultchart-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebResultChart.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "resultcount-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebResultCount.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "resultdetails-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebResultDetails.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "resultrow-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebResultSummaryRow.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "resultspage-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebResultsPage.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "reviewpage-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebReviewPage.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "samplereport-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebSampleReport.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "saveoptions-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebSaveOptions.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "savepage-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebSavePage.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "scrollviewport-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebScrollViewport.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "searchinput-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebSearchInput.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "sidebar-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebSidebar.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "sidebaritem-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebSidebarItem.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "spinner-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebSpinner.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "statuspill-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebStatusPill.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "stepbadge-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebStepBadge.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "summaryitem-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebSummaryItem.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "summarylist-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebSummaryList.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "surface-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebSurface.cs",
+          "matches": true,
+          "approvedPending": false
+        },
+        {
+          "file": "src/Verifier.Desktop/WebSurfaceBox.cs",
+          "matches": true,
+          "approvedPending": false
+        },
+        {
+          "file": "src/Verifier.Desktop/WebSurfaceShadows.cs",
+          "matches": true,
+          "approvedPending": false
+        },
+        {
+          "file": "src/Verifier.Desktop/WebSurfaceColorSpace.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "svg-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/SvgIcon.cs",
+          "matches": true,
+          "approvedPending": false
+        },
+        {
+          "file": "src/Verifier.Desktop/SvgIcon.Definitions.cs",
+          "matches": true,
+          "approvedPending": false
+        },
+        {
+          "file": "src/Verifier.Desktop/MainWindow.Shell.cs",
+          "fragment": true,
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "tablemappingrow-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebTableMappingRow.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "textinput-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebTextInput.cs",
+          "matches": true,
+          "approvedPending": false
+        },
+        {
+          "file": "src/Verifier.Desktop/WebEditorTextPresenter.cs",
+          "matches": true,
+          "approvedPending": false
+        },
+        {
+          "file": "src/Verifier.Desktop/MacEditorShaping.cs",
+          "matches": true,
+          "approvedPending": false
+        },
+        {
+          "file": "src/Verifier.Desktop/MacEditorSystemColors.cs",
+          "matches": true,
+          "approvedPending": false
+        },
+        {
+          "file": "src/Verifier.Desktop/WebInputCaret.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "topbar-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebTopBar.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "trialpage-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebTrialPage.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "trialpreparation-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebTrialPreparation.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "typography-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebTypography.cs",
+          "matches": true,
+          "approvedPending": false
+        },
+        {
+          "file": "src/Verifier.Desktop/WebSystemTextBlock.cs",
+          "matches": true,
+          "approvedPending": false
+        },
+        {
+          "file": "src/Verifier.Desktop/MacSystemTextLayout.cs",
+          "matches": true,
+          "approvedPending": false
+        },
+        {
+          "file": "src/Verifier.Desktop/MacSystemGlyphShaper.cs",
+          "matches": true,
+          "approvedPending": false
+        },
+        {
+          "file": "src/Verifier.Desktop/WindowsSystemFont.cs",
+          "matches": true,
+          "approvedPending": false
+        },
+        {
+          "file": "src/Verifier.Desktop/WindowsWebTextBlock.cs",
+          "matches": true,
+          "approvedPending": false
+        },
+        {
+          "file": "src/Verifier.Desktop/WebTextWhitespace.cs",
+          "matches": true,
+          "approvedPending": false
+        },
+        {
+          "file": "src/Verifier.Desktop/WebNumericLineBreaks.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "welcomepaper-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebWelcomePaper.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "welcomepapercontent-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebWelcomePaperContent.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "welcomestep-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebWelcomeStep.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    },
+    {
+      "manifest": "welcomesteps-lock.json",
+      "checks": [
+        {
+          "file": "src/Verifier.Desktop/WebWelcomeSteps.cs",
+          "matches": true,
+          "approvedPending": false
+        }
+      ]
+    }
+  ]
+}

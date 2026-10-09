@@ -1,0 +1,122 @@
+{
+  "capturedAtUtc": "2026-10-08T04:49:11.002355Z",
+  "rows": [
+    {
+      "label": "attached-no-auto",
+      "attached": true,
+      "opacity": 1,
+      "y": 0,
+      "sameLabel": true,
+      "sameValue": true,
+      "kind": "different",
+      "value": "45",
+      "width": 53.546875,
+      "height": 76.59375,
+      "focusable": false
+    },
+    {
+      "label": "normal-start",
+      "attached": true,
+      "opacity": 0.6,
+      "y": 5,
+      "sameLabel": true,
+      "sameValue": true,
+      "kind": "different",
+      "value": "45",
+      "width": 53.546875,
+      "height": 76.59375,
+      "focusable": false
+    },
+    {
+      "label": "normal-end",
+      "attached": true,
+      "opacity": 1,
+      "y": 0,
+      "sameLabel": true,
+      "sameValue": true,
+      "kind": "different",
+      "value": "45",
+      "width": 53.546875,
+      "height": 76.59375,
+      "focusable": false
+    },
+    {
+      "label": "detached",
+      "attached": false,
+      "opacity": 1,
+      "y": 0,
+      "sameLabel": true,
+      "sameValue": true,
+      "kind": "different",
+      "value": "45",
+      "width": 53.546875,
+      "height": 76.59375,
+      "focusable": false
+    },
+    {
+      "label": "reattached-no-auto",
+      "attached": true,
+      "opacity": 1,
+      "y": 0,
+      "sameLabel": true,
+      "sameValue": true,
+      "kind": "different",
+      "value": "45",
+      "width": 53.546875,
+      "height": 76.59375,
+      "focusable": false
+    },
+    {
+      "label": "reduced",
+      "attached": true,
+      "opacity": 1,
+      "y": 0,
+      "sameLabel": true,
+      "sameValue": true,
+      "kind": "different",
+      "value": "45",
+      "width": 53.546875,
+      "height": 76.59375,
+      "focusable": false
+    },
+    {
+      "label": "id-no-animation",
+      "attached": true,
+      "opacity": 1,
+      "y": 0,
+      "sameLabel": true,
+      "sameValue": true,
+      "kind": "id",
+      "value": "UI-1234567890",
+      "width": 86.09375,
+      "height": 35.1875,
+      "focusable": false
+    },
+    {
+      "label": "narrow-english-reuse",
+      "attached": true,
+      "opacity": 1,
+      "y": 0,
+      "sameLabel": true,
+      "sameValue": true,
+      "kind": "unknown",
+      "value": "999999",
+      "width": 160.6328125,
+      "height": 76.59375,
+      "focusable": false
+    },
+    {
+      "label": "wide-korean-reuse",
+      "attached": true,
+      "opacity": 1,
+      "y": 0,
+      "sameLabel": true,
+      "sameValue": true,
+      "kind": "equal",
+      "value": "45",
+      "width": 53.546875,
+      "height": 76.59375,
+      "focusable": false
+    }
+  ]
+}

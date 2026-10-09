@@ -1,0 +1,7 @@
+{
+  "component": "Spinner",
+  "contract": "16px decorative currentColor ring, explicit reduced disc opacity.7, public Motion lifecycle; parent owns layout/color/state.",
+  "files": {
+    "src/Verifier.Desktop/WebSpinner.cs": "577c601add91813a4c4de7a74fae24432401783e23984fcb49ec23fb4b9b4914"
+  }
+}

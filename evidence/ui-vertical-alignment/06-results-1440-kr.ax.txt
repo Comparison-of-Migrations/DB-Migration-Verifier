@@ -1,0 +1,162 @@
+Window: "DB-Migration-Verifier", App: DB-Migration-Verifier.
+0 standard window DB-Migration-Verifier, Secondary Actions: Raise
+	1 container WindowChrome, ID: AvaloniaWindowChrome
+	2 container
+		3 container
+			4 container
+				5 text DB-Migration-Verifier
+				6 text 합성 예시 · 실제 DB 아님
+				7 button 한국어 / EN, ID: language
+			8 container
+				9 text 마이그레이션 결과 비교
+				10 button DB 연결
+					11 container
+						12 text DB 연결
+				13 button (disabled) 사전 확인
+					14 container
+						15 text 사전 확인
+				16 button (disabled) 검사 선택
+					17 container
+						18 text 검사 선택
+				19 button (disabled) 실행 전 확인
+					20 container
+						21 text 실행 전 확인
+				22 button (disabled) 검사 진행
+					23 container
+						24 text 5
+						25 text 검사 진행
+				26 button 결과 확인
+					27 container
+						28 text 6
+						29 text 결과 확인
+				30 button (disabled) 결과 저장
+					31 container
+						32 text 7
+						33 text 결과 저장
+				34 text 비교는 읽기 전용
+				35 text 원본·대상에는 쓰지 않습니다.
+동작 시험은 별도 시험 DB에서만 합니다.
+				36 checkbox 동작 줄이기, Value: off, ID: motion
+					37 container RootGrid
+						38 container
+							39 container
+			40 container
+				41 text 합성 예시 · 실제 DB 검사 결과와 구분합니다.
+			42 scroll area
+				43 container
+					44 container
+						45 text 불일치가 발견됐습니다
+						46 text 값·정의의 차이와 확인하지 못한 부분을 함께 봅니다. 선택하지 않은 범위는 검증한 것으로 표시하지 않습니다.
+						47 container
+							48 text 합성 예시 실행 결과입니다. 실제 사용자 DB의 검사 결과가 아닙니다.
+						49 container
+							50 text 불일치 검사
+							51 text 1
+						52 container
+							53 text 확인 불가·미검증 검사
+							54 text 9
+						55 container
+							56 text 일치 검사
+							57 text 0
+						58 container
+							59 text Run ID
+							60 text ea20642e0e9f
+						61 text 분류별 비교 요약
+						62 container
+							63 container
+								64 text 분류
+								65 text 불일치
+								66 text 확인 불가·미검증
+								67 text 일치
+								68 text
+							69 button 데이터 세부 보기
+								70 container
+									71 text 데이터
+									72 text 실행·미검증 범위 포함
+									73 text 1
+									74 text 1
+									75 text 0
+							76 button 구조·제약 세부 보기
+								77 container
+									78 text 구조·제약
+									79 text 실행·미검증 범위 포함
+									80 text 0
+									81 text 3
+									82 text 0
+							83 button 사용자·권한 세부 보기
+								84 container
+									85 text 사용자·권한
+									86 text 미시작·미검증
+									87 text 0
+									88 text 2
+									89 text 0
+							90 button 관련 객체 세부 보기
+								91 container
+									92 text 관련 객체
+									93 text 미시작·미검증
+									94 text 0
+									95 text 3
+									96 text 0
+						97 text 같은 길이는 같은 검사 ID 수입니다. 차이와 확인 불가가 공존하면 양쪽에 포함됩니다. 세 막대는 독립적이며 합계·DB 성공률이 아닙니다.
+						98 text 선택 제외: 별도 DB 동작 시험
+						99 container
+							100 text 별도 DB 동작 시험
+							101 text 선택 안 함 · 미구현
+						102 text Value: 차이와 확인 불가 이유, ID: result-detail
+						103 button 전체
+						104 button 불일치
+						105 button 확인 불가
+						106 content list
+							107 scroll area PART_ScrollViewer
+								108 container
+									109 container
+										110 row (selectable) Avalonia.Controls.Border
+											111 container
+												112 text DATA-01 · RP-D01
+												113 text 불일치
+												114 text demo.entries · 원본에만 관측된 행 × 2
+												115 text 내부 ID: 391e0d82991c4181b2b10bf10d157907
+												116 text demo.entries · 대상에만 관측된 행 × 2
+												117 text 내부 ID: 3ec41d0e5b584718bc21f07a0a732cd0
+										118 row (selectable) Avalonia.Controls.Border
+											119 container
+												120 text DATA-02 · RP-D01
+												121 text 미시작 · 미검증
+												122 text 해당 상세 검사는 아직 구현되지 않았습니다. 관측한 일부 속성이 같아도 전체 일치가 아닙니다.
+										123 row (selectable) Avalonia.Controls.Border
+											124 container
+												125 text SCHEMA-01 · RP-C01
+												126 text 판정 불가
+												127 text 해당 상세 검사는 아직 구현되지 않았습니다. 관측한 일부 속성이 같아도 전체 일치가 아닙니다.
+									128 scroll bar (settable, float) Value: 0, ID: PART_VerticalScrollBar
+										129 container
+											130 button Line up, ID: PART_LineUpButton
+											131 button Page up, ID: PART_PageUpButton
+											132 button Page down, ID: PART_PageDownButton
+											133 handle Position
+											134 button Line down, ID: PART_LineDownButton
+						135 text 실제 값·행 키·계정 이름은 표시하지 않습니다. 선택 테이블: demo.entries
+						136 button 연구 반영 보기
+					137 scroll bar (settable, float) Value: 0, ID: PART_VerticalScrollBar
+						138 container
+							139 button Line up, ID: PART_LineUpButton
+							140 button Page up, ID: PART_PageUpButton
+							141 button Page down, ID: PART_PageDownButton
+							142 handle Position
+							143 button Line down, ID: PART_LineDownButton
+			144 container
+				145 button 전체 재검사
+					146 container
+						147 text 전체 재검사
+				148 text 확인한 범위와 확인하지 못한 이유를 함께 보관합니다.
+				149 button 결과 저장
+					150 container
+						151 text 결과 저장
+	152 close button
+	153 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	154 minimize button
+	155 text DB-Migration-Verifier
+156 menu bar
+	157 DB-Migration-Verifier
+
+The focused UI element is 7 button 한국어 / EN, ID: language

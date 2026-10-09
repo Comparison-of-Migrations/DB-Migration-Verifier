@@ -1,0 +1,935 @@
+{
+  "scope": "Literal original Trial resize handler/CSS; synthetic in-document focus, not actualOS input",
+  "recording": "root-geometry-20261009-b",
+  "dpr": 2,
+  "rows": [
+    {
+      "id": "ko-0",
+      "language": "ko",
+      "width": 1280,
+      "actualWidth": 1280,
+      "pageRetained": true,
+      "editorRetained": true,
+      "focused": true,
+      "value": "trial.example.invalid",
+      "expectedValue": "trial.example.invalid",
+      "selectionStart": 3,
+      "selectionEnd": 8,
+      "immediate": {
+        "opacity": "1",
+        "transform": "none",
+        "newPageAnimations": 0
+      },
+      "geometry": {
+        "root": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 950.1484375
+        },
+        "split": {
+          "x": 0,
+          "y": 94.9921875,
+          "width": 980,
+          "height": 364.1796875
+        },
+        "panels": [
+          {
+            "x": 0,
+            "y": 94.9921875,
+            "width": 480,
+            "height": 364.1796875
+          },
+          {
+            "x": 500,
+            "y": 94.9921875,
+            "width": 480,
+            "height": 364.1796875
+          }
+        ],
+        "fields": [
+          {
+            "x": 27,
+            "y": 164.9921875,
+            "width": 426,
+            "height": 70.1953125
+          },
+          {
+            "x": 27,
+            "y": 251.1875,
+            "width": 426,
+            "height": 70.1953125
+          },
+          {
+            "x": 27,
+            "y": 788.953125,
+            "width": 453,
+            "height": 70.1953125
+          },
+          {
+            "x": 500,
+            "y": 788.953125,
+            "width": 453,
+            "height": 70.1953125
+          }
+        ],
+        "inputs": [
+          {
+            "x": 27,
+            "y": 191.1875,
+            "width": 426,
+            "height": 44
+          },
+          {
+            "x": 27,
+            "y": 277.3828125,
+            "width": 426,
+            "height": 44
+          },
+          {
+            "x": 27,
+            "y": 815.1484375,
+            "width": 453,
+            "height": 44
+          },
+          {
+            "x": 500,
+            "y": 815.1484375,
+            "width": 453,
+            "height": 44
+          }
+        ],
+        "valueSplit": {
+          "x": 27,
+          "y": 772.953125,
+          "width": 926,
+          "height": 86.1953125
+        }
+      },
+      "document": {
+        "innerWidth": 1280,
+        "innerHeight": 900,
+        "clientWidth": 1280,
+        "clientHeight": 900,
+        "scrollHeight": 901,
+        "contentClientWidth": 1060,
+        "contentScrollWidth": 1060,
+        "contentClientHeight": 720,
+        "contentScrollHeight": 1022
+      },
+      "newPageAnimations": 0
+    },
+    {
+      "id": "ko-1",
+      "language": "ko",
+      "width": 1100,
+      "actualWidth": 1100,
+      "pageRetained": true,
+      "editorRetained": true,
+      "focused": true,
+      "value": "trial.example.invalid",
+      "expectedValue": "trial.example.invalid",
+      "selectionStart": 3,
+      "selectionEnd": 8,
+      "immediate": {
+        "opacity": "1",
+        "transform": "none",
+        "newPageAnimations": 0
+      },
+      "geometry": {
+        "root": {
+          "x": 0,
+          "y": 0,
+          "width": 824,
+          "height": 950.1484375
+        },
+        "split": {
+          "x": 0,
+          "y": 94.9921875,
+          "width": 824,
+          "height": 364.1796875
+        },
+        "panels": [
+          {
+            "x": 0,
+            "y": 94.9921875,
+            "width": 404,
+            "height": 364.1796875
+          },
+          {
+            "x": 420,
+            "y": 94.9921875,
+            "width": 404,
+            "height": 364.1796875
+          }
+        ],
+        "fields": [
+          {
+            "x": 27,
+            "y": 164.9921875,
+            "width": 350,
+            "height": 70.1953125
+          },
+          {
+            "x": 27,
+            "y": 251.1875,
+            "width": 350,
+            "height": 70.1953125
+          },
+          {
+            "x": 27,
+            "y": 788.953125,
+            "width": 377,
+            "height": 70.1953125
+          },
+          {
+            "x": 420,
+            "y": 788.953125,
+            "width": 377,
+            "height": 70.1953125
+          }
+        ],
+        "inputs": [
+          {
+            "x": 27,
+            "y": 191.1875,
+            "width": 350,
+            "height": 44
+          },
+          {
+            "x": 27,
+            "y": 277.3828125,
+            "width": 350,
+            "height": 44
+          },
+          {
+            "x": 27,
+            "y": 815.1484375,
+            "width": 377,
+            "height": 44
+          },
+          {
+            "x": 420,
+            "y": 815.1484375,
+            "width": 377,
+            "height": 44
+          }
+        ],
+        "valueSplit": {
+          "x": 27,
+          "y": 772.953125,
+          "width": 770,
+          "height": 86.1953125
+        }
+      },
+      "document": {
+        "innerWidth": 1100,
+        "innerHeight": 900,
+        "clientWidth": 1100,
+        "clientHeight": 900,
+        "scrollHeight": 901,
+        "contentClientWidth": 880,
+        "contentScrollWidth": 880,
+        "contentClientHeight": 720,
+        "contentScrollHeight": 1006
+      },
+      "newPageAnimations": 0
+    },
+    {
+      "id": "ko-2",
+      "language": "ko",
+      "width": 960,
+      "actualWidth": 960,
+      "pageRetained": true,
+      "editorRetained": true,
+      "focused": true,
+      "value": "trial.example.invalid",
+      "expectedValue": "trial.example.invalid",
+      "selectionStart": 3,
+      "selectionEnd": 8,
+      "immediate": {
+        "opacity": "1",
+        "transform": "none",
+        "newPageAnimations": 0
+      },
+      "geometry": {
+        "root": {
+          "x": 0,
+          "y": 0,
+          "width": 684,
+          "height": 950.1484375
+        },
+        "split": {
+          "x": 0,
+          "y": 94.9921875,
+          "width": 684,
+          "height": 364.1796875
+        },
+        "panels": [
+          {
+            "x": 0,
+            "y": 94.9921875,
+            "width": 334,
+            "height": 364.1796875
+          },
+          {
+            "x": 350,
+            "y": 94.9921875,
+            "width": 334,
+            "height": 364.1796875
+          }
+        ],
+        "fields": [
+          {
+            "x": 27,
+            "y": 164.9921875,
+            "width": 280,
+            "height": 70.1953125
+          },
+          {
+            "x": 27,
+            "y": 251.1875,
+            "width": 280,
+            "height": 70.1953125
+          },
+          {
+            "x": 27,
+            "y": 788.953125,
+            "width": 307,
+            "height": 70.1953125
+          },
+          {
+            "x": 350,
+            "y": 788.953125,
+            "width": 307,
+            "height": 70.1953125
+          }
+        ],
+        "inputs": [
+          {
+            "x": 27,
+            "y": 191.1875,
+            "width": 280,
+            "height": 44
+          },
+          {
+            "x": 27,
+            "y": 277.3828125,
+            "width": 280,
+            "height": 44
+          },
+          {
+            "x": 27,
+            "y": 815.1484375,
+            "width": 307,
+            "height": 44
+          },
+          {
+            "x": 350,
+            "y": 815.1484375,
+            "width": 307,
+            "height": 44
+          }
+        ],
+        "valueSplit": {
+          "x": 27,
+          "y": 772.953125,
+          "width": 630,
+          "height": 86.1953125
+        }
+      },
+      "document": {
+        "innerWidth": 960,
+        "innerHeight": 900,
+        "clientWidth": 960,
+        "clientHeight": 900,
+        "scrollHeight": 901,
+        "contentClientWidth": 740,
+        "contentScrollWidth": 740,
+        "contentClientHeight": 720,
+        "contentScrollHeight": 1006
+      },
+      "newPageAnimations": 0
+    },
+    {
+      "id": "ko-3",
+      "language": "ko",
+      "width": 1280,
+      "actualWidth": 1280,
+      "pageRetained": true,
+      "editorRetained": true,
+      "focused": true,
+      "value": "trial.example.invalid",
+      "expectedValue": "trial.example.invalid",
+      "selectionStart": 3,
+      "selectionEnd": 8,
+      "immediate": {
+        "opacity": "1",
+        "transform": "none",
+        "newPageAnimations": 0
+      },
+      "geometry": {
+        "root": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 950.1484375
+        },
+        "split": {
+          "x": 0,
+          "y": 94.9921875,
+          "width": 980,
+          "height": 364.1796875
+        },
+        "panels": [
+          {
+            "x": 0,
+            "y": 94.9921875,
+            "width": 480,
+            "height": 364.1796875
+          },
+          {
+            "x": 500,
+            "y": 94.9921875,
+            "width": 480,
+            "height": 364.1796875
+          }
+        ],
+        "fields": [
+          {
+            "x": 27,
+            "y": 164.9921875,
+            "width": 426,
+            "height": 70.1953125
+          },
+          {
+            "x": 27,
+            "y": 251.1875,
+            "width": 426,
+            "height": 70.1953125
+          },
+          {
+            "x": 27,
+            "y": 788.953125,
+            "width": 453,
+            "height": 70.1953125
+          },
+          {
+            "x": 500,
+            "y": 788.953125,
+            "width": 453,
+            "height": 70.1953125
+          }
+        ],
+        "inputs": [
+          {
+            "x": 27,
+            "y": 191.1875,
+            "width": 426,
+            "height": 44
+          },
+          {
+            "x": 27,
+            "y": 277.3828125,
+            "width": 426,
+            "height": 44
+          },
+          {
+            "x": 27,
+            "y": 815.1484375,
+            "width": 453,
+            "height": 44
+          },
+          {
+            "x": 500,
+            "y": 815.1484375,
+            "width": 453,
+            "height": 44
+          }
+        ],
+        "valueSplit": {
+          "x": 27,
+          "y": 772.953125,
+          "width": 926,
+          "height": 86.1953125
+        }
+      },
+      "document": {
+        "innerWidth": 1280,
+        "innerHeight": 900,
+        "clientWidth": 1280,
+        "clientHeight": 900,
+        "scrollHeight": 901,
+        "contentClientWidth": 1060,
+        "contentScrollWidth": 1060,
+        "contentClientHeight": 720,
+        "contentScrollHeight": 1022
+      },
+      "newPageAnimations": 0
+    },
+    {
+      "id": "en-0",
+      "language": "en",
+      "width": 1280,
+      "actualWidth": 1280,
+      "pageRetained": true,
+      "editorRetained": true,
+      "focused": true,
+      "value": "trial.example.invalid",
+      "expectedValue": "trial.example.invalid",
+      "selectionStart": 3,
+      "selectionEnd": 8,
+      "immediate": {
+        "opacity": "1",
+        "transform": "none",
+        "newPageAnimations": 0
+      },
+      "geometry": {
+        "root": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 950.1484375
+        },
+        "split": {
+          "x": 0,
+          "y": 94.9921875,
+          "width": 980,
+          "height": 364.1796875
+        },
+        "panels": [
+          {
+            "x": 0,
+            "y": 94.9921875,
+            "width": 480,
+            "height": 364.1796875
+          },
+          {
+            "x": 500,
+            "y": 94.9921875,
+            "width": 480,
+            "height": 364.1796875
+          }
+        ],
+        "fields": [
+          {
+            "x": 27,
+            "y": 164.9921875,
+            "width": 426,
+            "height": 70.1953125
+          },
+          {
+            "x": 27,
+            "y": 251.1875,
+            "width": 426,
+            "height": 70.1953125
+          },
+          {
+            "x": 27,
+            "y": 788.953125,
+            "width": 453,
+            "height": 70.1953125
+          },
+          {
+            "x": 500,
+            "y": 788.953125,
+            "width": 453,
+            "height": 70.1953125
+          }
+        ],
+        "inputs": [
+          {
+            "x": 27,
+            "y": 191.1875,
+            "width": 426,
+            "height": 44
+          },
+          {
+            "x": 27,
+            "y": 277.3828125,
+            "width": 426,
+            "height": 44
+          },
+          {
+            "x": 27,
+            "y": 815.1484375,
+            "width": 453,
+            "height": 44
+          },
+          {
+            "x": 500,
+            "y": 815.1484375,
+            "width": 453,
+            "height": 44
+          }
+        ],
+        "valueSplit": {
+          "x": 27,
+          "y": 772.953125,
+          "width": 926,
+          "height": 86.1953125
+        }
+      },
+      "document": {
+        "innerWidth": 1280,
+        "innerHeight": 900,
+        "clientWidth": 1280,
+        "clientHeight": 900,
+        "scrollHeight": 901,
+        "contentClientWidth": 1060,
+        "contentScrollWidth": 1060,
+        "contentClientHeight": 720,
+        "contentScrollHeight": 1022
+      },
+      "newPageAnimations": 0
+    },
+    {
+      "id": "en-1",
+      "language": "en",
+      "width": 1100,
+      "actualWidth": 1100,
+      "pageRetained": true,
+      "editorRetained": true,
+      "focused": true,
+      "value": "trial.example.invalid",
+      "expectedValue": "trial.example.invalid",
+      "selectionStart": 3,
+      "selectionEnd": 8,
+      "immediate": {
+        "opacity": "1",
+        "transform": "none",
+        "newPageAnimations": 0
+      },
+      "geometry": {
+        "root": {
+          "x": 0,
+          "y": 0,
+          "width": 824,
+          "height": 969.34375
+        },
+        "split": {
+          "x": 0,
+          "y": 94.9921875,
+          "width": 824,
+          "height": 383.375
+        },
+        "panels": [
+          {
+            "x": 0,
+            "y": 94.9921875,
+            "width": 404,
+            "height": 383.375
+          },
+          {
+            "x": 420,
+            "y": 94.9921875,
+            "width": 404,
+            "height": 383.375
+          }
+        ],
+        "fields": [
+          {
+            "x": 27,
+            "y": 164.9921875,
+            "width": 350,
+            "height": 70.1953125
+          },
+          {
+            "x": 27,
+            "y": 251.1875,
+            "width": 350,
+            "height": 70.1953125
+          },
+          {
+            "x": 27,
+            "y": 808.1484375,
+            "width": 377,
+            "height": 70.1953125
+          },
+          {
+            "x": 420,
+            "y": 808.1484375,
+            "width": 377,
+            "height": 70.1953125
+          }
+        ],
+        "inputs": [
+          {
+            "x": 27,
+            "y": 191.1875,
+            "width": 350,
+            "height": 44
+          },
+          {
+            "x": 27,
+            "y": 277.3828125,
+            "width": 350,
+            "height": 44
+          },
+          {
+            "x": 27,
+            "y": 834.34375,
+            "width": 377,
+            "height": 44
+          },
+          {
+            "x": 420,
+            "y": 834.34375,
+            "width": 377,
+            "height": 44
+          }
+        ],
+        "valueSplit": {
+          "x": 27,
+          "y": 792.1484375,
+          "width": 770,
+          "height": 86.1953125
+        }
+      },
+      "document": {
+        "innerWidth": 1100,
+        "innerHeight": 900,
+        "clientWidth": 1100,
+        "clientHeight": 900,
+        "scrollHeight": 901,
+        "contentClientWidth": 880,
+        "contentScrollWidth": 880,
+        "contentClientHeight": 720,
+        "contentScrollHeight": 1025
+      },
+      "newPageAnimations": 0
+    },
+    {
+      "id": "en-2",
+      "language": "en",
+      "width": 960,
+      "actualWidth": 960,
+      "pageRetained": true,
+      "editorRetained": true,
+      "focused": true,
+      "value": "trial.example.invalid",
+      "expectedValue": "trial.example.invalid",
+      "selectionStart": 3,
+      "selectionEnd": 8,
+      "immediate": {
+        "opacity": "1",
+        "transform": "none",
+        "newPageAnimations": 0
+      },
+      "geometry": {
+        "root": {
+          "x": 0,
+          "y": 0,
+          "width": 684,
+          "height": 990.140625
+        },
+        "split": {
+          "x": 0,
+          "y": 94.9921875,
+          "width": 684,
+          "height": 383.375
+        },
+        "panels": [
+          {
+            "x": 0,
+            "y": 94.9921875,
+            "width": 334,
+            "height": 383.375
+          },
+          {
+            "x": 350,
+            "y": 94.9921875,
+            "width": 334,
+            "height": 383.375
+          }
+        ],
+        "fields": [
+          {
+            "x": 27,
+            "y": 164.9921875,
+            "width": 280,
+            "height": 70.1953125
+          },
+          {
+            "x": 27,
+            "y": 251.1875,
+            "width": 280,
+            "height": 70.1953125
+          },
+          {
+            "x": 27,
+            "y": 828.9453125,
+            "width": 307,
+            "height": 70.1953125
+          },
+          {
+            "x": 350,
+            "y": 828.9453125,
+            "width": 307,
+            "height": 70.1953125
+          }
+        ],
+        "inputs": [
+          {
+            "x": 27,
+            "y": 191.1875,
+            "width": 280,
+            "height": 44
+          },
+          {
+            "x": 27,
+            "y": 277.3828125,
+            "width": 280,
+            "height": 44
+          },
+          {
+            "x": 27,
+            "y": 855.140625,
+            "width": 307,
+            "height": 44
+          },
+          {
+            "x": 350,
+            "y": 855.140625,
+            "width": 307,
+            "height": 44
+          }
+        ],
+        "valueSplit": {
+          "x": 27,
+          "y": 812.9453125,
+          "width": 630,
+          "height": 86.1953125
+        }
+      },
+      "document": {
+        "innerWidth": 960,
+        "innerHeight": 900,
+        "clientWidth": 960,
+        "clientHeight": 900,
+        "scrollHeight": 901,
+        "contentClientWidth": 740,
+        "contentScrollWidth": 740,
+        "contentClientHeight": 720,
+        "contentScrollHeight": 1046
+      },
+      "newPageAnimations": 0
+    },
+    {
+      "id": "en-3",
+      "language": "en",
+      "width": 1280,
+      "actualWidth": 1280,
+      "pageRetained": true,
+      "editorRetained": true,
+      "focused": true,
+      "value": "trial.example.invalid",
+      "expectedValue": "trial.example.invalid",
+      "selectionStart": 3,
+      "selectionEnd": 8,
+      "immediate": {
+        "opacity": "1",
+        "transform": "none",
+        "newPageAnimations": 0
+      },
+      "geometry": {
+        "root": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 950.1484375
+        },
+        "split": {
+          "x": 0,
+          "y": 94.9921875,
+          "width": 980,
+          "height": 364.1796875
+        },
+        "panels": [
+          {
+            "x": 0,
+            "y": 94.9921875,
+            "width": 480,
+            "height": 364.1796875
+          },
+          {
+            "x": 500,
+            "y": 94.9921875,
+            "width": 480,
+            "height": 364.1796875
+          }
+        ],
+        "fields": [
+          {
+            "x": 27,
+            "y": 164.9921875,
+            "width": 426,
+            "height": 70.1953125
+          },
+          {
+            "x": 27,
+            "y": 251.1875,
+            "width": 426,
+            "height": 70.1953125
+          },
+          {
+            "x": 27,
+            "y": 788.953125,
+            "width": 453,
+            "height": 70.1953125
+          },
+          {
+            "x": 500,
+            "y": 788.953125,
+            "width": 453,
+            "height": 70.1953125
+          }
+        ],
+        "inputs": [
+          {
+            "x": 27,
+            "y": 191.1875,
+            "width": 426,
+            "height": 44
+          },
+          {
+            "x": 27,
+            "y": 277.3828125,
+            "width": 426,
+            "height": 44
+          },
+          {
+            "x": 27,
+            "y": 815.1484375,
+            "width": 453,
+            "height": 44
+          },
+          {
+            "x": 500,
+            "y": 815.1484375,
+            "width": 453,
+            "height": 44
+          }
+        ],
+        "valueSplit": {
+          "x": 27,
+          "y": 772.953125,
+          "width": 926,
+          "height": 86.1953125
+        }
+      },
+      "document": {
+        "innerWidth": 1280,
+        "innerHeight": 900,
+        "clientWidth": 1280,
+        "clientHeight": 900,
+        "scrollHeight": 901,
+        "contentClientWidth": 1060,
+        "contentScrollWidth": 1060,
+        "contentClientHeight": 720,
+        "contentScrollHeight": 1022
+      },
+      "newPageAnimations": 0
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "body": [
+    {
+      "class": "muted",
+      "color": "rgb(181, 186, 193)",
+      "display": "block",
+      "font": "14px / 22.4px system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "height": 22.3984375,
+      "lineHeight": "22.4px",
+      "margin": "0px",
+      "tag": "P",
+      "text": "기본 기능 성공과 데이터 상태·권한·동작의 충족을 구분한 연구 관찰을 다음 방식으로 반영합니다.",
+      "width": 570
+    },
+    {
+      "class": "summary-list",
+      "color": "rgb(219, 222, 225)",
+      "display": "grid",
+      "font": "14px / 22.4px system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "height": 219,
+      "lineHeight": "22.4px",
+      "margin": "0px",
+      "tag": "DIV",
+      "text": "RP-D01 · RP-C01/02전체 값과 구조·제약 검사 → 분류별 결과RP-A01/02 · RP-O01사용자·권한·객체 정의 → 차이와 조회 한계RP-B01별도 시험 DB 동작 → 기대 충족/불충족과 정리 결과RP-S01권한 부족·중단·미지원 → 확인 불가/미검증 표시",
+      "width": 570
+    },
+    {
+      "class": "small",
+      "color": "rgb(181, 186, 193)",
+      "display": "block",
+      "font": "12px / 19.2px system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "height": 19.1953125,
+      "lineHeight": "19.2px",
+      "margin": "16px 0px 0px",
+      "tag": "P",
+      "text": "현재 보이는 것은 예시 화면 연결입니다. 실제 검증 엔진의 탐지 증거는 아직 없습니다.",
+      "width": 570
+    }
+  ],
+  "height": 720,
+  "width": 1280
+}

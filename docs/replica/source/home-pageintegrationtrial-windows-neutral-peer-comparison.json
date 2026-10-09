@@ -1,0 +1,210 @@
+{
+  "phase": "ACTUAL_OS_PASSED",
+  "scope": "New neutral8 and actual managed announcement2; native UIA/paint separately recorded",
+  "checks": [
+    {
+      "id": "ko-disabled",
+      "pass_": true,
+      "sourceRawFocus": {
+        "id": "",
+        "tag": "BODY"
+      },
+      "candidateRawFocus": null,
+      "candidateRawStateFocus": "",
+      "comparisonFocus": "BODY",
+      "neutralAlias": true,
+      "sourceDocumentOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "candidateDocumentOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "documentOffsetEqual": true
+    },
+    {
+      "id": "ko-neutral-32",
+      "pass_": true,
+      "sourceRawFocus": {
+        "id": "",
+        "tag": "BODY"
+      },
+      "candidateRawFocus": null,
+      "candidateRawStateFocus": "",
+      "comparisonFocus": "BODY",
+      "neutralAlias": true,
+      "sourceDocumentOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "candidateDocumentOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "documentOffsetEqual": true
+    },
+    {
+      "id": "ko-neutral-13",
+      "pass_": true,
+      "sourceRawFocus": {
+        "id": "",
+        "tag": "BODY"
+      },
+      "candidateRawFocus": null,
+      "candidateRawStateFocus": "",
+      "comparisonFocus": "BODY",
+      "neutralAlias": true,
+      "sourceDocumentOffset": {
+        "x": 0,
+        "y": 1
+      },
+      "candidateDocumentOffset": {
+        "x": 0,
+        "y": 1
+      },
+      "documentOffsetEqual": true
+    },
+    {
+      "id": "ko-neutral-restore",
+      "pass_": true,
+      "sourceRawFocus": {
+        "id": "",
+        "tag": "BODY"
+      },
+      "candidateRawFocus": null,
+      "candidateRawStateFocus": "BODY",
+      "comparisonFocus": "BODY",
+      "neutralAlias": false,
+      "sourceDocumentOffset": {
+        "x": 0,
+        "y": 1
+      },
+      "candidateDocumentOffset": {
+        "x": 0,
+        "y": 1
+      },
+      "documentOffsetEqual": true
+    },
+    {
+      "id": "ko-announcement-peer",
+      "pass_": true,
+      "peer": {
+        "name": "동작 시험은 별도 DB에서 합니다",
+        "type": "Text",
+        "live": "Polite",
+        "control": true,
+        "content": true,
+        "children": 0,
+        "box": {
+          "x": 0,
+          "y": 900,
+          "width": 1,
+          "height": 1
+        }
+      }
+    },
+    {
+      "id": "en-disabled",
+      "pass_": true,
+      "sourceRawFocus": {
+        "id": "",
+        "tag": "BODY"
+      },
+      "candidateRawFocus": null,
+      "candidateRawStateFocus": "",
+      "comparisonFocus": "BODY",
+      "neutralAlias": true,
+      "sourceDocumentOffset": {
+        "x": 0,
+        "y": 1
+      },
+      "candidateDocumentOffset": {
+        "x": 0,
+        "y": 1
+      },
+      "documentOffsetEqual": true
+    },
+    {
+      "id": "en-neutral-32",
+      "pass_": true,
+      "sourceRawFocus": {
+        "id": "",
+        "tag": "BODY"
+      },
+      "candidateRawFocus": null,
+      "candidateRawStateFocus": "",
+      "comparisonFocus": "BODY",
+      "neutralAlias": true,
+      "sourceDocumentOffset": {
+        "x": 0,
+        "y": 1
+      },
+      "candidateDocumentOffset": {
+        "x": 0,
+        "y": 1
+      },
+      "documentOffsetEqual": true
+    },
+    {
+      "id": "en-neutral-13",
+      "pass_": true,
+      "sourceRawFocus": {
+        "id": "",
+        "tag": "BODY"
+      },
+      "candidateRawFocus": null,
+      "candidateRawStateFocus": "",
+      "comparisonFocus": "BODY",
+      "neutralAlias": true,
+      "sourceDocumentOffset": {
+        "x": 0,
+        "y": 1
+      },
+      "candidateDocumentOffset": {
+        "x": 0,
+        "y": 1
+      },
+      "documentOffsetEqual": true
+    },
+    {
+      "id": "en-neutral-restore",
+      "pass_": true,
+      "sourceRawFocus": {
+        "id": "",
+        "tag": "BODY"
+      },
+      "candidateRawFocus": null,
+      "candidateRawStateFocus": "BODY",
+      "comparisonFocus": "BODY",
+      "neutralAlias": false,
+      "sourceDocumentOffset": {
+        "x": 0,
+        "y": 1
+      },
+      "candidateDocumentOffset": {
+        "x": 0,
+        "y": 1
+      },
+      "documentOffsetEqual": true
+    },
+    {
+      "id": "en-announcement-peer",
+      "pass_": true,
+      "peer": {
+        "name": "Behavior tests use a separate database",
+        "type": "Text",
+        "live": "Polite",
+        "control": true,
+        "content": true,
+        "children": 0,
+        "box": {
+          "x": 0,
+          "y": 900,
+          "width": 1,
+          "height": 1
+        }
+      }
+    }
+  ]
+}

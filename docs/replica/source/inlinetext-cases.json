@@ -1,0 +1,194 @@
+[
+  {
+    "id": "0-ko-412",
+    "prefix": "migration_sample → migration_sample",
+    "suffix": "원본과 대상은 서로 다른 예시 서버입니다.",
+    "width": 412
+  },
+  {
+    "id": "0-ko-466",
+    "prefix": "migration_sample → migration_sample",
+    "suffix": "원본과 대상은 서로 다른 예시 서버입니다.",
+    "width": 466
+  },
+  {
+    "id": "0-ko-660",
+    "prefix": "migration_sample → migration_sample",
+    "suffix": "원본과 대상은 서로 다른 예시 서버입니다.",
+    "width": 660
+  },
+  {
+    "id": "0-ko-816",
+    "prefix": "migration_sample → migration_sample",
+    "suffix": "원본과 대상은 서로 다른 예시 서버입니다.",
+    "width": 816
+  },
+  {
+    "id": "0-en-412",
+    "prefix": "migration_sample → migration_sample",
+    "suffix": "Source and target are separate sample servers.",
+    "width": 412
+  },
+  {
+    "id": "0-en-466",
+    "prefix": "migration_sample → migration_sample",
+    "suffix": "Source and target are separate sample servers.",
+    "width": 466
+  },
+  {
+    "id": "0-en-660",
+    "prefix": "migration_sample → migration_sample",
+    "suffix": "Source and target are separate sample servers.",
+    "width": 660
+  },
+  {
+    "id": "0-en-816",
+    "prefix": "migration_sample → migration_sample",
+    "suffix": "Source and target are separate sample servers.",
+    "width": 816
+  },
+  {
+    "id": "1-ko-412",
+    "prefix": "migration_sample_with_a_long_database_name → migration_sample_with_a_long_database_name",
+    "suffix": "원본과 대상은 서로 다른 예시 서버입니다.",
+    "width": 412
+  },
+  {
+    "id": "1-ko-466",
+    "prefix": "migration_sample_with_a_long_database_name → migration_sample_with_a_long_database_name",
+    "suffix": "원본과 대상은 서로 다른 예시 서버입니다.",
+    "width": 466
+  },
+  {
+    "id": "1-ko-660",
+    "prefix": "migration_sample_with_a_long_database_name → migration_sample_with_a_long_database_name",
+    "suffix": "원본과 대상은 서로 다른 예시 서버입니다.",
+    "width": 660
+  },
+  {
+    "id": "1-ko-816",
+    "prefix": "migration_sample_with_a_long_database_name → migration_sample_with_a_long_database_name",
+    "suffix": "원본과 대상은 서로 다른 예시 서버입니다.",
+    "width": 816
+  },
+  {
+    "id": "1-en-412",
+    "prefix": "migration_sample_with_a_long_database_name → migration_sample_with_a_long_database_name",
+    "suffix": "Source and target are separate sample servers.",
+    "width": 412
+  },
+  {
+    "id": "1-en-466",
+    "prefix": "migration_sample_with_a_long_database_name → migration_sample_with_a_long_database_name",
+    "suffix": "Source and target are separate sample servers.",
+    "width": 466
+  },
+  {
+    "id": "1-en-660",
+    "prefix": "migration_sample_with_a_long_database_name → migration_sample_with_a_long_database_name",
+    "suffix": "Source and target are separate sample servers.",
+    "width": 660
+  },
+  {
+    "id": "1-en-816",
+    "prefix": "migration_sample_with_a_long_database_name → migration_sample_with_a_long_database_name",
+    "suffix": "Source and target are separate sample servers.",
+    "width": 816
+  },
+  {
+    "id": "2-ko-412",
+    "prefix": "",
+    "suffix": "원본과 대상은 서로 다른 예시 서버입니다.",
+    "width": 412
+  },
+  {
+    "id": "2-ko-466",
+    "prefix": "",
+    "suffix": "원본과 대상은 서로 다른 예시 서버입니다.",
+    "width": 466
+  },
+  {
+    "id": "2-ko-660",
+    "prefix": "",
+    "suffix": "원본과 대상은 서로 다른 예시 서버입니다.",
+    "width": 660
+  },
+  {
+    "id": "2-ko-816",
+    "prefix": "",
+    "suffix": "원본과 대상은 서로 다른 예시 서버입니다.",
+    "width": 816
+  },
+  {
+    "id": "2-en-412",
+    "prefix": "",
+    "suffix": "Source and target are separate sample servers.",
+    "width": 412
+  },
+  {
+    "id": "2-en-466",
+    "prefix": "",
+    "suffix": "Source and target are separate sample servers.",
+    "width": 466
+  },
+  {
+    "id": "2-en-660",
+    "prefix": "",
+    "suffix": "Source and target are separate sample servers.",
+    "width": 660
+  },
+  {
+    "id": "2-en-816",
+    "prefix": "",
+    "suffix": "Source and target are separate sample servers.",
+    "width": 816
+  },
+  {
+    "id": "3-ko-412",
+    "prefix": "migration_sample → migration_sample",
+    "suffix": "",
+    "width": 412
+  },
+  {
+    "id": "3-ko-466",
+    "prefix": "migration_sample → migration_sample",
+    "suffix": "",
+    "width": 466
+  },
+  {
+    "id": "3-ko-660",
+    "prefix": "migration_sample → migration_sample",
+    "suffix": "",
+    "width": 660
+  },
+  {
+    "id": "3-ko-816",
+    "prefix": "migration_sample → migration_sample",
+    "suffix": "",
+    "width": 816
+  },
+  {
+    "id": "3-en-412",
+    "prefix": "migration_sample → migration_sample",
+    "suffix": "",
+    "width": 412
+  },
+  {
+    "id": "3-en-466",
+    "prefix": "migration_sample → migration_sample",
+    "suffix": "",
+    "width": 466
+  },
+  {
+    "id": "3-en-660",
+    "prefix": "migration_sample → migration_sample",
+    "suffix": "",
+    "width": 660
+  },
+  {
+    "id": "3-en-816",
+    "prefix": "migration_sample → migration_sample",
+    "suffix": "",
+    "width": 816
+  }
+]

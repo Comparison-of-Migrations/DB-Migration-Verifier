@@ -1,0 +1,235 @@
+{
+  "clicks": 3,
+  "events": [
+    {
+      "id": "SidebarItem-ko-normal-0-idle",
+      "kind": "focus",
+      "pressed": false,
+      "focused": true,
+      "reduced": false,
+      "motionPending": false,
+      "scale": 1,
+      "clicks": 0
+    },
+    {
+      "id": "SidebarItem-ko-normal-0-idle",
+      "kind": "pressed-changed",
+      "pressed": true,
+      "focused": true,
+      "reduced": false,
+      "motionPending": false,
+      "scale": 1,
+      "clicks": 0
+    },
+    {
+      "id": "SidebarItem-ko-normal-0-idle",
+      "kind": "click",
+      "pressed": true,
+      "focused": true,
+      "reduced": false,
+      "motionPending": true,
+      "scale": 1,
+      "clicks": 1
+    },
+    {
+      "id": "SidebarItem-ko-normal-0-idle",
+      "kind": "pressed-changed",
+      "pressed": false,
+      "focused": true,
+      "reduced": false,
+      "motionPending": true,
+      "scale": 1,
+      "clicks": 1
+    },
+    {
+      "id": "SidebarItem-ko-normal-0-idle",
+      "kind": "motion-ended",
+      "pressed": false,
+      "focused": true,
+      "reduced": false,
+      "motionPending": false,
+      "scale": 1,
+      "clicks": 1
+    },
+    {
+      "id": "SidebarItem-ko-normal-0-idle",
+      "kind": "blur",
+      "pressed": false,
+      "focused": false,
+      "reduced": false,
+      "motionPending": false,
+      "scale": 1,
+      "clicks": 1
+    },
+    {
+      "id": "SidebarItem-ko-normal-0-idle",
+      "kind": "focus",
+      "pressed": false,
+      "focused": true,
+      "reduced": false,
+      "motionPending": false,
+      "scale": 1,
+      "clicks": 1
+    },
+    {
+      "id": "SidebarItem-ko-normal-0-idle",
+      "kind": "blur",
+      "pressed": false,
+      "focused": false,
+      "reduced": false,
+      "motionPending": false,
+      "scale": 1,
+      "clicks": 1
+    },
+    {
+      "id": "SidebarItem-ko-normal-0-idle",
+      "kind": "focus",
+      "pressed": false,
+      "focused": true,
+      "reduced": false,
+      "motionPending": false,
+      "scale": 1,
+      "clicks": 1
+    },
+    {
+      "id": "SidebarItem-ko-normal-0-idle",
+      "kind": "blur",
+      "pressed": false,
+      "focused": false,
+      "reduced": false,
+      "motionPending": false,
+      "scale": 1,
+      "clicks": 1
+    },
+    {
+      "id": "SidebarItem-ko-active-0-idle",
+      "kind": "focus",
+      "pressed": false,
+      "focused": true,
+      "reduced": false,
+      "motionPending": false,
+      "scale": 1,
+      "clicks": 1
+    },
+    {
+      "id": "SidebarItem-ko-active-0-idle",
+      "kind": "click",
+      "pressed": false,
+      "focused": true,
+      "reduced": false,
+      "motionPending": true,
+      "scale": 1,
+      "clicks": 2
+    },
+    {
+      "id": "SidebarItem-ko-active-0-idle",
+      "kind": "keyup-Return",
+      "pressed": false,
+      "focused": true,
+      "reduced": false,
+      "motionPending": false,
+      "scale": 1,
+      "clicks": 2
+    },
+    {
+      "id": "SidebarItem-ko-active-0-idle",
+      "kind": "motion-ended",
+      "pressed": false,
+      "focused": true,
+      "reduced": false,
+      "motionPending": false,
+      "scale": 1,
+      "clicks": 2
+    },
+    {
+      "id": "SidebarItem-ko-active-0-idle",
+      "kind": "blur",
+      "pressed": false,
+      "focused": false,
+      "reduced": false,
+      "motionPending": false,
+      "scale": 1,
+      "clicks": 2
+    },
+    {
+      "id": "SidebarItem-ko-active-0-idle",
+      "kind": "focus",
+      "pressed": false,
+      "focused": true,
+      "reduced": false,
+      "motionPending": false,
+      "scale": 1,
+      "clicks": 2
+    },
+    {
+      "id": "SidebarItem-ko-active-0-idle",
+      "kind": "blur",
+      "pressed": false,
+      "focused": false,
+      "reduced": false,
+      "motionPending": false,
+      "scale": 1,
+      "clicks": 2
+    },
+    {
+      "id": "SidebarItem-en-done-0-idle",
+      "kind": "focus",
+      "pressed": false,
+      "focused": true,
+      "reduced": true,
+      "motionPending": false,
+      "scale": 1,
+      "clicks": 2
+    },
+    {
+      "id": "SidebarItem-en-done-0-idle",
+      "kind": "pressed-changed",
+      "pressed": true,
+      "focused": true,
+      "reduced": true,
+      "motionPending": false,
+      "scale": 0.98,
+      "clicks": 2
+    },
+    {
+      "id": "SidebarItem-en-done-0-idle",
+      "kind": "click",
+      "pressed": true,
+      "focused": true,
+      "reduced": true,
+      "motionPending": false,
+      "scale": 0.98,
+      "clicks": 3
+    },
+    {
+      "id": "SidebarItem-en-done-0-idle",
+      "kind": "pressed-changed",
+      "pressed": false,
+      "focused": true,
+      "reduced": true,
+      "motionPending": false,
+      "scale": 1,
+      "clicks": 3
+    },
+    {
+      "id": "SidebarItem-en-done-0-idle",
+      "kind": "blur",
+      "pressed": false,
+      "focused": false,
+      "reduced": true,
+      "motionPending": false,
+      "scale": 1,
+      "clicks": 3
+    },
+    {
+      "id": "SidebarItem-en-done-0-idle",
+      "kind": "focus",
+      "pressed": false,
+      "focused": true,
+      "reduced": true,
+      "motionPending": false,
+      "scale": 1,
+      "clicks": 3
+    }
+  ]
+}

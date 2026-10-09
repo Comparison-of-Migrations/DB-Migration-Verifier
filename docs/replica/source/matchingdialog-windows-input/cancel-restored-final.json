@@ -1,0 +1,34 @@
+{
+  "capturedAtUtc": "2026-10-08T00:04:53.3677215Z",
+  "dpr": 2,
+  "visible": false,
+  "closing": true,
+  "reduced": false,
+  "backgroundEnabled": true,
+  "backgroundBlur": null,
+  "focus": "MatchingDialog-open",
+  "events": [
+    {
+      "action": "draft",
+      "value": "archive.orders"
+    },
+    {
+      "action": "close"
+    },
+    {
+      "action": "draft",
+      "value": "archive.orders"
+    },
+    {
+      "action": "apply",
+      "value": "archive.orders"
+    },
+    {
+      "action": "close"
+    },
+    {
+      "action": "close"
+    }
+  ],
+  "row": null
+}

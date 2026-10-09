@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ko-1000",
+    "english": false,
+    "width": 1000,
+    "height": 900,
+    "screen": "results"
+  },
+  {
+    "id": "ko-1280",
+    "english": false,
+    "width": 1280,
+    "height": 900,
+    "screen": "results"
+  },
+  {
+    "id": "en-1000",
+    "english": true,
+    "width": 1000,
+    "height": 900,
+    "screen": "results"
+  },
+  {
+    "id": "en-1280",
+    "english": true,
+    "width": 1280,
+    "height": 900,
+    "screen": "results"
+  }
+]

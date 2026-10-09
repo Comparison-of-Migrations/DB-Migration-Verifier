@@ -1,0 +1,30 @@
+[
+  {
+    "checked": false,
+    "disabled": false,
+    "focusVisible": false,
+    "focused": false,
+    "html": "<input id=\"match-option-0\" type=\"radio\" name=\"match-target\" data-modal-field=\"draft\" value=\"demo.customers\" checked=\"\" aria-describedby=\"match-note-0\">"
+  },
+  {
+    "checked": false,
+    "disabled": true,
+    "focusVisible": false,
+    "focused": false,
+    "html": "<input id=\"match-option-1\" type=\"radio\" name=\"match-target\" data-modal-field=\"draft\" value=\"demo.orders\" disabled=\"\" aria-describedby=\"match-note-1\">"
+  },
+  {
+    "checked": false,
+    "disabled": true,
+    "focusVisible": false,
+    "focused": false,
+    "html": "<input id=\"match-option-2\" type=\"radio\" name=\"match-target\" data-modal-field=\"draft\" value=\"demo.line_items\" disabled=\"\" aria-describedby=\"match-note-2\">"
+  },
+  {
+    "checked": true,
+    "disabled": false,
+    "focusVisible": true,
+    "focused": true,
+    "html": "<input id=\"match-option-3\" type=\"radio\" name=\"match-target\" data-modal-field=\"draft\" value=\"archive.orders\" aria-describedby=\"match-note-3\">"
+  }
+]

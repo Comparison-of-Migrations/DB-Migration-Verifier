@@ -1,0 +1,58 @@
+[
+  {
+    "id": "home-ko-960",
+    "screen": "home",
+    "english": false,
+    "width": 960,
+    "height": 900
+  },
+  {
+    "id": "home-ko-1180",
+    "screen": "home",
+    "english": false,
+    "width": 1180,
+    "height": 900
+  },
+  {
+    "id": "home-ko-1280",
+    "screen": "home",
+    "english": false,
+    "width": 1280,
+    "height": 900
+  },
+  {
+    "id": "home-ko-1440",
+    "screen": "home",
+    "english": false,
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "id": "home-en-960",
+    "screen": "home",
+    "english": true,
+    "width": 960,
+    "height": 900
+  },
+  {
+    "id": "home-en-1180",
+    "screen": "home",
+    "english": true,
+    "width": 1180,
+    "height": 900
+  },
+  {
+    "id": "home-en-1280",
+    "screen": "home",
+    "english": true,
+    "width": 1280,
+    "height": 900
+  },
+  {
+    "id": "home-en-1440",
+    "screen": "home",
+    "english": true,
+    "width": 1440,
+    "height": 900
+  }
+]

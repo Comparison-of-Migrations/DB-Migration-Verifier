@@ -1,0 +1,15 @@
+{
+  "component": "SvgIcon",
+  "files": {
+    "src/Verifier.Desktop/SvgIcon.cs": "592fc5169f4d6c765119b1302be99b92a6160ca456d6fba894c61ee6f45decc5",
+    "src/Verifier.Desktop/SvgIcon.Definitions.cs": "16754991aa4139cfae50ed381101f47f995109b7609576ff28d635e10b9133ae"
+  },
+  "fragments": [
+    {
+      "file": "src/Verifier.Desktop/MainWindow.Shell.cs",
+      "start": "    private static Control UiIcon(",
+      "end": "    private Button WithIcon(",
+      "sha256": "e745271e808878104c8cacaf451be0e1f91ec83b561bf231a92c798a3c48c589"
+    }
+  ]
+}

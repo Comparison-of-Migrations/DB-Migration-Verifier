@@ -1,0 +1,9 @@
+{
+  "oldHash": "36b004aff3af1569f19ea6103a961a61fa34bbc9ab90fb04f6ccac3c9de3ffcd",
+  "newHash": "4afcca2ae1f54b629f9c474b978c21ac0ac88760476dd48cc7f7cbcc66ddfacd",
+  "wholeProductEqualsOldReplacingOnlyGroupPeer": true,
+  "changedBehavior": "Windows Group control/content=false; every other OS delegates same pre-existing base methods",
+  "reused": "geometry/paint/allocator/passive/narrow/macOS natural AX hierarchy/cell/header/button protected peers",
+  "source": "docs/replica/source/capabilitytable-windows-group-source.json",
+  "pending": "changed Windows headless2/actual2 only"
+}

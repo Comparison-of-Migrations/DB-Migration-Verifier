@@ -1,0 +1,25 @@
+{
+  "scope": "actual source/candidate window capture; both 0 offset normal state",
+  "parts": [
+    {
+      "part": "content",
+      "differentPixels": 0,
+      "maxChannel": 0
+    },
+    {
+      "part": "thumb",
+      "differentPixels": 67,
+      "maxChannel": 33
+    },
+    {
+      "part": "up",
+      "differentPixels": 40,
+      "maxChannel": 2
+    },
+    {
+      "part": "down",
+      "differentPixels": 43,
+      "maxChannel": 2
+    }
+  ]
+}

@@ -1,0 +1,1614 @@
+{
+  "dpr": 2,
+  "rows": [
+    {
+      "id": "tables-ko-160-empty",
+      "width": 180,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 180,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": {
+        "x": 136,
+        "y": 0,
+        "width": 44,
+        "height": 44
+      },
+      "value": "",
+      "placeholder": "테이블 이름으로 검색",
+      "label": "테이블 검색",
+      "clearName": "테이블 검색 지우기",
+      "clearDisabled": true,
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "tables-ko-160-value",
+      "width": 180,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 180,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": {
+        "x": 136,
+        "y": 0,
+        "width": 44,
+        "height": 44
+      },
+      "value": "orders",
+      "placeholder": "테이블 이름으로 검색",
+      "label": "테이블 검색",
+      "clearName": "테이블 검색 지우기",
+      "clearDisabled": false,
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "tables-ko-160-space",
+      "width": 180,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 180,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": {
+        "x": 136,
+        "y": 0,
+        "width": 44,
+        "height": 44
+      },
+      "value": " ",
+      "placeholder": "테이블 이름으로 검색",
+      "label": "테이블 검색",
+      "clearName": "테이블 검색 지우기",
+      "clearDisabled": false,
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "tables-ko-240-empty",
+      "width": 240,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 240,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": {
+        "x": 196,
+        "y": 0,
+        "width": 44,
+        "height": 44
+      },
+      "value": "",
+      "placeholder": "테이블 이름으로 검색",
+      "label": "테이블 검색",
+      "clearName": "테이블 검색 지우기",
+      "clearDisabled": true,
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "tables-ko-240-value",
+      "width": 240,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 240,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": {
+        "x": 196,
+        "y": 0,
+        "width": 44,
+        "height": 44
+      },
+      "value": "orders",
+      "placeholder": "테이블 이름으로 검색",
+      "label": "테이블 검색",
+      "clearName": "테이블 검색 지우기",
+      "clearDisabled": false,
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "tables-ko-240-space",
+      "width": 240,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 240,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": {
+        "x": 196,
+        "y": 0,
+        "width": 44,
+        "height": 44
+      },
+      "value": " ",
+      "placeholder": "테이블 이름으로 검색",
+      "label": "테이블 검색",
+      "clearName": "테이블 검색 지우기",
+      "clearDisabled": false,
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "tables-ko-380-empty",
+      "width": 380,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 380,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": {
+        "x": 336,
+        "y": 0,
+        "width": 44,
+        "height": 44
+      },
+      "value": "",
+      "placeholder": "테이블 이름으로 검색",
+      "label": "테이블 검색",
+      "clearName": "테이블 검색 지우기",
+      "clearDisabled": true,
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "tables-ko-380-value",
+      "width": 380,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 380,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": {
+        "x": 336,
+        "y": 0,
+        "width": 44,
+        "height": 44
+      },
+      "value": "orders",
+      "placeholder": "테이블 이름으로 검색",
+      "label": "테이블 검색",
+      "clearName": "테이블 검색 지우기",
+      "clearDisabled": false,
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "tables-ko-380-space",
+      "width": 380,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 380,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": {
+        "x": 336,
+        "y": 0,
+        "width": 44,
+        "height": 44
+      },
+      "value": " ",
+      "placeholder": "테이블 이름으로 검색",
+      "label": "테이블 검색",
+      "clearName": "테이블 검색 지우기",
+      "clearDisabled": false,
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "tables-ko-452-empty",
+      "width": 380,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 380,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": {
+        "x": 336,
+        "y": 0,
+        "width": 44,
+        "height": 44
+      },
+      "value": "",
+      "placeholder": "테이블 이름으로 검색",
+      "label": "테이블 검색",
+      "clearName": "테이블 검색 지우기",
+      "clearDisabled": true,
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "tables-ko-452-value",
+      "width": 380,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 380,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": {
+        "x": 336,
+        "y": 0,
+        "width": 44,
+        "height": 44
+      },
+      "value": "orders",
+      "placeholder": "테이블 이름으로 검색",
+      "label": "테이블 검색",
+      "clearName": "테이블 검색 지우기",
+      "clearDisabled": false,
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "tables-ko-452-space",
+      "width": 380,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 380,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": {
+        "x": 336,
+        "y": 0,
+        "width": 44,
+        "height": 44
+      },
+      "value": " ",
+      "placeholder": "테이블 이름으로 검색",
+      "label": "테이블 검색",
+      "clearName": "테이블 검색 지우기",
+      "clearDisabled": false,
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "tables-en-160-empty",
+      "width": 180,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 180,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": {
+        "x": 136,
+        "y": 0,
+        "width": 44,
+        "height": 44
+      },
+      "value": "",
+      "placeholder": "Search by table name",
+      "label": "Search tables",
+      "clearName": "Clear table search",
+      "clearDisabled": true,
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "tables-en-160-value",
+      "width": 180,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 180,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": {
+        "x": 136,
+        "y": 0,
+        "width": 44,
+        "height": 44
+      },
+      "value": "orders",
+      "placeholder": "Search by table name",
+      "label": "Search tables",
+      "clearName": "Clear table search",
+      "clearDisabled": false,
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "tables-en-160-space",
+      "width": 180,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 180,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": {
+        "x": 136,
+        "y": 0,
+        "width": 44,
+        "height": 44
+      },
+      "value": " ",
+      "placeholder": "Search by table name",
+      "label": "Search tables",
+      "clearName": "Clear table search",
+      "clearDisabled": false,
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "tables-en-240-empty",
+      "width": 240,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 240,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": {
+        "x": 196,
+        "y": 0,
+        "width": 44,
+        "height": 44
+      },
+      "value": "",
+      "placeholder": "Search by table name",
+      "label": "Search tables",
+      "clearName": "Clear table search",
+      "clearDisabled": true,
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "tables-en-240-value",
+      "width": 240,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 240,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": {
+        "x": 196,
+        "y": 0,
+        "width": 44,
+        "height": 44
+      },
+      "value": "orders",
+      "placeholder": "Search by table name",
+      "label": "Search tables",
+      "clearName": "Clear table search",
+      "clearDisabled": false,
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "tables-en-240-space",
+      "width": 240,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 240,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": {
+        "x": 196,
+        "y": 0,
+        "width": 44,
+        "height": 44
+      },
+      "value": " ",
+      "placeholder": "Search by table name",
+      "label": "Search tables",
+      "clearName": "Clear table search",
+      "clearDisabled": false,
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "tables-en-380-empty",
+      "width": 380,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 380,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": {
+        "x": 336,
+        "y": 0,
+        "width": 44,
+        "height": 44
+      },
+      "value": "",
+      "placeholder": "Search by table name",
+      "label": "Search tables",
+      "clearName": "Clear table search",
+      "clearDisabled": true,
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "tables-en-380-value",
+      "width": 380,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 380,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": {
+        "x": 336,
+        "y": 0,
+        "width": 44,
+        "height": 44
+      },
+      "value": "orders",
+      "placeholder": "Search by table name",
+      "label": "Search tables",
+      "clearName": "Clear table search",
+      "clearDisabled": false,
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "tables-en-380-space",
+      "width": 380,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 380,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": {
+        "x": 336,
+        "y": 0,
+        "width": 44,
+        "height": 44
+      },
+      "value": " ",
+      "placeholder": "Search by table name",
+      "label": "Search tables",
+      "clearName": "Clear table search",
+      "clearDisabled": false,
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "tables-en-452-empty",
+      "width": 380,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 380,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": {
+        "x": 336,
+        "y": 0,
+        "width": 44,
+        "height": 44
+      },
+      "value": "",
+      "placeholder": "Search by table name",
+      "label": "Search tables",
+      "clearName": "Clear table search",
+      "clearDisabled": true,
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "tables-en-452-value",
+      "width": 380,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 380,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": {
+        "x": 336,
+        "y": 0,
+        "width": 44,
+        "height": 44
+      },
+      "value": "orders",
+      "placeholder": "Search by table name",
+      "label": "Search tables",
+      "clearName": "Clear table search",
+      "clearDisabled": false,
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "tables-en-452-space",
+      "width": 380,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 380,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": {
+        "x": 336,
+        "y": 0,
+        "width": 44,
+        "height": 44
+      },
+      "value": " ",
+      "placeholder": "Search by table name",
+      "label": "Search tables",
+      "clearName": "Clear table search",
+      "clearDisabled": false,
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "matching-ko-160-empty",
+      "width": 180,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 180,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": null,
+      "value": "",
+      "placeholder": "대상 테이블 이름 검색",
+      "label": "대상 테이블 검색",
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "matching-ko-160-value",
+      "width": 180,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 180,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": null,
+      "value": "orders",
+      "placeholder": "대상 테이블 이름 검색",
+      "label": "대상 테이블 검색",
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "matching-ko-160-space",
+      "width": 180,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 180,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": null,
+      "value": " ",
+      "placeholder": "대상 테이블 이름 검색",
+      "label": "대상 테이블 검색",
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "matching-ko-240-empty",
+      "width": 240,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 240,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": null,
+      "value": "",
+      "placeholder": "대상 테이블 이름 검색",
+      "label": "대상 테이블 검색",
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "matching-ko-240-value",
+      "width": 240,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 240,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": null,
+      "value": "orders",
+      "placeholder": "대상 테이블 이름 검색",
+      "label": "대상 테이블 검색",
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "matching-ko-240-space",
+      "width": 240,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 240,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": null,
+      "value": " ",
+      "placeholder": "대상 테이블 이름 검색",
+      "label": "대상 테이블 검색",
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "matching-ko-380-empty",
+      "width": 380,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 380,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": null,
+      "value": "",
+      "placeholder": "대상 테이블 이름 검색",
+      "label": "대상 테이블 검색",
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "matching-ko-380-value",
+      "width": 380,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 380,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": null,
+      "value": "orders",
+      "placeholder": "대상 테이블 이름 검색",
+      "label": "대상 테이블 검색",
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "matching-ko-380-space",
+      "width": 380,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 380,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": null,
+      "value": " ",
+      "placeholder": "대상 테이블 이름 검색",
+      "label": "대상 테이블 검색",
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "matching-ko-452-empty",
+      "width": 452,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 452,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": null,
+      "value": "",
+      "placeholder": "대상 테이블 이름 검색",
+      "label": "대상 테이블 검색",
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "matching-ko-452-value",
+      "width": 452,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 452,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": null,
+      "value": "orders",
+      "placeholder": "대상 테이블 이름 검색",
+      "label": "대상 테이블 검색",
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "matching-ko-452-space",
+      "width": 452,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 452,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": null,
+      "value": " ",
+      "placeholder": "대상 테이블 이름 검색",
+      "label": "대상 테이블 검색",
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "matching-en-160-empty",
+      "width": 180,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 180,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": null,
+      "value": "",
+      "placeholder": "Search target table names",
+      "label": "Search target tables",
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "matching-en-160-value",
+      "width": 180,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 180,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": null,
+      "value": "orders",
+      "placeholder": "Search target table names",
+      "label": "Search target tables",
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "matching-en-160-space",
+      "width": 180,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 180,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": null,
+      "value": " ",
+      "placeholder": "Search target table names",
+      "label": "Search target tables",
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "matching-en-240-empty",
+      "width": 240,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 240,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": null,
+      "value": "",
+      "placeholder": "Search target table names",
+      "label": "Search target tables",
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "matching-en-240-value",
+      "width": 240,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 240,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": null,
+      "value": "orders",
+      "placeholder": "Search target table names",
+      "label": "Search target tables",
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "matching-en-240-space",
+      "width": 240,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 240,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": null,
+      "value": " ",
+      "placeholder": "Search target table names",
+      "label": "Search target tables",
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "matching-en-380-empty",
+      "width": 380,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 380,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": null,
+      "value": "",
+      "placeholder": "Search target table names",
+      "label": "Search target tables",
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "matching-en-380-value",
+      "width": 380,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 380,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": null,
+      "value": "orders",
+      "placeholder": "Search target table names",
+      "label": "Search target tables",
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "matching-en-380-space",
+      "width": 380,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 380,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": null,
+      "value": " ",
+      "placeholder": "Search target table names",
+      "label": "Search target tables",
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "matching-en-452-empty",
+      "width": 452,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 452,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": null,
+      "value": "",
+      "placeholder": "Search target table names",
+      "label": "Search target tables",
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "matching-en-452-value",
+      "width": 452,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 452,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": null,
+      "value": "orders",
+      "placeholder": "Search target table names",
+      "label": "Search target tables",
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    },
+    {
+      "id": "matching-en-452-space",
+      "width": 452,
+      "height": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "width": 452,
+        "height": 44
+      },
+      "icon": {
+        "x": 13,
+        "y": 13,
+        "width": 18,
+        "height": 18
+      },
+      "clear": null,
+      "value": " ",
+      "placeholder": "Search target table names",
+      "label": "Search target tables",
+      "style": {
+        "padding": "9px 44px 9px 40px",
+        "fontSize": "13px",
+        "lineHeight": "20.8px",
+        "bg": "rgb(30, 31, 34)",
+        "color": "rgb(219, 222, 225)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "8px"
+      }
+    }
+  ],
+  "events": []
+}

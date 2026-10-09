@@ -1,0 +1,471 @@
+{
+  "utc": "2026-10-07T00:13:45.674098Z",
+  "events": [
+    {
+      "id": "number-default",
+      "type": "pointerdown",
+      "timeStamp": 114442.3043,
+      "raw": "3306",
+      "value": "3306"
+    },
+    {
+      "id": "number-default",
+      "type": "change",
+      "timeStamp": 114443.3924,
+      "raw": "3306",
+      "value": "3306"
+    },
+    {
+      "id": "number-default",
+      "type": "input",
+      "timeStamp": 114445.1785,
+      "raw": "3305",
+      "value": "3305"
+    },
+    {
+      "id": "number-default",
+      "type": "input",
+      "timeStamp": 114946.1624,
+      "raw": "3304",
+      "value": "3304"
+    },
+    {
+      "id": "number-default",
+      "type": "input",
+      "timeStamp": 114994.2429,
+      "raw": "3303",
+      "value": "3303"
+    },
+    {
+      "id": "number-default",
+      "type": "input",
+      "timeStamp": 115045.1565,
+      "raw": "3302",
+      "value": "3302"
+    },
+    {
+      "id": "number-default",
+      "type": "input",
+      "timeStamp": 115094.6247,
+      "raw": "3301",
+      "value": "3301"
+    },
+    {
+      "id": "number-default",
+      "type": "input",
+      "timeStamp": 115144.9409,
+      "raw": "3300",
+      "value": "3300"
+    },
+    {
+      "id": "number-default",
+      "type": "input",
+      "timeStamp": 115195.192,
+      "raw": "3299",
+      "value": "3299"
+    },
+    {
+      "id": "number-default",
+      "type": "input",
+      "timeStamp": 115244.4448,
+      "raw": "3298",
+      "value": "3298"
+    },
+    {
+      "id": "number-default",
+      "type": "input",
+      "timeStamp": 115294.0673,
+      "raw": "3297",
+      "value": "3297"
+    },
+    {
+      "id": "number-default",
+      "type": "input",
+      "timeStamp": 115344.303,
+      "raw": "3296",
+      "value": "3296"
+    },
+    {
+      "id": "number-default",
+      "type": "input",
+      "timeStamp": 115394.3654,
+      "raw": "3295",
+      "value": "3295"
+    },
+    {
+      "id": "number-default",
+      "type": "input",
+      "timeStamp": 115444.0684,
+      "raw": "3294",
+      "value": "3294"
+    },
+    {
+      "id": "number-default",
+      "type": "input",
+      "timeStamp": 115494.5228,
+      "raw": "3293",
+      "value": "3293"
+    },
+    {
+      "id": "number-default",
+      "type": "input",
+      "timeStamp": 115544.1106,
+      "raw": "3292",
+      "value": "3292"
+    },
+    {
+      "id": "number-default",
+      "type": "input",
+      "timeStamp": 115594.426,
+      "raw": "3291",
+      "value": "3291"
+    },
+    {
+      "id": "number-default",
+      "type": "input",
+      "timeStamp": 115644.2546,
+      "raw": "3290",
+      "value": "3290"
+    },
+    {
+      "id": "number-default",
+      "type": "input",
+      "timeStamp": 115694.2273,
+      "raw": "3289",
+      "value": "3289"
+    },
+    {
+      "id": "number-default",
+      "type": "input",
+      "timeStamp": 115744.0917,
+      "raw": "3288",
+      "value": "3288"
+    },
+    {
+      "id": "number-default",
+      "type": "input",
+      "timeStamp": 115794.4231,
+      "raw": "3287",
+      "value": "3287"
+    },
+    {
+      "id": "number-default",
+      "type": "input",
+      "timeStamp": 115844.1727,
+      "raw": "3286",
+      "value": "3286"
+    },
+    {
+      "id": "number-default",
+      "type": "input",
+      "timeStamp": 115894.669,
+      "raw": "3285",
+      "value": "3285"
+    },
+    {
+      "id": "number-default",
+      "type": "pointerup",
+      "timeStamp": 115942.7007,
+      "raw": "3285",
+      "value": "3285"
+    },
+    {
+      "id": "number-default",
+      "type": "change",
+      "timeStamp": 115942.7448,
+      "raw": "3285",
+      "value": "3285"
+    }
+  ],
+  "rows": [
+    {
+      "id": "number-default",
+      "raw": "3285",
+      "value": "3285",
+      "number": 3285,
+      "badInput": false,
+      "rangeUnderflow": false,
+      "rangeOverflow": false,
+      "stepMismatch": false,
+      "valid": true,
+      "focused": true,
+      "rect": {
+        "x": 30,
+        "y": 20,
+        "width": 112,
+        "height": 44
+      },
+      "peerRect": {
+        "x": 30,
+        "y": 20,
+        "width": 112,
+        "height": 44
+      },
+      "peerOffscreen": false,
+      "peerParent": "Grid",
+      "spinVisible": true,
+      "spin": {
+        "x": 88,
+        "y": 11,
+        "width": 11,
+        "height": 22
+      },
+      "presenter": {
+        "x": 0,
+        "y": 0.8000000000000007,
+        "width": 34.220703125,
+        "height": 22.4
+      },
+      "textWidth": 34.220703125,
+      "caret": {
+        "x": 34,
+        "y": 3.5,
+        "width": 1,
+        "height": 16.5
+      },
+      "paintObserved": true,
+      "offset": 0
+    },
+    {
+      "id": "number-empty",
+      "raw": "",
+      "value": "",
+      "number": null,
+      "badInput": false,
+      "rangeUnderflow": false,
+      "rangeOverflow": false,
+      "stepMismatch": false,
+      "valid": true,
+      "focused": false,
+      "rect": {
+        "x": 30,
+        "y": 88,
+        "width": 112,
+        "height": 44
+      },
+      "peerRect": {
+        "x": 30,
+        "y": 88,
+        "width": 112,
+        "height": 44
+      },
+      "peerOffscreen": false,
+      "peerParent": "Grid",
+      "spinVisible": false,
+      "spin": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "presenter": {
+        "x": 0,
+        "y": 0.8000000000000007,
+        "width": 0,
+        "height": 22.4
+      },
+      "textWidth": 0,
+      "caret": {
+        "x": 0,
+        "y": 3.5,
+        "width": 1,
+        "height": 16.5
+      },
+      "paintObserved": true,
+      "offset": 0
+    },
+    {
+      "id": "number-min",
+      "raw": "1",
+      "value": "1",
+      "number": 1,
+      "badInput": false,
+      "rangeUnderflow": false,
+      "rangeOverflow": false,
+      "stepMismatch": false,
+      "valid": true,
+      "focused": false,
+      "rect": {
+        "x": 30,
+        "y": 156,
+        "width": 112,
+        "height": 44
+      },
+      "peerRect": {
+        "x": 30,
+        "y": 156,
+        "width": 112,
+        "height": 44
+      },
+      "peerOffscreen": false,
+      "peerParent": "Grid",
+      "spinVisible": false,
+      "spin": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "presenter": {
+        "x": 0,
+        "y": 0.8000000000000007,
+        "width": 6.34375,
+        "height": 22.4
+      },
+      "textWidth": 6.34375,
+      "caret": {
+        "x": 6,
+        "y": 3.5,
+        "width": 1,
+        "height": 16.5
+      },
+      "paintObserved": true,
+      "offset": 0
+    },
+    {
+      "id": "number-max",
+      "raw": "65535",
+      "value": "65535",
+      "number": 65535,
+      "badInput": false,
+      "rangeUnderflow": false,
+      "rangeOverflow": false,
+      "stepMismatch": false,
+      "valid": true,
+      "focused": false,
+      "rect": {
+        "x": 30,
+        "y": 224,
+        "width": 112,
+        "height": 44
+      },
+      "peerRect": {
+        "x": 30,
+        "y": 224,
+        "width": 112,
+        "height": 44
+      },
+      "peerOffscreen": false,
+      "peerParent": "Grid",
+      "spinVisible": false,
+      "spin": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "presenter": {
+        "x": 0,
+        "y": 0.8000000000000007,
+        "width": 42.90234375,
+        "height": 22.4
+      },
+      "textWidth": 42.90234375,
+      "caret": {
+        "x": 42,
+        "y": 3.5,
+        "width": 1,
+        "height": 16.5
+      },
+      "paintObserved": true,
+      "offset": 0
+    },
+    {
+      "id": "number-fraction",
+      "raw": "1.5",
+      "value": "1.5",
+      "number": 1.5,
+      "badInput": false,
+      "rangeUnderflow": false,
+      "rangeOverflow": false,
+      "stepMismatch": true,
+      "valid": false,
+      "focused": false,
+      "rect": {
+        "x": 30,
+        "y": 292,
+        "width": 112,
+        "height": 44
+      },
+      "peerRect": {
+        "x": 30,
+        "y": 292,
+        "width": 112,
+        "height": 44
+      },
+      "peerOffscreen": false,
+      "peerParent": "Grid",
+      "spinVisible": false,
+      "spin": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "presenter": {
+        "x": 0,
+        "y": 0.8000000000000007,
+        "width": 18.0673828125,
+        "height": 22.4
+      },
+      "textWidth": 18.0673828125,
+      "caret": {
+        "x": 18,
+        "y": 3.5,
+        "width": 1,
+        "height": 16.5
+      },
+      "paintObserved": true,
+      "offset": 0
+    },
+    {
+      "id": "number-exponent",
+      "raw": "1e3",
+      "value": "1e3",
+      "number": 1000,
+      "badInput": false,
+      "rangeUnderflow": false,
+      "rangeOverflow": false,
+      "stepMismatch": false,
+      "valid": true,
+      "focused": false,
+      "rect": {
+        "x": 30,
+        "y": 360,
+        "width": 112,
+        "height": 44
+      },
+      "peerRect": {
+        "x": 30,
+        "y": 360,
+        "width": 112,
+        "height": 44
+      },
+      "peerOffscreen": false,
+      "peerParent": "Grid",
+      "spinVisible": false,
+      "spin": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "presenter": {
+        "x": 0,
+        "y": 0.8000000000000007,
+        "width": 22.818359375,
+        "height": 22.4
+      },
+      "textWidth": 22.818359375,
+      "caret": {
+        "x": 22,
+        "y": 3.5,
+        "width": 1,
+        "height": 16.5
+      },
+      "paintObserved": true,
+      "offset": 0
+    }
+  ],
+  "evidenceScope": "last owned pointerdown through release/change only"
+}

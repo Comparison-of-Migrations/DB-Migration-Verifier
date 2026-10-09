@@ -1,0 +1,10 @@
+{
+  "phase": "ACTUAL_OS_PASSED",
+  "scope": "six exact KO default Review histories,18 settled states; prior gutter, geometry, full text/wrap and stable page/heading/summary references; no full flow/AX/timer proof",
+  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/pageintegrationparentresize-windows-history-source.json",
+  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/connection/pageintegration/b3e31c55b0f140ce8f0970e4e864d24e/actual-viewport-history-windows/actual-history18-composed.json",
+  "paths": 6,
+  "states": 18,
+  "checks": 2499,
+  "differences": []
+}

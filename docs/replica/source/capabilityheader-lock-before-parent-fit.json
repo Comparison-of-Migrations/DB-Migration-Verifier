@@ -1,0 +1,8 @@
+{
+  "component": "CapabilityHeader",
+  "contract": "Literal capabilities thead/tr/th4 shared parent columns: bothOS12 geometry/multiline/palette, bothOS6 actual passive/language/width/lifecycle; real headless12/6 and final Windows named/no-child Header semantics headless3/actual3/affected12. Parent owns auto-layout/shell. Default platform role/raster boundaries documented.",
+  "files": {
+    "src/Verifier.Desktop/WebCapabilityHeader.cs": "331f614d2ecc793c03a5e41c54e238bf233f407830b7f5d02e421df93dd026ca"
+  },
+  "evidence": "docs/replica/source/capabilityheader-validation.json"
+}

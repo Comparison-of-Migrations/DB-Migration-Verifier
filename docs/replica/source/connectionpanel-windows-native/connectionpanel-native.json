@@ -1,0 +1,7285 @@
+{
+  "dpr": 2,
+  "rows": [
+    {
+      "id": "ko-source-328-0",
+      "width": 328,
+      "height": 509.3671875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 274,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 116.4375,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 237,
+        "y": 37.5,
+        "width": 64,
+        "height": 25.1953125
+      },
+      "statusText": "\uBBF8\uD655\uC778",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 274,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 146,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 146,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 146,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC11C\uBC84 \uC8FC\uC18C",
+          "value": "source.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 189,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 189,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 189,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uD3EC\uD2B8",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 274,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 274,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 274,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uB370\uC774\uD130\uBCA0\uC774\uC2A4",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 274,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 274,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 274,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC870\uD68C \uACC4\uC815",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 274,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 274,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 274,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 274,
+            "height": 38.390625
+          },
+          "labelText": "\uBE44\uBC00\uBC88\uD638",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "ko-source-328-1",
+      "width": 328,
+      "height": 528.5625,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 274,
+        "height": 86.390625
+      },
+      "mark": {
+        "x": 27,
+        "y": 39.6953125,
+        "width": 36.34375,
+        "height": 40
+      },
+      "icon": {
+        "x": 34.171875,
+        "y": 48.6953125,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 75.34375,
+        "y": 27,
+        "width": 105.21875,
+        "height": 65.390625
+      },
+      "title": {
+        "x": 75.34375,
+        "y": 27,
+        "width": 105.21875,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 75.34375,
+        "y": 54,
+        "width": 105.21875,
+        "height": 38.390625
+      },
+      "status": {
+        "x": 192.5625,
+        "y": 47.09375,
+        "width": 108.4375,
+        "height": 25.1953125
+      },
+      "statusText": "\uC608\uC2DC \uC5F0\uACB0 \uD655\uC778",
+      "serverRow": {
+        "x": 27,
+        "y": 113.390625,
+        "width": 274,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 129.390625,
+            "width": 146,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 129.390625,
+            "width": 146,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 155.5859375,
+            "width": 146,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC11C\uBC84 \uC8FC\uC18C",
+          "value": "source.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 189,
+            "y": 129.390625,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 189,
+            "y": 129.390625,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 189,
+            "y": 155.5859375,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uD3EC\uD2B8",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 215.5859375,
+            "width": 274,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 215.5859375,
+            "width": 274,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 241.78125,
+            "width": 274,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uB370\uC774\uD130\uBCA0\uC774\uC2A4",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 301.78125,
+            "width": 274,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 301.78125,
+            "width": 274,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 327.9765625,
+            "width": 274,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC870\uD68C \uACC4\uC815",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 387.9765625,
+            "width": 274,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 387.9765625,
+            "width": 274,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 414.171875,
+            "width": 274,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 463.171875,
+            "width": 274,
+            "height": 38.390625
+          },
+          "labelText": "\uBE44\uBC00\uBC88\uD638",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "ko-target-328-0",
+      "width": 328,
+      "height": 509.3671875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 274,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 116.4375,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 237,
+        "y": 37.5,
+        "width": 64,
+        "height": 25.1953125
+      },
+      "statusText": "\uBBF8\uD655\uC778",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 274,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 146,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 146,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 146,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC11C\uBC84 \uC8FC\uC18C",
+          "value": "target.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 189,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 189,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 189,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uD3EC\uD2B8",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 274,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 274,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 274,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uB370\uC774\uD130\uBCA0\uC774\uC2A4",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 274,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 274,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 274,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC870\uD68C \uACC4\uC815",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 274,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 274,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 274,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 274,
+            "height": 38.390625
+          },
+          "labelText": "\uBE44\uBC00\uBC88\uD638",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "ko-target-328-1",
+      "width": 328,
+      "height": 528.5625,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 274,
+        "height": 86.390625
+      },
+      "mark": {
+        "x": 27,
+        "y": 39.6953125,
+        "width": 36.34375,
+        "height": 40
+      },
+      "icon": {
+        "x": 34.171875,
+        "y": 48.6953125,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 75.34375,
+        "y": 27,
+        "width": 105.21875,
+        "height": 65.390625
+      },
+      "title": {
+        "x": 75.34375,
+        "y": 27,
+        "width": 105.21875,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 75.34375,
+        "y": 54,
+        "width": 105.21875,
+        "height": 38.390625
+      },
+      "status": {
+        "x": 192.5625,
+        "y": 47.09375,
+        "width": 108.4375,
+        "height": 25.1953125
+      },
+      "statusText": "\uC608\uC2DC \uC5F0\uACB0 \uD655\uC778",
+      "serverRow": {
+        "x": 27,
+        "y": 113.390625,
+        "width": 274,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 129.390625,
+            "width": 146,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 129.390625,
+            "width": 146,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 155.5859375,
+            "width": 146,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC11C\uBC84 \uC8FC\uC18C",
+          "value": "target.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 189,
+            "y": 129.390625,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 189,
+            "y": 129.390625,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 189,
+            "y": 155.5859375,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uD3EC\uD2B8",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 215.5859375,
+            "width": 274,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 215.5859375,
+            "width": 274,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 241.78125,
+            "width": 274,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uB370\uC774\uD130\uBCA0\uC774\uC2A4",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 301.78125,
+            "width": 274,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 301.78125,
+            "width": 274,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 327.9765625,
+            "width": 274,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC870\uD68C \uACC4\uC815",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 387.9765625,
+            "width": 274,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 387.9765625,
+            "width": 274,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 414.171875,
+            "width": 274,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 463.171875,
+            "width": 274,
+            "height": 38.390625
+          },
+          "labelText": "\uBE44\uBC00\uBC88\uD638",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "en-source-328-0",
+      "width": 328,
+      "height": 509.3671875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 274,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 91.5625,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 91.5625,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 91.5625,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 204.1015625,
+        "y": 37.5,
+        "width": 96.8984375,
+        "height": 25.1953125
+      },
+      "statusText": "Not checked",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 274,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 146,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 146,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 146,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Server",
+          "value": "source.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 189,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 189,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 189,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Port",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 274,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 274,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 274,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Database",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 274,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 274,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 274,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Reader account",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 274,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 274,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 274,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 274,
+            "height": 38.390625
+          },
+          "labelText": "Password",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "en-source-328-1",
+      "width": 328,
+      "height": 555.5625,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 274,
+        "height": 113.390625
+      },
+      "mark": {
+        "x": 27,
+        "y": 53.1953125,
+        "width": 37.0078125,
+        "height": 40
+      },
+      "icon": {
+        "x": 34.5,
+        "y": 62.1953125,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 76.0078125,
+        "y": 27,
+        "width": 84.359375,
+        "height": 92.390625
+      },
+      "title": {
+        "x": 76.0078125,
+        "y": 27,
+        "width": 84.359375,
+        "height": 54
+      },
+      "subtitle": {
+        "x": 76.0078125,
+        "y": 81,
+        "width": 84.359375,
+        "height": 38.390625
+      },
+      "status": {
+        "x": 172.3671875,
+        "y": 60.59375,
+        "width": 128.6328125,
+        "height": 25.1953125
+      },
+      "statusText": "Sample connected",
+      "serverRow": {
+        "x": 27,
+        "y": 140.390625,
+        "width": 274,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 156.390625,
+            "width": 146,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 156.390625,
+            "width": 146,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 182.5859375,
+            "width": 146,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Server",
+          "value": "source.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 189,
+            "y": 156.390625,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 189,
+            "y": 156.390625,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 189,
+            "y": 182.5859375,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Port",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 242.5859375,
+            "width": 274,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 242.5859375,
+            "width": 274,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 268.78125,
+            "width": 274,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Database",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 328.78125,
+            "width": 274,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 328.78125,
+            "width": 274,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 354.9765625,
+            "width": 274,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Reader account",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 414.9765625,
+            "width": 274,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 414.9765625,
+            "width": 274,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 441.171875,
+            "width": 274,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 490.171875,
+            "width": 274,
+            "height": 38.390625
+          },
+          "labelText": "Password",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "en-target-328-0",
+      "width": 328,
+      "height": 509.3671875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 274,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 83.2890625,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 83.2890625,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 83.2890625,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 204.1015625,
+        "y": 37.5,
+        "width": 96.8984375,
+        "height": 25.1953125
+      },
+      "statusText": "Not checked",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 274,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 146,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 146,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 146,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Server",
+          "value": "target.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 189,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 189,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 189,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Port",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 274,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 274,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 274,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Database",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 274,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 274,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 274,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Reader account",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 274,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 274,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 274,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 274,
+            "height": 38.390625
+          },
+          "labelText": "Password",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "en-target-328-1",
+      "width": 328,
+      "height": 555.5625,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 274,
+        "height": 113.390625
+      },
+      "mark": {
+        "x": 27,
+        "y": 53.1953125,
+        "width": 39.3984375,
+        "height": 40
+      },
+      "icon": {
+        "x": 35.6953125,
+        "y": 62.1953125,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 78.3984375,
+        "y": 27,
+        "width": 81.96875,
+        "height": 92.390625
+      },
+      "title": {
+        "x": 78.3984375,
+        "y": 27,
+        "width": 81.96875,
+        "height": 54
+      },
+      "subtitle": {
+        "x": 78.3984375,
+        "y": 81,
+        "width": 81.96875,
+        "height": 38.390625
+      },
+      "status": {
+        "x": 172.3671875,
+        "y": 60.59375,
+        "width": 128.6328125,
+        "height": 25.1953125
+      },
+      "statusText": "Sample connected",
+      "serverRow": {
+        "x": 27,
+        "y": 140.390625,
+        "width": 274,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 156.390625,
+            "width": 146,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 156.390625,
+            "width": 146,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 182.5859375,
+            "width": 146,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Server",
+          "value": "target.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 189,
+            "y": 156.390625,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 189,
+            "y": 156.390625,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 189,
+            "y": 182.5859375,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Port",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 242.5859375,
+            "width": 274,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 242.5859375,
+            "width": 274,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 268.78125,
+            "width": 274,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Database",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 328.78125,
+            "width": 274,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 328.78125,
+            "width": 274,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 354.9765625,
+            "width": 274,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Reader account",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 414.9765625,
+            "width": 274,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 414.9765625,
+            "width": 274,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 441.171875,
+            "width": 274,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 490.171875,
+            "width": 274,
+            "height": 38.390625
+          },
+          "labelText": "Password",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "ko-source-338-0",
+      "width": 338,
+      "height": 509.3671875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 284,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 116.4375,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 247,
+        "y": 37.5,
+        "width": 64,
+        "height": 25.1953125
+      },
+      "statusText": "\uBBF8\uD655\uC778",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 284,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 156,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 156,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 156,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC11C\uBC84 \uC8FC\uC18C",
+          "value": "source.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 199,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 199,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 199,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uD3EC\uD2B8",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 284,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 284,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 284,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uB370\uC774\uD130\uBCA0\uC774\uC2A4",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 284,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 284,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 284,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC870\uD68C \uACC4\uC815",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 284,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 284,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 284,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 284,
+            "height": 38.390625
+          },
+          "labelText": "\uBE44\uBC00\uBC88\uD638",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "ko-source-338-1",
+      "width": 338,
+      "height": 528.5625,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 284,
+        "height": 86.390625
+      },
+      "mark": {
+        "x": 27,
+        "y": 39.6953125,
+        "width": 38.796875,
+        "height": 40
+      },
+      "icon": {
+        "x": 35.3984375,
+        "y": 48.6953125,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 77.796875,
+        "y": 27,
+        "width": 112.765625,
+        "height": 65.390625
+      },
+      "title": {
+        "x": 77.796875,
+        "y": 27,
+        "width": 112.765625,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 77.796875,
+        "y": 54,
+        "width": 112.765625,
+        "height": 38.390625
+      },
+      "status": {
+        "x": 202.5625,
+        "y": 47.09375,
+        "width": 108.4375,
+        "height": 25.1953125
+      },
+      "statusText": "\uC608\uC2DC \uC5F0\uACB0 \uD655\uC778",
+      "serverRow": {
+        "x": 27,
+        "y": 113.390625,
+        "width": 284,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 129.390625,
+            "width": 156,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 129.390625,
+            "width": 156,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 155.5859375,
+            "width": 156,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC11C\uBC84 \uC8FC\uC18C",
+          "value": "source.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 199,
+            "y": 129.390625,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 199,
+            "y": 129.390625,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 199,
+            "y": 155.5859375,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uD3EC\uD2B8",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 215.5859375,
+            "width": 284,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 215.5859375,
+            "width": 284,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 241.78125,
+            "width": 284,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uB370\uC774\uD130\uBCA0\uC774\uC2A4",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 301.78125,
+            "width": 284,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 301.78125,
+            "width": 284,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 327.9765625,
+            "width": 284,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC870\uD68C \uACC4\uC815",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 387.9765625,
+            "width": 284,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 387.9765625,
+            "width": 284,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 414.171875,
+            "width": 284,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 463.171875,
+            "width": 284,
+            "height": 38.390625
+          },
+          "labelText": "\uBE44\uBC00\uBC88\uD638",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "ko-target-338-0",
+      "width": 338,
+      "height": 509.3671875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 284,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 116.4375,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 247,
+        "y": 37.5,
+        "width": 64,
+        "height": 25.1953125
+      },
+      "statusText": "\uBBF8\uD655\uC778",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 284,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 156,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 156,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 156,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC11C\uBC84 \uC8FC\uC18C",
+          "value": "target.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 199,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 199,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 199,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uD3EC\uD2B8",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 284,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 284,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 284,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uB370\uC774\uD130\uBCA0\uC774\uC2A4",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 284,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 284,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 284,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC870\uD68C \uACC4\uC815",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 284,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 284,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 284,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 284,
+            "height": 38.390625
+          },
+          "labelText": "\uBE44\uBC00\uBC88\uD638",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "ko-target-338-1",
+      "width": 338,
+      "height": 528.5625,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 284,
+        "height": 86.390625
+      },
+      "mark": {
+        "x": 27,
+        "y": 39.6953125,
+        "width": 38.796875,
+        "height": 40
+      },
+      "icon": {
+        "x": 35.3984375,
+        "y": 48.6953125,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 77.796875,
+        "y": 27,
+        "width": 112.765625,
+        "height": 65.390625
+      },
+      "title": {
+        "x": 77.796875,
+        "y": 27,
+        "width": 112.765625,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 77.796875,
+        "y": 54,
+        "width": 112.765625,
+        "height": 38.390625
+      },
+      "status": {
+        "x": 202.5625,
+        "y": 47.09375,
+        "width": 108.4375,
+        "height": 25.1953125
+      },
+      "statusText": "\uC608\uC2DC \uC5F0\uACB0 \uD655\uC778",
+      "serverRow": {
+        "x": 27,
+        "y": 113.390625,
+        "width": 284,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 129.390625,
+            "width": 156,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 129.390625,
+            "width": 156,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 155.5859375,
+            "width": 156,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC11C\uBC84 \uC8FC\uC18C",
+          "value": "target.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 199,
+            "y": 129.390625,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 199,
+            "y": 129.390625,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 199,
+            "y": 155.5859375,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uD3EC\uD2B8",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 215.5859375,
+            "width": 284,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 215.5859375,
+            "width": 284,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 241.78125,
+            "width": 284,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uB370\uC774\uD130\uBCA0\uC774\uC2A4",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 301.78125,
+            "width": 284,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 301.78125,
+            "width": 284,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 327.9765625,
+            "width": 284,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC870\uD68C \uACC4\uC815",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 387.9765625,
+            "width": 284,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 387.9765625,
+            "width": 284,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 414.171875,
+            "width": 284,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 463.171875,
+            "width": 284,
+            "height": 38.390625
+          },
+          "labelText": "\uBE44\uBC00\uBC88\uD638",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "en-source-338-0",
+      "width": 338,
+      "height": 509.3671875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 284,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 91.5625,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 91.5625,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 91.5625,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 214.1015625,
+        "y": 37.5,
+        "width": 96.8984375,
+        "height": 25.1953125
+      },
+      "statusText": "Not checked",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 284,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 156,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 156,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 156,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Server",
+          "value": "source.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 199,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 199,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 199,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Port",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 284,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 284,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 284,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Database",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 284,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 284,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 284,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Reader account",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 284,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 284,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 284,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 284,
+            "height": 38.390625
+          },
+          "labelText": "Password",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "en-source-338-1",
+      "width": 338,
+      "height": 528.5625,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 284,
+        "height": 86.390625
+      },
+      "mark": {
+        "x": 27,
+        "y": 39.6953125,
+        "width": 39.9453125,
+        "height": 40
+      },
+      "icon": {
+        "x": 35.96875,
+        "y": 48.6953125,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 78.9453125,
+        "y": 27,
+        "width": 91.421875,
+        "height": 65.390625
+      },
+      "title": {
+        "x": 78.9453125,
+        "y": 27,
+        "width": 91.421875,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 78.9453125,
+        "y": 54,
+        "width": 91.421875,
+        "height": 38.390625
+      },
+      "status": {
+        "x": 182.3671875,
+        "y": 47.09375,
+        "width": 128.6328125,
+        "height": 25.1953125
+      },
+      "statusText": "Sample connected",
+      "serverRow": {
+        "x": 27,
+        "y": 113.390625,
+        "width": 284,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 129.390625,
+            "width": 156,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 129.390625,
+            "width": 156,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 155.5859375,
+            "width": 156,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Server",
+          "value": "source.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 199,
+            "y": 129.390625,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 199,
+            "y": 129.390625,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 199,
+            "y": 155.5859375,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Port",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 215.5859375,
+            "width": 284,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 215.5859375,
+            "width": 284,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 241.78125,
+            "width": 284,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Database",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 301.78125,
+            "width": 284,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 301.78125,
+            "width": 284,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 327.9765625,
+            "width": 284,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Reader account",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 387.9765625,
+            "width": 284,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 387.9765625,
+            "width": 284,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 414.171875,
+            "width": 284,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 463.171875,
+            "width": 284,
+            "height": 38.390625
+          },
+          "labelText": "Password",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "en-target-338-0",
+      "width": 338,
+      "height": 509.3671875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 284,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 83.2890625,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 83.2890625,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 83.2890625,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 214.1015625,
+        "y": 37.5,
+        "width": 96.8984375,
+        "height": 25.1953125
+      },
+      "statusText": "Not checked",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 284,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 156,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 156,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 156,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Server",
+          "value": "target.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 199,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 199,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 199,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Port",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 284,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 284,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 284,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Database",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 284,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 284,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 284,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Reader account",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 284,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 284,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 284,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 284,
+            "height": 38.390625
+          },
+          "labelText": "Password",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "en-target-338-1",
+      "width": 338,
+      "height": 509.3671875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 284,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 83.2890625,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 83.2890625,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 83.2890625,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 182.3671875,
+        "y": 37.5,
+        "width": 128.6328125,
+        "height": 25.1953125
+      },
+      "statusText": "Sample connected",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 284,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 156,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 156,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 156,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Server",
+          "value": "target.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 199,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 199,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 199,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Port",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 284,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 284,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 284,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Database",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 284,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 284,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 284,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Reader account",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 284,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 284,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 284,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 284,
+            "height": 38.390625
+          },
+          "labelText": "Password",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "ko-source-409-0",
+      "width": 409,
+      "height": 509.3671875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 355,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 116.4375,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 318,
+        "y": 37.5,
+        "width": 64,
+        "height": 25.1953125
+      },
+      "statusText": "\uBBF8\uD655\uC778",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 355,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 227,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 227,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 227,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC11C\uBC84 \uC8FC\uC18C",
+          "value": "source.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 270,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 270,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 270,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uD3EC\uD2B8",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 355,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 355,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 355,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uB370\uC774\uD130\uBCA0\uC774\uC2A4",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 355,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 355,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 355,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC870\uD68C \uACC4\uC815",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 355,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 355,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 355,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 355,
+            "height": 38.390625
+          },
+          "labelText": "\uBE44\uBC00\uBC88\uD638",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "ko-source-409-1",
+      "width": 409,
+      "height": 509.3671875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 355,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 116.4375,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 273.5625,
+        "y": 37.5,
+        "width": 108.4375,
+        "height": 25.1953125
+      },
+      "statusText": "\uC608\uC2DC \uC5F0\uACB0 \uD655\uC778",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 355,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 227,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 227,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 227,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC11C\uBC84 \uC8FC\uC18C",
+          "value": "source.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 270,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 270,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 270,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uD3EC\uD2B8",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 355,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 355,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 355,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uB370\uC774\uD130\uBCA0\uC774\uC2A4",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 355,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 355,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 355,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC870\uD68C \uACC4\uC815",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 355,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 355,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 355,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 355,
+            "height": 38.390625
+          },
+          "labelText": "\uBE44\uBC00\uBC88\uD638",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "ko-target-409-0",
+      "width": 409,
+      "height": 509.3671875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 355,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 116.4375,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 318,
+        "y": 37.5,
+        "width": 64,
+        "height": 25.1953125
+      },
+      "statusText": "\uBBF8\uD655\uC778",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 355,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 227,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 227,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 227,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC11C\uBC84 \uC8FC\uC18C",
+          "value": "target.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 270,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 270,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 270,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uD3EC\uD2B8",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 355,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 355,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 355,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uB370\uC774\uD130\uBCA0\uC774\uC2A4",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 355,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 355,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 355,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC870\uD68C \uACC4\uC815",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 355,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 355,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 355,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 355,
+            "height": 38.390625
+          },
+          "labelText": "\uBE44\uBC00\uBC88\uD638",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "ko-target-409-1",
+      "width": 409,
+      "height": 509.3671875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 355,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 116.4375,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 273.5625,
+        "y": 37.5,
+        "width": 108.4375,
+        "height": 25.1953125
+      },
+      "statusText": "\uC608\uC2DC \uC5F0\uACB0 \uD655\uC778",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 355,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 227,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 227,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 227,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC11C\uBC84 \uC8FC\uC18C",
+          "value": "target.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 270,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 270,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 270,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uD3EC\uD2B8",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 355,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 355,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 355,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uB370\uC774\uD130\uBCA0\uC774\uC2A4",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 355,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 355,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 355,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC870\uD68C \uACC4\uC815",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 355,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 355,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 355,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 355,
+            "height": 38.390625
+          },
+          "labelText": "\uBE44\uBC00\uBC88\uD638",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "en-source-409-0",
+      "width": 409,
+      "height": 509.3671875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 355,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 91.5625,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 91.5625,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 91.5625,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 285.1015625,
+        "y": 37.5,
+        "width": 96.8984375,
+        "height": 25.1953125
+      },
+      "statusText": "Not checked",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 355,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 227,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 227,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 227,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Server",
+          "value": "source.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 270,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 270,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 270,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Port",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 355,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 355,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 355,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Database",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 355,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 355,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 355,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Reader account",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 355,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 355,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 355,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 355,
+            "height": 38.390625
+          },
+          "labelText": "Password",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "en-source-409-1",
+      "width": 409,
+      "height": 509.3671875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 355,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 91.5625,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 91.5625,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 91.5625,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 253.3671875,
+        "y": 37.5,
+        "width": 128.6328125,
+        "height": 25.1953125
+      },
+      "statusText": "Sample connected",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 355,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 227,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 227,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 227,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Server",
+          "value": "source.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 270,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 270,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 270,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Port",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 355,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 355,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 355,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Database",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 355,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 355,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 355,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Reader account",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 355,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 355,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 355,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 355,
+            "height": 38.390625
+          },
+          "labelText": "Password",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "en-target-409-0",
+      "width": 409,
+      "height": 509.3671875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 355,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 83.2890625,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 83.2890625,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 83.2890625,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 285.1015625,
+        "y": 37.5,
+        "width": 96.8984375,
+        "height": 25.1953125
+      },
+      "statusText": "Not checked",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 355,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 227,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 227,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 227,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Server",
+          "value": "target.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 270,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 270,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 270,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Port",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 355,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 355,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 355,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Database",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 355,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 355,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 355,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Reader account",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 355,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 355,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 355,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 355,
+            "height": 38.390625
+          },
+          "labelText": "Password",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "en-target-409-1",
+      "width": 409,
+      "height": 509.3671875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 355,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 83.2890625,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 83.2890625,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 83.2890625,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 253.3671875,
+        "y": 37.5,
+        "width": 128.6328125,
+        "height": 25.1953125
+      },
+      "statusText": "Sample connected",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 355,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 227,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 227,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 227,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Server",
+          "value": "target.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 270,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 270,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 270,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Port",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 355,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 355,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 355,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Database",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 355,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 355,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 355,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Reader account",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 355,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 355,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 355,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 355,
+            "height": 38.390625
+          },
+          "labelText": "Password",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "ko-source-442-0",
+      "width": 442,
+      "height": 490.171875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 388,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 116.4375,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 351,
+        "y": 37.5,
+        "width": 64,
+        "height": 25.1953125
+      },
+      "statusText": "\uBBF8\uD655\uC778",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 388,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 260,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 260,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 260,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC11C\uBC84 \uC8FC\uC18C",
+          "value": "source.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 303,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 303,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 303,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uD3EC\uD2B8",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 388,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 388,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uB370\uC774\uD130\uBCA0\uC774\uC2A4",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 388,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 388,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC870\uD68C \uACC4\uC815",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 388,
+            "height": 94.390625
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 388,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "labelText": "\uBE44\uBC00\uBC88\uD638",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "ko-source-442-1",
+      "width": 442,
+      "height": 490.171875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 388,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 116.4375,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 306.5625,
+        "y": 37.5,
+        "width": 108.4375,
+        "height": 25.1953125
+      },
+      "statusText": "\uC608\uC2DC \uC5F0\uACB0 \uD655\uC778",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 388,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 260,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 260,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 260,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC11C\uBC84 \uC8FC\uC18C",
+          "value": "source.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 303,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 303,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 303,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uD3EC\uD2B8",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 388,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 388,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uB370\uC774\uD130\uBCA0\uC774\uC2A4",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 388,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 388,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC870\uD68C \uACC4\uC815",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 388,
+            "height": 94.390625
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 388,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "labelText": "\uBE44\uBC00\uBC88\uD638",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "ko-target-442-0",
+      "width": 442,
+      "height": 490.171875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 388,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 116.4375,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 351,
+        "y": 37.5,
+        "width": 64,
+        "height": 25.1953125
+      },
+      "statusText": "\uBBF8\uD655\uC778",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 388,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 260,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 260,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 260,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC11C\uBC84 \uC8FC\uC18C",
+          "value": "target.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 303,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 303,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 303,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uD3EC\uD2B8",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 388,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 388,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uB370\uC774\uD130\uBCA0\uC774\uC2A4",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 388,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 388,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC870\uD68C \uACC4\uC815",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 388,
+            "height": 94.390625
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 388,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "labelText": "\uBE44\uBC00\uBC88\uD638",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "ko-target-442-1",
+      "width": 442,
+      "height": 490.171875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 388,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 116.4375,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 306.5625,
+        "y": 37.5,
+        "width": 108.4375,
+        "height": 25.1953125
+      },
+      "statusText": "\uC608\uC2DC \uC5F0\uACB0 \uD655\uC778",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 388,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 260,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 260,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 260,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC11C\uBC84 \uC8FC\uC18C",
+          "value": "target.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 303,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 303,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 303,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uD3EC\uD2B8",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 388,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 388,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uB370\uC774\uD130\uBCA0\uC774\uC2A4",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 388,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 388,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC870\uD68C \uACC4\uC815",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 388,
+            "height": 94.390625
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 388,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "labelText": "\uBE44\uBC00\uBC88\uD638",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "en-source-442-0",
+      "width": 442,
+      "height": 509.3671875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 388,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 91.5625,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 91.5625,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 91.5625,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 318.1015625,
+        "y": 37.5,
+        "width": 96.8984375,
+        "height": 25.1953125
+      },
+      "statusText": "Not checked",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 388,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 260,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 260,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 260,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Server",
+          "value": "source.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 303,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 303,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 303,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Port",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 388,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 388,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Database",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 388,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 388,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Reader account",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 388,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 388,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 388,
+            "height": 38.390625
+          },
+          "labelText": "Password",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "en-source-442-1",
+      "width": 442,
+      "height": 509.3671875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 388,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 91.5625,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 91.5625,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 91.5625,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 286.3671875,
+        "y": 37.5,
+        "width": 128.6328125,
+        "height": 25.1953125
+      },
+      "statusText": "Sample connected",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 388,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 260,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 260,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 260,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Server",
+          "value": "source.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 303,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 303,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 303,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Port",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 388,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 388,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Database",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 388,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 388,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Reader account",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 388,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 388,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 388,
+            "height": 38.390625
+          },
+          "labelText": "Password",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "en-target-442-0",
+      "width": 442,
+      "height": 509.3671875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 388,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 83.2890625,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 83.2890625,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 83.2890625,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 318.1015625,
+        "y": 37.5,
+        "width": 96.8984375,
+        "height": 25.1953125
+      },
+      "statusText": "Not checked",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 388,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 260,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 260,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 260,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Server",
+          "value": "target.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 303,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 303,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 303,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Port",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 388,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 388,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Database",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 388,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 388,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Reader account",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 388,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 388,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 388,
+            "height": 38.390625
+          },
+          "labelText": "Password",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "en-target-442-1",
+      "width": 442,
+      "height": 509.3671875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 388,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 83.2890625,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 83.2890625,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 83.2890625,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 286.3671875,
+        "y": 37.5,
+        "width": 128.6328125,
+        "height": 25.1953125
+      },
+      "statusText": "Sample connected",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 388,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 260,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 260,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 260,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Server",
+          "value": "target.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 303,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 303,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 303,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Port",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 388,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 388,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Database",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 388,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 388,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Reader account",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 388,
+            "height": 113.5859375
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 388,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 388,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 388,
+            "height": 38.390625
+          },
+          "labelText": "Password",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "ko-source-522-0",
+      "width": 522,
+      "height": 490.171875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 468,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 116.4375,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 431,
+        "y": 37.5,
+        "width": 64,
+        "height": 25.1953125
+      },
+      "statusText": "\uBBF8\uD655\uC778",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 468,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 340,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 340,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 340,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC11C\uBC84 \uC8FC\uC18C",
+          "value": "source.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 383,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 383,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 383,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uD3EC\uD2B8",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 468,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 468,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uB370\uC774\uD130\uBCA0\uC774\uC2A4",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 468,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 468,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC870\uD68C \uACC4\uC815",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 468,
+            "height": 94.390625
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 468,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "labelText": "\uBE44\uBC00\uBC88\uD638",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "ko-source-522-1",
+      "width": 522,
+      "height": 490.171875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 468,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 116.4375,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 386.5625,
+        "y": 37.5,
+        "width": 108.4375,
+        "height": 25.1953125
+      },
+      "statusText": "\uC608\uC2DC \uC5F0\uACB0 \uD655\uC778",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 468,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 340,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 340,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 340,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC11C\uBC84 \uC8FC\uC18C",
+          "value": "source.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 383,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 383,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 383,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uD3EC\uD2B8",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 468,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 468,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uB370\uC774\uD130\uBCA0\uC774\uC2A4",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 468,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 468,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC870\uD68C \uACC4\uC815",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 468,
+            "height": 94.390625
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 468,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "labelText": "\uBE44\uBC00\uBC88\uD638",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "ko-target-522-0",
+      "width": 522,
+      "height": 490.171875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 468,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 116.4375,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 431,
+        "y": 37.5,
+        "width": 64,
+        "height": 25.1953125
+      },
+      "statusText": "\uBBF8\uD655\uC778",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 468,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 340,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 340,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 340,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC11C\uBC84 \uC8FC\uC18C",
+          "value": "target.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 383,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 383,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 383,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uD3EC\uD2B8",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 468,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 468,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uB370\uC774\uD130\uBCA0\uC774\uC2A4",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 468,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 468,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC870\uD68C \uACC4\uC815",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 468,
+            "height": 94.390625
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 468,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "labelText": "\uBE44\uBC00\uBC88\uD638",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "ko-target-522-1",
+      "width": 522,
+      "height": 490.171875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 468,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 116.4375,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 116.4375,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 386.5625,
+        "y": 37.5,
+        "width": 108.4375,
+        "height": 25.1953125
+      },
+      "statusText": "\uC608\uC2DC \uC5F0\uACB0 \uD655\uC778",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 468,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 340,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 340,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 340,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC11C\uBC84 \uC8FC\uC18C",
+          "value": "target.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 383,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 383,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 383,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uD3EC\uD2B8",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 468,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 468,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uB370\uC774\uD130\uBCA0\uC774\uC2A4",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 468,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 468,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "\uC870\uD68C \uACC4\uC815",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 468,
+            "height": 94.390625
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 468,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "labelText": "\uBE44\uBC00\uBC88\uD638",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "en-source-522-0",
+      "width": 522,
+      "height": 490.171875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 468,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 91.5625,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 91.5625,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 91.5625,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 398.1015625,
+        "y": 37.5,
+        "width": 96.8984375,
+        "height": 25.1953125
+      },
+      "statusText": "Not checked",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 468,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 340,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 340,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 340,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Server",
+          "value": "source.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 383,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 383,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 383,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Port",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 468,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 468,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Database",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 468,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 468,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Reader account",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 468,
+            "height": 94.390625
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 468,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "labelText": "Password",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "en-source-522-1",
+      "width": 522,
+      "height": 490.171875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 468,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 91.5625,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 91.5625,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 91.5625,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 366.3671875,
+        "y": 37.5,
+        "width": 128.6328125,
+        "height": 25.1953125
+      },
+      "statusText": "Sample connected",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 468,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 340,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 340,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 340,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Server",
+          "value": "source.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 383,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 383,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 383,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Port",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 468,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 468,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Database",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 468,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 468,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Reader account",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 468,
+            "height": 94.390625
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 468,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "labelText": "Password",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "en-target-522-0",
+      "width": 522,
+      "height": 490.171875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 468,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 83.2890625,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 83.2890625,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 83.2890625,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 398.1015625,
+        "y": 37.5,
+        "width": 96.8984375,
+        "height": 25.1953125
+      },
+      "statusText": "Not checked",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 468,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 340,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 340,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 340,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Server",
+          "value": "target.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 383,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 383,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 383,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Port",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 468,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 468,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Database",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 468,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 468,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Reader account",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 468,
+            "height": 94.390625
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 468,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "labelText": "Password",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "en-target-522-1",
+      "width": 522,
+      "height": 490.171875,
+      "shadow": "rgba(0, 0, 0, 0.063) 0px 2px 4px 0px",
+      "header": {
+        "x": 27,
+        "y": 27,
+        "width": 468,
+        "height": 67.1953125
+      },
+      "mark": {
+        "x": 27,
+        "y": 30.09375,
+        "width": 40,
+        "height": 40
+      },
+      "icon": {
+        "x": 36,
+        "y": 39.09375,
+        "width": 22,
+        "height": 22
+      },
+      "titles": {
+        "x": 79,
+        "y": 27,
+        "width": 83.2890625,
+        "height": 46.1953125
+      },
+      "title": {
+        "x": 79,
+        "y": 27,
+        "width": 83.2890625,
+        "height": 27
+      },
+      "subtitle": {
+        "x": 79,
+        "y": 54,
+        "width": 83.2890625,
+        "height": 19.1953125
+      },
+      "status": {
+        "x": 366.3671875,
+        "y": 37.5,
+        "width": 128.6328125,
+        "height": 25.1953125
+      },
+      "statusText": "Sample connected",
+      "serverRow": {
+        "x": 27,
+        "y": 94.1953125,
+        "width": 468,
+        "height": 86.1953125
+      },
+      "fields": [
+        {
+          "box": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 340,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 110.1953125,
+            "width": 340,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 136.390625,
+            "width": 340,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Server",
+          "value": "target.example.invalid",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 383,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 383,
+            "y": 110.1953125,
+            "width": 112,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 383,
+            "y": 136.390625,
+            "width": 112,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Port",
+          "value": "1433",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 468,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 196.390625,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 222.5859375,
+            "width": 468,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Database",
+          "value": "migration_sample",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 468,
+            "height": 70.1953125
+          },
+          "label": {
+            "x": 27,
+            "y": 282.5859375,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 308.78125,
+            "width": 468,
+            "height": 44
+          },
+          "hint": null,
+          "labelText": "Reader account",
+          "value": "demo_reader",
+          "disabled": false
+        },
+        {
+          "box": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 468,
+            "height": 94.390625
+          },
+          "label": {
+            "x": 27,
+            "y": 368.78125,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "input": {
+            "x": 27,
+            "y": 394.9765625,
+            "width": 468,
+            "height": 44
+          },
+          "hint": {
+            "x": 27,
+            "y": 443.9765625,
+            "width": 468,
+            "height": 19.1953125
+          },
+          "labelText": "Password",
+          "value": "",
+          "disabled": true
+        }
+      ]
+    }
+  ]
+}

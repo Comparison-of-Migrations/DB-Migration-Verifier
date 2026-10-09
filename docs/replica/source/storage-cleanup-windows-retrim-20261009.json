@@ -1,0 +1,6 @@
+{
+  "operation": "Online Windows C volume retrim only; no defrag/full-volume zeros/partition resize/VM stop/snapshot deletion",
+  "exit": 0,
+  "stdout": "RETRIM_COMPLETE\r\n",
+  "stderr": ""
+}

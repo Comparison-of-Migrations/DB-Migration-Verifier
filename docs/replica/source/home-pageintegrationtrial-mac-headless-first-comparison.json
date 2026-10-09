@@ -1,0 +1,29 @@
+{
+  "phase": "FAILED",
+  "scope": "New connected Trial parent only; source synthetic flow oracle does not replace actual OS input",
+  "cases": 52,
+  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/home-pageintegrationtrial-mac-source.json",
+  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/pageintegration/a1336b024a2f441498a0e25963609ef0/outputs/ba7d9015f4ae4c899d20a861d8eddc6e/candidate",
+  "differences": [
+    {
+      "field": "ko-disabled.focus",
+      "source": "BODY",
+      "candidate": "screen-title"
+    },
+    {
+      "field": "ko-consent-reset.focus",
+      "source": "BODY",
+      "candidate": "trial.consent"
+    },
+    {
+      "field": "en-disabled.focus",
+      "source": "language",
+      "candidate": "screen-title"
+    },
+    {
+      "field": "en-consent-reset.focus",
+      "source": "BODY",
+      "candidate": "trial.consent"
+    }
+  ]
+}

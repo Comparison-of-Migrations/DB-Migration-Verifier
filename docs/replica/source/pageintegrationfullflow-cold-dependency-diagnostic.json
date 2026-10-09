@@ -1,0 +1,23 @@
+{
+  "scope": "Host-only fullcold archive static dependency comparison; startup cause not asserted",
+  "archives": [
+    "b3e31c55b0f140ce8f0970e4e864d24e",
+    "59e66aab27d742c7ab0dcd3fbee4347a"
+  ],
+  "fileCounts": [
+    273,
+    273
+  ],
+  "changed": [
+    "Verifier.Core.pdb",
+    "ReplicaProbe.dll",
+    "Verifier.Data.dll",
+    "Verifier.Desktop.pdb",
+    "Verifier.Data.pdb",
+    "Verifier.Core.dll",
+    "ReplicaProbe.pdb",
+    "Verifier.Desktop.dll"
+  ],
+  "added": [],
+  "removed": []
+}

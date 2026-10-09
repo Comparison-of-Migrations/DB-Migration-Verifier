@@ -1,0 +1,189 @@
+[
+  {
+    "id": "english-boundary",
+    "sourceLines": [
+      87.0625,
+      71.7109375
+    ],
+    "nativeLines": [
+      87.0625,
+      71.708984375
+    ],
+    "heightDifference": 0.003124999999997158,
+    "widthDifference": 0.004687499999988631
+  },
+  {
+    "id": "english-fit",
+    "sourceLines": [
+      162.234375
+    ],
+    "nativeLines": [
+      162.23046875
+    ],
+    "heightDifference": 0.001562499999998579,
+    "widthDifference": 0.005625000000009095
+  },
+  {
+    "id": "long-object",
+    "sourceLines": [
+      1098.140625
+    ],
+    "nativeLines": [
+      1098.140625
+    ],
+    "heightDifference": -0.0031250000000007105,
+    "widthDifference": 0
+  },
+  {
+    "id": "ligature",
+    "sourceLines": [
+      85.0078125,
+      25.234375
+    ],
+    "nativeLines": [
+      85.0048828125,
+      25.2314453125
+    ],
+    "heightDifference": 0.003124999999997158,
+    "widthDifference": 0
+  },
+  {
+    "id": "cluster",
+    "sourceLines": [
+      138.65625
+    ],
+    "nativeLines": [
+      138.65414428710938
+    ],
+    "heightDifference": 0.001562499999998579,
+    "widthDifference": 0
+  },
+  {
+    "id": "fallback-space",
+    "sourceLines": [
+      82.0546875,
+      36.3359375
+    ],
+    "nativeLines": [
+      82.04875183105469,
+      36.33000183105469
+    ],
+    "heightDifference": 0.003124999999997158,
+    "widthDifference": 0
+  },
+  {
+    "id": "whitespace",
+    "sourceLines": [
+      135.640625
+    ],
+    "nativeLines": [
+      135.63648986816406
+    ],
+    "heightDifference": 0.001562499999998579,
+    "widthDifference": 0
+  },
+  {
+    "id": "home-edge-0",
+    "sourceLines": [
+      93.421875,
+      47.2578125
+    ],
+    "nativeLines": [
+      93.41809387207033,
+      47.2550079345703
+    ],
+    "heightDifference": 0.003124999999997158,
+    "widthDifference": 0.0021875000000193268
+  },
+  {
+    "id": "home-edge-1",
+    "sourceLines": [
+      400.8984375,
+      29.8828125
+    ],
+    "nativeLines": [
+      400.89655456542977,
+      29.879999389648436
+    ],
+    "heightDifference": -0.003124999999997158,
+    "widthDifference": 0.00437499999998181
+  },
+  {
+    "id": "home-edge-2",
+    "sourceLines": [
+      291.7890625,
+      16.1171875
+    ],
+    "nativeLines": [
+      291.78790283203125,
+      16.115859985351562
+    ],
+    "heightDifference": -0.006250000000001421,
+    "widthDifference": 0.007187499999986358
+  },
+  {
+    "id": "home-edge-3",
+    "sourceLines": [
+      466.8125,
+      403.8515625
+    ],
+    "nativeLines": [
+      466.8101501464844,
+      403.8470458984375
+    ],
+    "heightDifference": 0,
+    "widthDifference": 0.006562500000029559
+  },
+  {
+    "id": "home-edge-4",
+    "sourceLines": [
+      359.2578125,
+      13.9453125
+    ],
+    "nativeLines": [
+      359.253173828125,
+      13.9425048828125
+    ],
+    "heightDifference": -0.006250000000001421,
+    "widthDifference": 0.0024999999999977263
+  },
+  {
+    "id": "home-edge-5",
+    "sourceLines": [
+      99.453125,
+      12.1171875
+    ],
+    "nativeLines": [
+      99.45004272460938,
+      12.110000610351562
+    ],
+    "heightDifference": 0.003124999999997158,
+    "widthDifference": 0.003124999999997158
+  },
+  {
+    "id": "home-edge-6",
+    "sourceLines": [
+      287.28125,
+      15.03125
+    ],
+    "nativeLines": [
+      287.2755126953125,
+      15.0281982421875
+    ],
+    "heightDifference": 0.006250000000001421,
+    "widthDifference": 0.0009375000000204636
+  },
+  {
+    "id": "home-edge-7",
+    "sourceLines": [
+      364.96875,
+      434.1328125
+    ],
+    "nativeLines": [
+      364.96671081543,
+      434.12777221679727
+    ],
+    "heightDifference": -0.003124999999997158,
+    "widthDifference": 0.004062500000031832
+  }
+]

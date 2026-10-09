@@ -1,0 +1,13 @@
+{
+  "component": "Typography",
+  "contract": "Verified plain-text CreateCandidate; legacy Create/parents are not replica completion.",
+  "files": {
+    "src/Verifier.Desktop/WebTypography.cs": "8c7c7fbea0dc2a1c8621e818dd8b714ec43abb8802a75d52d869936b68f40079",
+    "src/Verifier.Desktop/WebSystemTextBlock.cs": "1501a22bf51cbd18fcb6fab53fc03f89a2424211820a4b8aa1059ee2ed5fbfb5",
+    "src/Verifier.Desktop/MacSystemTextLayout.cs": "ddb0722ab66105536c9ec2b4529d23af9bb109a920de33672160dffaad67138a",
+    "src/Verifier.Desktop/MacSystemGlyphShaper.cs": "db618e034b443427941faa0e0a6a3abe408c717078f2f2a0fb137d6fd58b6484",
+    "src/Verifier.Desktop/WindowsSystemFont.cs": "d229b86b3804e8a6ed227c1b6de931b9537773a6084339c51d7837329bcda5fd",
+    "src/Verifier.Desktop/WindowsWebTextBlock.cs": "a859f72f89151b296d1b0d9a6891e41f9431c6d301ae297fdb282a399f7320b7",
+    "src/Verifier.Desktop/WebTextWhitespace.cs": "05e1aa1217382b26d908e19278a5f876b768d686f1c81b2bc20632d47e350728"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "history": [
+    {
+      "label": "interactive-ready",
+      "filter": "all",
+      "english": false,
+      "title": "\uBD88\uC77C\uCE58\uAC00 \uBC1C\uACAC\uB410\uC2B5\uB2C8\uB2E4",
+      "articleIds": [
+        "F-001",
+        "F-002",
+        "F-003",
+        "U-001"
+      ],
+      "focusId": null,
+      "focusName": null,
+      "keyboard": false,
+      "trialFocused": false,
+      "trialFocusVisible": false,
+      "trialOpacity": 1,
+      "trialScale": 1,
+      "attached": true
+    },
+    {
+      "label": "filter:unknown",
+      "filter": "unknown",
+      "english": false,
+      "title": "\uBD88\uC77C\uCE58\uAC00 \uBC1C\uACAC\uB410\uC2B5\uB2C8\uB2E4",
+      "articleIds": [
+        "U-001"
+      ],
+      "focusId": "Results-filter-unknown",
+      "focusName": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D",
+      "keyboard": false,
+      "trialFocused": false,
+      "trialFocusVisible": false,
+      "trialOpacity": 1,
+      "trialScale": 1,
+      "attached": true
+    },
+    {
+      "label": "filter:unknown",
+      "filter": "unknown",
+      "english": false,
+      "title": "\uBD88\uC77C\uCE58\uAC00 \uBC1C\uACAC\uB410\uC2B5\uB2C8\uB2E4",
+      "articleIds": [
+        "U-001"
+      ],
+      "focusId": "Results-filter-unknown",
+      "focusName": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D",
+      "keyboard": true,
+      "trialFocused": false,
+      "trialFocusVisible": false,
+      "trialOpacity": 1,
+      "trialScale": 1,
+      "attached": true
+    },
+    {
+      "label": "filter:unknown",
+      "filter": "unknown",
+      "english": false,
+      "title": "\uBD88\uC77C\uCE58\uAC00 \uBC1C\uACAC\uB410\uC2B5\uB2C8\uB2E4",
+      "articleIds": [
+        "U-001"
+      ],
+      "focusId": "Results-filter-unknown",
+      "focusName": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D",
+      "keyboard": true,
+      "trialFocused": false,
+      "trialFocusVisible": false,
+      "trialOpacity": 1,
+      "trialScale": 1,
+      "attached": true
+    },
+    {
+      "label": "filter:different",
+      "filter": "different",
+      "english": false,
+      "title": "\uBD88\uC77C\uCE58\uAC00 \uBC1C\uACAC\uB410\uC2B5\uB2C8\uB2E4",
+      "articleIds": [
+        "F-001",
+        "F-002",
+        "F-003"
+      ],
+      "focusId": "Results-filter-different",
+      "focusName": "\uBD88\uC77C\uCE58",
+      "keyboard": false,
+      "trialFocused": false,
+      "trialFocusVisible": false,
+      "trialOpacity": 1,
+      "trialScale": 1,
+      "attached": true
+    },
+    {
+      "label": "research",
+      "filter": "different",
+      "english": false,
+      "title": "\uBD88\uC77C\uCE58\uAC00 \uBC1C\uACAC\uB410\uC2B5\uB2C8\uB2E4",
+      "articleIds": [
+        "F-001",
+        "F-002",
+        "F-003"
+      ],
+      "focusId": "Results-research",
+      "focusName": "\uC5F0\uAD6C \uC5F0\uACB0",
+      "keyboard": true,
+      "trialFocused": false,
+      "trialFocusVisible": false,
+      "trialOpacity": 1,
+      "trialScale": 1,
+      "attached": true
+    },
+    {
+      "label": "detail:data",
+      "filter": "different",
+      "english": false,
+      "title": "\uBD88\uC77C\uCE58\uAC00 \uBC1C\uACAC\uB410\uC2B5\uB2C8\uB2E4",
+      "articleIds": [
+        "F-001",
+        "F-002",
+        "F-003"
+      ],
+      "focusId": null,
+      "focusName": "\uB370\uC774\uD130: \uBD88\uC77C\uCE58 1, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 11. \uC138\uBD80 \uBCF4\uAE30",
+      "keyboard": true,
+      "trialFocused": false,
+      "trialFocusVisible": false,
+      "trialOpacity": 1,
+      "trialScale": 1,
+      "attached": true
+    },
+    {
+      "label": "detail:trial",
+      "filter": "different",
+      "english": false,
+      "title": "\uBD88\uC77C\uCE58\uAC00 \uBC1C\uACAC\uB410\uC2B5\uB2C8\uB2E4",
+      "articleIds": [
+        "F-001",
+        "F-002",
+        "F-003"
+      ],
+      "focusId": "Results-trial",
+      "focusName": "\uC2DC\uD5D8 \uAE30\uB300 \uACB0\uACFC \uBE44\uAD50 \uACB0\uACFC\uC640 \uBCC4\uB3C4 \uD310\uC815 \u00B7 \uC815\uB9AC \uB0B4\uC5ED \uD3EC\uD568 \uAE30\uB300 \uBD88\uCDA9\uC871 \uCDA9\uC871 / \uBD88\uCDA9\uC871 / \uBBF8\uAC80\uC99D 3 / 1 / 0",
+      "keyboard": true,
+      "trialFocused": true,
+      "trialFocusVisible": true,
+      "trialOpacity": 1,
+      "trialScale": 1,
+      "attached": true
+    },
+    {
+      "label": "detail:trial",
+      "filter": "different",
+      "english": false,
+      "title": "\uBD88\uC77C\uCE58\uAC00 \uBC1C\uACAC\uB410\uC2B5\uB2C8\uB2E4",
+      "articleIds": [
+        "F-001",
+        "F-002",
+        "F-003"
+      ],
+      "focusId": "Results-trial",
+      "focusName": "\uC2DC\uD5D8 \uAE30\uB300 \uACB0\uACFC \uBE44\uAD50 \uACB0\uACFC\uC640 \uBCC4\uB3C4 \uD310\uC815 \u00B7 \uC815\uB9AC \uB0B4\uC5ED \uD3EC\uD568 \uAE30\uB300 \uBD88\uCDA9\uC871 \uCDA9\uC871 / \uBD88\uCDA9\uC871 / \uBBF8\uAC80\uC99D 3 / 1 / 0",
+      "keyboard": false,
+      "trialFocused": true,
+      "trialFocusVisible": false,
+      "trialOpacity": 1,
+      "trialScale": 1,
+      "attached": true
+    }
+  ],
+  "requests": [
+    "filter:unknown",
+    "filter:unknown",
+    "filter:unknown",
+    "filter:different",
+    "research",
+    "detail:data",
+    "detail:trial",
+    "detail:trial"
+  ]
+}

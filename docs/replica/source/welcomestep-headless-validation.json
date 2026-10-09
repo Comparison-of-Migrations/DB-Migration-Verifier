@@ -1,0 +1,18 @@
+{
+  "phase": "HEADLESS_PASSED",
+  "scope": "24 actual-subgrid-context articles against fresh Mac source; same-instance language/width updates; mounted remove/language/remount lifecycle3; nonblank Skia KO/EN paint visually inspected. This is headless host Mac evidence, not desktop compositor/Windows OS proof.",
+  "buildManifest": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/welcomestep/988f938066a94990a7b962f14cf3e378/build.json",
+  "runEnvironment": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/welcomestep/988f938066a94990a7b962f14cf3e378/outputs/8174de59f2de4e5b9d610d2607189a92/environment.json",
+  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/welcomestep/988f938066a94990a7b962f14cf3e378/outputs/8174de59f2de4e5b9d610d2607189a92/candidate",
+  "binarySha256": "f11d68c73bee69d756b1c21a29b7020cfd3b25238c711524d059120fea28428a",
+  "sourceHashes": {
+    "src/Verifier.Desktop/WebWelcomeStep.cs": "eff830726140ef9adabc4b55dc1ee1d17514c8290cfd1c5323c2d80c2bd606af",
+    "tools/ReplicaProbe/ReplicaPlatform.cs": "a985ede20ab26d1e4f6cd816b74ef177ff6285942790db11ac7e1361ef0a31f9",
+    "tools/ReplicaProbe/WelcomeStepProbe.cs": "62d9860bb135fb2cc701ea9b922e7ffd34467966d404fbb98ff0be1966417083"
+  },
+  "comparison": "welcomestep-headless-comparison.json",
+  "requiredOs": {
+    "macOS": "PENDING actual desktop realwindow24/lifecycle",
+    "Windows": "PENDING actual OS24/lifecycle/paint"
+  }
+}

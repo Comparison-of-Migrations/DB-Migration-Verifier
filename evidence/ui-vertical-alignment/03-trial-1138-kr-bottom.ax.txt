@@ -1,0 +1,97 @@
+Window: "DB-Migration-Verifier", App: DB-Migration-Verifier.
+0 standard window DB-Migration-Verifier, Secondary Actions: Raise
+	1 container WindowChrome, ID: AvaloniaWindowChrome
+	2 container
+		3 container
+			4 container
+				5 text DB-Migration-Verifier
+				6 text 합성 예시 · 실제 DB 아님
+				7 button 한국어 / EN, ID: language
+			8 container
+				9 text 마이그레이션 결과 비교
+				10 button DB 연결
+					11 container
+						12 text DB 연결
+				13 button 사전 확인
+					14 container
+						15 text 사전 확인
+				16 button 검사 선택
+					17 container
+						18 text 3
+						19 text 검사 선택
+				20 button (disabled) 실행 전 확인
+					21 container
+						22 text 4
+						23 text 실행 전 확인
+				24 button (disabled) 검사 진행
+					25 container
+						26 text 5
+						27 text 검사 진행
+				28 button (disabled) 결과 확인
+					29 container
+						30 text 6
+						31 text 결과 확인
+				32 button (disabled) 결과 저장
+					33 container
+						34 text 7
+						35 text 결과 저장
+				36 text 비교는 읽기 전용
+				37 text 원본·대상에는 쓰지 않습니다.
+동작 시험은 별도 시험 DB에서만 합니다.
+				38 checkbox 동작 줄이기, Value: off, ID: motion
+					39 container RootGrid
+						40 container
+							41 container
+			42 container
+				43 text 합성 예시 · 실제 DB 검사 결과와 구분합니다.
+			44 scroll area
+				45 container
+					46 container
+						47 text 별도 시험 공간을 준비합니다
+						48 text 원본·대상에는 쓰지 않습니다. 시험 준비·쓰기 기능은 현재 미구현입니다.
+						49 container
+							50 text 이 화면은 준비 방법 안내입니다. 실제 시험 DB를 연결하거나 준비 완료를 판정하지 않습니다.
+						51 container
+							52 text 별도 시험 DB
+							53 text 서버 / DB
+							54 text field (disabled) 준비 기능 구현 후 입력
+								55 container
+									56 container
+										57 scroll area (disabled) PART_ScrollViewer
+											58 container
+												59 container
+													60 text Value: 준비 기능 구현 후 입력, ID: PART_Placeholder
+							61 text 시험 계정
+							62 text field (disabled)
+								63 container
+									64 container
+										65 scroll area (disabled) PART_ScrollViewer
+											66 container
+												67 container
+						68 container
+							69 text 준비 확인 순서
+							70 text 1. 원본·대상과 분리된 변경 가능한 DB
+2. 시험할 동작·값·기대 결과 확인
+3. 앱 소유 자료의 정리 결과·남은 변경 확인
+
+삭제·롤백만으로 모든 부작용의 원상복구를 보장하지 않습니다.
+						71 button (disabled) 시험 준비 확인 · 미구현
+							72 container
+								73 text 시험 준비 확인 · 미구현
+						74 text 준비 완료 DB 없음 · 실제 동작 시험 미검증
+			75 container
+				76 button 뒤로
+					77 container
+						78 text 뒤로
+				79 text 확인한 범위와 확인하지 못한 이유를 함께 보관합니다.
+				80 button 검사 선택으로 돌아가기
+					81 container
+						82 text 검사 선택으로 돌아가기
+	83 close button
+	84 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	85 minimize button
+	86 text DB-Migration-Verifier
+87 menu bar
+	88 DB-Migration-Verifier
+
+The focused UI element is 7 button 한국어 / EN, ID: language

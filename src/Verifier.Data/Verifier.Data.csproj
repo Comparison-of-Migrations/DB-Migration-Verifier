@@ -1,0 +1,1 @@
+<Project Sdk="Microsoft.NET.Sdk"><ItemGroup><ProjectReference Include="../Verifier.Core/Verifier.Core.csproj"/><PackageReference Include="Npgsql" Version="10.0.3"/><PackageReference Include="Microsoft.Data.SqlClient" Version="7.1.1"/></ItemGroup></Project>

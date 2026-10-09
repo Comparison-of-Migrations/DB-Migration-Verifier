@@ -1,0 +1,25 @@
+{
+  "os": "headless",
+  "checks": [
+    "engine",
+    "advanced-key",
+    "required",
+    "error-recovery",
+    "busy-input",
+    {
+      "label": "busy-input",
+      "busyElapsedMs": 608.4605000000001
+    },
+    "connected-input",
+    "language",
+    "lifecycle-normal",
+    "lifecycle-reduced",
+    "busy-invalid",
+    {
+      "label": "busy-invalid",
+      "busyElapsedMs": 634.2191000000003
+    }
+  ],
+  "errors": [],
+  "phase": "HEADLESS_PASSED"
+}

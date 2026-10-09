@@ -1,0 +1,290 @@
+[
+  {
+    "platform": "mac",
+    "id": "unchecked-rest",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "mac",
+    "id": "unchecked-hover",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "mac",
+    "id": "unchecked-pressed",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "mac",
+    "id": "unchecked-pointer-focus",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "mac",
+    "id": "unchecked-keyboard-focus",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "mac",
+    "id": "unchecked-hover-focus",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "mac",
+    "id": "unchecked-hover-pressed-focus",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "mac",
+    "id": "unchecked-disabled",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "mac",
+    "id": "unchecked-disabled-hover",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "mac",
+    "id": "unchecked-disabled-focus",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "mac",
+    "id": "unchecked-disabled-pressed",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "mac",
+    "id": "unchecked-reduced",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "mac",
+    "id": "checked-rest",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "mac",
+    "id": "checked-hover",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "mac",
+    "id": "checked-pressed",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "mac",
+    "id": "checked-pointer-focus",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "mac",
+    "id": "checked-keyboard-focus",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "mac",
+    "id": "checked-hover-focus",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "mac",
+    "id": "checked-hover-pressed-focus",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "mac",
+    "id": "checked-disabled",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "mac",
+    "id": "checked-disabled-hover",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "mac",
+    "id": "checked-disabled-focus",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "mac",
+    "id": "checked-disabled-pressed",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "mac",
+    "id": "checked-reduced",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "windows",
+    "id": "unchecked-rest",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "windows",
+    "id": "unchecked-hover",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "windows",
+    "id": "unchecked-pressed",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "windows",
+    "id": "unchecked-pointer-focus",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "windows",
+    "id": "unchecked-keyboard-focus",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "windows",
+    "id": "unchecked-hover-focus",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "windows",
+    "id": "unchecked-hover-pressed-focus",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "windows",
+    "id": "unchecked-disabled",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "windows",
+    "id": "unchecked-disabled-hover",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "windows",
+    "id": "unchecked-disabled-focus",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "windows",
+    "id": "unchecked-disabled-pressed",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "windows",
+    "id": "unchecked-reduced",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "windows",
+    "id": "checked-rest",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "windows",
+    "id": "checked-hover",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "windows",
+    "id": "checked-pressed",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "windows",
+    "id": "checked-pointer-focus",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "windows",
+    "id": "checked-keyboard-focus",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "windows",
+    "id": "checked-hover-focus",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "windows",
+    "id": "checked-hover-pressed-focus",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "windows",
+    "id": "checked-disabled",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "windows",
+    "id": "checked-disabled-hover",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "windows",
+    "id": "checked-disabled-focus",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "windows",
+    "id": "checked-disabled-pressed",
+    "paintAndBox": true,
+    "markPose": true
+  },
+  {
+    "platform": "windows",
+    "id": "checked-reduced",
+    "paintAndBox": true,
+    "markPose": true
+  }
+]

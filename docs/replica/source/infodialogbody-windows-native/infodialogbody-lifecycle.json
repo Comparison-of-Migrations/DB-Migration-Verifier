@@ -1,0 +1,77 @@
+{
+  "capturedAtUtc": "2026-10-08T03:13:57.5152492Z",
+  "rows": [
+    {
+      "label": "normal-mount",
+      "permissions": true,
+      "english": true,
+      "attached": true,
+      "notice": {
+        "attached": true,
+        "opacity": 0.35,
+        "y": 6
+      },
+      "paragraphCount": 1,
+      "summaryCount": 0
+    },
+    {
+      "label": "normal-end",
+      "permissions": true,
+      "english": true,
+      "attached": true,
+      "notice": {
+        "attached": true,
+        "opacity": 1,
+        "y": 0
+      },
+      "paragraphCount": 1,
+      "summaryCount": 0
+    },
+    {
+      "label": "research-replaces-permissions",
+      "permissions": false,
+      "english": true,
+      "attached": true,
+      "notice": null,
+      "paragraphCount": 2,
+      "summaryCount": 4
+    },
+    {
+      "label": "removed-notice",
+      "attached": false,
+      "opacity": 1,
+      "y": 0
+    },
+    {
+      "label": "body-detached",
+      "permissions": false,
+      "english": true,
+      "attached": false,
+      "notice": null,
+      "paragraphCount": 2,
+      "summaryCount": 4
+    },
+    {
+      "label": "body-reattached",
+      "permissions": false,
+      "english": true,
+      "attached": true,
+      "notice": null,
+      "paragraphCount": 2,
+      "summaryCount": 4
+    },
+    {
+      "label": "reduced-permissions",
+      "permissions": true,
+      "english": false,
+      "attached": true,
+      "notice": {
+        "attached": true,
+        "opacity": 1,
+        "y": 0
+      },
+      "paragraphCount": 1,
+      "summaryCount": 0
+    }
+  ]
+}

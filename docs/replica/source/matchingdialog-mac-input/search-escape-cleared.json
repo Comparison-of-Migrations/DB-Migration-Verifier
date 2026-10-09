@@ -1,0 +1,241 @@
+{
+  "capturedAtUtc": "2026-10-07T16:05:14.277116Z",
+  "dpr": 2,
+  "visible": true,
+  "closing": false,
+  "focus": "MatchingDialog-search",
+  "events": [
+    {
+      "action": "draft",
+      "value": "archive.orders"
+    }
+  ],
+  "row": {
+    "id": "ko-960-600-all",
+    "parts": {
+      "dialog": {
+        "x": 760,
+        "y": 40,
+        "width": 500,
+        "height": 640
+      },
+      "head": {
+        "x": 761,
+        "y": 41,
+        "width": 498,
+        "height": 85
+      },
+      "title": {
+        "x": 785,
+        "y": 69.5,
+        "width": 386,
+        "height": 27
+      },
+      "close": {
+        "x": 1191,
+        "y": 61,
+        "width": 44,
+        "height": 44
+      },
+      "body": {
+        "x": 761,
+        "y": 126,
+        "width": 498,
+        "height": 468
+      },
+      "source": {
+        "x": 785,
+        "y": 150,
+        "width": 450,
+        "height": 75.59375
+      },
+      "sourceLabel": {
+        "x": 802,
+        "y": 165,
+        "width": 416,
+        "height": 19.1953125
+      },
+      "targetLabel": {
+        "x": 785,
+        "y": 245.59375,
+        "width": 450,
+        "height": 24
+      },
+      "search": {
+        "x": 785,
+        "y": 279.59375,
+        "width": 450,
+        "height": 44
+      },
+      "list": {
+        "x": 785,
+        "y": 337.59375,
+        "width": 450,
+        "height": 300
+      },
+      "note": {
+        "x": 785,
+        "y": 647.59375,
+        "width": 450,
+        "height": 22
+      },
+      "policy": {
+        "x": 785,
+        "y": 685.59375,
+        "width": 450,
+        "height": 19.1953125
+      },
+      "footer": {
+        "x": 761,
+        "y": 594,
+        "width": 498,
+        "height": 85
+      },
+      "cancel": {
+        "x": 1002.5078125,
+        "y": 613,
+        "width": 56.4921875,
+        "height": 48
+      },
+      "apply": {
+        "x": 1071,
+        "y": 613,
+        "width": 164,
+        "height": 48
+      }
+    },
+    "cards": [
+      {
+        "name": "demo.customers",
+        "selected": false,
+        "disabled": false,
+        "box": {
+          "x": 789,
+          "y": 341.59375,
+          "width": 442,
+          "height": 67.7890625
+        },
+        "attached": true,
+        "parents": [
+          "StackPanel",
+          "ViewportContent",
+          "WebScrollViewport",
+          "MatchingBody",
+          "ViewportContent",
+          "WebScrollViewport",
+          "DialogFlow",
+          "ViewportContent",
+          "WebScrollViewport",
+          "WebSurfaceBox",
+          "WebMatchingDialog",
+          "Canvas",
+          "ContentPresenter",
+          "Window",
+          "TopLevelHost"
+        ]
+      },
+      {
+        "name": "demo.orders",
+        "selected": false,
+        "disabled": true,
+        "box": {
+          "x": 789,
+          "y": 417.3828125,
+          "width": 442,
+          "height": 67.7890625
+        },
+        "attached": true,
+        "parents": [
+          "StackPanel",
+          "ViewportContent",
+          "WebScrollViewport",
+          "MatchingBody",
+          "ViewportContent",
+          "WebScrollViewport",
+          "DialogFlow",
+          "ViewportContent",
+          "WebScrollViewport",
+          "WebSurfaceBox",
+          "WebMatchingDialog",
+          "Canvas",
+          "ContentPresenter",
+          "Window",
+          "TopLevelHost"
+        ]
+      },
+      {
+        "name": "demo.line_items",
+        "selected": false,
+        "disabled": true,
+        "box": {
+          "x": 789,
+          "y": 493.171875,
+          "width": 442,
+          "height": 67.7890625
+        },
+        "attached": true,
+        "parents": [
+          "StackPanel",
+          "ViewportContent",
+          "WebScrollViewport",
+          "MatchingBody",
+          "ViewportContent",
+          "WebScrollViewport",
+          "DialogFlow",
+          "ViewportContent",
+          "WebScrollViewport",
+          "WebSurfaceBox",
+          "WebMatchingDialog",
+          "Canvas",
+          "ContentPresenter",
+          "Window",
+          "TopLevelHost"
+        ]
+      },
+      {
+        "name": "archive.orders",
+        "selected": true,
+        "disabled": false,
+        "box": {
+          "x": 789,
+          "y": 568.9609375,
+          "width": 442,
+          "height": 67.7890625
+        },
+        "attached": true,
+        "parents": [
+          "StackPanel",
+          "ViewportContent",
+          "WebScrollViewport",
+          "MatchingBody",
+          "ViewportContent",
+          "WebScrollViewport",
+          "DialogFlow",
+          "ViewportContent",
+          "WebScrollViewport",
+          "WebSurfaceBox",
+          "WebMatchingDialog",
+          "Canvas",
+          "ContentPresenter",
+          "Window",
+          "TopLevelHost"
+        ]
+      }
+    ],
+    "texts": {
+      "title": "\uD14C\uC774\uBE14 \uB300\uC751 \uBCC0\uACBD",
+      "sourceLabel": "\uC6D0\uBCF8 \uD14C\uC774\uBE14",
+      "targetLabel": "\uB300\uC751\uD560 \uB300\uC0C1 \uD14C\uC774\uBE14",
+      "note": "\uAC80\uC0C9\uC740 \uB300\uC751\uC744 \uBC14\uAFB8\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4. \uC120\uD0DD \uD6C4 \uC801\uC6A9\uD558\uC138\uC694.",
+      "policy": "\uC77C\uB300\uC77C \uB300\uC751\uB9CC \uD5C8\uC6A9\uD569\uB2C8\uB2E4. \uC774\uB984 \uCC28\uC774\uB294 \uAD6C\uC870 \uBD88\uC77C\uCE58\uB85C \uB0A8\uC73C\uBA70 \uAC12 \uBCC0\uD658\uC744 \uC2B9\uC778\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "cancel": "\uCDE8\uC18C",
+      "apply": "\uB300\uC751 \uC801\uC6A9"
+    },
+    "bodyScrollHeight": 603,
+    "listScrollHeight": 303,
+    "bodyScrollTop": 0,
+    "listScrollTop": 0,
+    "draft": "archive.orders",
+    "empty": null
+  }
+}

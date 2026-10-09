@@ -1,0 +1,6 @@
+{
+  "os": "headless",
+  "phase": "HEADLESS_PASSED",
+  "cases": 42,
+  "errors": []
+}

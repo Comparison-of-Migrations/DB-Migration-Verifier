@@ -1,0 +1,2169 @@
+[
+  {
+    "kind": "Page",
+    "duration": 200,
+    "fill": "None",
+    "infinite": false,
+    "reducedSkipped": true,
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "opacity": 0.35,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          6
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 25,
+        "opacity": 0.6631634379090365,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          3.1092605731473544
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 50,
+        "opacity": 0.8471620673885556,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          1.410811685644103
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 75,
+        "opacity": 0.9354732332456228,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.595631693117328
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 100,
+        "opacity": 0.9748986560727249,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.23170471317484775
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 125,
+        "opacity": 0.9916372038186996,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.07719504167354252
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 150,
+        "opacity": 0.9979812412613543,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.018634696049037558
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 175,
+        "opacity": 0.9997893091763821,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.001944838371857216
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 200,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 200,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 250,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 300,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      }
+    ],
+    "finished": "WaitingForActivation",
+    "cancelledOpacity": 1,
+    "midCancellation": {
+      "beforeCancel": 0.8471620673885556,
+      "afterCancel": 1,
+      "matrix": {
+        "IsIdentity": true,
+        "HasInverse": true,
+        "M11": 1,
+        "M12": 0,
+        "M13": 0,
+        "M21": 0,
+        "M22": 1,
+        "M23": 0,
+        "M31": 0,
+        "M32": 0,
+        "M33": 1
+      },
+      "status": "RanToCompletion"
+    }
+  },
+  {
+    "kind": "Modal",
+    "duration": 280,
+    "fill": "None",
+    "infinite": false,
+    "reducedSkipped": true,
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "opacity": 0,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          10
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 35,
+        "opacity": 0.48178990447544096,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          5.18210095524559
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 70,
+        "opacity": 0.7648647190593162,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          2.351352809406838
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 105,
+        "opacity": 0.9007280511471121,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.9927194885288788
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 140,
+        "opacity": 0.9613825478041921,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.386174521958079
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 175,
+        "opacity": 0.9871341597210763,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.12865840278923635
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 210,
+        "opacity": 0.9968942173251605,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.031057826748394746
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 245,
+        "opacity": 0.9996758602713571,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.0032413972864286933
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 280,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 280,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 350,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 420,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      }
+    ],
+    "finished": "WaitingForActivation",
+    "cancelledOpacity": 1,
+    "midCancellation": {
+      "beforeCancel": 0.7648647190593162,
+      "afterCancel": 1,
+      "matrix": {
+        "IsIdentity": true,
+        "HasInverse": true,
+        "M11": 1,
+        "M12": 0,
+        "M13": 0,
+        "M21": 0,
+        "M22": 1,
+        "M23": 0,
+        "M31": 0,
+        "M32": 0,
+        "M33": 1
+      },
+      "status": "RanToCompletion"
+    }
+  },
+  {
+    "kind": "Drawer",
+    "duration": 280,
+    "fill": "None",
+    "infinite": false,
+    "reducedSkipped": true,
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "opacity": 0,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          20,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 35,
+        "opacity": 0.48178990447544096,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          10.36420191049118,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 70,
+        "opacity": 0.7648647190593162,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          4.702705618813676,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 105,
+        "opacity": 0.9007280511471121,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          1.9854389770577576,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 140,
+        "opacity": 0.9613825478041921,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0.772349043916158,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 175,
+        "opacity": 0.9871341597210763,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0.2573168055784727,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 210,
+        "opacity": 0.9968942173251605,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0.06211565349678949,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 245,
+        "opacity": 0.9996758602713571,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0.006482794572857387,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 280,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 280,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 350,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 420,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      }
+    ],
+    "finished": "WaitingForActivation",
+    "cancelledOpacity": 1,
+    "midCancellation": {
+      "beforeCancel": 0.7648647190593162,
+      "afterCancel": 1,
+      "matrix": {
+        "IsIdentity": true,
+        "HasInverse": true,
+        "M11": 1,
+        "M12": 0,
+        "M13": 0,
+        "M21": 0,
+        "M22": 1,
+        "M23": 0,
+        "M31": 0,
+        "M32": 0,
+        "M33": 1
+      },
+      "status": "RanToCompletion"
+    }
+  },
+  {
+    "kind": "Toast",
+    "duration": 200,
+    "fill": "None",
+    "infinite": false,
+    "reducedSkipped": true,
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "opacity": 0,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          10
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 25,
+        "opacity": 0.48178990447544096,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          5.18210095524559
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 50,
+        "opacity": 0.7648647190593162,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          2.351352809406838
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 75,
+        "opacity": 0.9007280511471121,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.9927194885288788
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 100,
+        "opacity": 0.9613825478041921,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.386174521958079
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 125,
+        "opacity": 0.9871341597210763,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.12865840278923635
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 150,
+        "opacity": 0.9968942173251605,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.031057826748394746
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 175,
+        "opacity": 0.9996758602713571,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.0032413972864286933
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 200,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 200,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 250,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 300,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      }
+    ],
+    "finished": "WaitingForActivation",
+    "cancelledOpacity": 1,
+    "midCancellation": {
+      "beforeCancel": 0.7648647190593162,
+      "afterCancel": 1,
+      "matrix": {
+        "IsIdentity": true,
+        "HasInverse": true,
+        "M11": 1,
+        "M12": 0,
+        "M13": 0,
+        "M21": 0,
+        "M22": 1,
+        "M23": 0,
+        "M31": 0,
+        "M32": 0,
+        "M33": 1
+      },
+      "status": "RanToCompletion"
+    }
+  },
+  {
+    "kind": "ResultNumber",
+    "duration": 220,
+    "fill": "None",
+    "infinite": false,
+    "reducedSkipped": true,
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "opacity": 0.6,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          5
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 27,
+        "opacity": 0.7899218912291728,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          2.62597635963534
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 55,
+        "opacity": 0.9059458876237265,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          1.175676404703419
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 82,
+        "opacity": 0.9596395971826643,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.5045050352166953
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 110,
+        "opacity": 0.9845530191216768,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.1930872609790395
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 137,
+        "opacity": 0.9947385660393333,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.06576792450833402
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 165,
+        "opacity": 0.9987576869300642,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.015528913374197373
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 192,
+        "opacity": 0.9998627185939705,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.001716017575369655
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 220,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 220,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 275,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 330,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      }
+    ],
+    "finished": "WaitingForActivation",
+    "cancelledOpacity": 1,
+    "midCancellation": {
+      "beforeCancel": 0.9059458876237265,
+      "afterCancel": 1,
+      "matrix": {
+        "IsIdentity": true,
+        "HasInverse": true,
+        "M11": 1,
+        "M12": 0,
+        "M13": 0,
+        "M21": 0,
+        "M22": 1,
+        "M23": 0,
+        "M31": 0,
+        "M32": 0,
+        "M33": 1
+      },
+      "status": "RanToCompletion"
+    }
+  },
+  {
+    "kind": "ResultBar",
+    "duration": 320,
+    "fill": "None",
+    "infinite": false,
+    "reducedSkipped": true,
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "opacity": 1,
+        "matrix": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 40,
+        "opacity": 1,
+        "matrix": [
+          0.48178990447544096,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 80,
+        "opacity": 1,
+        "matrix": [
+          0.7648647190593162,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 120,
+        "opacity": 1,
+        "matrix": [
+          0.9007280511471121,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 160,
+        "opacity": 1,
+        "matrix": [
+          0.9613825478041921,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 200,
+        "opacity": 1,
+        "matrix": [
+          0.9871341597210763,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 240,
+        "opacity": 1,
+        "matrix": [
+          0.9968942173251605,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 280,
+        "opacity": 1,
+        "matrix": [
+          0.9996758602713571,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 320,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 320,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 400,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 480,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": true
+      }
+    ],
+    "finished": "RanToCompletion",
+    "cancelledOpacity": 1,
+    "midCancellation": {
+      "beforeCancel": 1,
+      "afterCancel": 1,
+      "matrix": {
+        "IsIdentity": true,
+        "HasInverse": true,
+        "M11": 1,
+        "M12": 0,
+        "M13": 0,
+        "M21": 0,
+        "M22": 1,
+        "M23": 0,
+        "M31": 0,
+        "M32": 0,
+        "M33": 1
+      },
+      "status": "RanToCompletion"
+    }
+  },
+  {
+    "kind": "Press",
+    "duration": 160,
+    "fill": "None",
+    "infinite": false,
+    "reducedSkipped": true,
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 20,
+        "opacity": 0.944397598046184,
+        "matrix": [
+          0.9920567997208835,
+          0,
+          0,
+          0.9920567997208835,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 40,
+        "opacity": 0.8941213233690777,
+        "matrix": [
+          0.9848744747670111,
+          0,
+          0,
+          0.9848744747670111,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 60,
+        "opacity": 0.8713497180135613,
+        "matrix": [
+          0.9816213882876516,
+          0,
+          0,
+          0.9816213882876516,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 80,
+        "opacity": 0.9117000924795572,
+        "matrix": [
+          0.9873857274970795,
+          0,
+          0,
+          0.9873857274970795,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 100,
+        "opacity": 0.9462338543956674,
+        "matrix": [
+          0.992319122056524,
+          0,
+          0,
+          0.992319122056524,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 120,
+        "opacity": 0.9738298977988321,
+        "matrix": [
+          0.9962614139712618,
+          0,
+          0,
+          0.9962614139712618,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 140,
+        "opacity": 0.9927243129674198,
+        "matrix": [
+          0.9989606161382029,
+          0,
+          0,
+          0.9989606161382029,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 160,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 160,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 200,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 240,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      }
+    ],
+    "finished": "WaitingForActivation",
+    "cancelledOpacity": 1,
+    "midCancellation": {
+      "beforeCancel": 0.8941213233690777,
+      "afterCancel": 1,
+      "matrix": {
+        "IsIdentity": true,
+        "HasInverse": true,
+        "M11": 1,
+        "M12": 0,
+        "M13": 0,
+        "M21": 0,
+        "M22": 1,
+        "M23": 0,
+        "M31": 0,
+        "M32": 0,
+        "M33": 1
+      },
+      "status": "RanToCompletion"
+    }
+  },
+  {
+    "kind": "ModalClose",
+    "duration": 160,
+    "fill": "Forward",
+    "infinite": false,
+    "reducedSkipped": true,
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 20,
+        "opacity": 0.8014199930220857,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          1.1914800418674858
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 40,
+        "opacity": 0.6218618691752776,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          2.268828784948334
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 60,
+        "opacity": 0.4594652928087095,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          3.243208243147743
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 80,
+        "opacity": 0.3153568125730102,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          4.107859124561939
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 100,
+        "opacity": 0.1920219485869019,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          4.8478683084785885
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 120,
+        "opacity": 0.09346465071845689,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          5.439212095689259
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 140,
+        "opacity": 0.02598459654492924,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          5.844092420730425
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 160,
+        "opacity": 0,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          6
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 160,
+        "opacity": 0,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          6
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 200,
+        "opacity": 0,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          6
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 240,
+        "opacity": 0,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          6
+        ],
+        "completed": false
+      }
+    ],
+    "finished": "WaitingForActivation",
+    "cancelledOpacity": 0,
+    "midCancellation": {
+      "beforeCancel": 0.6218618691752776,
+      "afterCancel": 0.6218618691752776,
+      "matrix": {
+        "IsIdentity": false,
+        "HasInverse": true,
+        "M11": 1,
+        "M12": 0,
+        "M13": 0,
+        "M21": 0,
+        "M22": 1,
+        "M23": 0,
+        "M31": 0,
+        "M32": 2.268828784948334,
+        "M33": 1
+      },
+      "status": "RanToCompletion"
+    }
+  },
+  {
+    "kind": "SearchFade",
+    "duration": 160,
+    "fill": "None",
+    "infinite": false,
+    "reducedSkipped": true,
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "opacity": 0.5,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 20,
+        "opacity": 0.5992900034889571,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 40,
+        "opacity": 0.6890690654123612,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 60,
+        "opacity": 0.7702673535956452,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 80,
+        "opacity": 0.8423215937134949,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 100,
+        "opacity": 0.903989025706549,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 120,
+        "opacity": 0.9532676746407716,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 140,
+        "opacity": 0.9870077017275354,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 160,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 160,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 200,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 240,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": true
+      }
+    ],
+    "finished": "RanToCompletion",
+    "cancelledOpacity": 1,
+    "midCancellation": {
+      "beforeCancel": 0.6890690654123612,
+      "afterCancel": 1,
+      "matrix": {
+        "IsIdentity": true,
+        "HasInverse": true,
+        "M11": 1,
+        "M12": 0,
+        "M13": 0,
+        "M21": 0,
+        "M22": 1,
+        "M23": 0,
+        "M31": 0,
+        "M32": 0,
+        "M33": 1
+      },
+      "status": "RanToCompletion"
+    }
+  },
+  {
+    "kind": "RunningDot",
+    "duration": 1000,
+    "fill": "None",
+    "infinite": true,
+    "reducedSkipped": true,
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 125,
+        "opacity": 0.9095866482668168,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 250,
+        "opacity": 0.6500000000004775,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 375,
+        "opacity": 0.39041335173318326,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 500,
+        "opacity": 0.30000000000000004,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 625,
+        "opacity": 0.3904133517331832,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 750,
+        "opacity": 0.6499999999995225,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 875,
+        "opacity": 0.9095866482668167,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 1000,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 1000,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 1250,
+        "opacity": 0.6500000000004775,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 1500,
+        "opacity": 0.30000000000000004,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      }
+    ],
+    "finished": null,
+    "cancelledOpacity": 1,
+    "midCancellation": {
+      "beforeCancel": 0.6500000000004775,
+      "afterCancel": 1,
+      "matrix": {
+        "IsIdentity": true,
+        "HasInverse": true,
+        "M11": 1,
+        "M12": 0,
+        "M13": 0,
+        "M21": 0,
+        "M22": 1,
+        "M23": 0,
+        "M31": 0,
+        "M32": 0,
+        "M33": 1
+      },
+      "status": null
+    }
+  },
+  {
+    "kind": "Spinner",
+    "duration": 800,
+    "fill": "None",
+    "infinite": true,
+    "reducedSkipped": true,
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 100,
+        "opacity": 1,
+        "matrix": [
+          0.7071067818211394,
+          0.7071067805519557,
+          -0.7071067805519557,
+          0.7071067818211394,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 200,
+        "opacity": 1,
+        "matrix": [
+          1.7948967369654108E-09,
+          1,
+          -1,
+          1.7948967369654108E-09,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 300,
+        "opacity": 1,
+        "matrix": [
+          -0.7071067792827721,
+          0.7071067830903229,
+          -0.7071067830903229,
+          -0.7071067792827721,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 400,
+        "opacity": 1,
+        "matrix": [
+          -1,
+          3.5897934739308216E-09,
+          -3.5897934739308216E-09,
+          -1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 500,
+        "opacity": 1,
+        "matrix": [
+          -0.7071067843595067,
+          -0.7071067780135883,
+          0.7071067780135883,
+          -0.7071067843595067,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 600,
+        "opacity": 1,
+        "matrix": [
+          -5.384690210896232E-09,
+          -1,
+          1,
+          -5.384690210896232E-09,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 700,
+        "opacity": 1,
+        "matrix": [
+          0.7071067767444047,
+          -0.7071067856286903,
+          0.7071067856286903,
+          0.7071067767444047,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 800,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 800,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 1000,
+        "opacity": 1,
+        "matrix": [
+          1.7948967369654108E-09,
+          1,
+          -1,
+          1.7948967369654108E-09,
+          0,
+          0
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 1200,
+        "opacity": 1,
+        "matrix": [
+          -1,
+          3.5897934739308216E-09,
+          -3.5897934739308216E-09,
+          -1,
+          0,
+          0
+        ],
+        "completed": false
+      }
+    ],
+    "finished": null,
+    "cancelledOpacity": 1,
+    "midCancellation": {
+      "beforeCancel": 1,
+      "afterCancel": 1,
+      "matrix": {
+        "IsIdentity": true,
+        "HasInverse": true,
+        "M11": 1,
+        "M12": 0,
+        "M13": 0,
+        "M21": 0,
+        "M22": 1,
+        "M23": 0,
+        "M31": 0,
+        "M32": 0,
+        "M33": 1
+      },
+      "status": null
+    }
+  }
+]

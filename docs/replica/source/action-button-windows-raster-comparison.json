@@ -1,0 +1,54 @@
+{
+  "dpr": 2,
+  "actualWindowsCapture": true,
+  "count": 11,
+  "excluded": "Native quiet-normal has actual keyboard focus while source focus is the recording control; focus is verified separately",
+  "rows": [
+    {
+      "id": "ko-base-normal",
+      "mae": 0.18170150348368166
+    },
+    {
+      "id": "ko-base-disabled",
+      "mae": 0.12147048038137147
+    },
+    {
+      "id": "ko-primary-normal",
+      "mae": 0.16595052083333334
+    },
+    {
+      "id": "ko-primary-disabled",
+      "mae": 0.07727141203703704
+    },
+    {
+      "id": "ko-quiet-disabled",
+      "mae": 0.05795746241290795
+    },
+    {
+      "id": "ko-danger-normal",
+      "mae": 0.14805647231389807
+    },
+    {
+      "id": "ko-danger-disabled",
+      "mae": 0.14805647231389807
+    },
+    {
+      "id": "en-base-normal",
+      "mae": 0.14004169732646554
+    },
+    {
+      "id": "en-base-disabled",
+      "mae": 0.09044027471179789
+    },
+    {
+      "id": "en-primary-normal",
+      "mae": 0.13863594554819722
+    },
+    {
+      "id": "en-primary-disabled",
+      "mae": 0.08053945916114791
+    }
+  ],
+  "maxRoiMae255": 0.18170150348368166,
+  "note": "Paint comparison, not bit-for-bit equality; browser/Skia antialiasing differs. Geometry and colors separately exact."
+}

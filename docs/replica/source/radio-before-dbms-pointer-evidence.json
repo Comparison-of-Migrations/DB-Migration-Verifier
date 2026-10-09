@@ -1,0 +1,7 @@
+{
+  "component": "Radio",
+  "contract": "20px source radio input, source circle/dot/color/focus/transition; HTML focus-before-change, group arrows/disabled skip/wrap and selected Tab stop; parent owns group names/order/cards/labels/change actions.",
+  "files": {
+    "src/Verifier.Desktop/WebRadio.cs": "547714a5ad3db445f2528861cfe557aaea81a6da135f854c6f84d06889a7777c"
+  }
+}

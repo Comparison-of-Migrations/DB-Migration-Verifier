@@ -1,0 +1,74 @@
+[
+  {
+    "id": "checked-rest",
+    "sourceWhitePixels": 112,
+    "nativeWhitePixels": 112,
+    "bidirectionalDistance": 0
+  },
+  {
+    "id": "checked-hover",
+    "sourceWhitePixels": 112,
+    "nativeWhitePixels": 112,
+    "bidirectionalDistance": 0
+  },
+  {
+    "id": "checked-pressed",
+    "sourceWhitePixels": 104,
+    "nativeWhitePixels": 104,
+    "bidirectionalDistance": 0
+  },
+  {
+    "id": "checked-pointer-focus",
+    "sourceWhitePixels": 112,
+    "nativeWhitePixels": 112,
+    "bidirectionalDistance": 0
+  },
+  {
+    "id": "checked-keyboard-focus",
+    "sourceWhitePixels": 112,
+    "nativeWhitePixels": 112,
+    "bidirectionalDistance": 0
+  },
+  {
+    "id": "checked-hover-focus",
+    "sourceWhitePixels": 112,
+    "nativeWhitePixels": 112,
+    "bidirectionalDistance": 0
+  },
+  {
+    "id": "checked-hover-pressed-focus",
+    "sourceWhitePixels": 104,
+    "nativeWhitePixels": 104,
+    "bidirectionalDistance": 0
+  },
+  {
+    "id": "checked-disabled",
+    "sourceWhitePixels": 112,
+    "nativeWhitePixels": 112,
+    "bidirectionalDistance": 0
+  },
+  {
+    "id": "checked-disabled-hover",
+    "sourceWhitePixels": 112,
+    "nativeWhitePixels": 112,
+    "bidirectionalDistance": 0
+  },
+  {
+    "id": "checked-disabled-focus",
+    "sourceWhitePixels": 112,
+    "nativeWhitePixels": 112,
+    "bidirectionalDistance": 0
+  },
+  {
+    "id": "checked-disabled-pressed",
+    "sourceWhitePixels": 112,
+    "nativeWhitePixels": 112,
+    "bidirectionalDistance": 0
+  },
+  {
+    "id": "checked-reduced",
+    "sourceWhitePixels": 112,
+    "nativeWhitePixels": 112,
+    "bidirectionalDistance": 0
+  }
+]

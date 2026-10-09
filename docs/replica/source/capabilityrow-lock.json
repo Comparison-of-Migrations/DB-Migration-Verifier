@@ -1,0 +1,8 @@
+{
+  "component": "CapabilityRow",
+  "contract": "Literal capabilities tbody tr: bothOS48 KO/EN6width geometry/text/4cells/linecounts and48CSS timings, headless16 finite inputs, bothOS11 actual-state comparisons; parent owns column auto-layout/shell/header and Application permissions modal. Default Mac AXrole and browser protocol name mapping documented. Parent-required Windows named DataItem cell/direct leafButton semantics confirmed headless48 and actual48 on each OS; Mac default peer/render/input unchanged. Narrow exception documented before edit, ActionButton root leaf dependency reLOCK0556d146.",
+  "files": {
+    "src/Verifier.Desktop/WebCapabilityRow.cs": "f9d85fc032bcbc5206a8ddfeb0e367055e7be203bea7df18011300051ee5d269"
+  },
+  "evidence": "docs/replica/source/capabilityrow-validation.json"
+}

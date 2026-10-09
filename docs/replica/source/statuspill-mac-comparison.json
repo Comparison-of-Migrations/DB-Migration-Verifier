@@ -1,0 +1,10 @@
+{
+  "scope": "Passive .pill CSS/layout/visible-dot/attached updates; no full-page or raster bit-perfect claim",
+  "platform": "mac",
+  "scale": 2,
+  "checks": 76,
+  "failed": 0,
+  "maximumWidthDifference": 0.0062255859375,
+  "maximumDotDifference": 0,
+  "errors": []
+}

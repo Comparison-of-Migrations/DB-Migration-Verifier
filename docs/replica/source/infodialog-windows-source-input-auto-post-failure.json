@@ -1,0 +1,13 @@
+{
+  "visible": true,
+  "closing": false,
+  "key": "research",
+  "lang": "ko",
+  "focus": null,
+  "focusVisible": false,
+  "bodyScrollTop": 0,
+  "dialogScrollTop": 0,
+  "events": [
+    "open"
+  ]
+}

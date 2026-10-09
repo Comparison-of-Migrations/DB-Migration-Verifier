@@ -1,0 +1,12 @@
+{
+  "component": "Surface",
+  "verifiedAt": "2026-10-05",
+  "scope": "Observed source paint values, integer/fractional border boxes, padding/border child layout, CSS logical shadow offsets and sigma. macOS actual window + Windows build; parent assembly and Windows runtime tracked separately.",
+  "files": {
+    "src/Verifier.Desktop/WebSurface.cs": "3864c004daa4024667812f2d3e75c8b2a256539ff7607493ab4e7f995b227474",
+    "src/Verifier.Desktop/WebSurfaceBox.cs": "d4ce238db3224d5ac2c5e70fcc2fd81eae95cad2e31458dd8b29abfb6704ef5e",
+    "src/Verifier.Desktop/WebSurfaceShadows.cs": "ee74e58cc19d6a6264bd113b8dbbc280f088db5414441dcadc9e7de72e653f5d",
+    "src/Verifier.Desktop/WebSurfaceColorSpace.cs": "04f6e29a6e71e4f9482b5bd49cc2aa3bd6b61a28864e09ba7e65683386bd6a6d"
+  },
+  "fragments": []
+}

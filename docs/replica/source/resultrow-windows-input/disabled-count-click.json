@@ -1,0 +1,33 @@
+{
+  "requests": [
+    "data",
+    "data",
+    "data",
+    "data",
+    "data",
+    "objects",
+    "data",
+    "data",
+    "data"
+  ],
+  "key": "data",
+  "enabled": false,
+  "hover": false,
+  "pressed": false,
+  "focus": false,
+  "focusVisible": false,
+  "reduced": true,
+  "english": true,
+  "changed": true,
+  "opacity": 1,
+  "scale": 1,
+  "chevron": 0,
+  "background": "#ff3b3d44",
+  "name": "Data: Different 7, Unverified 5, Equal 0. View details",
+  "counts": [
+    7,
+    5,
+    0
+  ],
+  "description": "Interrupted \u00b7 Gaps retained \u00b7 Total 12"
+}

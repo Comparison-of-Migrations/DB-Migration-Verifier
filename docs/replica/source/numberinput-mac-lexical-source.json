@@ -1,0 +1,65 @@
+[
+  {
+    "text": "+1",
+    "bad": false,
+    "number": 1,
+    "valid": true,
+    "value": "1"
+  },
+  {
+    "text": "1.0",
+    "bad": false,
+    "number": 1,
+    "valid": true,
+    "value": "1.0"
+  },
+  {
+    "text": "01",
+    "bad": false,
+    "number": 1,
+    "valid": true,
+    "value": "01"
+  },
+  {
+    "text": "01.",
+    "bad": false,
+    "number": 1,
+    "valid": true,
+    "value": "01"
+  },
+  {
+    "text": "+1e3",
+    "bad": true,
+    "number": null,
+    "valid": false,
+    "value": ""
+  },
+  {
+    "text": "1e03",
+    "bad": false,
+    "number": 1000,
+    "valid": true,
+    "value": "1e03"
+  },
+  {
+    "text": "-0",
+    "bad": false,
+    "number": 0,
+    "valid": false,
+    "value": "-0"
+  },
+  {
+    "text": ".5",
+    "bad": false,
+    "number": 0.5,
+    "valid": false,
+    "value": ".5"
+  },
+  {
+    "text": " 1 ",
+    "bad": false,
+    "number": 1,
+    "valid": true,
+    "value": "1"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "phase": "ACTUAL_OS_DIFFERENCES",
+  "scope": "MainContent parent Toast geometry16 and applicable real timer/lifetime; Motion200ms unchanged/reused",
+  "source": "docs/replica/source/home-pageintegrationtoast-windows-composed-source.json",
+  "candidate": "artifacts/replica/workers/home/pageintegration/b43b125ea6e44257b44935557a4619a8/toast-fetch-windows/pageintegration-toast.json",
+  "checks": 595,
+  "differences": [
+    {
+      "path": "ko-960-normal.beforeNewDeadline",
+      "source": true,
+      "candidate": false
+    },
+    {
+      "path": "ko-960-normal.timing.before4200",
+      "source": true,
+      "candidate": false
+    },
+    {
+      "path": "ko-960-reduced.beforeNewDeadline",
+      "source": true,
+      "candidate": false
+    },
+    {
+      "path": "ko-960-reduced.timing.before4200",
+      "source": true,
+      "candidate": false
+    }
+  ],
+  "normalization": "CSS rgba/ARGB and thickness order/omitted shadow spread normalized; numeric geometry tolerance0.001; no font/geometry waiver; actual/native noninteractive presentation seeds, not pointer input"
+}

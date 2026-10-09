@@ -1,0 +1,3 @@
+before metrics=1901x1193 cursor=610,539 physical=610,539 after metrics=3802x2386 cursor=1220,1077
+
+Thread context normalizes helper only; product/display settings unchanged. Old KO12 exactaction/count review passes; anomalouspassivepoints rejected as unpassed.

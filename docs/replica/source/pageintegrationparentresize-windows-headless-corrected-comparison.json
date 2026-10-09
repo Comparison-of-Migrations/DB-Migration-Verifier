@@ -1,0 +1,10 @@
+{
+  "status": "PASSED",
+  "checks": 2595,
+  "differences": [],
+  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/pageintegrationparentresize-windows-source.json",
+  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/pageintegrationparentresize-windows-headless-composed.json",
+  "contexts": 12,
+  "states": 48,
+  "scope": "Only six connected parent resize identities/focus/selection/entry/layout at KOEN widths1280/1100/960/1280; passive API seed and pending Progress without timer. Existing child matrices and trusted callbacks reused; actual OS resize and close0 evidence separate."
+}

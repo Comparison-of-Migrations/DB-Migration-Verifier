@@ -1,0 +1,8 @@
+{
+  "component": "CapabilityTable",
+  "contract": "Original static shared four-column capabilities table with collapsed rows, intrinsic auto allocation and horizontal shell; protected Header/Row/Viewport/Button. Both actualOS12 geometry/palette/wrap/paint, parent requests/focus/language/width/detach/remount; fullrow neutral hitplane headless/actual bothOS1; Windows55 translated coordinates + 32namedbodyCells strict0; Windows Group filtering fresh original/actual explicitRaw+ControlKOEN2 and headless2. Completed scoped windows/processes0. Application owns permissions dialog. Default renderer/privateprovider boundaries documented.",
+  "files": {
+    "src/Verifier.Desktop/WebCapabilityTable.cs": "4afcca2ae1f54b629f9c474b978c21ac0ac88760476dd48cc7f7cbcc66ddfacd"
+  },
+  "evidence": "docs/replica/source/capabilitytable-validation.json"
+}

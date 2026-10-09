@@ -1,0 +1,33 @@
+{
+  "source": "CUA source tab35 DownloadOption \u00b7 original isolation",
+  "observed": [
+    {
+      "action": "label body click",
+      "selected": true,
+      "changes": 1,
+      "focused": true,
+      "focusVisible": false
+    },
+    {
+      "action": "Enter",
+      "selected": true,
+      "changes": 1,
+      "focused": true,
+      "focusVisible": true
+    },
+    {
+      "action": "Space",
+      "selected": false,
+      "changes": 2,
+      "focused": true,
+      "focusVisible": true
+    },
+    {
+      "action": "label body click after keyboard",
+      "selected": true,
+      "changes": 3,
+      "focused": true,
+      "focusVisible": false
+    }
+  ]
+}

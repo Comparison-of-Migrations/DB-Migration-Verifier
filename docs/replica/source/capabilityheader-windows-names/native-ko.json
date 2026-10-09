@@ -1,0 +1,46 @@
+[
+    {
+        "id":  "CapabilityHeader-cell-0",
+        "name":  "검사 분류",
+        "children":  [
+
+                     ],
+        "invoke":  false,
+        "focusable":  false,
+        "type":  "ControlType.HeaderItem",
+        "enabled":  true
+    },
+    {
+        "id":  "CapabilityHeader-cell-1",
+        "name":  "원본 / 대상",
+        "children":  [
+
+                     ],
+        "invoke":  false,
+        "focusable":  false,
+        "type":  "ControlType.HeaderItem",
+        "enabled":  true
+    },
+    {
+        "id":  "CapabilityHeader-cell-2",
+        "name":  "검사 가능 범위",
+        "children":  [
+
+                     ],
+        "invoke":  false,
+        "focusable":  false,
+        "type":  "ControlType.HeaderItem",
+        "enabled":  true
+    },
+    {
+        "id":  "CapabilityHeader-cell-3",
+        "name":  "안내",
+        "children":  [
+
+                     ],
+        "invoke":  false,
+        "focusable":  false,
+        "type":  "ControlType.HeaderItem",
+        "enabled":  true
+    }
+]

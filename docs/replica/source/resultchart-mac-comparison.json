@@ -1,0 +1,7 @@
+{
+  "platform": "mac",
+  "states": 38,
+  "failed": 0,
+  "scope": "38 original resultChart layouts, KO/EN 4 widths compact/wide, interrupted/unstarted/subsets, empty/trial-only, zero/5-step shared scale; child input/timing inherited locked contracts, parent entrance/detail still pending.",
+  "errors": []
+}

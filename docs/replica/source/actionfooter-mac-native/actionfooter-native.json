@@ -1,0 +1,6647 @@
+{
+  "scale": 2,
+  "rows": [
+    {
+      "id": "ko-home",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 28,
+          "y": 32.8984375,
+          "width": 724,
+          "height": 19.1953125
+        },
+        "text": "\uB85C\uADF8\uC778 \uC5C6\uC774 \uC608\uC2DC \uD750\uB984\uC744 \uC0B4\uD3B4\uBCFC \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+      },
+      "actions": null,
+      "buttons": []
+    },
+    {
+      "id": "ko-connect",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 123.4921875,
+          "y": 32.8984375,
+          "width": 452.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uC5F0\uACB0 \uC815\uBCF4\uB97C \uBC14\uAFB8\uBA74 \uB2E4\uC2DC \uD655\uC778\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 588,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 588,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "connect",
+          "enabled": true,
+          "label": "\uB450 \uC5F0\uACB0 \uD655\uC778",
+          "name": "\uB450 \uC5F0\uACB0 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "db",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-connect-busy",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 123.4921875,
+          "y": 32.8984375,
+          "width": 452.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uC5F0\uACB0 \uC815\uBCF4\uB97C \uBC14\uAFB8\uBA74 \uB2E4\uC2DC \uD655\uC778\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 588,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 588,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "connect",
+          "enabled": false,
+          "label": "\uD655\uC778 \uC911\u2026",
+          "name": "\uD655\uC778 \uC911\u2026",
+          "variant": "primary",
+          "iconName": "",
+          "loading": true
+        }
+      ]
+    },
+    {
+      "id": "ko-connected",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 123.4921875,
+          "y": 32.8984375,
+          "width": 452.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uC5F0\uACB0 \uC815\uBCF4\uB97C \uBC14\uAFB8\uBA74 \uB2E4\uC2DC \uD655\uC778\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 588,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 588,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "preflight",
+          "enabled": true,
+          "label": "\uC870\uD68C \uBC94\uC704 \uD655\uC778",
+          "name": "\uC870\uD68C \uBC94\uC704 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-connected-busy",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 123.4921875,
+          "y": 32.8984375,
+          "width": 452.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uC5F0\uACB0 \uC815\uBCF4\uB97C \uBC14\uAFB8\uBA74 \uB2E4\uC2DC \uD655\uC778\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 588,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 588,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "preflight",
+          "enabled": false,
+          "label": "\uC870\uD68C \uBC94\uC704 \uD655\uC778",
+          "name": "\uC870\uD68C \uBC94\uC704 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-capabilities",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 123.4921875,
+          "y": 32.8984375,
+          "width": 452.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uBBF8\uC870\uD68C \uC601\uC5ED\uC740 \uACB0\uACFC\uC5D0\uB3C4 \uB0A8\uC2B5\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 588,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 588,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "choose",
+          "enabled": true,
+          "label": "\uAC80\uC0AC \uBC94\uC704 \uC120\uD0DD",
+          "name": "\uAC80\uC0AC \uBC94\uC704 \uC120\uD0DD",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-select-none",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 123.4921875,
+          "y": 32.8984375,
+          "width": 452.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uAC80\uC0AC \uBD84\uB958\uB97C \uD558\uB098 \uC774\uC0C1 \uC120\uD0DD\uD558\uC138\uC694."
+      },
+      "actions": {
+        "x": 588,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 588,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": false,
+          "label": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "name": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-select-no-table",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 123.4921875,
+          "y": 32.8984375,
+          "width": 452.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uAC80\uC0AC\uD560 \uD14C\uC774\uBE14\uC744 \uD558\uB098 \uC774\uC0C1 \uC120\uD0DD\uD558\uC138\uC694."
+      },
+      "actions": {
+        "x": 588,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 588,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": false,
+          "label": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "name": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-select-trial-unready",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 123.4921875,
+          "y": 32.8984375,
+          "width": 452.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uB3D9\uC791 \uC2DC\uD5D8\uC744 \uC900\uBE44\uD558\uAC70\uB098 \uC120\uD0DD\uC744 \uD574\uC81C\uD558\uC138\uC694."
+      },
+      "actions": {
+        "x": 588,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 588,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": false,
+          "label": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "name": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-select-trial-ready",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 123.4921875,
+          "y": 32.8984375,
+          "width": 452.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uC120\uD0DD \uBC94\uC704\uC640 \uC81C\uC678 \uBC94\uC704\uB97C \uB2E4\uC74C \uD654\uBA74\uC5D0\uC11C \uD655\uC778\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 588,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 588,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": true,
+          "label": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "name": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-select",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 123.4921875,
+          "y": 32.8984375,
+          "width": 452.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uC120\uD0DD \uBC94\uC704\uC640 \uC81C\uC678 \uBC94\uC704\uB97C \uB2E4\uC74C \uD654\uBA74\uC5D0\uC11C \uD655\uC778\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 588,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 588,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": true,
+          "label": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "name": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-trial",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 171.8515625,
+          "y": 32.8984375,
+          "width": 404.1484375,
+          "height": 19.1953125
+        },
+        "text": "\uC2E4\uC81C \uC571\uC740 \uBD84\uB9AC \uD655\uC778\uACFC \uC2DC\uD5D8\uC548 \uD655\uC778\uC774 \uD544\uC694\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 588,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 131.8515625,
+            "height": 44
+          },
+          "action": "trial-back",
+          "enabled": true,
+          "label": "\uAC80\uC0AC \uC120\uD0DD\uC73C\uB85C",
+          "name": "\uAC80\uC0AC \uC120\uD0DD\uC73C\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 588,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "trial-check",
+          "enabled": false,
+          "label": "\uC2DC\uD5D8 \uC900\uBE44 \uD655\uC778",
+          "name": "\uC2DC\uD5D8 \uC900\uBE44 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "check",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-trial-consented",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 171.8515625,
+          "y": 32.8984375,
+          "width": 404.1484375,
+          "height": 19.1953125
+        },
+        "text": "\uC2E4\uC81C \uC571\uC740 \uBD84\uB9AC \uD655\uC778\uACFC \uC2DC\uD5D8\uC548 \uD655\uC778\uC774 \uD544\uC694\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 588,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 131.8515625,
+            "height": 44
+          },
+          "action": "trial-back",
+          "enabled": true,
+          "label": "\uAC80\uC0AC \uC120\uD0DD\uC73C\uB85C",
+          "name": "\uAC80\uC0AC \uC120\uD0DD\uC73C\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 588,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "trial-check",
+          "enabled": true,
+          "label": "\uC2DC\uD5D8 \uC900\uBE44 \uD655\uC778",
+          "name": "\uC2DC\uD5D8 \uC900\uBE44 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "check",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-trial-ready",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 171.8515625,
+          "y": 32.8984375,
+          "width": 402.8359375,
+          "height": 19.1953125
+        },
+        "text": "\uC2E4\uC81C \uC571\uC740 \uBD84\uB9AC \uD655\uC778\uACFC \uC2DC\uD5D8\uC548 \uD655\uC778\uC774 \uD544\uC694\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 586.6875,
+        "y": 18.5,
+        "width": 165.3125,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 131.8515625,
+            "height": 44
+          },
+          "action": "trial-back",
+          "enabled": true,
+          "label": "\uAC80\uC0AC \uC120\uD0DD\uC73C\uB85C",
+          "name": "\uAC80\uC0AC \uC120\uD0DD\uC73C\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 586.6875,
+            "y": 18.5,
+            "width": 165.3125,
+            "height": 48
+          },
+          "action": "trial-back",
+          "enabled": true,
+          "label": "\uC900\uBE44 \uD655\uC778 \u00B7 \uB3CC\uC544\uAC00\uAE30",
+          "name": "\uC900\uBE44 \uD655\uC778 \u00B7 \uB3CC\uC544\uAC00\uAE30",
+          "variant": "primary",
+          "iconName": "check",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-review",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 149.359375,
+          "y": 32.8984375,
+          "width": 426.640625,
+          "height": 19.1953125
+        },
+        "text": "\uC4F0\uAE30\uB97C \uBA48\uCD98 \uC0C1\uD0DC\uB97C \uD655\uC778\uD558\uC138\uC694."
+      },
+      "actions": {
+        "x": 588,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 109.359375,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uC120\uD0DD \uC218\uC815",
+          "name": "\uC120\uD0DD \uC218\uC815",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 588,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "run",
+          "enabled": false,
+          "label": "\uBE44\uAD50 \uC2DC\uC791",
+          "name": "\uBE44\uAD50 \uC2DC\uC791",
+          "variant": "primary",
+          "iconName": "play",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-review-stopped",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 149.359375,
+          "y": 32.8984375,
+          "width": 426.640625,
+          "height": 19.1953125
+        },
+        "text": "\uC900\uBE44\uD55C \uBC94\uC704\uB85C \uC608\uC2DC \uAC80\uC0AC\uB97C \uC2DC\uC791\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 588,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 109.359375,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uC120\uD0DD \uC218\uC815",
+          "name": "\uC120\uD0DD \uC218\uC815",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 588,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "run",
+          "enabled": true,
+          "label": "\uBE44\uAD50 \uC2DC\uC791",
+          "name": "\uBE44\uAD50 \uC2DC\uC791",
+          "variant": "primary",
+          "iconName": "play",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-running",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 28,
+          "y": 32.8984375,
+          "width": 602.640625,
+          "height": 19.1953125
+        },
+        "text": "\uD654\uBA74 \uC2DC\uC548\uC758 \uC608\uC2DC \uAC80\uC0AC\uC785\uB2C8\uB2E4. \uC2E4\uC81C DB \uC77D\uAE30\u00B7\uC4F0\uAE30\uB294 \uC5C6\uC2B5\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 642.640625,
+        "y": 20.5,
+        "width": 109.359375,
+        "height": 44
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 642.640625,
+            "y": 20.5,
+            "width": 109.359375,
+            "height": 44
+          },
+          "action": "cancel",
+          "enabled": true,
+          "label": "\uAC80\uC0AC \uCDE8\uC18C",
+          "name": "\uAC80\uC0AC \uCDE8\uC18C",
+          "variant": "danger",
+          "iconName": "stop",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-running-complete",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 28,
+          "y": 32.8984375,
+          "width": 548,
+          "height": 19.1953125
+        },
+        "text": "\uD654\uBA74 \uC2DC\uC548\uC758 \uC608\uC2DC \uAC80\uC0AC\uC785\uB2C8\uB2E4. \uC2E4\uC81C DB \uC77D\uAE30\u00B7\uC4F0\uAE30\uB294 \uC5C6\uC2B5\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 588,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 588,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "show-results",
+          "enabled": true,
+          "label": "\uACB0\uACFC \uBCF4\uAE30",
+          "name": "\uACB0\uACFC \uBCF4\uAE30",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-running-interrupted",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 28,
+          "y": 32.8984375,
+          "width": 548,
+          "height": 19.1953125
+        },
+        "text": "\uC911\uB2E8 \uC774\uC720: \uC0AC\uC6A9\uC790 \uCDE8\uC18C \u00B7 \uC0C8 \uC804\uCCB4 \uAC80\uC0AC\uB9CC \uAC00\uB2A5"
+      },
+      "actions": {
+        "x": 588,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 588,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "show-results",
+          "enabled": true,
+          "label": "\uACB0\uACFC \uBCF4\uAE30",
+          "name": "\uACB0\uACFC \uBCF4\uAE30",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-results",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 160.609375,
+          "y": 32.8984375,
+          "width": 415.390625,
+          "height": 19.1953125
+        },
+        "text": "\uD655\uC778\uD55C \uBC94\uC704\uC640 \uD655\uC778 \uBD88\uAC00 \uC774\uC720\uB97C \uD568\uAED8 \uBCF4\uAD00\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 588,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 120.609375,
+            "height": 44
+          },
+          "action": "restart",
+          "enabled": true,
+          "label": "\uC804\uCCB4 \uC7AC\uAC80\uC0AC",
+          "name": "\uC804\uCCB4 \uC7AC\uAC80\uC0AC",
+          "variant": "quiet",
+          "iconName": "refresh",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 588,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "save",
+          "enabled": true,
+          "label": "\uACB0\uACFC \uC800\uC7A5",
+          "name": "\uACB0\uACFC \uC800\uC7A5",
+          "variant": "primary",
+          "iconName": "save",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-save-none",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 183.09375,
+          "y": 32.8984375,
+          "width": 392.90625,
+          "height": 19.1953125
+        },
+        "text": "\uC800\uC7A5\uD560 \uD615\uC2DD\uC744 \uC120\uD0DD\uD558\uC138\uC694."
+      },
+      "actions": {
+        "x": 588,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 143.09375,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uACB0\uACFC\uB85C \uB3CC\uC544\uAC00\uAE30",
+          "name": "\uACB0\uACFC\uB85C \uB3CC\uC544\uAC00\uAE30",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 588,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "download",
+          "enabled": false,
+          "label": "\uC120\uD0DD \uD615\uC2DD \uC800\uC7A5",
+          "name": "\uC120\uD0DD \uD615\uC2DD \uC800\uC7A5",
+          "variant": "primary",
+          "iconName": "save",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-save",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 183.09375,
+          "y": 32.8984375,
+          "width": 392.90625,
+          "height": 19.1953125
+        },
+        "text": "\uBE0C\uB77C\uC6B0\uC800 \uB2E4\uC6B4\uB85C\uB4DC\uB85C \uC608\uC2DC \uD30C\uC77C\uC744 \uB9CC\uB4ED\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 588,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 143.09375,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uACB0\uACFC\uB85C \uB3CC\uC544\uAC00\uAE30",
+          "name": "\uACB0\uACFC\uB85C \uB3CC\uC544\uAC00\uAE30",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 588,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "download",
+          "enabled": true,
+          "label": "\uC120\uD0DD \uD615\uC2DD \uC800\uC7A5",
+          "name": "\uC120\uD0DD \uD615\uC2DD \uC800\uC7A5",
+          "variant": "primary",
+          "iconName": "save",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-home",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 28,
+          "y": 32.8984375,
+          "width": 724,
+          "height": 19.1953125
+        },
+        "text": "Explore the sample flow without logging in."
+      },
+      "actions": null,
+      "buttons": []
+    },
+    {
+      "id": "en-connect",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 132.140625,
+          "y": 32.8984375,
+          "width": 393.453125,
+          "height": 19.1953125
+        },
+        "text": "Changes require another connection check."
+      },
+      "actions": {
+        "x": 537.59375,
+        "y": 18.5,
+        "width": 214.40625,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 537.59375,
+            "y": 18.5,
+            "width": 214.40625,
+            "height": 48
+          },
+          "action": "connect",
+          "enabled": true,
+          "label": "Check both connections",
+          "name": "Check both connections",
+          "variant": "primary",
+          "iconName": "db",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-connect-busy",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 132.140625,
+          "y": 32.8984375,
+          "width": 443.859375,
+          "height": 19.1953125
+        },
+        "text": "Changes require another connection check."
+      },
+      "actions": {
+        "x": 588,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 588,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "connect",
+          "enabled": false,
+          "label": "Checking\u2026",
+          "name": "Checking\u2026",
+          "variant": "primary",
+          "iconName": "",
+          "loading": true
+        }
+      ]
+    },
+    {
+      "id": "en-connected",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 132.140625,
+          "y": 32.8984375,
+          "width": 443.859375,
+          "height": 19.1953125
+        },
+        "text": "Changes require another connection check."
+      },
+      "actions": {
+        "x": 588,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 588,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "preflight",
+          "enabled": true,
+          "label": "Check visibility",
+          "name": "Check visibility",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-connected-busy",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 132.140625,
+          "y": 32.8984375,
+          "width": 443.859375,
+          "height": 19.1953125
+        },
+        "text": "Changes require another connection check."
+      },
+      "actions": {
+        "x": 588,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 588,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "preflight",
+          "enabled": false,
+          "label": "Check visibility",
+          "name": "Check visibility",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-capabilities",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 132.140625,
+          "y": 32.8984375,
+          "width": 443.859375,
+          "height": 19.1953125
+        },
+        "text": "Visibility gaps stay in the result."
+      },
+      "actions": {
+        "x": 588,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 588,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "choose",
+          "enabled": true,
+          "label": "Choose checks",
+          "name": "Choose checks",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-select-none",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 132.140625,
+          "y": 32.8984375,
+          "width": 405.3671875,
+          "height": 19.1953125
+        },
+        "text": "Select at least one check category."
+      },
+      "actions": {
+        "x": 549.5078125,
+        "y": 18.5,
+        "width": 202.4921875,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 549.5078125,
+            "y": 18.5,
+            "width": 202.4921875,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": false,
+          "label": "Review before running",
+          "name": "Review before running",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-select-no-table",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 132.140625,
+          "y": 32.8984375,
+          "width": 405.3671875,
+          "height": 19.1953125
+        },
+        "text": "Select at least one table to compare."
+      },
+      "actions": {
+        "x": 549.5078125,
+        "y": 18.5,
+        "width": 202.4921875,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 549.5078125,
+            "y": 18.5,
+            "width": 202.4921875,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": false,
+          "label": "Review before running",
+          "name": "Review before running",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-select-trial-unready",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 132.140625,
+          "y": 32.8984375,
+          "width": 405.3671875,
+          "height": 19.1953125
+        },
+        "text": "Prepare or deselect the behavior test."
+      },
+      "actions": {
+        "x": 549.5078125,
+        "y": 18.5,
+        "width": 202.4921875,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 549.5078125,
+            "y": 18.5,
+            "width": 202.4921875,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": false,
+          "label": "Review before running",
+          "name": "Review before running",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-select-trial-ready",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 132.140625,
+          "y": 32.8984375,
+          "width": 405.3671875,
+          "height": 19.1953125
+        },
+        "text": "Review selected and excluded scope next."
+      },
+      "actions": {
+        "x": 549.5078125,
+        "y": 18.5,
+        "width": 202.4921875,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 549.5078125,
+            "y": 18.5,
+            "width": 202.4921875,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": true,
+          "label": "Review before running",
+          "name": "Review before running",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-select",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 132.140625,
+          "y": 32.8984375,
+          "width": 405.3671875,
+          "height": 19.1953125
+        },
+        "text": "Review selected and excluded scope next."
+      },
+      "actions": {
+        "x": 549.5078125,
+        "y": 18.5,
+        "width": 202.4921875,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 549.5078125,
+            "y": 18.5,
+            "width": 202.4921875,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": true,
+          "label": "Review before running",
+          "name": "Review before running",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-trial",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 209.4609375,
+          "y": 32.8984375,
+          "width": 351.28125,
+          "height": 19.1953125
+        },
+        "text": "The actual app must verify isolation and the trial plan."
+      },
+      "actions": {
+        "x": 572.7421875,
+        "y": 18.5,
+        "width": 179.2578125,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 169.4609375,
+            "height": 44
+          },
+          "action": "trial-back",
+          "enabled": true,
+          "label": "Back to selection",
+          "name": "Back to selection",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 572.7421875,
+            "y": 18.5,
+            "width": 179.2578125,
+            "height": 48
+          },
+          "action": "trial-check",
+          "enabled": false,
+          "label": "Confirm test setup",
+          "name": "Confirm test setup",
+          "variant": "primary",
+          "iconName": "check",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-trial-consented",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 209.4609375,
+          "y": 32.8984375,
+          "width": 351.28125,
+          "height": 19.1953125
+        },
+        "text": "The actual app must verify isolation and the trial plan."
+      },
+      "actions": {
+        "x": 572.7421875,
+        "y": 18.5,
+        "width": 179.2578125,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 169.4609375,
+            "height": 44
+          },
+          "action": "trial-back",
+          "enabled": true,
+          "label": "Back to selection",
+          "name": "Back to selection",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 572.7421875,
+            "y": 18.5,
+            "width": 179.2578125,
+            "height": 48
+          },
+          "action": "trial-check",
+          "enabled": true,
+          "label": "Confirm test setup",
+          "name": "Confirm test setup",
+          "variant": "primary",
+          "iconName": "check",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-trial-ready",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 209.4609375,
+          "y": 32.8984375,
+          "width": 366.5390625,
+          "height": 19.1953125
+        },
+        "text": "The actual app must verify isolation and the trial plan."
+      },
+      "actions": {
+        "x": 588,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 169.4609375,
+            "height": 44
+          },
+          "action": "trial-back",
+          "enabled": true,
+          "label": "Back to selection",
+          "name": "Back to selection",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 588,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "trial-back",
+          "enabled": true,
+          "label": "Ready \u00B7 Return",
+          "name": "Ready \u00B7 Return",
+          "variant": "primary",
+          "iconName": "check",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-review",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 186.7734375,
+          "y": 32.8984375,
+          "width": 382.8984375,
+          "height": 19.1953125
+        },
+        "text": "Confirm that writes are stopped."
+      },
+      "actions": {
+        "x": 581.671875,
+        "y": 18.5,
+        "width": 170.328125,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 146.7734375,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Edit selection",
+          "name": "Edit selection",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 581.671875,
+            "y": 18.5,
+            "width": 170.328125,
+            "height": 48
+          },
+          "action": "run",
+          "enabled": false,
+          "label": "Start comparison",
+          "name": "Start comparison",
+          "variant": "primary",
+          "iconName": "play",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-review-stopped",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 186.7734375,
+          "y": 32.8984375,
+          "width": 382.8984375,
+          "height": 19.1953125
+        },
+        "text": "Start sample checks for the prepared scope."
+      },
+      "actions": {
+        "x": 581.671875,
+        "y": 18.5,
+        "width": 170.328125,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 146.7734375,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Edit selection",
+          "name": "Edit selection",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 581.671875,
+            "y": 18.5,
+            "width": 170.328125,
+            "height": 48
+          },
+          "action": "run",
+          "enabled": true,
+          "label": "Start comparison",
+          "name": "Start comparison",
+          "variant": "primary",
+          "iconName": "play",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-running",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 28,
+          "y": 32.8984375,
+          "width": 559.4765625,
+          "height": 19.1953125
+        },
+        "text": "Simulated preview checks; no real DB reads or writes."
+      },
+      "actions": {
+        "x": 599.4765625,
+        "y": 20.5,
+        "width": 152.5234375,
+        "height": 44
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 599.4765625,
+            "y": 20.5,
+            "width": 152.5234375,
+            "height": 44
+          },
+          "action": "cancel",
+          "enabled": true,
+          "label": "Cancel checks",
+          "name": "Cancel checks",
+          "variant": "danger",
+          "iconName": "stop",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-running-complete",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 28,
+          "y": 32.8984375,
+          "width": 548,
+          "height": 19.1953125
+        },
+        "text": "Simulated preview checks; no real DB reads or writes."
+      },
+      "actions": {
+        "x": 588,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 588,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "show-results",
+          "enabled": true,
+          "label": "View results",
+          "name": "View results",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-running-interrupted",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 28,
+          "y": 32.8984375,
+          "width": 548,
+          "height": 19.1953125
+        },
+        "text": "Reason: user cancellation \u00B7 Full new check only"
+      },
+      "actions": {
+        "x": 588,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 588,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "show-results",
+          "enabled": true,
+          "label": "View results",
+          "name": "View results",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-results",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 194.328125,
+          "y": 32.8984375,
+          "width": 381.671875,
+          "height": 19.1953125
+        },
+        "text": "Save verified scope and reasons for gaps together."
+      },
+      "actions": {
+        "x": 588,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 154.328125,
+            "height": 44
+          },
+          "action": "restart",
+          "enabled": true,
+          "label": "Full new check",
+          "name": "Full new check",
+          "variant": "quiet",
+          "iconName": "refresh",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 588,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "save",
+          "enabled": true,
+          "label": "Save results",
+          "name": "Save results",
+          "variant": "primary",
+          "iconName": "save",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-save-none",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 195.1875,
+          "y": 32.8984375,
+          "width": 343.109375,
+          "height": 19.1953125
+        },
+        "text": "Choose a file format."
+      },
+      "actions": {
+        "x": 550.296875,
+        "y": 18.5,
+        "width": 201.703125,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 155.1875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back to results",
+          "name": "Back to results",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 550.296875,
+            "y": 18.5,
+            "width": 201.703125,
+            "height": 48
+          },
+          "action": "download",
+          "enabled": false,
+          "label": "Save selected formats",
+          "name": "Save selected formats",
+          "variant": "primary",
+          "iconName": "save",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-save",
+      "viewport": 1000,
+      "width": 780,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 195.1875,
+          "y": 32.8984375,
+          "width": 343.109375,
+          "height": 19.1953125
+        },
+        "text": "Create sample files via browser downloads."
+      },
+      "actions": {
+        "x": 550.296875,
+        "y": 18.5,
+        "width": 201.703125,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 155.1875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back to results",
+          "name": "Back to results",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 550.296875,
+            "y": 18.5,
+            "width": 201.703125,
+            "height": 48
+          },
+          "action": "download",
+          "enabled": true,
+          "label": "Save selected formats",
+          "name": "Save selected formats",
+          "variant": "primary",
+          "iconName": "save",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-home",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 28,
+          "y": 32.8984375,
+          "width": 862,
+          "height": 19.1953125
+        },
+        "text": "\uB85C\uADF8\uC778 \uC5C6\uC774 \uC608\uC2DC \uD750\uB984\uC744 \uC0B4\uD3B4\uBCFC \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+      },
+      "actions": null,
+      "buttons": []
+    },
+    {
+      "id": "ko-connect",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 123.4921875,
+          "y": 32.8984375,
+          "width": 590.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uC5F0\uACB0 \uC815\uBCF4\uB97C \uBC14\uAFB8\uBA74 \uB2E4\uC2DC \uD655\uC778\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 726,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 726,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "connect",
+          "enabled": true,
+          "label": "\uB450 \uC5F0\uACB0 \uD655\uC778",
+          "name": "\uB450 \uC5F0\uACB0 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "db",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-connect-busy",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 123.4921875,
+          "y": 32.8984375,
+          "width": 590.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uC5F0\uACB0 \uC815\uBCF4\uB97C \uBC14\uAFB8\uBA74 \uB2E4\uC2DC \uD655\uC778\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 726,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 726,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "connect",
+          "enabled": false,
+          "label": "\uD655\uC778 \uC911\u2026",
+          "name": "\uD655\uC778 \uC911\u2026",
+          "variant": "primary",
+          "iconName": "",
+          "loading": true
+        }
+      ]
+    },
+    {
+      "id": "ko-connected",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 123.4921875,
+          "y": 32.8984375,
+          "width": 590.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uC5F0\uACB0 \uC815\uBCF4\uB97C \uBC14\uAFB8\uBA74 \uB2E4\uC2DC \uD655\uC778\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 726,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 726,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "preflight",
+          "enabled": true,
+          "label": "\uC870\uD68C \uBC94\uC704 \uD655\uC778",
+          "name": "\uC870\uD68C \uBC94\uC704 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-connected-busy",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 123.4921875,
+          "y": 32.8984375,
+          "width": 590.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uC5F0\uACB0 \uC815\uBCF4\uB97C \uBC14\uAFB8\uBA74 \uB2E4\uC2DC \uD655\uC778\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 726,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 726,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "preflight",
+          "enabled": false,
+          "label": "\uC870\uD68C \uBC94\uC704 \uD655\uC778",
+          "name": "\uC870\uD68C \uBC94\uC704 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-capabilities",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 123.4921875,
+          "y": 32.8984375,
+          "width": 590.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uBBF8\uC870\uD68C \uC601\uC5ED\uC740 \uACB0\uACFC\uC5D0\uB3C4 \uB0A8\uC2B5\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 726,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 726,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "choose",
+          "enabled": true,
+          "label": "\uAC80\uC0AC \uBC94\uC704 \uC120\uD0DD",
+          "name": "\uAC80\uC0AC \uBC94\uC704 \uC120\uD0DD",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-select-none",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 123.4921875,
+          "y": 32.8984375,
+          "width": 590.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uAC80\uC0AC \uBD84\uB958\uB97C \uD558\uB098 \uC774\uC0C1 \uC120\uD0DD\uD558\uC138\uC694."
+      },
+      "actions": {
+        "x": 726,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 726,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": false,
+          "label": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "name": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-select-no-table",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 123.4921875,
+          "y": 32.8984375,
+          "width": 590.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uAC80\uC0AC\uD560 \uD14C\uC774\uBE14\uC744 \uD558\uB098 \uC774\uC0C1 \uC120\uD0DD\uD558\uC138\uC694."
+      },
+      "actions": {
+        "x": 726,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 726,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": false,
+          "label": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "name": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-select-trial-unready",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 123.4921875,
+          "y": 32.8984375,
+          "width": 590.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uB3D9\uC791 \uC2DC\uD5D8\uC744 \uC900\uBE44\uD558\uAC70\uB098 \uC120\uD0DD\uC744 \uD574\uC81C\uD558\uC138\uC694."
+      },
+      "actions": {
+        "x": 726,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 726,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": false,
+          "label": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "name": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-select-trial-ready",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 123.4921875,
+          "y": 32.8984375,
+          "width": 590.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uC120\uD0DD \uBC94\uC704\uC640 \uC81C\uC678 \uBC94\uC704\uB97C \uB2E4\uC74C \uD654\uBA74\uC5D0\uC11C \uD655\uC778\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 726,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 726,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": true,
+          "label": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "name": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-select",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 123.4921875,
+          "y": 32.8984375,
+          "width": 590.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uC120\uD0DD \uBC94\uC704\uC640 \uC81C\uC678 \uBC94\uC704\uB97C \uB2E4\uC74C \uD654\uBA74\uC5D0\uC11C \uD655\uC778\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 726,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 726,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": true,
+          "label": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "name": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-trial",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 171.8515625,
+          "y": 32.8984375,
+          "width": 542.1484375,
+          "height": 19.1953125
+        },
+        "text": "\uC2E4\uC81C \uC571\uC740 \uBD84\uB9AC \uD655\uC778\uACFC \uC2DC\uD5D8\uC548 \uD655\uC778\uC774 \uD544\uC694\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 726,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 131.8515625,
+            "height": 44
+          },
+          "action": "trial-back",
+          "enabled": true,
+          "label": "\uAC80\uC0AC \uC120\uD0DD\uC73C\uB85C",
+          "name": "\uAC80\uC0AC \uC120\uD0DD\uC73C\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 726,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "trial-check",
+          "enabled": false,
+          "label": "\uC2DC\uD5D8 \uC900\uBE44 \uD655\uC778",
+          "name": "\uC2DC\uD5D8 \uC900\uBE44 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "check",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-trial-consented",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 171.8515625,
+          "y": 32.8984375,
+          "width": 542.1484375,
+          "height": 19.1953125
+        },
+        "text": "\uC2E4\uC81C \uC571\uC740 \uBD84\uB9AC \uD655\uC778\uACFC \uC2DC\uD5D8\uC548 \uD655\uC778\uC774 \uD544\uC694\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 726,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 131.8515625,
+            "height": 44
+          },
+          "action": "trial-back",
+          "enabled": true,
+          "label": "\uAC80\uC0AC \uC120\uD0DD\uC73C\uB85C",
+          "name": "\uAC80\uC0AC \uC120\uD0DD\uC73C\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 726,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "trial-check",
+          "enabled": true,
+          "label": "\uC2DC\uD5D8 \uC900\uBE44 \uD655\uC778",
+          "name": "\uC2DC\uD5D8 \uC900\uBE44 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "check",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-trial-ready",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 171.8515625,
+          "y": 32.8984375,
+          "width": 540.8359375,
+          "height": 19.1953125
+        },
+        "text": "\uC2E4\uC81C \uC571\uC740 \uBD84\uB9AC \uD655\uC778\uACFC \uC2DC\uD5D8\uC548 \uD655\uC778\uC774 \uD544\uC694\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 724.6875,
+        "y": 18.5,
+        "width": 165.3125,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 131.8515625,
+            "height": 44
+          },
+          "action": "trial-back",
+          "enabled": true,
+          "label": "\uAC80\uC0AC \uC120\uD0DD\uC73C\uB85C",
+          "name": "\uAC80\uC0AC \uC120\uD0DD\uC73C\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 724.6875,
+            "y": 18.5,
+            "width": 165.3125,
+            "height": 48
+          },
+          "action": "trial-back",
+          "enabled": true,
+          "label": "\uC900\uBE44 \uD655\uC778 \u00B7 \uB3CC\uC544\uAC00\uAE30",
+          "name": "\uC900\uBE44 \uD655\uC778 \u00B7 \uB3CC\uC544\uAC00\uAE30",
+          "variant": "primary",
+          "iconName": "check",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-review",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 149.359375,
+          "y": 32.8984375,
+          "width": 564.640625,
+          "height": 19.1953125
+        },
+        "text": "\uC4F0\uAE30\uB97C \uBA48\uCD98 \uC0C1\uD0DC\uB97C \uD655\uC778\uD558\uC138\uC694."
+      },
+      "actions": {
+        "x": 726,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 109.359375,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uC120\uD0DD \uC218\uC815",
+          "name": "\uC120\uD0DD \uC218\uC815",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 726,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "run",
+          "enabled": false,
+          "label": "\uBE44\uAD50 \uC2DC\uC791",
+          "name": "\uBE44\uAD50 \uC2DC\uC791",
+          "variant": "primary",
+          "iconName": "play",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-review-stopped",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 149.359375,
+          "y": 32.8984375,
+          "width": 564.640625,
+          "height": 19.1953125
+        },
+        "text": "\uC900\uBE44\uD55C \uBC94\uC704\uB85C \uC608\uC2DC \uAC80\uC0AC\uB97C \uC2DC\uC791\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 726,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 109.359375,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uC120\uD0DD \uC218\uC815",
+          "name": "\uC120\uD0DD \uC218\uC815",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 726,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "run",
+          "enabled": true,
+          "label": "\uBE44\uAD50 \uC2DC\uC791",
+          "name": "\uBE44\uAD50 \uC2DC\uC791",
+          "variant": "primary",
+          "iconName": "play",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-running",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 28,
+          "y": 32.8984375,
+          "width": 740.640625,
+          "height": 19.1953125
+        },
+        "text": "\uD654\uBA74 \uC2DC\uC548\uC758 \uC608\uC2DC \uAC80\uC0AC\uC785\uB2C8\uB2E4. \uC2E4\uC81C DB \uC77D\uAE30\u00B7\uC4F0\uAE30\uB294 \uC5C6\uC2B5\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 780.640625,
+        "y": 20.5,
+        "width": 109.359375,
+        "height": 44
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 780.640625,
+            "y": 20.5,
+            "width": 109.359375,
+            "height": 44
+          },
+          "action": "cancel",
+          "enabled": true,
+          "label": "\uAC80\uC0AC \uCDE8\uC18C",
+          "name": "\uAC80\uC0AC \uCDE8\uC18C",
+          "variant": "danger",
+          "iconName": "stop",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-running-complete",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 28,
+          "y": 32.8984375,
+          "width": 686,
+          "height": 19.1953125
+        },
+        "text": "\uD654\uBA74 \uC2DC\uC548\uC758 \uC608\uC2DC \uAC80\uC0AC\uC785\uB2C8\uB2E4. \uC2E4\uC81C DB \uC77D\uAE30\u00B7\uC4F0\uAE30\uB294 \uC5C6\uC2B5\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 726,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 726,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "show-results",
+          "enabled": true,
+          "label": "\uACB0\uACFC \uBCF4\uAE30",
+          "name": "\uACB0\uACFC \uBCF4\uAE30",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-running-interrupted",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 28,
+          "y": 32.8984375,
+          "width": 686,
+          "height": 19.1953125
+        },
+        "text": "\uC911\uB2E8 \uC774\uC720: \uC0AC\uC6A9\uC790 \uCDE8\uC18C \u00B7 \uC0C8 \uC804\uCCB4 \uAC80\uC0AC\uB9CC \uAC00\uB2A5"
+      },
+      "actions": {
+        "x": 726,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 726,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "show-results",
+          "enabled": true,
+          "label": "\uACB0\uACFC \uBCF4\uAE30",
+          "name": "\uACB0\uACFC \uBCF4\uAE30",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-results",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 160.609375,
+          "y": 32.8984375,
+          "width": 553.390625,
+          "height": 19.1953125
+        },
+        "text": "\uD655\uC778\uD55C \uBC94\uC704\uC640 \uD655\uC778 \uBD88\uAC00 \uC774\uC720\uB97C \uD568\uAED8 \uBCF4\uAD00\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 726,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 120.609375,
+            "height": 44
+          },
+          "action": "restart",
+          "enabled": true,
+          "label": "\uC804\uCCB4 \uC7AC\uAC80\uC0AC",
+          "name": "\uC804\uCCB4 \uC7AC\uAC80\uC0AC",
+          "variant": "quiet",
+          "iconName": "refresh",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 726,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "save",
+          "enabled": true,
+          "label": "\uACB0\uACFC \uC800\uC7A5",
+          "name": "\uACB0\uACFC \uC800\uC7A5",
+          "variant": "primary",
+          "iconName": "save",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-save-none",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 183.09375,
+          "y": 32.8984375,
+          "width": 530.90625,
+          "height": 19.1953125
+        },
+        "text": "\uC800\uC7A5\uD560 \uD615\uC2DD\uC744 \uC120\uD0DD\uD558\uC138\uC694."
+      },
+      "actions": {
+        "x": 726,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 143.09375,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uACB0\uACFC\uB85C \uB3CC\uC544\uAC00\uAE30",
+          "name": "\uACB0\uACFC\uB85C \uB3CC\uC544\uAC00\uAE30",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 726,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "download",
+          "enabled": false,
+          "label": "\uC120\uD0DD \uD615\uC2DD \uC800\uC7A5",
+          "name": "\uC120\uD0DD \uD615\uC2DD \uC800\uC7A5",
+          "variant": "primary",
+          "iconName": "save",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-save",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 183.09375,
+          "y": 32.8984375,
+          "width": 530.90625,
+          "height": 19.1953125
+        },
+        "text": "\uBE0C\uB77C\uC6B0\uC800 \uB2E4\uC6B4\uB85C\uB4DC\uB85C \uC608\uC2DC \uD30C\uC77C\uC744 \uB9CC\uB4ED\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 726,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 143.09375,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uACB0\uACFC\uB85C \uB3CC\uC544\uAC00\uAE30",
+          "name": "\uACB0\uACFC\uB85C \uB3CC\uC544\uAC00\uAE30",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 726,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "download",
+          "enabled": true,
+          "label": "\uC120\uD0DD \uD615\uC2DD \uC800\uC7A5",
+          "name": "\uC120\uD0DD \uD615\uC2DD \uC800\uC7A5",
+          "variant": "primary",
+          "iconName": "save",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-home",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 28,
+          "y": 32.8984375,
+          "width": 862,
+          "height": 19.1953125
+        },
+        "text": "Explore the sample flow without logging in."
+      },
+      "actions": null,
+      "buttons": []
+    },
+    {
+      "id": "en-connect",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 132.140625,
+          "y": 32.8984375,
+          "width": 531.453125,
+          "height": 19.1953125
+        },
+        "text": "Changes require another connection check."
+      },
+      "actions": {
+        "x": 675.59375,
+        "y": 18.5,
+        "width": 214.40625,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 675.59375,
+            "y": 18.5,
+            "width": 214.40625,
+            "height": 48
+          },
+          "action": "connect",
+          "enabled": true,
+          "label": "Check both connections",
+          "name": "Check both connections",
+          "variant": "primary",
+          "iconName": "db",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-connect-busy",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 132.140625,
+          "y": 32.8984375,
+          "width": 581.859375,
+          "height": 19.1953125
+        },
+        "text": "Changes require another connection check."
+      },
+      "actions": {
+        "x": 726,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 726,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "connect",
+          "enabled": false,
+          "label": "Checking\u2026",
+          "name": "Checking\u2026",
+          "variant": "primary",
+          "iconName": "",
+          "loading": true
+        }
+      ]
+    },
+    {
+      "id": "en-connected",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 132.140625,
+          "y": 32.8984375,
+          "width": 581.859375,
+          "height": 19.1953125
+        },
+        "text": "Changes require another connection check."
+      },
+      "actions": {
+        "x": 726,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 726,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "preflight",
+          "enabled": true,
+          "label": "Check visibility",
+          "name": "Check visibility",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-connected-busy",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 132.140625,
+          "y": 32.8984375,
+          "width": 581.859375,
+          "height": 19.1953125
+        },
+        "text": "Changes require another connection check."
+      },
+      "actions": {
+        "x": 726,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 726,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "preflight",
+          "enabled": false,
+          "label": "Check visibility",
+          "name": "Check visibility",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-capabilities",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 132.140625,
+          "y": 32.8984375,
+          "width": 581.859375,
+          "height": 19.1953125
+        },
+        "text": "Visibility gaps stay in the result."
+      },
+      "actions": {
+        "x": 726,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 726,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "choose",
+          "enabled": true,
+          "label": "Choose checks",
+          "name": "Choose checks",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-select-none",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 132.140625,
+          "y": 32.8984375,
+          "width": 543.3671875,
+          "height": 19.1953125
+        },
+        "text": "Select at least one check category."
+      },
+      "actions": {
+        "x": 687.5078125,
+        "y": 18.5,
+        "width": 202.4921875,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 687.5078125,
+            "y": 18.5,
+            "width": 202.4921875,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": false,
+          "label": "Review before running",
+          "name": "Review before running",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-select-no-table",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 132.140625,
+          "y": 32.8984375,
+          "width": 543.3671875,
+          "height": 19.1953125
+        },
+        "text": "Select at least one table to compare."
+      },
+      "actions": {
+        "x": 687.5078125,
+        "y": 18.5,
+        "width": 202.4921875,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 687.5078125,
+            "y": 18.5,
+            "width": 202.4921875,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": false,
+          "label": "Review before running",
+          "name": "Review before running",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-select-trial-unready",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 132.140625,
+          "y": 32.8984375,
+          "width": 543.3671875,
+          "height": 19.1953125
+        },
+        "text": "Prepare or deselect the behavior test."
+      },
+      "actions": {
+        "x": 687.5078125,
+        "y": 18.5,
+        "width": 202.4921875,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 687.5078125,
+            "y": 18.5,
+            "width": 202.4921875,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": false,
+          "label": "Review before running",
+          "name": "Review before running",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-select-trial-ready",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 132.140625,
+          "y": 32.8984375,
+          "width": 543.3671875,
+          "height": 19.1953125
+        },
+        "text": "Review selected and excluded scope next."
+      },
+      "actions": {
+        "x": 687.5078125,
+        "y": 18.5,
+        "width": 202.4921875,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 687.5078125,
+            "y": 18.5,
+            "width": 202.4921875,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": true,
+          "label": "Review before running",
+          "name": "Review before running",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-select",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 132.140625,
+          "y": 32.8984375,
+          "width": 543.3671875,
+          "height": 19.1953125
+        },
+        "text": "Review selected and excluded scope next."
+      },
+      "actions": {
+        "x": 687.5078125,
+        "y": 18.5,
+        "width": 202.4921875,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 687.5078125,
+            "y": 18.5,
+            "width": 202.4921875,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": true,
+          "label": "Review before running",
+          "name": "Review before running",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-trial",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 209.4609375,
+          "y": 32.8984375,
+          "width": 489.28125,
+          "height": 19.1953125
+        },
+        "text": "The actual app must verify isolation and the trial plan."
+      },
+      "actions": {
+        "x": 710.7421875,
+        "y": 18.5,
+        "width": 179.2578125,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 169.4609375,
+            "height": 44
+          },
+          "action": "trial-back",
+          "enabled": true,
+          "label": "Back to selection",
+          "name": "Back to selection",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 710.7421875,
+            "y": 18.5,
+            "width": 179.2578125,
+            "height": 48
+          },
+          "action": "trial-check",
+          "enabled": false,
+          "label": "Confirm test setup",
+          "name": "Confirm test setup",
+          "variant": "primary",
+          "iconName": "check",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-trial-consented",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 209.4609375,
+          "y": 32.8984375,
+          "width": 489.28125,
+          "height": 19.1953125
+        },
+        "text": "The actual app must verify isolation and the trial plan."
+      },
+      "actions": {
+        "x": 710.7421875,
+        "y": 18.5,
+        "width": 179.2578125,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 169.4609375,
+            "height": 44
+          },
+          "action": "trial-back",
+          "enabled": true,
+          "label": "Back to selection",
+          "name": "Back to selection",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 710.7421875,
+            "y": 18.5,
+            "width": 179.2578125,
+            "height": 48
+          },
+          "action": "trial-check",
+          "enabled": true,
+          "label": "Confirm test setup",
+          "name": "Confirm test setup",
+          "variant": "primary",
+          "iconName": "check",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-trial-ready",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 209.4609375,
+          "y": 32.8984375,
+          "width": 504.5390625,
+          "height": 19.1953125
+        },
+        "text": "The actual app must verify isolation and the trial plan."
+      },
+      "actions": {
+        "x": 726,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 169.4609375,
+            "height": 44
+          },
+          "action": "trial-back",
+          "enabled": true,
+          "label": "Back to selection",
+          "name": "Back to selection",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 726,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "trial-back",
+          "enabled": true,
+          "label": "Ready \u00B7 Return",
+          "name": "Ready \u00B7 Return",
+          "variant": "primary",
+          "iconName": "check",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-review",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 186.7734375,
+          "y": 32.8984375,
+          "width": 520.8984375,
+          "height": 19.1953125
+        },
+        "text": "Confirm that writes are stopped."
+      },
+      "actions": {
+        "x": 719.671875,
+        "y": 18.5,
+        "width": 170.328125,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 146.7734375,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Edit selection",
+          "name": "Edit selection",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 719.671875,
+            "y": 18.5,
+            "width": 170.328125,
+            "height": 48
+          },
+          "action": "run",
+          "enabled": false,
+          "label": "Start comparison",
+          "name": "Start comparison",
+          "variant": "primary",
+          "iconName": "play",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-review-stopped",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 186.7734375,
+          "y": 32.8984375,
+          "width": 520.8984375,
+          "height": 19.1953125
+        },
+        "text": "Start sample checks for the prepared scope."
+      },
+      "actions": {
+        "x": 719.671875,
+        "y": 18.5,
+        "width": 170.328125,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 146.7734375,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Edit selection",
+          "name": "Edit selection",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 719.671875,
+            "y": 18.5,
+            "width": 170.328125,
+            "height": 48
+          },
+          "action": "run",
+          "enabled": true,
+          "label": "Start comparison",
+          "name": "Start comparison",
+          "variant": "primary",
+          "iconName": "play",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-running",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 28,
+          "y": 32.8984375,
+          "width": 697.4765625,
+          "height": 19.1953125
+        },
+        "text": "Simulated preview checks; no real DB reads or writes."
+      },
+      "actions": {
+        "x": 737.4765625,
+        "y": 20.5,
+        "width": 152.5234375,
+        "height": 44
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 737.4765625,
+            "y": 20.5,
+            "width": 152.5234375,
+            "height": 44
+          },
+          "action": "cancel",
+          "enabled": true,
+          "label": "Cancel checks",
+          "name": "Cancel checks",
+          "variant": "danger",
+          "iconName": "stop",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-running-complete",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 28,
+          "y": 32.8984375,
+          "width": 686,
+          "height": 19.1953125
+        },
+        "text": "Simulated preview checks; no real DB reads or writes."
+      },
+      "actions": {
+        "x": 726,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 726,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "show-results",
+          "enabled": true,
+          "label": "View results",
+          "name": "View results",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-running-interrupted",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 28,
+          "y": 32.8984375,
+          "width": 686,
+          "height": 19.1953125
+        },
+        "text": "Reason: user cancellation \u00B7 Full new check only"
+      },
+      "actions": {
+        "x": 726,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 726,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "show-results",
+          "enabled": true,
+          "label": "View results",
+          "name": "View results",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-results",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 194.328125,
+          "y": 32.8984375,
+          "width": 519.671875,
+          "height": 19.1953125
+        },
+        "text": "Save verified scope and reasons for gaps together."
+      },
+      "actions": {
+        "x": 726,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 154.328125,
+            "height": 44
+          },
+          "action": "restart",
+          "enabled": true,
+          "label": "Full new check",
+          "name": "Full new check",
+          "variant": "quiet",
+          "iconName": "refresh",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 726,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "save",
+          "enabled": true,
+          "label": "Save results",
+          "name": "Save results",
+          "variant": "primary",
+          "iconName": "save",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-save-none",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 195.1875,
+          "y": 32.8984375,
+          "width": 481.109375,
+          "height": 19.1953125
+        },
+        "text": "Choose a file format."
+      },
+      "actions": {
+        "x": 688.296875,
+        "y": 18.5,
+        "width": 201.703125,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 155.1875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back to results",
+          "name": "Back to results",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 688.296875,
+            "y": 18.5,
+            "width": 201.703125,
+            "height": 48
+          },
+          "action": "download",
+          "enabled": false,
+          "label": "Save selected formats",
+          "name": "Save selected formats",
+          "variant": "primary",
+          "iconName": "save",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-save",
+      "viewport": 1138,
+      "width": 918,
+      "height": 84,
+      "paddingX": 28,
+      "hint": {
+        "box": {
+          "x": 195.1875,
+          "y": 32.8984375,
+          "width": 481.109375,
+          "height": 19.1953125
+        },
+        "text": "Create sample files via browser downloads."
+      },
+      "actions": {
+        "x": 688.296875,
+        "y": 18.5,
+        "width": 201.703125,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 28,
+            "y": 20.5,
+            "width": 155.1875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back to results",
+          "name": "Back to results",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 688.296875,
+            "y": 18.5,
+            "width": 201.703125,
+            "height": 48
+          },
+          "action": "download",
+          "enabled": true,
+          "label": "Save selected formats",
+          "name": "Save selected formats",
+          "variant": "primary",
+          "iconName": "save",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-home",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 40,
+          "y": 32.8984375,
+          "width": 980,
+          "height": 19.1953125
+        },
+        "text": "\uB85C\uADF8\uC778 \uC5C6\uC774 \uC608\uC2DC \uD750\uB984\uC744 \uC0B4\uD3B4\uBCFC \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+      },
+      "actions": null,
+      "buttons": []
+    },
+    {
+      "id": "ko-connect",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 135.4921875,
+          "y": 32.8984375,
+          "width": 708.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uC5F0\uACB0 \uC815\uBCF4\uB97C \uBC14\uAFB8\uBA74 \uB2E4\uC2DC \uD655\uC778\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 856,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 856,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "connect",
+          "enabled": true,
+          "label": "\uB450 \uC5F0\uACB0 \uD655\uC778",
+          "name": "\uB450 \uC5F0\uACB0 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "db",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-connect-busy",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 135.4921875,
+          "y": 32.8984375,
+          "width": 708.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uC5F0\uACB0 \uC815\uBCF4\uB97C \uBC14\uAFB8\uBA74 \uB2E4\uC2DC \uD655\uC778\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 856,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 856,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "connect",
+          "enabled": false,
+          "label": "\uD655\uC778 \uC911\u2026",
+          "name": "\uD655\uC778 \uC911\u2026",
+          "variant": "primary",
+          "iconName": "",
+          "loading": true
+        }
+      ]
+    },
+    {
+      "id": "ko-connected",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 135.4921875,
+          "y": 32.8984375,
+          "width": 708.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uC5F0\uACB0 \uC815\uBCF4\uB97C \uBC14\uAFB8\uBA74 \uB2E4\uC2DC \uD655\uC778\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 856,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 856,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "preflight",
+          "enabled": true,
+          "label": "\uC870\uD68C \uBC94\uC704 \uD655\uC778",
+          "name": "\uC870\uD68C \uBC94\uC704 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-connected-busy",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 135.4921875,
+          "y": 32.8984375,
+          "width": 708.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uC5F0\uACB0 \uC815\uBCF4\uB97C \uBC14\uAFB8\uBA74 \uB2E4\uC2DC \uD655\uC778\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 856,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 856,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "preflight",
+          "enabled": false,
+          "label": "\uC870\uD68C \uBC94\uC704 \uD655\uC778",
+          "name": "\uC870\uD68C \uBC94\uC704 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-capabilities",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 135.4921875,
+          "y": 32.8984375,
+          "width": 708.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uBBF8\uC870\uD68C \uC601\uC5ED\uC740 \uACB0\uACFC\uC5D0\uB3C4 \uB0A8\uC2B5\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 856,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 856,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "choose",
+          "enabled": true,
+          "label": "\uAC80\uC0AC \uBC94\uC704 \uC120\uD0DD",
+          "name": "\uAC80\uC0AC \uBC94\uC704 \uC120\uD0DD",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-select-none",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 135.4921875,
+          "y": 32.8984375,
+          "width": 708.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uAC80\uC0AC \uBD84\uB958\uB97C \uD558\uB098 \uC774\uC0C1 \uC120\uD0DD\uD558\uC138\uC694."
+      },
+      "actions": {
+        "x": 856,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 856,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": false,
+          "label": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "name": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-select-no-table",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 135.4921875,
+          "y": 32.8984375,
+          "width": 708.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uAC80\uC0AC\uD560 \uD14C\uC774\uBE14\uC744 \uD558\uB098 \uC774\uC0C1 \uC120\uD0DD\uD558\uC138\uC694."
+      },
+      "actions": {
+        "x": 856,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 856,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": false,
+          "label": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "name": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-select-trial-unready",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 135.4921875,
+          "y": 32.8984375,
+          "width": 708.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uB3D9\uC791 \uC2DC\uD5D8\uC744 \uC900\uBE44\uD558\uAC70\uB098 \uC120\uD0DD\uC744 \uD574\uC81C\uD558\uC138\uC694."
+      },
+      "actions": {
+        "x": 856,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 856,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": false,
+          "label": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "name": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-select-trial-ready",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 135.4921875,
+          "y": 32.8984375,
+          "width": 708.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uC120\uD0DD \uBC94\uC704\uC640 \uC81C\uC678 \uBC94\uC704\uB97C \uB2E4\uC74C \uD654\uBA74\uC5D0\uC11C \uD655\uC778\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 856,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 856,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": true,
+          "label": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "name": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-select",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 135.4921875,
+          "y": 32.8984375,
+          "width": 708.5078125,
+          "height": 19.1953125
+        },
+        "text": "\uC120\uD0DD \uBC94\uC704\uC640 \uC81C\uC678 \uBC94\uC704\uB97C \uB2E4\uC74C \uD654\uBA74\uC5D0\uC11C \uD655\uC778\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 856,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 83.4921875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uB4A4\uB85C",
+          "name": "\uB4A4\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 856,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": true,
+          "label": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "name": "\uC2E4\uD589 \uC804 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-trial",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 183.8515625,
+          "y": 32.8984375,
+          "width": 660.1484375,
+          "height": 19.1953125
+        },
+        "text": "\uC2E4\uC81C \uC571\uC740 \uBD84\uB9AC \uD655\uC778\uACFC \uC2DC\uD5D8\uC548 \uD655\uC778\uC774 \uD544\uC694\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 856,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 131.8515625,
+            "height": 44
+          },
+          "action": "trial-back",
+          "enabled": true,
+          "label": "\uAC80\uC0AC \uC120\uD0DD\uC73C\uB85C",
+          "name": "\uAC80\uC0AC \uC120\uD0DD\uC73C\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 856,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "trial-check",
+          "enabled": false,
+          "label": "\uC2DC\uD5D8 \uC900\uBE44 \uD655\uC778",
+          "name": "\uC2DC\uD5D8 \uC900\uBE44 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "check",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-trial-consented",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 183.8515625,
+          "y": 32.8984375,
+          "width": 660.1484375,
+          "height": 19.1953125
+        },
+        "text": "\uC2E4\uC81C \uC571\uC740 \uBD84\uB9AC \uD655\uC778\uACFC \uC2DC\uD5D8\uC548 \uD655\uC778\uC774 \uD544\uC694\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 856,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 131.8515625,
+            "height": 44
+          },
+          "action": "trial-back",
+          "enabled": true,
+          "label": "\uAC80\uC0AC \uC120\uD0DD\uC73C\uB85C",
+          "name": "\uAC80\uC0AC \uC120\uD0DD\uC73C\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 856,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "trial-check",
+          "enabled": true,
+          "label": "\uC2DC\uD5D8 \uC900\uBE44 \uD655\uC778",
+          "name": "\uC2DC\uD5D8 \uC900\uBE44 \uD655\uC778",
+          "variant": "primary",
+          "iconName": "check",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-trial-ready",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 183.8515625,
+          "y": 32.8984375,
+          "width": 658.8359375,
+          "height": 19.1953125
+        },
+        "text": "\uC2E4\uC81C \uC571\uC740 \uBD84\uB9AC \uD655\uC778\uACFC \uC2DC\uD5D8\uC548 \uD655\uC778\uC774 \uD544\uC694\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 854.6875,
+        "y": 18.5,
+        "width": 165.3125,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 131.8515625,
+            "height": 44
+          },
+          "action": "trial-back",
+          "enabled": true,
+          "label": "\uAC80\uC0AC \uC120\uD0DD\uC73C\uB85C",
+          "name": "\uAC80\uC0AC \uC120\uD0DD\uC73C\uB85C",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 854.6875,
+            "y": 18.5,
+            "width": 165.3125,
+            "height": 48
+          },
+          "action": "trial-back",
+          "enabled": true,
+          "label": "\uC900\uBE44 \uD655\uC778 \u00B7 \uB3CC\uC544\uAC00\uAE30",
+          "name": "\uC900\uBE44 \uD655\uC778 \u00B7 \uB3CC\uC544\uAC00\uAE30",
+          "variant": "primary",
+          "iconName": "check",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-review",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 161.359375,
+          "y": 32.8984375,
+          "width": 682.640625,
+          "height": 19.1953125
+        },
+        "text": "\uC4F0\uAE30\uB97C \uBA48\uCD98 \uC0C1\uD0DC\uB97C \uD655\uC778\uD558\uC138\uC694."
+      },
+      "actions": {
+        "x": 856,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 109.359375,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uC120\uD0DD \uC218\uC815",
+          "name": "\uC120\uD0DD \uC218\uC815",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 856,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "run",
+          "enabled": false,
+          "label": "\uBE44\uAD50 \uC2DC\uC791",
+          "name": "\uBE44\uAD50 \uC2DC\uC791",
+          "variant": "primary",
+          "iconName": "play",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-review-stopped",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 161.359375,
+          "y": 32.8984375,
+          "width": 682.640625,
+          "height": 19.1953125
+        },
+        "text": "\uC900\uBE44\uD55C \uBC94\uC704\uB85C \uC608\uC2DC \uAC80\uC0AC\uB97C \uC2DC\uC791\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 856,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 109.359375,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uC120\uD0DD \uC218\uC815",
+          "name": "\uC120\uD0DD \uC218\uC815",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 856,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "run",
+          "enabled": true,
+          "label": "\uBE44\uAD50 \uC2DC\uC791",
+          "name": "\uBE44\uAD50 \uC2DC\uC791",
+          "variant": "primary",
+          "iconName": "play",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-running",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 40,
+          "y": 32.8984375,
+          "width": 858.640625,
+          "height": 19.1953125
+        },
+        "text": "\uD654\uBA74 \uC2DC\uC548\uC758 \uC608\uC2DC \uAC80\uC0AC\uC785\uB2C8\uB2E4. \uC2E4\uC81C DB \uC77D\uAE30\u00B7\uC4F0\uAE30\uB294 \uC5C6\uC2B5\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 910.640625,
+        "y": 20.5,
+        "width": 109.359375,
+        "height": 44
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 910.640625,
+            "y": 20.5,
+            "width": 109.359375,
+            "height": 44
+          },
+          "action": "cancel",
+          "enabled": true,
+          "label": "\uAC80\uC0AC \uCDE8\uC18C",
+          "name": "\uAC80\uC0AC \uCDE8\uC18C",
+          "variant": "danger",
+          "iconName": "stop",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-running-complete",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 40,
+          "y": 32.8984375,
+          "width": 804,
+          "height": 19.1953125
+        },
+        "text": "\uD654\uBA74 \uC2DC\uC548\uC758 \uC608\uC2DC \uAC80\uC0AC\uC785\uB2C8\uB2E4. \uC2E4\uC81C DB \uC77D\uAE30\u00B7\uC4F0\uAE30\uB294 \uC5C6\uC2B5\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 856,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 856,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "show-results",
+          "enabled": true,
+          "label": "\uACB0\uACFC \uBCF4\uAE30",
+          "name": "\uACB0\uACFC \uBCF4\uAE30",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-running-interrupted",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 40,
+          "y": 32.8984375,
+          "width": 804,
+          "height": 19.1953125
+        },
+        "text": "\uC911\uB2E8 \uC774\uC720: \uC0AC\uC6A9\uC790 \uCDE8\uC18C \u00B7 \uC0C8 \uC804\uCCB4 \uAC80\uC0AC\uB9CC \uAC00\uB2A5"
+      },
+      "actions": {
+        "x": 856,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 856,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "show-results",
+          "enabled": true,
+          "label": "\uACB0\uACFC \uBCF4\uAE30",
+          "name": "\uACB0\uACFC \uBCF4\uAE30",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-results",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 172.609375,
+          "y": 32.8984375,
+          "width": 671.390625,
+          "height": 19.1953125
+        },
+        "text": "\uD655\uC778\uD55C \uBC94\uC704\uC640 \uD655\uC778 \uBD88\uAC00 \uC774\uC720\uB97C \uD568\uAED8 \uBCF4\uAD00\uD569\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 856,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 120.609375,
+            "height": 44
+          },
+          "action": "restart",
+          "enabled": true,
+          "label": "\uC804\uCCB4 \uC7AC\uAC80\uC0AC",
+          "name": "\uC804\uCCB4 \uC7AC\uAC80\uC0AC",
+          "variant": "quiet",
+          "iconName": "refresh",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 856,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "save",
+          "enabled": true,
+          "label": "\uACB0\uACFC \uC800\uC7A5",
+          "name": "\uACB0\uACFC \uC800\uC7A5",
+          "variant": "primary",
+          "iconName": "save",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-save-none",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 195.09375,
+          "y": 32.8984375,
+          "width": 648.90625,
+          "height": 19.1953125
+        },
+        "text": "\uC800\uC7A5\uD560 \uD615\uC2DD\uC744 \uC120\uD0DD\uD558\uC138\uC694."
+      },
+      "actions": {
+        "x": 856,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 143.09375,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uACB0\uACFC\uB85C \uB3CC\uC544\uAC00\uAE30",
+          "name": "\uACB0\uACFC\uB85C \uB3CC\uC544\uAC00\uAE30",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 856,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "download",
+          "enabled": false,
+          "label": "\uC120\uD0DD \uD615\uC2DD \uC800\uC7A5",
+          "name": "\uC120\uD0DD \uD615\uC2DD \uC800\uC7A5",
+          "variant": "primary",
+          "iconName": "save",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "ko-save",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 195.09375,
+          "y": 32.8984375,
+          "width": 648.90625,
+          "height": 19.1953125
+        },
+        "text": "\uBE0C\uB77C\uC6B0\uC800 \uB2E4\uC6B4\uB85C\uB4DC\uB85C \uC608\uC2DC \uD30C\uC77C\uC744 \uB9CC\uB4ED\uB2C8\uB2E4."
+      },
+      "actions": {
+        "x": 856,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 143.09375,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "\uACB0\uACFC\uB85C \uB3CC\uC544\uAC00\uAE30",
+          "name": "\uACB0\uACFC\uB85C \uB3CC\uC544\uAC00\uAE30",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 856,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "download",
+          "enabled": true,
+          "label": "\uC120\uD0DD \uD615\uC2DD \uC800\uC7A5",
+          "name": "\uC120\uD0DD \uD615\uC2DD \uC800\uC7A5",
+          "variant": "primary",
+          "iconName": "save",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-home",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 40,
+          "y": 32.8984375,
+          "width": 980,
+          "height": 19.1953125
+        },
+        "text": "Explore the sample flow without logging in."
+      },
+      "actions": null,
+      "buttons": []
+    },
+    {
+      "id": "en-connect",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 144.140625,
+          "y": 32.8984375,
+          "width": 649.453125,
+          "height": 19.1953125
+        },
+        "text": "Changes require another connection check."
+      },
+      "actions": {
+        "x": 805.59375,
+        "y": 18.5,
+        "width": 214.40625,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 805.59375,
+            "y": 18.5,
+            "width": 214.40625,
+            "height": 48
+          },
+          "action": "connect",
+          "enabled": true,
+          "label": "Check both connections",
+          "name": "Check both connections",
+          "variant": "primary",
+          "iconName": "db",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-connect-busy",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 144.140625,
+          "y": 32.8984375,
+          "width": 699.859375,
+          "height": 19.1953125
+        },
+        "text": "Changes require another connection check."
+      },
+      "actions": {
+        "x": 856,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 856,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "connect",
+          "enabled": false,
+          "label": "Checking\u2026",
+          "name": "Checking\u2026",
+          "variant": "primary",
+          "iconName": "",
+          "loading": true
+        }
+      ]
+    },
+    {
+      "id": "en-connected",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 144.140625,
+          "y": 32.8984375,
+          "width": 699.859375,
+          "height": 19.1953125
+        },
+        "text": "Changes require another connection check."
+      },
+      "actions": {
+        "x": 856,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 856,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "preflight",
+          "enabled": true,
+          "label": "Check visibility",
+          "name": "Check visibility",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-connected-busy",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 144.140625,
+          "y": 32.8984375,
+          "width": 699.859375,
+          "height": 19.1953125
+        },
+        "text": "Changes require another connection check."
+      },
+      "actions": {
+        "x": 856,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 856,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "preflight",
+          "enabled": false,
+          "label": "Check visibility",
+          "name": "Check visibility",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-capabilities",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 144.140625,
+          "y": 32.8984375,
+          "width": 699.859375,
+          "height": 19.1953125
+        },
+        "text": "Visibility gaps stay in the result."
+      },
+      "actions": {
+        "x": 856,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 856,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "choose",
+          "enabled": true,
+          "label": "Choose checks",
+          "name": "Choose checks",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-select-none",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 144.140625,
+          "y": 32.8984375,
+          "width": 661.3671875,
+          "height": 19.1953125
+        },
+        "text": "Select at least one check category."
+      },
+      "actions": {
+        "x": 817.5078125,
+        "y": 18.5,
+        "width": 202.4921875,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 817.5078125,
+            "y": 18.5,
+            "width": 202.4921875,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": false,
+          "label": "Review before running",
+          "name": "Review before running",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-select-no-table",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 144.140625,
+          "y": 32.8984375,
+          "width": 661.3671875,
+          "height": 19.1953125
+        },
+        "text": "Select at least one table to compare."
+      },
+      "actions": {
+        "x": 817.5078125,
+        "y": 18.5,
+        "width": 202.4921875,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 817.5078125,
+            "y": 18.5,
+            "width": 202.4921875,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": false,
+          "label": "Review before running",
+          "name": "Review before running",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-select-trial-unready",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 144.140625,
+          "y": 32.8984375,
+          "width": 661.3671875,
+          "height": 19.1953125
+        },
+        "text": "Prepare or deselect the behavior test."
+      },
+      "actions": {
+        "x": 817.5078125,
+        "y": 18.5,
+        "width": 202.4921875,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 817.5078125,
+            "y": 18.5,
+            "width": 202.4921875,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": false,
+          "label": "Review before running",
+          "name": "Review before running",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-select-trial-ready",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 144.140625,
+          "y": 32.8984375,
+          "width": 661.3671875,
+          "height": 19.1953125
+        },
+        "text": "Review selected and excluded scope next."
+      },
+      "actions": {
+        "x": 817.5078125,
+        "y": 18.5,
+        "width": 202.4921875,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 817.5078125,
+            "y": 18.5,
+            "width": 202.4921875,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": true,
+          "label": "Review before running",
+          "name": "Review before running",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-select",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 144.140625,
+          "y": 32.8984375,
+          "width": 661.3671875,
+          "height": 19.1953125
+        },
+        "text": "Review selected and excluded scope next."
+      },
+      "actions": {
+        "x": 817.5078125,
+        "y": 18.5,
+        "width": 202.4921875,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 92.140625,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back",
+          "name": "Back",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 817.5078125,
+            "y": 18.5,
+            "width": 202.4921875,
+            "height": 48
+          },
+          "action": "review",
+          "enabled": true,
+          "label": "Review before running",
+          "name": "Review before running",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-trial",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 221.4609375,
+          "y": 32.8984375,
+          "width": 607.28125,
+          "height": 19.1953125
+        },
+        "text": "The actual app must verify isolation and the trial plan."
+      },
+      "actions": {
+        "x": 840.7421875,
+        "y": 18.5,
+        "width": 179.2578125,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 169.4609375,
+            "height": 44
+          },
+          "action": "trial-back",
+          "enabled": true,
+          "label": "Back to selection",
+          "name": "Back to selection",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 840.7421875,
+            "y": 18.5,
+            "width": 179.2578125,
+            "height": 48
+          },
+          "action": "trial-check",
+          "enabled": false,
+          "label": "Confirm test setup",
+          "name": "Confirm test setup",
+          "variant": "primary",
+          "iconName": "check",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-trial-consented",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 221.4609375,
+          "y": 32.8984375,
+          "width": 607.28125,
+          "height": 19.1953125
+        },
+        "text": "The actual app must verify isolation and the trial plan."
+      },
+      "actions": {
+        "x": 840.7421875,
+        "y": 18.5,
+        "width": 179.2578125,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 169.4609375,
+            "height": 44
+          },
+          "action": "trial-back",
+          "enabled": true,
+          "label": "Back to selection",
+          "name": "Back to selection",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 840.7421875,
+            "y": 18.5,
+            "width": 179.2578125,
+            "height": 48
+          },
+          "action": "trial-check",
+          "enabled": true,
+          "label": "Confirm test setup",
+          "name": "Confirm test setup",
+          "variant": "primary",
+          "iconName": "check",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-trial-ready",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 221.4609375,
+          "y": 32.8984375,
+          "width": 622.5390625,
+          "height": 19.1953125
+        },
+        "text": "The actual app must verify isolation and the trial plan."
+      },
+      "actions": {
+        "x": 856,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 169.4609375,
+            "height": 44
+          },
+          "action": "trial-back",
+          "enabled": true,
+          "label": "Back to selection",
+          "name": "Back to selection",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 856,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "trial-back",
+          "enabled": true,
+          "label": "Ready \u00B7 Return",
+          "name": "Ready \u00B7 Return",
+          "variant": "primary",
+          "iconName": "check",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-review",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 198.7734375,
+          "y": 32.8984375,
+          "width": 638.8984375,
+          "height": 19.1953125
+        },
+        "text": "Confirm that writes are stopped."
+      },
+      "actions": {
+        "x": 849.671875,
+        "y": 18.5,
+        "width": 170.328125,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 146.7734375,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Edit selection",
+          "name": "Edit selection",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 849.671875,
+            "y": 18.5,
+            "width": 170.328125,
+            "height": 48
+          },
+          "action": "run",
+          "enabled": false,
+          "label": "Start comparison",
+          "name": "Start comparison",
+          "variant": "primary",
+          "iconName": "play",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-review-stopped",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 198.7734375,
+          "y": 32.8984375,
+          "width": 638.8984375,
+          "height": 19.1953125
+        },
+        "text": "Start sample checks for the prepared scope."
+      },
+      "actions": {
+        "x": 849.671875,
+        "y": 18.5,
+        "width": 170.328125,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 146.7734375,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Edit selection",
+          "name": "Edit selection",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 849.671875,
+            "y": 18.5,
+            "width": 170.328125,
+            "height": 48
+          },
+          "action": "run",
+          "enabled": true,
+          "label": "Start comparison",
+          "name": "Start comparison",
+          "variant": "primary",
+          "iconName": "play",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-running",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 40,
+          "y": 32.8984375,
+          "width": 815.4765625,
+          "height": 19.1953125
+        },
+        "text": "Simulated preview checks; no real DB reads or writes."
+      },
+      "actions": {
+        "x": 867.4765625,
+        "y": 20.5,
+        "width": 152.5234375,
+        "height": 44
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 867.4765625,
+            "y": 20.5,
+            "width": 152.5234375,
+            "height": 44
+          },
+          "action": "cancel",
+          "enabled": true,
+          "label": "Cancel checks",
+          "name": "Cancel checks",
+          "variant": "danger",
+          "iconName": "stop",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-running-complete",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 40,
+          "y": 32.8984375,
+          "width": 804,
+          "height": 19.1953125
+        },
+        "text": "Simulated preview checks; no real DB reads or writes."
+      },
+      "actions": {
+        "x": 856,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 856,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "show-results",
+          "enabled": true,
+          "label": "View results",
+          "name": "View results",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-running-interrupted",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 40,
+          "y": 32.8984375,
+          "width": 804,
+          "height": 19.1953125
+        },
+        "text": "Reason: user cancellation \u00B7 Full new check only"
+      },
+      "actions": {
+        "x": 856,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 856,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "show-results",
+          "enabled": true,
+          "label": "View results",
+          "name": "View results",
+          "variant": "primary",
+          "iconName": "arrow",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-results",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 206.328125,
+          "y": 32.8984375,
+          "width": 637.671875,
+          "height": 19.1953125
+        },
+        "text": "Save verified scope and reasons for gaps together."
+      },
+      "actions": {
+        "x": 856,
+        "y": 18.5,
+        "width": 164,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 154.328125,
+            "height": 44
+          },
+          "action": "restart",
+          "enabled": true,
+          "label": "Full new check",
+          "name": "Full new check",
+          "variant": "quiet",
+          "iconName": "refresh",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 856,
+            "y": 18.5,
+            "width": 164,
+            "height": 48
+          },
+          "action": "save",
+          "enabled": true,
+          "label": "Save results",
+          "name": "Save results",
+          "variant": "primary",
+          "iconName": "save",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-save-none",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 207.1875,
+          "y": 32.8984375,
+          "width": 599.109375,
+          "height": 19.1953125
+        },
+        "text": "Choose a file format."
+      },
+      "actions": {
+        "x": 818.296875,
+        "y": 18.5,
+        "width": 201.703125,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 155.1875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back to results",
+          "name": "Back to results",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 818.296875,
+            "y": 18.5,
+            "width": 201.703125,
+            "height": 48
+          },
+          "action": "download",
+          "enabled": false,
+          "label": "Save selected formats",
+          "name": "Save selected formats",
+          "variant": "primary",
+          "iconName": "save",
+          "loading": false
+        }
+      ]
+    },
+    {
+      "id": "en-save",
+      "viewport": 1280,
+      "width": 1060,
+      "height": 84,
+      "paddingX": 40,
+      "hint": {
+        "box": {
+          "x": 207.1875,
+          "y": 32.8984375,
+          "width": 599.109375,
+          "height": 19.1953125
+        },
+        "text": "Create sample files via browser downloads."
+      },
+      "actions": {
+        "x": 818.296875,
+        "y": 18.5,
+        "width": 201.703125,
+        "height": 48
+      },
+      "buttons": [
+        {
+          "box": {
+            "x": 40,
+            "y": 20.5,
+            "width": 155.1875,
+            "height": 44
+          },
+          "action": "back",
+          "enabled": true,
+          "label": "Back to results",
+          "name": "Back to results",
+          "variant": "quiet",
+          "iconName": "back",
+          "loading": false
+        },
+        {
+          "box": {
+            "x": 818.296875,
+            "y": 18.5,
+            "width": 201.703125,
+            "height": 48
+          },
+          "action": "download",
+          "enabled": true,
+          "label": "Save selected formats",
+          "name": "Save selected formats",
+          "variant": "primary",
+          "iconName": "save",
+          "loading": false
+        }
+      ]
+    }
+  ]
+}

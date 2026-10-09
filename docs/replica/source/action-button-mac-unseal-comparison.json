@@ -1,0 +1,5 @@
+{
+  "cases": 32,
+  "errors": [],
+  "scope": "same original local layout/loading; only sealed keyword removed, remaining source byte-identical"
+}

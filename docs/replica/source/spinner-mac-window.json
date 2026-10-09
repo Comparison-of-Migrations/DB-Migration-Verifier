@@ -1,0 +1,72 @@
+{
+  "utc": "2026-10-06T04:12:51.260245Z",
+  "samples": [
+    {
+      "stage": "playing",
+      "normal": {
+        "width": 16,
+        "height": 16,
+        "Opacity": 1,
+        "reduced": false,
+        "matrix": "{ {M11:-0.43030432419497366 M12:0.9026838807573264} {M21:-0.9026838807573264 M22:-0.43030432419497366} {M31:0 M32:0} }",
+        "attached": true
+      },
+      "switching": {
+        "width": 16,
+        "height": 16,
+        "Opacity": 1,
+        "reduced": false,
+        "matrix": "{ {M11:-0.38903069530608225 M12:0.9212247923876485} {M21:-0.9212247923876485 M22:-0.38903069530608225} {M31:0 M32:0} }",
+        "attached": true
+      },
+      "reduced": {
+        "width": 16,
+        "height": 16,
+        "Opacity": 0.7,
+        "reduced": true,
+        "matrix": null,
+        "attached": true
+      },
+      "completed": false
+    },
+    {
+      "stage": "reduced-and-detached",
+      "normal": {
+        "width": 16,
+        "height": 16,
+        "Opacity": 1,
+        "reduced": false,
+        "matrix": null,
+        "attached": false
+      },
+      "switching": {
+        "width": 16,
+        "height": 16,
+        "Opacity": 0.7,
+        "reduced": true,
+        "matrix": null,
+        "attached": true
+      },
+      "reduced": {
+        "width": 16,
+        "height": 16,
+        "Opacity": 0.7,
+        "reduced": true,
+        "matrix": null,
+        "attached": true
+      },
+      "completed": true
+    },
+    {
+      "stage": "resumed",
+      "switching": {
+        "width": 16,
+        "height": 16,
+        "Opacity": 1,
+        "reduced": false,
+        "matrix": "{ {M11:-0.007995266314957858 M12:0.9999680373474709} {M21:-0.9999680373474709 M22:-0.007995266314957858} {M31:0 M32:0} }",
+        "attached": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,1853 @@
+{
+  "dpr": 2,
+  "rows": [
+    {
+      "id": "connect-0-ko-656",
+      "width": 656,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 25.1953125
+      },
+      "titleText": "\uBE44\uAD50\uD560 \uB450 DB\uB97C \uC5F0\uACB0\uD558\uC138\uC694",
+      "descriptionText": "\uAC19\uC740 DBMS\uC758 \uC6D0\uBCF8\uACFC \uB300\uC0C1\uC744 \uC9C0\uC815\uD569\uB2C8\uB2E4. \uC811\uC18D \uC815\uBCF4\uB294 \uACB0\uACFC \uD30C\uC77C\uC5D0 \uB123\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "connect-0-ko-980",
+      "width": 980,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uBE44\uAD50\uD560 \uB450 DB\uB97C \uC5F0\uACB0\uD558\uC138\uC694",
+      "descriptionText": "\uAC19\uC740 DBMS\uC758 \uC6D0\uBCF8\uACFC \uB300\uC0C1\uC744 \uC9C0\uC815\uD569\uB2C8\uB2E4. \uC811\uC18D \uC815\uBCF4\uB294 \uACB0\uACFC \uD30C\uC77C\uC5D0 \uB123\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "connect-0-ko-1060",
+      "width": 1060,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uBE44\uAD50\uD560 \uB450 DB\uB97C \uC5F0\uACB0\uD558\uC138\uC694",
+      "descriptionText": "\uAC19\uC740 DBMS\uC758 \uC6D0\uBCF8\uACFC \uB300\uC0C1\uC744 \uC9C0\uC815\uD569\uB2C8\uB2E4. \uC811\uC18D \uC815\uBCF4\uB294 \uACB0\uACFC \uD30C\uC77C\uC5D0 \uB123\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "connect-0-en-656",
+      "width": 656,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 25.1953125
+      },
+      "titleText": "Connect the databases to compare",
+      "descriptionText": "Choose a source and target of the same DBMS. Connection details stay out of result files.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "connect-0-en-980",
+      "width": 980,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "Connect the databases to compare",
+      "descriptionText": "Choose a source and target of the same DBMS. Connection details stay out of result files.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "connect-0-en-1060",
+      "width": 1060,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "Connect the databases to compare",
+      "descriptionText": "Choose a source and target of the same DBMS. Connection details stay out of result files.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "capabilities-0-ko-656",
+      "width": 656,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 25.1953125
+      },
+      "titleText": "\uC571\uC774 \uD655\uC778\uD560 \uC218 \uC788\uB294 \uBC94\uC704\uC785\uB2C8\uB2E4",
+      "descriptionText": "\uAD8C\uD55C \uC774\uB984\uC744 \uBBF8\uB9AC \uC54C \uD544\uC694\uB294 \uC5C6\uC2B5\uB2C8\uB2E4. \uAC00\uB2A5\uD55C \uAC80\uC0AC\uC640 \uD655\uC778\uD558\uC9C0 \uBABB\uD55C \uBD80\uBD84\uC744 \uBA3C\uC800 \uBCF4\uC5EC\uB4DC\uB9BD\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "capabilities-0-ko-980",
+      "width": 980,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uC571\uC774 \uD655\uC778\uD560 \uC218 \uC788\uB294 \uBC94\uC704\uC785\uB2C8\uB2E4",
+      "descriptionText": "\uAD8C\uD55C \uC774\uB984\uC744 \uBBF8\uB9AC \uC54C \uD544\uC694\uB294 \uC5C6\uC2B5\uB2C8\uB2E4. \uAC00\uB2A5\uD55C \uAC80\uC0AC\uC640 \uD655\uC778\uD558\uC9C0 \uBABB\uD55C \uBD80\uBD84\uC744 \uBA3C\uC800 \uBCF4\uC5EC\uB4DC\uB9BD\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "capabilities-0-ko-1060",
+      "width": 1060,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uC571\uC774 \uD655\uC778\uD560 \uC218 \uC788\uB294 \uBC94\uC704\uC785\uB2C8\uB2E4",
+      "descriptionText": "\uAD8C\uD55C \uC774\uB984\uC744 \uBBF8\uB9AC \uC54C \uD544\uC694\uB294 \uC5C6\uC2B5\uB2C8\uB2E4. \uAC00\uB2A5\uD55C \uAC80\uC0AC\uC640 \uD655\uC778\uD558\uC9C0 \uBABB\uD55C \uBD80\uBD84\uC744 \uBA3C\uC800 \uBCF4\uC5EC\uB4DC\uB9BD\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "capabilities-0-en-656",
+      "width": 656,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 25.1953125
+      },
+      "titleText": "What the app can verify",
+      "descriptionText": "You do not need to know permission names. The app first shows available checks and visibility gaps.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "capabilities-0-en-980",
+      "width": 980,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "What the app can verify",
+      "descriptionText": "You do not need to know permission names. The app first shows available checks and visibility gaps.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "capabilities-0-en-1060",
+      "width": 1060,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "What the app can verify",
+      "descriptionText": "You do not need to know permission names. The app first shows available checks and visibility gaps.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "select-0-ko-656",
+      "width": 656,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 25.1953125
+      },
+      "titleText": "\uBB34\uC5C7\uC744 \uAC80\uC0AC\uD560\uC9C0 \uC120\uD0DD\uD558\uC138\uC694",
+      "descriptionText": "\uC77D\uC744 \uC218 \uC788\uB294 \uBE44\uAD50 \uBD84\uB958\uB294 \uAE30\uBCF8 \uC120\uD0DD\uD569\uB2C8\uB2E4. \uBD84\uB958 \uC548\uC758 \uC138\uBD80 \uD56D\uBAA9\uB3C4 \uAC80\uC0AC \uB300\uC0C1\uC73C\uB85C \uC720\uC9C0\uD569\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "select-0-ko-980",
+      "width": 980,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uBB34\uC5C7\uC744 \uAC80\uC0AC\uD560\uC9C0 \uC120\uD0DD\uD558\uC138\uC694",
+      "descriptionText": "\uC77D\uC744 \uC218 \uC788\uB294 \uBE44\uAD50 \uBD84\uB958\uB294 \uAE30\uBCF8 \uC120\uD0DD\uD569\uB2C8\uB2E4. \uBD84\uB958 \uC548\uC758 \uC138\uBD80 \uD56D\uBAA9\uB3C4 \uAC80\uC0AC \uB300\uC0C1\uC73C\uB85C \uC720\uC9C0\uD569\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "select-0-ko-1060",
+      "width": 1060,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uBB34\uC5C7\uC744 \uAC80\uC0AC\uD560\uC9C0 \uC120\uD0DD\uD558\uC138\uC694",
+      "descriptionText": "\uC77D\uC744 \uC218 \uC788\uB294 \uBE44\uAD50 \uBD84\uB958\uB294 \uAE30\uBCF8 \uC120\uD0DD\uD569\uB2C8\uB2E4. \uBD84\uB958 \uC548\uC758 \uC138\uBD80 \uD56D\uBAA9\uB3C4 \uAC80\uC0AC \uB300\uC0C1\uC73C\uB85C \uC720\uC9C0\uD569\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "select-0-en-656",
+      "width": 656,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 25.1953125
+      },
+      "titleText": "Choose what to verify",
+      "descriptionText": "Readable comparison categories are selected by default, including their detailed checks.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "select-0-en-980",
+      "width": 980,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "Choose what to verify",
+      "descriptionText": "Readable comparison categories are selected by default, including their detailed checks.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "select-0-en-1060",
+      "width": 1060,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "Choose what to verify",
+      "descriptionText": "Readable comparison categories are selected by default, including their detailed checks.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "trial-0-ko-656",
+      "width": 656,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 25.1953125
+      },
+      "titleText": "\uB3D9\uC791 \uC2DC\uD5D8\uC740 \uBCC4\uB3C4 DB\uC5D0\uC11C \uD569\uB2C8\uB2E4",
+      "descriptionText": "\uC571\uC774 \uC6D0\uBCF8\u00B7\uB300\uC0C1\uC744 \uBCF5\uC81C\uD558\uAC70\uB098 \uCD08\uAE30\uD654\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4. \uBCC0\uACBD \uAC00\uB2A5\uD55C \uC2DC\uD5D8 DB\uB97C \uC0AC\uC6A9\uC790\uAC00 \uC900\uBE44\uD569\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "trial-0-ko-980",
+      "width": 980,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uB3D9\uC791 \uC2DC\uD5D8\uC740 \uBCC4\uB3C4 DB\uC5D0\uC11C \uD569\uB2C8\uB2E4",
+      "descriptionText": "\uC571\uC774 \uC6D0\uBCF8\u00B7\uB300\uC0C1\uC744 \uBCF5\uC81C\uD558\uAC70\uB098 \uCD08\uAE30\uD654\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4. \uBCC0\uACBD \uAC00\uB2A5\uD55C \uC2DC\uD5D8 DB\uB97C \uC0AC\uC6A9\uC790\uAC00 \uC900\uBE44\uD569\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "trial-0-ko-1060",
+      "width": 1060,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uB3D9\uC791 \uC2DC\uD5D8\uC740 \uBCC4\uB3C4 DB\uC5D0\uC11C \uD569\uB2C8\uB2E4",
+      "descriptionText": "\uC571\uC774 \uC6D0\uBCF8\u00B7\uB300\uC0C1\uC744 \uBCF5\uC81C\uD558\uAC70\uB098 \uCD08\uAE30\uD654\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4. \uBCC0\uACBD \uAC00\uB2A5\uD55C \uC2DC\uD5D8 DB\uB97C \uC0AC\uC6A9\uC790\uAC00 \uC900\uBE44\uD569\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "trial-0-en-656",
+      "width": 656,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 25.1953125
+      },
+      "titleText": "Behavior tests use a separate database",
+      "descriptionText": "Prepare your own mutable test DB. The app does not clone or reset the source or target.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "trial-0-en-980",
+      "width": 980,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "Behavior tests use a separate database",
+      "descriptionText": "Prepare your own mutable test DB. The app does not clone or reset the source or target.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "trial-0-en-1060",
+      "width": 1060,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "Behavior tests use a separate database",
+      "descriptionText": "Prepare your own mutable test DB. The app does not clone or reset the source or target.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "review-0-ko-656",
+      "width": 656,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 25.1953125
+      },
+      "titleText": "\uC2DC\uC791 \uC804\uC5D0 \uBC94\uC704\uB97C \uD655\uC778\uD558\uC138\uC694",
+      "descriptionText": "\uC774\uBC88 \uAC80\uC0AC\uAC00 \uC77D\uB294 \uB300\uC0C1\uACFC \uD655\uC778\uD558\uC9C0 \uBABB\uD560 \uBD80\uBD84\uC744 \uD55C \uBC88\uC5D0 \uD655\uC778\uD569\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "review-0-ko-980",
+      "width": 980,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uC2DC\uC791 \uC804\uC5D0 \uBC94\uC704\uB97C \uD655\uC778\uD558\uC138\uC694",
+      "descriptionText": "\uC774\uBC88 \uAC80\uC0AC\uAC00 \uC77D\uB294 \uB300\uC0C1\uACFC \uD655\uC778\uD558\uC9C0 \uBABB\uD560 \uBD80\uBD84\uC744 \uD55C \uBC88\uC5D0 \uD655\uC778\uD569\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "review-0-ko-1060",
+      "width": 1060,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uC2DC\uC791 \uC804\uC5D0 \uBC94\uC704\uB97C \uD655\uC778\uD558\uC138\uC694",
+      "descriptionText": "\uC774\uBC88 \uAC80\uC0AC\uAC00 \uC77D\uB294 \uB300\uC0C1\uACFC \uD655\uC778\uD558\uC9C0 \uBABB\uD560 \uBD80\uBD84\uC744 \uD55C \uBC88\uC5D0 \uD655\uC778\uD569\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "review-0-en-656",
+      "width": 656,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 25.1953125
+      },
+      "titleText": "Review the scope before starting",
+      "descriptionText": "Review the databases, selected checks and known limitations together.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "review-0-en-980",
+      "width": 980,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "Review the scope before starting",
+      "descriptionText": "Review the databases, selected checks and known limitations together.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "review-0-en-1060",
+      "width": 1060,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "Review the scope before starting",
+      "descriptionText": "Review the databases, selected checks and known limitations together.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "running-0-ko-656",
+      "width": 656,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 25.1953125
+      },
+      "titleText": "\uAC80\uC0AC\uAC00 \uC911\uB2E8\uB410\uC2B5\uB2C8\uB2E4",
+      "descriptionText": "\uD604\uC7AC \uD654\uBA74\uC758 \uC9C4\uD589\uACFC \uACB0\uACFC\uB294 \uC608\uC2DC\uC785\uB2C8\uB2E4. DB \uCFFC\uB9AC\uB97C \uC2E4\uD589\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "running-0-ko-980",
+      "width": 980,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uAC80\uC0AC\uAC00 \uC911\uB2E8\uB410\uC2B5\uB2C8\uB2E4",
+      "descriptionText": "\uD604\uC7AC \uD654\uBA74\uC758 \uC9C4\uD589\uACFC \uACB0\uACFC\uB294 \uC608\uC2DC\uC785\uB2C8\uB2E4. DB \uCFFC\uB9AC\uB97C \uC2E4\uD589\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "running-0-ko-1060",
+      "width": 1060,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uAC80\uC0AC\uAC00 \uC911\uB2E8\uB410\uC2B5\uB2C8\uB2E4",
+      "descriptionText": "\uD604\uC7AC \uD654\uBA74\uC758 \uC9C4\uD589\uACFC \uACB0\uACFC\uB294 \uC608\uC2DC\uC785\uB2C8\uB2E4. DB \uCFFC\uB9AC\uB97C \uC2E4\uD589\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "running-0-en-656",
+      "width": 656,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 25.1953125
+      },
+      "titleText": "The check was interrupted",
+      "descriptionText": "Progress and outcomes here are samples. No database queries are being executed.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "running-0-en-980",
+      "width": 980,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "The check was interrupted",
+      "descriptionText": "Progress and outcomes here are samples. No database queries are being executed.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "running-0-en-1060",
+      "width": 1060,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "The check was interrupted",
+      "descriptionText": "Progress and outcomes here are samples. No database queries are being executed.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "running-1-ko-656",
+      "width": 656,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 25.1953125
+      },
+      "titleText": "\uC608\uC2DC \uAC80\uC0AC\uAC00 \uB05D\uB0AC\uC2B5\uB2C8\uB2E4",
+      "descriptionText": "\uD604\uC7AC \uD654\uBA74\uC758 \uC9C4\uD589\uACFC \uACB0\uACFC\uB294 \uC608\uC2DC\uC785\uB2C8\uB2E4. DB \uCFFC\uB9AC\uB97C \uC2E4\uD589\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "running-1-ko-980",
+      "width": 980,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uC608\uC2DC \uAC80\uC0AC\uAC00 \uB05D\uB0AC\uC2B5\uB2C8\uB2E4",
+      "descriptionText": "\uD604\uC7AC \uD654\uBA74\uC758 \uC9C4\uD589\uACFC \uACB0\uACFC\uB294 \uC608\uC2DC\uC785\uB2C8\uB2E4. DB \uCFFC\uB9AC\uB97C \uC2E4\uD589\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "running-1-ko-1060",
+      "width": 1060,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uC608\uC2DC \uAC80\uC0AC\uAC00 \uB05D\uB0AC\uC2B5\uB2C8\uB2E4",
+      "descriptionText": "\uD604\uC7AC \uD654\uBA74\uC758 \uC9C4\uD589\uACFC \uACB0\uACFC\uB294 \uC608\uC2DC\uC785\uB2C8\uB2E4. DB \uCFFC\uB9AC\uB97C \uC2E4\uD589\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "running-1-en-656",
+      "width": 656,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 25.1953125
+      },
+      "titleText": "Sample checks are finished",
+      "descriptionText": "Progress and outcomes here are samples. No database queries are being executed.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "running-1-en-980",
+      "width": 980,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "Sample checks are finished",
+      "descriptionText": "Progress and outcomes here are samples. No database queries are being executed.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "running-1-en-1060",
+      "width": 1060,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "Sample checks are finished",
+      "descriptionText": "Progress and outcomes here are samples. No database queries are being executed.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "running-2-ko-656",
+      "width": 656,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 25.1953125
+      },
+      "titleText": "\uC120\uD0DD\uD55C \uBC94\uC704\uB97C \uBE44\uAD50\uD558\uACE0 \uC788\uC2B5\uB2C8\uB2E4",
+      "descriptionText": "\uD604\uC7AC \uD654\uBA74\uC758 \uC9C4\uD589\uACFC \uACB0\uACFC\uB294 \uC608\uC2DC\uC785\uB2C8\uB2E4. DB \uCFFC\uB9AC\uB97C \uC2E4\uD589\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "running-2-ko-980",
+      "width": 980,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uC120\uD0DD\uD55C \uBC94\uC704\uB97C \uBE44\uAD50\uD558\uACE0 \uC788\uC2B5\uB2C8\uB2E4",
+      "descriptionText": "\uD604\uC7AC \uD654\uBA74\uC758 \uC9C4\uD589\uACFC \uACB0\uACFC\uB294 \uC608\uC2DC\uC785\uB2C8\uB2E4. DB \uCFFC\uB9AC\uB97C \uC2E4\uD589\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "running-2-ko-1060",
+      "width": 1060,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uC120\uD0DD\uD55C \uBC94\uC704\uB97C \uBE44\uAD50\uD558\uACE0 \uC788\uC2B5\uB2C8\uB2E4",
+      "descriptionText": "\uD604\uC7AC \uD654\uBA74\uC758 \uC9C4\uD589\uACFC \uACB0\uACFC\uB294 \uC608\uC2DC\uC785\uB2C8\uB2E4. DB \uCFFC\uB9AC\uB97C \uC2E4\uD589\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "running-2-en-656",
+      "width": 656,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 25.1953125
+      },
+      "titleText": "Comparing the selected scope",
+      "descriptionText": "Progress and outcomes here are samples. No database queries are being executed.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "running-2-en-980",
+      "width": 980,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "Comparing the selected scope",
+      "descriptionText": "Progress and outcomes here are samples. No database queries are being executed.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "running-2-en-1060",
+      "width": 1060,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "Comparing the selected scope",
+      "descriptionText": "Progress and outcomes here are samples. No database queries are being executed.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-0-ko-656",
+      "width": 656,
+      "height": 96.1875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 50.390625
+      },
+      "titleText": "\uC911\uB2E8\uB41C \uBC94\uC704\uAC00 \uC788\uC2B5\uB2C8\uB2E4",
+      "descriptionText": "\uAC12\u00B7\uC815\uC758\uC758 \uCC28\uC774\uC640 \uD655\uC778\uD558\uC9C0 \uBABB\uD55C \uBD80\uBD84\uC744 \uD568\uAED8 \uBD05\uB2C8\uB2E4. \uC120\uD0DD\uD558\uC9C0 \uC54A\uC740 \uBC94\uC704\uB294 \uAC80\uC99D\uD55C \uAC83\uC73C\uB85C \uD45C\uC2DC\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-0-ko-980",
+      "width": 980,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uC911\uB2E8\uB41C \uBC94\uC704\uAC00 \uC788\uC2B5\uB2C8\uB2E4",
+      "descriptionText": "\uAC12\u00B7\uC815\uC758\uC758 \uCC28\uC774\uC640 \uD655\uC778\uD558\uC9C0 \uBABB\uD55C \uBD80\uBD84\uC744 \uD568\uAED8 \uBD05\uB2C8\uB2E4. \uC120\uD0DD\uD558\uC9C0 \uC54A\uC740 \uBC94\uC704\uB294 \uAC80\uC99D\uD55C \uAC83\uC73C\uB85C \uD45C\uC2DC\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-0-ko-1060",
+      "width": 1060,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uC911\uB2E8\uB41C \uBC94\uC704\uAC00 \uC788\uC2B5\uB2C8\uB2E4",
+      "descriptionText": "\uAC12\u00B7\uC815\uC758\uC758 \uCC28\uC774\uC640 \uD655\uC778\uD558\uC9C0 \uBABB\uD55C \uBD80\uBD84\uC744 \uD568\uAED8 \uBD05\uB2C8\uB2E4. \uC120\uD0DD\uD558\uC9C0 \uC54A\uC740 \uBC94\uC704\uB294 \uAC80\uC99D\uD55C \uAC83\uC73C\uB85C \uD45C\uC2DC\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-0-en-656",
+      "width": 656,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 25.1953125
+      },
+      "titleText": "Some checks were interrupted",
+      "descriptionText": "Review differences alongside unverified areas. Excluded scope is not presented as verified.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-0-en-980",
+      "width": 980,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "Some checks were interrupted",
+      "descriptionText": "Review differences alongside unverified areas. Excluded scope is not presented as verified.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-0-en-1060",
+      "width": 1060,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "Some checks were interrupted",
+      "descriptionText": "Review differences alongside unverified areas. Excluded scope is not presented as verified.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-1-ko-656",
+      "width": 656,
+      "height": 96.1875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 50.390625
+      },
+      "titleText": "\uBD88\uC77C\uCE58\uAC00 \uBC1C\uACAC\uB410\uC2B5\uB2C8\uB2E4",
+      "descriptionText": "\uAC12\u00B7\uC815\uC758\uC758 \uCC28\uC774\uC640 \uD655\uC778\uD558\uC9C0 \uBABB\uD55C \uBD80\uBD84\uC744 \uD568\uAED8 \uBD05\uB2C8\uB2E4. \uC120\uD0DD\uD558\uC9C0 \uC54A\uC740 \uBC94\uC704\uB294 \uAC80\uC99D\uD55C \uAC83\uC73C\uB85C \uD45C\uC2DC\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-1-ko-980",
+      "width": 980,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uBD88\uC77C\uCE58\uAC00 \uBC1C\uACAC\uB410\uC2B5\uB2C8\uB2E4",
+      "descriptionText": "\uAC12\u00B7\uC815\uC758\uC758 \uCC28\uC774\uC640 \uD655\uC778\uD558\uC9C0 \uBABB\uD55C \uBD80\uBD84\uC744 \uD568\uAED8 \uBD05\uB2C8\uB2E4. \uC120\uD0DD\uD558\uC9C0 \uC54A\uC740 \uBC94\uC704\uB294 \uAC80\uC99D\uD55C \uAC83\uC73C\uB85C \uD45C\uC2DC\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-1-ko-1060",
+      "width": 1060,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uBD88\uC77C\uCE58\uAC00 \uBC1C\uACAC\uB410\uC2B5\uB2C8\uB2E4",
+      "descriptionText": "\uAC12\u00B7\uC815\uC758\uC758 \uCC28\uC774\uC640 \uD655\uC778\uD558\uC9C0 \uBABB\uD55C \uBD80\uBD84\uC744 \uD568\uAED8 \uBD05\uB2C8\uB2E4. \uC120\uD0DD\uD558\uC9C0 \uC54A\uC740 \uBC94\uC704\uB294 \uAC80\uC99D\uD55C \uAC83\uC73C\uB85C \uD45C\uC2DC\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-1-en-656",
+      "width": 656,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 25.1953125
+      },
+      "titleText": "Differences were found",
+      "descriptionText": "Review differences alongside unverified areas. Excluded scope is not presented as verified.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-1-en-980",
+      "width": 980,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "Differences were found",
+      "descriptionText": "Review differences alongside unverified areas. Excluded scope is not presented as verified.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-1-en-1060",
+      "width": 1060,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "Differences were found",
+      "descriptionText": "Review differences alongside unverified areas. Excluded scope is not presented as verified.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-2-ko-656",
+      "width": 656,
+      "height": 96.1875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 50.390625
+      },
+      "titleText": "\uD655\uC778\uD558\uC9C0 \uBABB\uD55C \uC601\uC5ED\uC774 \uC788\uC2B5\uB2C8\uB2E4",
+      "descriptionText": "\uAC12\u00B7\uC815\uC758\uC758 \uCC28\uC774\uC640 \uD655\uC778\uD558\uC9C0 \uBABB\uD55C \uBD80\uBD84\uC744 \uD568\uAED8 \uBD05\uB2C8\uB2E4. \uC120\uD0DD\uD558\uC9C0 \uC54A\uC740 \uBC94\uC704\uB294 \uAC80\uC99D\uD55C \uAC83\uC73C\uB85C \uD45C\uC2DC\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-2-ko-980",
+      "width": 980,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uD655\uC778\uD558\uC9C0 \uBABB\uD55C \uC601\uC5ED\uC774 \uC788\uC2B5\uB2C8\uB2E4",
+      "descriptionText": "\uAC12\u00B7\uC815\uC758\uC758 \uCC28\uC774\uC640 \uD655\uC778\uD558\uC9C0 \uBABB\uD55C \uBD80\uBD84\uC744 \uD568\uAED8 \uBD05\uB2C8\uB2E4. \uC120\uD0DD\uD558\uC9C0 \uC54A\uC740 \uBC94\uC704\uB294 \uAC80\uC99D\uD55C \uAC83\uC73C\uB85C \uD45C\uC2DC\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-2-ko-1060",
+      "width": 1060,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uD655\uC778\uD558\uC9C0 \uBABB\uD55C \uC601\uC5ED\uC774 \uC788\uC2B5\uB2C8\uB2E4",
+      "descriptionText": "\uAC12\u00B7\uC815\uC758\uC758 \uCC28\uC774\uC640 \uD655\uC778\uD558\uC9C0 \uBABB\uD55C \uBD80\uBD84\uC744 \uD568\uAED8 \uBD05\uB2C8\uB2E4. \uC120\uD0DD\uD558\uC9C0 \uC54A\uC740 \uBC94\uC704\uB294 \uAC80\uC99D\uD55C \uAC83\uC73C\uB85C \uD45C\uC2DC\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-2-en-656",
+      "width": 656,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 25.1953125
+      },
+      "titleText": "Some areas remain unverified",
+      "descriptionText": "Review differences alongside unverified areas. Excluded scope is not presented as verified.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-2-en-980",
+      "width": 980,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "Some areas remain unverified",
+      "descriptionText": "Review differences alongside unverified areas. Excluded scope is not presented as verified.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-2-en-1060",
+      "width": 1060,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "Some areas remain unverified",
+      "descriptionText": "Review differences alongside unverified areas. Excluded scope is not presented as verified.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-3-ko-656",
+      "width": 656,
+      "height": 96.1875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 50.390625
+      },
+      "titleText": "\uB3D9\uC791 \uC2DC\uD5D8 \uAE30\uB300\uB97C \uCDA9\uC871\uD558\uC9C0 \uBABB\uD588\uC2B5\uB2C8\uB2E4",
+      "descriptionText": "\uAC12\u00B7\uC815\uC758\uC758 \uCC28\uC774\uC640 \uD655\uC778\uD558\uC9C0 \uBABB\uD55C \uBD80\uBD84\uC744 \uD568\uAED8 \uBD05\uB2C8\uB2E4. \uC120\uD0DD\uD558\uC9C0 \uC54A\uC740 \uBC94\uC704\uB294 \uAC80\uC99D\uD55C \uAC83\uC73C\uB85C \uD45C\uC2DC\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-3-ko-980",
+      "width": 980,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uB3D9\uC791 \uC2DC\uD5D8 \uAE30\uB300\uB97C \uCDA9\uC871\uD558\uC9C0 \uBABB\uD588\uC2B5\uB2C8\uB2E4",
+      "descriptionText": "\uAC12\u00B7\uC815\uC758\uC758 \uCC28\uC774\uC640 \uD655\uC778\uD558\uC9C0 \uBABB\uD55C \uBD80\uBD84\uC744 \uD568\uAED8 \uBD05\uB2C8\uB2E4. \uC120\uD0DD\uD558\uC9C0 \uC54A\uC740 \uBC94\uC704\uB294 \uAC80\uC99D\uD55C \uAC83\uC73C\uB85C \uD45C\uC2DC\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-3-ko-1060",
+      "width": 1060,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uB3D9\uC791 \uC2DC\uD5D8 \uAE30\uB300\uB97C \uCDA9\uC871\uD558\uC9C0 \uBABB\uD588\uC2B5\uB2C8\uB2E4",
+      "descriptionText": "\uAC12\u00B7\uC815\uC758\uC758 \uCC28\uC774\uC640 \uD655\uC778\uD558\uC9C0 \uBABB\uD55C \uBD80\uBD84\uC744 \uD568\uAED8 \uBD05\uB2C8\uB2E4. \uC120\uD0DD\uD558\uC9C0 \uC54A\uC740 \uBC94\uC704\uB294 \uAC80\uC99D\uD55C \uAC83\uC73C\uB85C \uD45C\uC2DC\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-3-en-656",
+      "width": 656,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 25.1953125
+      },
+      "titleText": "A behavior test did not meet expectations",
+      "descriptionText": "Review differences alongside unverified areas. Excluded scope is not presented as verified.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-3-en-980",
+      "width": 980,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "A behavior test did not meet expectations",
+      "descriptionText": "Review differences alongside unverified areas. Excluded scope is not presented as verified.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-3-en-1060",
+      "width": 1060,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "A behavior test did not meet expectations",
+      "descriptionText": "Review differences alongside unverified areas. Excluded scope is not presented as verified.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-4-ko-656",
+      "width": 656,
+      "height": 96.1875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 50.390625
+      },
+      "titleText": "\uC120\uD0DD \uBC94\uC704 \uB0B4 \uC77C\uCE58\uC785\uB2C8\uB2E4",
+      "descriptionText": "\uAC12\u00B7\uC815\uC758\uC758 \uCC28\uC774\uC640 \uD655\uC778\uD558\uC9C0 \uBABB\uD55C \uBD80\uBD84\uC744 \uD568\uAED8 \uBD05\uB2C8\uB2E4. \uC120\uD0DD\uD558\uC9C0 \uC54A\uC740 \uBC94\uC704\uB294 \uAC80\uC99D\uD55C \uAC83\uC73C\uB85C \uD45C\uC2DC\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-4-ko-980",
+      "width": 980,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uC120\uD0DD \uBC94\uC704 \uB0B4 \uC77C\uCE58\uC785\uB2C8\uB2E4",
+      "descriptionText": "\uAC12\u00B7\uC815\uC758\uC758 \uCC28\uC774\uC640 \uD655\uC778\uD558\uC9C0 \uBABB\uD55C \uBD80\uBD84\uC744 \uD568\uAED8 \uBD05\uB2C8\uB2E4. \uC120\uD0DD\uD558\uC9C0 \uC54A\uC740 \uBC94\uC704\uB294 \uAC80\uC99D\uD55C \uAC83\uC73C\uB85C \uD45C\uC2DC\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-4-ko-1060",
+      "width": 1060,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uC120\uD0DD \uBC94\uC704 \uB0B4 \uC77C\uCE58\uC785\uB2C8\uB2E4",
+      "descriptionText": "\uAC12\u00B7\uC815\uC758\uC758 \uCC28\uC774\uC640 \uD655\uC778\uD558\uC9C0 \uBABB\uD55C \uBD80\uBD84\uC744 \uD568\uAED8 \uBD05\uB2C8\uB2E4. \uC120\uD0DD\uD558\uC9C0 \uC54A\uC740 \uBC94\uC704\uB294 \uAC80\uC99D\uD55C \uAC83\uC73C\uB85C \uD45C\uC2DC\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-4-en-656",
+      "width": 656,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 25.1953125
+      },
+      "titleText": "Equal within the selected scope",
+      "descriptionText": "Review differences alongside unverified areas. Excluded scope is not presented as verified.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-4-en-980",
+      "width": 980,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "Equal within the selected scope",
+      "descriptionText": "Review differences alongside unverified areas. Excluded scope is not presented as verified.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "results-4-en-1060",
+      "width": 1060,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "Equal within the selected scope",
+      "descriptionText": "Review differences alongside unverified areas. Excluded scope is not presented as verified.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "save-0-ko-656",
+      "width": 656,
+      "height": 96.1875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 50.390625
+      },
+      "titleText": "\uD655\uC778\uD55C \uBC94\uC704\uB97C \uACB0\uACFC \uD30C\uC77C\uB85C \uB0A8\uAE30\uC138\uC694",
+      "descriptionText": "\uC2E4\uC81C \uAC12\u00B7\uD589 \uD0A4\u00B7\uACC4\uC815\uBA85\u00B7\uC811\uC18D \uC815\uBCF4\uB294 \uACB0\uACFC\uC5D0 \uB123\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4. \uC608\uC2DC \uACB0\uACFC \uD30C\uC77C\uC740 \uC774 \uC2DC\uC548\uC5D0\uC11C \uB2E4\uC2DC \uC5F4 \uC218 \uC788\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "save-0-ko-980",
+      "width": 980,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uD655\uC778\uD55C \uBC94\uC704\uB97C \uACB0\uACFC \uD30C\uC77C\uB85C \uB0A8\uAE30\uC138\uC694",
+      "descriptionText": "\uC2E4\uC81C \uAC12\u00B7\uD589 \uD0A4\u00B7\uACC4\uC815\uBA85\u00B7\uC811\uC18D \uC815\uBCF4\uB294 \uACB0\uACFC\uC5D0 \uB123\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4. \uC608\uC2DC \uACB0\uACFC \uD30C\uC77C\uC740 \uC774 \uC2DC\uC548\uC5D0\uC11C \uB2E4\uC2DC \uC5F4 \uC218 \uC788\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "save-0-ko-1060",
+      "width": 1060,
+      "height": 70.9921875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 25.1953125
+      },
+      "titleText": "\uD655\uC778\uD55C \uBC94\uC704\uB97C \uACB0\uACFC \uD30C\uC77C\uB85C \uB0A8\uAE30\uC138\uC694",
+      "descriptionText": "\uC2E4\uC81C \uAC12\u00B7\uD589 \uD0A4\u00B7\uACC4\uC815\uBA85\u00B7\uC811\uC18D \uC815\uBCF4\uB294 \uACB0\uACFC\uC5D0 \uB123\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4. \uC608\uC2DC \uACB0\uACFC \uD30C\uC77C\uC740 \uC774 \uC2DC\uC548\uC5D0\uC11C \uB2E4\uC2DC \uC5F4 \uC218 \uC788\uC2B5\uB2C8\uB2E4.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "save-0-en-656",
+      "width": 656,
+      "height": 96.1875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 656,
+        "height": 50.390625
+      },
+      "titleText": "Save the scope you have verified",
+      "descriptionText": "No row values, keys, principal names or connection details are included. Sample JSON files can be reopened in this preview.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "save-0-en-980",
+      "width": 980,
+      "height": 96.1875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 50.390625
+      },
+      "titleText": "Save the scope you have verified",
+      "descriptionText": "No row values, keys, principal names or connection details are included. Sample JSON files can be reopened in this preview.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    },
+    {
+      "id": "save-0-en-1060",
+      "width": 1060,
+      "height": 96.1875,
+      "title": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 37.796875
+      },
+      "description": {
+        "x": 0,
+        "y": 45.796875,
+        "width": 740,
+        "height": 50.390625
+      },
+      "titleText": "Save the scope you have verified",
+      "descriptionText": "No row values, keys, principal names or connection details are included. Sample JSON files can be reopened in this preview.",
+      "marginBottom": "24px",
+      "titleColor": "rgb(242, 243, 245)",
+      "descriptionColor": "rgb(181, 186, 193)"
+    }
+  ]
+}

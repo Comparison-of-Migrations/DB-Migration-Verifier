@@ -1,0 +1,46 @@
+{
+  "capturedAtUtc": "2026-10-07T14:06:46.9858504Z",
+  "dpr": 2,
+  "lang": "en",
+  "requests": [
+    "en"
+  ],
+  "snapshot": {
+    "id": "en-960",
+    "width": 960,
+    "height": 60,
+    "brand": {
+      "x": 24,
+      "y": 14.5,
+      "width": 179,
+      "height": 30
+    },
+    "brandIcon": {
+      "x": 24,
+      "y": 14.5,
+      "width": 30,
+      "height": 30
+    },
+    "brandText": {
+      "x": 66,
+      "y": 18.296875,
+      "width": 137,
+      "height": 22.3984375
+    },
+    "preview": {
+      "x": 553.7109375,
+      "y": 19.8984375,
+      "width": 268.8828125,
+      "height": 19.1953125
+    },
+    "previewText": "Design preview \u00B7 No real database connection",
+    "language": {
+      "x": 842.59375,
+      "y": 7.5,
+      "width": 93.40625,
+      "height": 44
+    },
+    "languageText": "English / KO",
+    "languageName": "Switch to Korean"
+  }
+}

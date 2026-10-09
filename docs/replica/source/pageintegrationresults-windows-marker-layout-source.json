@@ -1,0 +1,144 @@
+{
+  "recording": "ea51659df9764365b34f65ca14c27939",
+  "dpr": 2,
+  "originalHashes": {
+    "js": "53c8af8c8225c87d25173a82b4ea00ea5349b6c98077ef7b59d8d62f89a68050",
+    "css": "656a04f03636788a8029d53cb4a9cddddabb07d7f8e0fee20945bfcf31c5319c"
+  },
+  "scope": "marker-text-layout-only",
+  "rows": [
+    {
+      "id": "ko-1280",
+      "text": "불일치가 발견됐습니다",
+      "lineTexts": [
+        "불",
+        "일",
+        "치",
+        "가",
+        "발",
+        "견",
+        "됐",
+        "습",
+        "니",
+        "다"
+      ],
+      "lineRects": [
+        {
+          "x": 0,
+          "y": 901.5,
+          "width": 14,
+          "height": 18.5
+        },
+        {
+          "x": 0,
+          "y": 923.8984375,
+          "width": 14,
+          "height": 18.5
+        },
+        {
+          "x": 0,
+          "y": 946.296875,
+          "width": 14,
+          "height": 18.5
+        },
+        {
+          "x": 0,
+          "y": 968.6953125,
+          "width": 14,
+          "height": 18.5
+        },
+        {
+          "x": 0,
+          "y": 991.09375,
+          "width": 14,
+          "height": 18.5
+        },
+        {
+          "x": 0,
+          "y": 1013.4921875,
+          "width": 14,
+          "height": 18.5
+        },
+        {
+          "x": 0,
+          "y": 1035.890625,
+          "width": 14,
+          "height": 18.5
+        },
+        {
+          "x": 0,
+          "y": 1058.2890625,
+          "width": 14,
+          "height": 18.5
+        },
+        {
+          "x": 0,
+          "y": 1080.6875,
+          "width": 14,
+          "height": 18.5
+        },
+        {
+          "x": 0,
+          "y": 1103.0859375,
+          "width": 14,
+          "height": 18.5
+        }
+      ],
+      "parentBox": {
+        "x": 0,
+        "y": 900,
+        "width": 1,
+        "height": 1
+      },
+      "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+      "fontSize": 14,
+      "lineHeight": 22.4,
+      "whiteSpace": "normal",
+      "overflowWrap": "normal",
+      "wordBreak": "normal",
+      "scope": "Only .sr text DOMRange layout; APIsample setup, no trusted callback replay"
+    },
+    {
+      "id": "en-1280",
+      "text": "Differences were found",
+      "lineTexts": [
+        "Differences",
+        "were",
+        "found"
+      ],
+      "lineRects": [
+        {
+          "x": 0,
+          "y": 901.5,
+          "width": 70.3515625,
+          "height": 18.5
+        },
+        {
+          "x": 0,
+          "y": 923.8984375,
+          "width": 29.96875,
+          "height": 18.5
+        },
+        {
+          "x": 0,
+          "y": 946.296875,
+          "width": 37.4375,
+          "height": 18.5
+        }
+      ],
+      "parentBox": {
+        "x": 0,
+        "y": 900,
+        "width": 1,
+        "height": 1
+      },
+      "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+      "fontSize": 14,
+      "lineHeight": 22.4,
+      "whiteSpace": "normal",
+      "overflowWrap": "normal",
+      "wordBreak": "normal",
+      "scope": "Only .sr text DOMRange layout; APIsample setup, no trusted callback replay"
+    }
+  ]
+}

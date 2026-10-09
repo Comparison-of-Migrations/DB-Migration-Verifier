@@ -1,0 +1,7 @@
+{
+  "source": "docs/replica/source/capabilitytable-mac-source.json",
+  "candidate": "artifacts/replica/workers/preflight/capabilitytable/9de86ead82264aa7b4329ff0bc09b8cd/actual-macos/capabilitytable-native.json",
+  "tables": 12,
+  "differences": [],
+  "passed": true
+}

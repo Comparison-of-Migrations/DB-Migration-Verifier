@@ -1,0 +1,450 @@
+[
+  {
+    "id": "kr-0",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0023437499999374722
+    ]
+  },
+  {
+    "id": "kr-1",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0015624999999204192,
+      -0.002187499999990905
+    ]
+  },
+  {
+    "id": "kr-2",
+    "baselineDelta": 0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ]
+  },
+  {
+    "id": "kr-3",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.00390625,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "id": "kr-4",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ]
+  },
+  {
+    "id": "kr-5",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ]
+  },
+  {
+    "id": "kr-6",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ]
+  },
+  {
+    "id": "kr-7",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.005781249999643023,
+      -0.006074218751905391
+    ]
+  },
+  {
+    "id": "en-0",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0023437499999374722
+    ]
+  },
+  {
+    "id": "en-1",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0009374999998499334
+    ]
+  },
+  {
+    "id": "en-2",
+    "baselineDelta": 0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0068359375
+    ]
+  },
+  {
+    "id": "en-3",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.00732421875,
+      -0.0048828125,
+      -0.00732421875
+    ]
+  },
+  {
+    "id": "en-4",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.005859375
+    ]
+  },
+  {
+    "id": "en-5",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0009765625
+    ]
+  },
+  {
+    "id": "en-6",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.00537109375
+    ]
+  },
+  {
+    "id": "en-7",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.005781249999643023,
+      -0.006074218751905391
+    ]
+  },
+  {
+    "id": "role-00",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ]
+  },
+  {
+    "id": "role-01",
+    "baselineDelta": 0,
+    "heightDelta": 0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0002343750000015632
+    ]
+  },
+  {
+    "id": "role-02",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ]
+  },
+  {
+    "id": "role-03",
+    "baselineDelta": 0,
+    "heightDelta": 0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0002343750000015632
+    ]
+  },
+  {
+    "id": "role-04",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ]
+  },
+  {
+    "id": "role-05",
+    "baselineDelta": 0,
+    "heightDelta": 0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0004687500000031264
+    ]
+  },
+  {
+    "id": "role-06",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0068359375
+    ]
+  },
+  {
+    "id": "role-07",
+    "baselineDelta": 0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0048828125
+    ]
+  },
+  {
+    "id": "role-08",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0
+    ]
+  },
+  {
+    "id": "role-09",
+    "baselineDelta": 0.0,
+    "heightDelta": 0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ]
+  },
+  {
+    "id": "role-10",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0025390625000003553
+    ]
+  },
+  {
+    "id": "role-11",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0025390625000003553
+    ]
+  },
+  {
+    "id": "role-12",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0050781250000007105
+    ]
+  },
+  {
+    "id": "role-13",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.00390625
+    ]
+  },
+  {
+    "id": "role-14",
+    "baselineDelta": 0.0,
+    "heightDelta": 0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ]
+  },
+  {
+    "id": "role-15",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0050781250000007105
+    ]
+  },
+  {
+    "id": "role-16",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.00390625
+    ]
+  },
+  {
+    "id": "role-17",
+    "baselineDelta": 0.0,
+    "heightDelta": 0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ]
+  },
+  {
+    "id": "role-18",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0025390625000003553
+    ]
+  },
+  {
+    "id": "role-19",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0025390625000003553
+    ]
+  },
+  {
+    "id": "role-20",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ]
+  },
+  {
+    "id": "role-21",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0050781250000007105
+    ]
+  },
+  {
+    "id": "role-22",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ]
+  },
+  {
+    "id": "role-23",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.00390625
+    ]
+  },
+  {
+    "id": "role-24",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ]
+  },
+  {
+    "id": "role-25",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0048828125
+    ]
+  },
+  {
+    "id": "role-26",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.00390625
+    ]
+  },
+  {
+    "id": "role-27",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.00390625
+    ]
+  },
+  {
+    "id": "role-28",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ]
+  },
+  {
+    "id": "role-29",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.00390625
+    ]
+  },
+  {
+    "id": "role-30",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.00390625
+    ]
+  },
+  {
+    "id": "role-31",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0029296875
+    ]
+  },
+  {
+    "id": "role-32",
+    "baselineDelta": 0.0,
+    "heightDelta": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.00390625
+    ]
+  }
+]

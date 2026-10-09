@@ -1,0 +1,46 @@
+{
+  "phase": "ACTUAL_OS_PASSED",
+  "scope": "New connected Connection KOEN resize identity/caret/entry8 only; source handler oracle; candidate actual native external window resize",
+  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/pageintegrationconnection-resize-source/6ee800cced8c4613abadc50a72bb97d8/source.json",
+  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/pageintegration/ca4c6a71a0084931b2d94bebf54d4754/actual-connection-resize-windows/pageintegration-connection-resize-expanded.json",
+  "cases": 4,
+  "geometryChecks": 608,
+  "geometrySource": "Fresh connected source geometry per row",
+  "geometryReuse": "Fresh connected source geometry per row when included; optional legacy Connection80 oracle only where same viewport/client/gutter/intrinsicheight condition is explicitly proven.",
+  "differences": [],
+  "candidateAdditionalPublicFields": {
+    "ko-advanced-0": {
+      "fieldRetained": true,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 1,
+        "translateY": 0
+      }
+    },
+    "ko-advanced-1": {
+      "fieldRetained": true,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 1,
+        "translateY": 0
+      }
+    },
+    "en-advanced-0": {
+      "fieldRetained": true,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 1,
+        "translateY": 0
+      }
+    },
+    "en-advanced-1": {
+      "fieldRetained": true,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 1,
+        "translateY": 0
+      }
+    }
+  },
+  "oldScopes": "Existing Connection geometry/input/state/AX/paint evidence reused; not rerun by this comparison"
+}

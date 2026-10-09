@@ -1,0 +1,213 @@
+[
+  {
+    "Id": "english-boundary",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 162.2,
+    "height": 44.8,
+    "lines": [
+      87.0625,
+      71.708984375
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left"
+  },
+  {
+    "Id": "english-fit",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 162.24,
+    "height": 22.4,
+    "lines": [
+      162.23046875
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left"
+  },
+  {
+    "Id": "long-object",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 240,
+    "height": 96,
+    "lines": [
+      238.412109375,
+      238.412109375,
+      238.412109375,
+      238.412109375,
+      144.4921875
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left"
+  },
+  {
+    "Id": "ligature",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 100,
+    "height": 44.8,
+    "lines": [
+      85.0048828125,
+      25.2314453125
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left"
+  },
+  {
+    "Id": "cluster",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 140,
+    "height": 22.4,
+    "lines": [
+      138.65414428710938
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left"
+  },
+  {
+    "Id": "fallback-space",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 90,
+    "height": 44.8,
+    "lines": [
+      82.04875183105469,
+      36.33000183105469
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left"
+  },
+  {
+    "Id": "whitespace",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 240,
+    "height": 44.8,
+    "lines": [
+      74.33781433105469,
+      86.50961303710938
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left"
+  },
+  {
+    "Id": "home-edge-0",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 140.01000000000002,
+    "height": 44.8,
+    "lines": [
+      93.41809387207033,
+      47.2550079345703
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left"
+  },
+  {
+    "Id": "home-edge-1",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 430.77,
+    "height": 97.2,
+    "lines": [
+      400.89655456542977,
+      29.879999389648436
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left"
+  },
+  {
+    "Id": "home-edge-2",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 307.89,
+    "height": 50.4,
+    "lines": [
+      291.78790283203125,
+      16.115859985351562
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left"
+  },
+  {
+    "Id": "home-edge-3",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 479.78000000000003,
+    "height": 57,
+    "lines": [
+      466.8101501464844,
+      403.8470458984375
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left"
+  },
+  {
+    "Id": "home-edge-4",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 373.19,
+    "height": 38.4,
+    "lines": [
+      359.253173828125,
+      13.9425048828125
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left"
+  },
+  {
+    "Id": "home-edge-5",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 111.55,
+    "height": 44.8,
+    "lines": [
+      99.45004272460938,
+      12.110000610351562
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left"
+  },
+  {
+    "Id": "home-edge-6",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 302.29,
+    "height": 48.1,
+    "lines": [
+      287.2755126953125,
+      15.0281982421875
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left"
+  },
+  {
+    "Id": "home-edge-7",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 439.84000000000003,
+    "height": 44.2,
+    "lines": [
+      439.8501910400395,
+      359.2442919921878
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left"
+  }
+]

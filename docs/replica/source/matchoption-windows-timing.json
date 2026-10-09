@@ -1,0 +1,454 @@
+{
+  "rows": [
+    {
+      "scenario": "normal-hover",
+      "ms": 0,
+      "bg": "#ff2b2d31",
+      "border": "#ff7c838c",
+      "shadowColor": "#00000000",
+      "shadowSpread": 0,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "normal-hover",
+      "ms": 0.5,
+      "bg": "#ff2b2d31",
+      "border": "#ff7c838c",
+      "shadowColor": "#00000000",
+      "shadowSpread": 0,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "normal-hover",
+      "ms": 8,
+      "bg": "#ff2b2d32",
+      "border": "#ff7d8590",
+      "shadowColor": "#00000000",
+      "shadowSpread": 0,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "normal-hover",
+      "ms": 16,
+      "bg": "#ff2c2e33",
+      "border": "#ff808797",
+      "shadowColor": "#00000000",
+      "shadowSpread": 0,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "normal-hover",
+      "ms": 30,
+      "bg": "#ff2e3136",
+      "border": "#ff878fab",
+      "shadowColor": "#00000000",
+      "shadowSpread": 0,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "normal-hover",
+      "ms": 40,
+      "bg": "#ff303339",
+      "border": "#ff8e96bb",
+      "shadowColor": "#00000000",
+      "shadowSpread": 0,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "normal-hover",
+      "ms": 60,
+      "bg": "#ff33363d",
+      "border": "#ff98a1d6",
+      "shadowColor": "#00000000",
+      "shadowSpread": 0,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "normal-hover",
+      "ms": 80,
+      "bg": "#ff353840",
+      "border": "#ff9fa8e8",
+      "shadowColor": "#00000000",
+      "shadowSpread": 0,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "normal-hover",
+      "ms": 120,
+      "bg": "#ff373a43",
+      "border": "#ffa5affa",
+      "shadowColor": "#00000000",
+      "shadowSpread": 0,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "normal-hover",
+      "ms": 160,
+      "bg": "#ff383b44",
+      "border": "#ffa7b1ff",
+      "shadowColor": "#00000000",
+      "shadowSpread": 0,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "selected-hover",
+      "ms": 0,
+      "bg": "#ff3b3d52",
+      "border": "#ff8b94ff",
+      "shadowColor": "#ff8b94ff",
+      "shadowSpread": 1,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "selected-hover",
+      "ms": 0.5,
+      "bg": "#ff3b3d52",
+      "border": "#ff8b94ff",
+      "shadowColor": "#ff8b94ff",
+      "shadowSpread": 1,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "selected-hover",
+      "ms": 8,
+      "bg": "#ff3b3d52",
+      "border": "#ff8c95ff",
+      "shadowColor": "#ff8b94ff",
+      "shadowSpread": 1,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "selected-hover",
+      "ms": 16,
+      "bg": "#ff3b3d51",
+      "border": "#ff8e97ff",
+      "shadowColor": "#ff8b94ff",
+      "shadowSpread": 1,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "selected-hover",
+      "ms": 30,
+      "bg": "#ff3a3c4e",
+      "border": "#ff929cff",
+      "shadowColor": "#ff8b94ff",
+      "shadowSpread": 1,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "selected-hover",
+      "ms": 40,
+      "bg": "#ff3a3c4c",
+      "border": "#ff96a0ff",
+      "shadowColor": "#ff8b94ff",
+      "shadowSpread": 1,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "selected-hover",
+      "ms": 60,
+      "bg": "#ff393c49",
+      "border": "#ff9da7ff",
+      "shadowColor": "#ff8b94ff",
+      "shadowSpread": 1,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "selected-hover",
+      "ms": 80,
+      "bg": "#ff393b47",
+      "border": "#ffa1abff",
+      "shadowColor": "#ff8b94ff",
+      "shadowSpread": 1,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "selected-hover",
+      "ms": 120,
+      "bg": "#ff383b45",
+      "border": "#ffa6b0ff",
+      "shadowColor": "#ff8b94ff",
+      "shadowSpread": 1,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "selected-hover",
+      "ms": 160,
+      "bg": "#ff383b44",
+      "border": "#ffa7b1ff",
+      "shadowColor": "#ff8b94ff",
+      "shadowSpread": 1,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "select",
+      "ms": 0,
+      "bg": "#ff2b2d31",
+      "border": "#ff7c838c",
+      "shadowColor": "#00000000",
+      "shadowSpread": 0,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "select",
+      "ms": 0.5,
+      "bg": "#ff2b2d31",
+      "border": "#ff7c838c",
+      "shadowColor": "#008b94ff",
+      "shadowSpread": 0.0012971136950299799,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "select",
+      "ms": 8,
+      "bg": "#ff2c2e32",
+      "border": "#ff7c8490",
+      "shadowColor": "#088b94ff",
+      "shadowSpread": 0.032951541305937346,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "select",
+      "ms": 16,
+      "bg": "#ff2d2f34",
+      "border": "#ff7d8597",
+      "shadowColor": "#188b94ff",
+      "shadowSpread": 0.09479630571644249,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "select",
+      "ms": 30,
+      "bg": "#ff2f313a",
+      "border": "#ff8088ab",
+      "shadowColor": "#448b94ff",
+      "shadowSpread": 0.26685625168016924,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "select",
+      "ms": 40,
+      "bg": "#ff32343e",
+      "border": "#ff828abb",
+      "shadowColor": "#688b94ff",
+      "shadowSpread": 0.408510591355271,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "select",
+      "ms": 60,
+      "bg": "#ff353746",
+      "border": "#ff868ed6",
+      "shadowColor": "#a58b94ff",
+      "shadowSpread": 0.6453214475097122,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "select",
+      "ms": 80,
+      "bg": "#ff383a4b",
+      "border": "#ff8891e8",
+      "shadowColor": "#cd8b94ff",
+      "shadowSpread": 0.8024033875850851,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "select",
+      "ms": 120,
+      "bg": "#ff3a3c51",
+      "border": "#ff8a93fa",
+      "shadowColor": "#f58b94ff",
+      "shadowSpread": 0.9604589783488978,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "select",
+      "ms": 160,
+      "bg": "#ff3b3d52",
+      "border": "#ff8b94ff",
+      "shadowColor": "#ff8b94ff",
+      "shadowSpread": 1,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "unselect",
+      "ms": 0,
+      "bg": "#ff3b3d52",
+      "border": "#ff8b94ff",
+      "shadowColor": "#ff8b94ff",
+      "shadowSpread": 1,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "unselect",
+      "ms": 0.5,
+      "bg": "#ff3b3d52",
+      "border": "#ff8b94ff",
+      "shadowColor": "#ff8b94ff",
+      "shadowSpread": 0.9987028863049701,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "unselect",
+      "ms": 8,
+      "bg": "#ff3a3c51",
+      "border": "#ff8b93fb",
+      "shadowColor": "#f78b94ff",
+      "shadowSpread": 0.9670484586940626,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "unselect",
+      "ms": 16,
+      "bg": "#ff393b4f",
+      "border": "#ff8a92f4",
+      "shadowColor": "#e78b94ff",
+      "shadowSpread": 0.9052036942835575,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "unselect",
+      "ms": 30,
+      "bg": "#ff373949",
+      "border": "#ff878fe0",
+      "shadowColor": "#bb8b94ff",
+      "shadowSpread": 0.7331437483198308,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "unselect",
+      "ms": 40,
+      "bg": "#ff343645",
+      "border": "#ff858dd0",
+      "shadowColor": "#978b94ff",
+      "shadowSpread": 0.591489408644729,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "unselect",
+      "ms": 60,
+      "bg": "#ff31333d",
+      "border": "#ff8189b5",
+      "shadowColor": "#5a8b94ff",
+      "shadowSpread": 0.3546785524902878,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "unselect",
+      "ms": 80,
+      "bg": "#ff2e3038",
+      "border": "#ff7f86a3",
+      "shadowColor": "#328b94ff",
+      "shadowSpread": 0.19759661241491489,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "unselect",
+      "ms": 120,
+      "bg": "#ff2c2e32",
+      "border": "#ff7d8491",
+      "shadowColor": "#0a8b94ff",
+      "shadowSpread": 0.03954102165110218,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "unselect",
+      "ms": 160,
+      "bg": "#ff2b2d31",
+      "border": "#ff7c838c",
+      "shadowColor": "#00000000",
+      "shadowSpread": 0,
+      "reverseDuration": null
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 0,
+      "bg": "#ff2e3136",
+      "border": "#ff878fab",
+      "shadowColor": "#00000000",
+      "shadowSpread": 0,
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 0.5,
+      "bg": "#ff2e3136",
+      "border": "#ff878fab",
+      "shadowColor": "#00000000",
+      "shadowSpread": 0,
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 8,
+      "bg": "#ff2e3035",
+      "border": "#ff848ca3",
+      "shadowColor": "#00000000",
+      "shadowSpread": 0,
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 16,
+      "bg": "#ff2c2e33",
+      "border": "#ff808797",
+      "shadowColor": "#00000000",
+      "shadowSpread": 0,
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 30,
+      "bg": "#ff2b2d31",
+      "border": "#ff7d848e",
+      "shadowColor": "#00000000",
+      "shadowSpread": 0,
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 40,
+      "bg": "#ff2b2d31",
+      "border": "#ff7c838c",
+      "shadowColor": "#00000000",
+      "shadowSpread": 0,
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 60,
+      "bg": "#ff2b2d31",
+      "border": "#ff7c838c",
+      "shadowColor": "#00000000",
+      "shadowSpread": 0,
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 80,
+      "bg": "#ff2b2d31",
+      "border": "#ff7c838c",
+      "shadowColor": "#00000000",
+      "shadowSpread": 0,
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 120,
+      "bg": "#ff2b2d31",
+      "border": "#ff7c838c",
+      "shadowColor": "#00000000",
+      "shadowSpread": 0,
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 160,
+      "bg": "#ff2b2d31",
+      "border": "#ff7c838c",
+      "shadowColor": "#00000000",
+      "shadowSpread": 0,
+      "reverseDuration": 42.6970002688271
+    }
+  ]
+}

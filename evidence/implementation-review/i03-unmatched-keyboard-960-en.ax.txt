@@ -1,0 +1,48 @@
+Window: "Table and column matching", App: DB-Migration-Verifier.
+0 standard window Table and column matching, Secondary Actions: Raise
+	1 container WindowChrome, ID: AvaloniaWindowChrome
+	2 container
+		3 container
+			4 text Which target should this source match?
+			5 text demo.entries
+			6 text Values are not transformed. Map every column; name, type and order differences remain in results.
+			7 scroll area
+				8 container
+					9 container
+						10 button Choose target table, ID: mapping-target
+							11 container
+								12 text Choose target table
+						13 text Current target: Unmatched · Manual
+						14 container
+							15 container
+								16 text Source column / type
+								17 text Target column / type
+								18 text
+							19 container
+								20 text id
+								21 text int4
+								22 text Unmatched
+								23 text —
+								24 button (disabled) Match column · id, ID: mapping-column-id
+							25 container
+								26 text label
+								27 text text
+								28 text Unmatched
+								29 text —
+								30 button (disabled) Match column · label, ID: mapping-column-label
+							31 container
+								32 text amount
+								33 text numeric
+								34 text Unmatched
+								35 text —
+								36 button (disabled) Match column · amount, ID: mapping-column-amount
+			37 text Unmatched scope remains indeterminate for data.
+			38 button Cancel
+			39 button Apply matching
+	40 close button
+	41 zoom button
+	42 text Table and column matching
+43 menu bar
+	44 DB-Migration-Verifier
+
+The focused UI element is 10 button Choose target table, ID: mapping-target

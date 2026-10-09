@@ -1,0 +1,457 @@
+[
+  {
+    "id": "kr-0",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "kr-1",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "kr-2",
+    "heightDifference": 0.0,
+    "baselineDifference": 0.0
+  },
+  {
+    "id": "kr-3",
+    "heightDifference": 0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "kr-4",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "kr-5",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "kr-6",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "kr-7",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "en-0",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "en-1",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "en-2",
+    "heightDifference": 0.0,
+    "baselineDifference": 0.0
+  },
+  {
+    "id": "en-3",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "en-4",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "en-5",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "en-6",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "en-7",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "role-00",
+    "heightDifference": 0.0,
+    "baselineDifference": 0.0
+  },
+  {
+    "id": "role-01",
+    "heightDifference": 0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "role-02",
+    "heightDifference": 0.0,
+    "baselineDifference": 0.0
+  },
+  {
+    "id": "role-03",
+    "heightDifference": 0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "role-04",
+    "heightDifference": 0.0,
+    "baselineDifference": 0.0
+  },
+  {
+    "id": "role-05",
+    "heightDifference": 0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "role-06",
+    "heightDifference": 0.0,
+    "baselineDifference": 0.0
+  },
+  {
+    "id": "role-07",
+    "heightDifference": 0.0,
+    "baselineDifference": 0.0
+  },
+  {
+    "id": "role-08",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "role-09",
+    "heightDifference": 0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "role-10",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "role-11",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "role-12",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "role-13",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "role-14",
+    "heightDifference": 0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "role-15",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "role-16",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "role-17",
+    "heightDifference": 0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "role-18",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "role-19",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "role-20",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "role-21",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "role-22",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "role-23",
+    "heightDifference": 0.0,
+    "baselineDifference": 0.0
+  },
+  {
+    "id": "role-24",
+    "heightDifference": 0.0,
+    "baselineDifference": 0.0
+  },
+  {
+    "id": "role-25",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "role-26",
+    "heightDifference": 0.0,
+    "baselineDifference": 0.0
+  },
+  {
+    "id": "role-27",
+    "heightDifference": 0.0,
+    "baselineDifference": 0.0
+  },
+  {
+    "id": "role-28",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "role-29",
+    "heightDifference": 0.0,
+    "baselineDifference": 0.0
+  },
+  {
+    "id": "role-30",
+    "heightDifference": 0.0,
+    "baselineDifference": 0.0
+  },
+  {
+    "id": "role-31",
+    "heightDifference": 0.0,
+    "baselineDifference": 0
+  },
+  {
+    "id": "role-32",
+    "heightDifference": 0.0,
+    "baselineDifference": 0.0
+  },
+  {
+    "id": "english-boundary",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.001953125
+  },
+  {
+    "id": "english-fit",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.00390625
+  },
+  {
+    "id": "long-object",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.0
+  },
+  {
+    "id": "ligature",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.0029296875
+  },
+  {
+    "id": "cluster",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.002105712890625
+  },
+  {
+    "id": "fallback-space",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.0059356689453125
+  },
+  {
+    "id": "whitespace",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.0041351318359375
+  },
+  {
+    "id": "home-edge-0",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.003781127929670447
+  },
+  {
+    "id": "home-edge-1",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.002813110351564063
+  },
+  {
+    "id": "home-edge-2",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.0013275146484375
+  },
+  {
+    "id": "home-edge-3",
+    "lineCountDifference": 0,
+    "heightDifference": 0,
+    "maxWidthDifference": 0.0045166015625
+  },
+  {
+    "id": "home-edge-4",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.004638671875
+  },
+  {
+    "id": "home-edge-5",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.0071868896484375
+  },
+  {
+    "id": "home-edge-6",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.0057373046875
+  },
+  {
+    "id": "home-edge-7",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.0050402832027316435
+  },
+  {
+    "id": "overflow-left",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.0
+  },
+  {
+    "id": "overflow-center",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.0
+  },
+  {
+    "id": "overflow-right",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.0
+  },
+  {
+    "id": "anywhere-object",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.001953125
+  },
+  {
+    "id": "anywhere-words",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.001953125
+  },
+  {
+    "id": "anywhere-cluster",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.0071868896484375
+  },
+  {
+    "id": "nowrap",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.00390625
+  },
+  {
+    "id": "nbsp",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.00390625
+  },
+  {
+    "id": "nbsp-edge",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.0
+  },
+  {
+    "id": "spaces-only",
+    "lineCountDifference": 0,
+    "heightDifference": 0,
+    "maxWidthDifference": 0
+  },
+  {
+    "id": "state-0",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.0068359375
+  },
+  {
+    "id": "state-1",
+    "lineCountDifference": 0,
+    "heightDifference": 0,
+    "maxWidthDifference": 0.00390625
+  },
+  {
+    "id": "state-2",
+    "lineCountDifference": 0,
+    "heightDifference": 0,
+    "maxWidthDifference": 0.00714111328125
+  },
+  {
+    "id": "state-3",
+    "lineCountDifference": 0,
+    "heightDifference": 0,
+    "maxWidthDifference": 0.00732421875
+  },
+  {
+    "id": "state-4",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.005441284179624972
+  },
+  {
+    "id": "state-5",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.005708007812188498
+  },
+  {
+    "id": "state-6",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.001953125
+  },
+  {
+    "id": "state-7",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.0074462890625
+  },
+  {
+    "id": "state-8",
+    "lineCountDifference": 0,
+    "heightDifference": 0.0,
+    "maxWidthDifference": 0.0068359375
+  },
+  {
+    "id": "state-9",
+    "lineCountDifference": 0,
+    "heightDifference": 0,
+    "maxWidthDifference": 0
+  }
+]

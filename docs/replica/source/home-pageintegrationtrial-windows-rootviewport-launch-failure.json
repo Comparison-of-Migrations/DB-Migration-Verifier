@@ -1,0 +1,14 @@
+{
+  "phase": "UNVERIFIED_SOURCE_DIAGNOSTIC",
+  "transportError": "PrlJob_GetResult: Invalid argument",
+  "sourcePost": "No new diagnostic; retained boundary8",
+  "freshReadonlyInventory": {
+    "count": 0,
+    "titles": []
+  },
+  "ownedNativeLaunched": false,
+  "nativeProcess": 0,
+  "sourceMeasurementWindow": 0,
+  "replayedInput": false,
+  "resourceReleasedTo": "root"
+}

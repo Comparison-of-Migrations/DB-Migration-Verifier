@@ -1,0 +1,178 @@
+[
+  {
+    "value": "0.0000000000000000001e20",
+    "key": "ArrowUp",
+    "before": {
+      "bad": false,
+      "number": 10,
+      "over": false,
+      "step": false,
+      "under": true,
+      "valid": false,
+      "value": "0.0000000000000000001e20"
+    },
+    "after": {
+      "bad": false,
+      "number": 1,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "1"
+    }
+  },
+  {
+    "value": "0.0000000000000000001e20",
+    "key": "ArrowDown",
+    "before": {
+      "bad": false,
+      "number": 10,
+      "over": false,
+      "step": false,
+      "under": true,
+      "valid": false,
+      "value": "0.0000000000000000001e20"
+    },
+    "after": {
+      "bad": false,
+      "number": 10,
+      "over": false,
+      "step": false,
+      "under": true,
+      "valid": false,
+      "value": "0.0000000000000000001e20"
+    }
+  },
+  {
+    "value": ".000000000000000001e20",
+    "key": "ArrowUp",
+    "before": {
+      "bad": false,
+      "number": 100,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": ".000000000000000001e20"
+    },
+    "after": {
+      "bad": false,
+      "number": 101,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "101"
+    }
+  },
+  {
+    "value": ".000000000000000001e20",
+    "key": "ArrowDown",
+    "before": {
+      "bad": false,
+      "number": 100,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": ".000000000000000001e20"
+    },
+    "after": {
+      "bad": false,
+      "number": 99,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "99"
+    }
+  },
+  {
+    "value": "0.00000000000000000001e21",
+    "key": "ArrowUp",
+    "before": {
+      "bad": false,
+      "number": 10,
+      "over": false,
+      "step": false,
+      "under": true,
+      "valid": false,
+      "value": "0.00000000000000000001e21"
+    },
+    "after": {
+      "bad": false,
+      "number": 1,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "1"
+    }
+  },
+  {
+    "value": "0.00000000000000000001e21",
+    "key": "ArrowDown",
+    "before": {
+      "bad": false,
+      "number": 10,
+      "over": false,
+      "step": false,
+      "under": true,
+      "valid": false,
+      "value": "0.00000000000000000001e21"
+    },
+    "after": {
+      "bad": false,
+      "number": 10,
+      "over": false,
+      "step": false,
+      "under": true,
+      "valid": false,
+      "value": "0.00000000000000000001e21"
+    }
+  },
+  {
+    "value": "0001.000000000001",
+    "key": "ArrowUp",
+    "before": {
+      "bad": false,
+      "number": 1.000000000001,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "0001.000000000001"
+    },
+    "after": {
+      "bad": false,
+      "number": 2,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "2"
+    }
+  },
+  {
+    "value": "0001.000000000001",
+    "key": "ArrowDown",
+    "before": {
+      "bad": false,
+      "number": 1.000000000001,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "0001.000000000001"
+    },
+    "after": {
+      "bad": false,
+      "number": 1,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "1"
+    }
+  }
+]

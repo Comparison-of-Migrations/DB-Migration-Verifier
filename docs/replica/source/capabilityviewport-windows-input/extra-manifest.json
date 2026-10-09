@@ -1,0 +1,17 @@
+{
+  "stage": "artifacts/replica/workers/preflight/capabilityviewport/2495bc1b2ba2476fa3659abae0cbe3ce/windows-stage.json",
+  "helperSHA256": "5AC2F9A38F3F64F8F1A24D3C768263FA1F91D685D89951286F403BAC0434CFBA",
+  "nonce": "6222c17214f9417ba3bd54e924b7ded9",
+  "labels": [
+    "reset-before-fit",
+    "fit-no-overflow",
+    "fit",
+    "child-toggle",
+    "child-focus",
+    "mount-detached",
+    "mount",
+    "track",
+    "hold-left",
+    "drag"
+  ]
+}

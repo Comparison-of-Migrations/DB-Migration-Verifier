@@ -1,0 +1,13 @@
+{
+  "selected": false,
+  "target": "demo.orders",
+  "manual": false,
+  "selections": 2,
+  "changes": 1,
+  "checkboxFocus": true,
+  "checkboxFocusVisible": true,
+  "buttonFocus": false,
+  "reduced": false,
+  "hover": false,
+  "background": "#00000000"
+}

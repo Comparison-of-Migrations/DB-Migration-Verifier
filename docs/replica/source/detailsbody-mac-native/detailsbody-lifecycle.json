@@ -1,0 +1,59 @@
+{
+  "capturedAtUtc": "2026-10-08T00:35:51.259783Z",
+  "rows": [
+    {
+      "label": "normal-mount",
+      "scope": {
+        "attached": true,
+        "opacity": 0.35,
+        "y": 6
+      },
+      "cleanup": {
+        "attached": true,
+        "opacity": 0.35,
+        "y": 6
+      },
+      "children": 4
+    },
+    {
+      "label": "normal-end",
+      "scope": {
+        "attached": true,
+        "opacity": 1,
+        "y": 0
+      },
+      "cleanup": {
+        "attached": true,
+        "opacity": 1,
+        "y": 0
+      },
+      "children": 4
+    },
+    {
+      "label": "without-notices",
+      "scope": null,
+      "cleanup": null,
+      "children": 2
+    },
+    {
+      "label": "removed-cleanup",
+      "attached": false,
+      "opacity": 1,
+      "y": 0
+    },
+    {
+      "label": "reduced-pending",
+      "scope": {
+        "attached": true,
+        "opacity": 1,
+        "y": 0
+      },
+      "cleanup": {
+        "attached": true,
+        "opacity": 1,
+        "y": 0
+      },
+      "children": 4
+    }
+  ]
+}

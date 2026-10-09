@@ -1,0 +1,11 @@
+{
+  "stage": "artifacts/replica/workers/preflight/capabilityviewport/124fc20fc89f4a5aaaf19bc9966b3449/windows-stage.json",
+  "helperSHA256": "87BA0E99FF21FE05A054FBD8E631B5CD7756DF12257A6E8B67F5A0D652D40258",
+  "nonce": "39b16f038d22447d91a74487d5006faf",
+  "labels": [
+    "pointer-restore",
+    "tab-viewport",
+    "keyboard-restore",
+    "tab-child"
+  ]
+}

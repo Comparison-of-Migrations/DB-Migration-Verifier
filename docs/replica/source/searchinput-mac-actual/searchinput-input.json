@@ -1,0 +1,403 @@
+{
+  "events": [
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "focus",
+      "value": "",
+      "focused": true,
+      "clearDisabled": true
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "keyup-Tab",
+      "value": "",
+      "focused": true,
+      "clearDisabled": true
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "input",
+      "value": "o",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "keyup-O",
+      "value": "o",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "keyup-A",
+      "value": "o",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "input",
+      "value": "or",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "keyup-R",
+      "value": "or",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "keyup-A",
+      "value": "or",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "input",
+      "value": "ord",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "keyup-D",
+      "value": "ord",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "keyup-A",
+      "value": "ord",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "input",
+      "value": "orde",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "keyup-E",
+      "value": "orde",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "keyup-A",
+      "value": "orde",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "input",
+      "value": "order",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "keyup-R",
+      "value": "order",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "keyup-A",
+      "value": "order",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "input",
+      "value": "orders",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "keyup-S",
+      "value": "orders",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "keyup-A",
+      "value": "orders",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "input",
+      "value": "",
+      "focused": true,
+      "clearDisabled": true
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "keyup-Escape",
+      "value": "",
+      "focused": true,
+      "clearDisabled": true
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "parent-escape",
+      "value": "",
+      "focused": true,
+      "clearDisabled": true
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "keyup-Escape",
+      "value": "",
+      "focused": true,
+      "clearDisabled": true
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "input",
+      "value": "o",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "keyup-O",
+      "value": "o",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "keyup-A",
+      "value": "o",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "input",
+      "value": "or",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "keyup-R",
+      "value": "or",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "keyup-A",
+      "value": "or",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "input",
+      "value": "ord",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "keyup-D",
+      "value": "ord",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "keyup-A",
+      "value": "ord",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "input",
+      "value": "orde",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "keyup-E",
+      "value": "orde",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "keyup-A",
+      "value": "orde",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "input",
+      "value": "order",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "keyup-R",
+      "value": "order",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "keyup-A",
+      "value": "order",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "input",
+      "value": "orders",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "keyup-S",
+      "value": "orders",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "keyup-A",
+      "value": "orders",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "input",
+      "value": "",
+      "focused": false,
+      "clearDisabled": true
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "focus",
+      "value": "",
+      "focused": true,
+      "clearDisabled": true
+    },
+    {
+      "id": "SearchInput-tables-ko-380-empty",
+      "kind": "clear",
+      "value": "",
+      "focused": true,
+      "clearDisabled": true
+    },
+    {
+      "id": "SearchInput-tables-ko-380-value",
+      "kind": "focus",
+      "value": "orders",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-value",
+      "kind": "keyup-Tab",
+      "value": "orders",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-value",
+      "kind": "keyup-A",
+      "value": "orders",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-space",
+      "kind": "focus",
+      "value": " ",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-space",
+      "kind": "keyup-Tab",
+      "value": " ",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-tables-ko-380-space",
+      "kind": "keyup-A",
+      "value": " ",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-matching-ko-452-value",
+      "kind": "focus",
+      "value": "orders",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-matching-ko-452-value",
+      "kind": "keyup-Tab",
+      "value": "orders",
+      "focused": true,
+      "clearDisabled": false
+    },
+    {
+      "id": "SearchInput-matching-ko-452-value",
+      "kind": "input",
+      "value": "",
+      "focused": true,
+      "clearDisabled": true
+    },
+    {
+      "id": "SearchInput-matching-ko-452-value",
+      "kind": "keyup-Escape",
+      "value": "",
+      "focused": true,
+      "clearDisabled": true
+    },
+    {
+      "id": "SearchInput-matching-ko-452-value",
+      "kind": "parent-escape",
+      "value": "",
+      "focused": true,
+      "clearDisabled": true
+    },
+    {
+      "id": "SearchInput-matching-ko-452-value",
+      "kind": "keyup-Escape",
+      "value": "",
+      "focused": true,
+      "clearDisabled": true
+    }
+  ]
+}

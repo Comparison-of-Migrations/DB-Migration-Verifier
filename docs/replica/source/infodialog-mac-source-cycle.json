@@ -1,0 +1,29 @@
+{
+  "sourceUrl": "http://127.0.0.1:8765/",
+  "ownTab": "54",
+  "language": "ko",
+  "modal": "research",
+  "input": "actual CUA native Tab",
+  "states": [
+    {
+      "after": "pointer-open",
+      "focus": "header-close"
+    },
+    {
+      "after": "Tab1",
+      "focus": "footer-close"
+    },
+    {
+      "after": "Tab2",
+      "activeTag": "BODY",
+      "header": false,
+      "footer": false,
+      "AXFocus": null
+    },
+    {
+      "after": "Tab3",
+      "focus": "header-close"
+    }
+  ],
+  "scope": "Browser-owned focus handoff recorded; no application background control became focused. Actual native modal cycle next."
+}

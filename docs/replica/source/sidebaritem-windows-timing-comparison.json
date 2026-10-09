@@ -1,0 +1,7 @@
+{
+  "platform": "windows",
+  "samples": 50,
+  "failed": 0,
+  "scope": "Actual source CSS transitions and private candidate clocks: hover bg/inset-shadow, inherited disabled color, pressed scale, interrupted reversing-shortening; CSS serialized channel rounding is explicit",
+  "errors": []
+}

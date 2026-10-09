@@ -1,0 +1,4126 @@
+{
+  "dpr": 2,
+  "width": 1280,
+  "rows": [
+    {
+      "id": "ko-0-213-SQLServer",
+      "rect": {
+        "width": 213,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 105,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 176,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 105,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 105,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-0-213-PostgreSQL",
+      "rect": {
+        "width": 213,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 105,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 176,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 105,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 105,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-0-213-MySQL",
+      "rect": {
+        "width": 213,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 105,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 176,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 105,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 105,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-0-213-MariaDB",
+      "rect": {
+        "width": 213,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 105,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 176,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 105,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 105,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-0-240-SQLServer",
+      "rect": {
+        "width": 240,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 203,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 132,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-0-240-PostgreSQL",
+      "rect": {
+        "width": 240,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 203,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 132,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-0-240-MySQL",
+      "rect": {
+        "width": 240,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 203,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 132,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-0-240-MariaDB",
+      "rect": {
+        "width": 240,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 203,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 132,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-0-320-SQLServer",
+      "rect": {
+        "width": 320,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 212,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 283,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 212,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 212,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-0-320-PostgreSQL",
+      "rect": {
+        "width": 320,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 212,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 283,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 212,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 212,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-0-320-MySQL",
+      "rect": {
+        "width": 320,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 212,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 283,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 212,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 212,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-0-320-MariaDB",
+      "rect": {
+        "width": 320,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 212,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 283,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 212,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 212,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-0-state-000",
+      "rect": {
+        "width": 240,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 203,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 132,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-0-state-001",
+      "rect": {
+        "width": 240,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 203,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 132,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(167, 177, 255) solid 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-0-state-010",
+      "rect": {
+        "width": 240,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 203,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 132,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(56, 59, 68)",
+        "border": "rgb(167, 177, 255)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-0-state-011",
+      "rect": {
+        "width": 240,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 203,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 132,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(56, 59, 68)",
+        "border": "rgb(167, 177, 255)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(167, 177, 255) solid 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-0-state-100",
+      "rect": {
+        "width": 240,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 203,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 132,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(59, 61, 82)",
+        "border": "rgb(139, 148, 255)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(180, 189, 255)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-0-state-101",
+      "rect": {
+        "width": 240,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 203,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 132,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(59, 61, 82)",
+        "border": "rgb(139, 148, 255)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+        "outline": "rgb(167, 177, 255) solid 3px",
+        "iconColor": "rgb(180, 189, 255)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-0-state-110",
+      "rect": {
+        "width": 240,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 203,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 132,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(56, 59, 68)",
+        "border": "rgb(167, 177, 255)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(180, 189, 255)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-0-state-111",
+      "rect": {
+        "width": 240,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 203,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 132,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(56, 59, 68)",
+        "border": "rgb(167, 177, 255)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+        "outline": "rgb(167, 177, 255) solid 3px",
+        "iconColor": "rgb(180, 189, 255)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-1-163.5-SQLServer",
+      "rect": {
+        "width": 163.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 105.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 128.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 105.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 105.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-1-163.5-PostgreSQL",
+      "rect": {
+        "width": 163.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 105.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 128.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 105.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 105.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-1-163.5-MySQL",
+      "rect": {
+        "width": 163.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 105.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 128.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 105.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 105.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-1-163.5-MariaDB",
+      "rect": {
+        "width": 163.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 105.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 128.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 105.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 105.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-1-180-SQLServer",
+      "rect": {
+        "width": 180,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 122,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 145,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 122,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 122,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-1-180-PostgreSQL",
+      "rect": {
+        "width": 180,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 122,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 145,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 122,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 122,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-1-180-MySQL",
+      "rect": {
+        "width": 180,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 122,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 145,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 122,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 122,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-1-180-MariaDB",
+      "rect": {
+        "width": 180,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 122,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 145,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 122,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 122,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-1-207.5-SQLServer",
+      "rect": {
+        "width": 207.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 172.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 149.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-1-207.5-PostgreSQL",
+      "rect": {
+        "width": 207.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 172.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 149.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-1-207.5-MySQL",
+      "rect": {
+        "width": 207.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 172.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 149.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-1-207.5-MariaDB",
+      "rect": {
+        "width": 207.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 172.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 149.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-1-state-000",
+      "rect": {
+        "width": 207.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 172.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 149.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-1-state-001",
+      "rect": {
+        "width": 207.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 172.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 149.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(167, 177, 255) solid 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-1-state-010",
+      "rect": {
+        "width": 207.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 172.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 149.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(56, 59, 68)",
+        "border": "rgb(167, 177, 255)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-1-state-011",
+      "rect": {
+        "width": 207.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 172.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 149.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(56, 59, 68)",
+        "border": "rgb(167, 177, 255)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(167, 177, 255) solid 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-1-state-100",
+      "rect": {
+        "width": 207.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 172.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 149.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(59, 61, 82)",
+        "border": "rgb(139, 148, 255)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(180, 189, 255)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-1-state-101",
+      "rect": {
+        "width": 207.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 172.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 149.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(59, 61, 82)",
+        "border": "rgb(139, 148, 255)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+        "outline": "rgb(167, 177, 255) solid 3px",
+        "iconColor": "rgb(180, 189, 255)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-1-state-110",
+      "rect": {
+        "width": 207.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 172.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 149.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(56, 59, 68)",
+        "border": "rgb(167, 177, 255)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(180, 189, 255)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-1-state-111",
+      "rect": {
+        "width": 207.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 172.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 149.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(56, 59, 68)",
+        "border": "rgb(167, 177, 255)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+        "outline": "rgb(167, 177, 255) solid 3px",
+        "iconColor": "rgb(180, 189, 255)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-0-213-SQLServer",
+      "rect": {
+        "width": 213,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 105,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 176,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 105,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 105,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-0-213-PostgreSQL",
+      "rect": {
+        "width": 213,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 105,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 176,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 105,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 105,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-0-213-MySQL",
+      "rect": {
+        "width": 213,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 105,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 176,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 105,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 105,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-0-213-MariaDB",
+      "rect": {
+        "width": 213,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 105,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 176,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 105,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 105,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-0-240-SQLServer",
+      "rect": {
+        "width": 240,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 203,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 132,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-0-240-PostgreSQL",
+      "rect": {
+        "width": 240,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 203,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 132,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-0-240-MySQL",
+      "rect": {
+        "width": 240,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 203,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 132,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-0-240-MariaDB",
+      "rect": {
+        "width": 240,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 203,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 132,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-0-320-SQLServer",
+      "rect": {
+        "width": 320,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 212,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 283,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 212,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 212,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-0-320-PostgreSQL",
+      "rect": {
+        "width": 320,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 212,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 283,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 212,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 212,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-0-320-MySQL",
+      "rect": {
+        "width": 320,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 212,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 283,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 212,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 212,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-0-320-MariaDB",
+      "rect": {
+        "width": 320,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 212,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 283,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 212,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 212,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-0-state-000",
+      "rect": {
+        "width": 240,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 203,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 132,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-0-state-001",
+      "rect": {
+        "width": 240,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 203,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 132,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(167, 177, 255) solid 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-0-state-010",
+      "rect": {
+        "width": 240,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 203,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 132,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(56, 59, 68)",
+        "border": "rgb(167, 177, 255)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-0-state-011",
+      "rect": {
+        "width": 240,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 203,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 132,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(56, 59, 68)",
+        "border": "rgb(167, 177, 255)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "none",
+        "outline": "rgb(167, 177, 255) solid 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-0-state-100",
+      "rect": {
+        "width": 240,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 203,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 132,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(59, 61, 82)",
+        "border": "rgb(139, 148, 255)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(180, 189, 255)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-0-state-101",
+      "rect": {
+        "width": 240,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 203,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 132,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(59, 61, 82)",
+        "border": "rgb(139, 148, 255)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+        "outline": "rgb(167, 177, 255) solid 3px",
+        "iconColor": "rgb(180, 189, 255)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-0-state-110",
+      "rect": {
+        "width": 240,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 203,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 132,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(56, 59, 68)",
+        "border": "rgb(167, 177, 255)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(180, 189, 255)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-0-state-111",
+      "rect": {
+        "width": 240,
+        "height": 88
+      },
+      "body": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 38.390625
+      },
+      "icon": {
+        "x": 17,
+        "y": 31.5,
+        "width": 25,
+        "height": 25
+      },
+      "radio": {
+        "x": 203,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 59,
+        "y": 24.8046875,
+        "width": 132,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 59,
+        "y": 45.6015625,
+        "width": 132,
+        "height": 17.59375
+      },
+      "style": {
+        "bg": "rgb(56, 59, 68)",
+        "border": "rgb(167, 177, 255)",
+        "radius": "10px",
+        "padding": "16px",
+        "gap": "12px",
+        "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+        "outline": "rgb(167, 177, 255) solid 3px",
+        "iconColor": "rgb(180, 189, 255)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "11px",
+        "descriptionHeight": "17.6px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-1-163.5-SQLServer",
+      "rect": {
+        "width": 163.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 105.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 128.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 105.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 105.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-1-163.5-PostgreSQL",
+      "rect": {
+        "width": 163.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 105.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 128.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 105.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 105.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-1-163.5-MySQL",
+      "rect": {
+        "width": 163.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 105.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 128.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 105.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 105.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-1-163.5-MariaDB",
+      "rect": {
+        "width": 163.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 105.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 128.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 105.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 105.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-1-180-SQLServer",
+      "rect": {
+        "width": 180,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 122,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 145,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 122,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 122,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-1-180-PostgreSQL",
+      "rect": {
+        "width": 180,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 122,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 145,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 122,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 122,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-1-180-MySQL",
+      "rect": {
+        "width": 180,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 122,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 145,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 122,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 122,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-1-180-MariaDB",
+      "rect": {
+        "width": 180,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 122,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 145,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 122,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 122,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-1-207.5-SQLServer",
+      "rect": {
+        "width": 207.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 172.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 149.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-1-207.5-PostgreSQL",
+      "rect": {
+        "width": 207.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 172.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 149.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-1-207.5-MySQL",
+      "rect": {
+        "width": 207.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 172.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 149.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-1-207.5-MariaDB",
+      "rect": {
+        "width": 207.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 172.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 149.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-1-state-000",
+      "rect": {
+        "width": 207.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 172.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 149.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-1-state-001",
+      "rect": {
+        "width": 207.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 172.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 149.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(43, 45, 49)",
+        "border": "rgb(124, 131, 140)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(167, 177, 255) solid 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-1-state-010",
+      "rect": {
+        "width": 207.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 172.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 149.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(56, 59, 68)",
+        "border": "rgb(167, 177, 255)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-1-state-011",
+      "rect": {
+        "width": 207.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 172.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 149.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(56, 59, 68)",
+        "border": "rgb(167, 177, 255)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "none",
+        "outline": "rgb(167, 177, 255) solid 3px",
+        "iconColor": "rgb(181, 186, 193)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-1-state-100",
+      "rect": {
+        "width": 207.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 172.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 149.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(59, 61, 82)",
+        "border": "rgb(139, 148, 255)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(180, 189, 255)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-1-state-101",
+      "rect": {
+        "width": 207.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 172.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 149.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(59, 61, 82)",
+        "border": "rgb(139, 148, 255)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+        "outline": "rgb(167, 177, 255) solid 3px",
+        "iconColor": "rgb(180, 189, 255)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-1-state-110",
+      "rect": {
+        "width": 207.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 172.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 149.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(56, 59, 68)",
+        "border": "rgb(167, 177, 255)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+        "outline": "rgb(219, 222, 225) none 3px",
+        "iconColor": "rgb(180, 189, 255)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-1-state-111",
+      "rect": {
+        "width": 207.5,
+        "height": 88
+      },
+      "body": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 36.796875
+      },
+      "icon": null,
+      "radio": {
+        "x": 172.5,
+        "y": 34,
+        "width": 20,
+        "height": 20
+      },
+      "title": {
+        "x": 15,
+        "y": 25.6015625,
+        "width": 149.5,
+        "height": 20.796875
+      },
+      "description": {
+        "x": 15,
+        "y": 46.3984375,
+        "width": 149.5,
+        "height": 16
+      },
+      "style": {
+        "bg": "rgb(56, 59, 68)",
+        "border": "rgb(167, 177, 255)",
+        "radius": "10px",
+        "padding": "14px",
+        "gap": "8px",
+        "shadow": "rgb(139, 148, 255) 0px 0px 0px 1px inset",
+        "outline": "rgb(167, 177, 255) solid 3px",
+        "iconColor": "rgb(180, 189, 255)",
+        "titleSize": "13px",
+        "titleWeight": "700",
+        "titleHeight": "20.8px",
+        "descriptionSize": "10px",
+        "descriptionHeight": "16px",
+        "titleColor": "rgb(242, 243, 245)",
+        "descriptionColor": "rgb(181, 186, 193)"
+      }
+    }
+  ]
+}

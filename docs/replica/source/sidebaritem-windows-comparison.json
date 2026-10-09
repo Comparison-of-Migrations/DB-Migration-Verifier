@@ -1,0 +1,8 @@
+{
+  "platform": "windows",
+  "endpoints": 132,
+  "updates": 132,
+  "failed": 0,
+  "scope": "SidebarItem endpoint layouts/paint; actual interaction/timing and full Sidebar not covered",
+  "errors": []
+}

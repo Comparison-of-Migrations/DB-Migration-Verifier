@@ -1,0 +1,91 @@
+{
+  "status": "FAILED_SINGLE_WRAP_THRESHOLD_DIAGNOSIS",
+  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/pageintegrationparentresize-windows-header-precision.json",
+  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/connection/pageintegration/ed610cd80d084ecdb52c0b5302471520/actual-parent-resize-windows/headless-6fee821643314b80b638b8dcedda0acf/pageintegrationparentresize-headerprecision.json",
+  "sourceRecording": "9533876fe8384d53914d945237a96c84",
+  "dpr": 2,
+  "rows": [
+    {
+      "width": 80.4296875,
+      "sourceLineCount": 1,
+      "candidateLineCount": 2,
+      "sourceLines": [
+        "검사 가능 범위"
+      ],
+      "candidateLines": [
+        "검사 가능 범",
+        "위"
+      ],
+      "sourceHeight": 19.203125,
+      "candidateHeight": 38.40625,
+      "canvasAdvance": 80.4375
+    },
+    {
+      "width": 80.421875,
+      "sourceLineCount": 2,
+      "candidateLineCount": 2,
+      "sourceLines": [
+        "검사 가능 범",
+        "위"
+      ],
+      "candidateLines": [
+        "검사 가능 범",
+        "위"
+      ],
+      "sourceHeight": 38.40625,
+      "candidateHeight": 38.40625,
+      "canvasAdvance": 80.4375
+    },
+    {
+      "width": 80.4375,
+      "sourceLineCount": 1,
+      "candidateLineCount": 1,
+      "sourceLines": [
+        "검사 가능 범위"
+      ],
+      "candidateLines": [
+        "검사 가능 범위"
+      ],
+      "sourceHeight": 19.203125,
+      "candidateHeight": 19.203125,
+      "canvasAdvance": 80.4375
+    },
+    {
+      "width": 80.4140625,
+      "sourceLineCount": 2,
+      "candidateLineCount": 2,
+      "sourceLines": [
+        "검사 가능 범",
+        "위"
+      ],
+      "candidateLines": [
+        "검사 가능 범",
+        "위"
+      ],
+      "sourceHeight": 38.40625,
+      "candidateHeight": 38.40625,
+      "canvasAdvance": 80.4375
+    },
+    {
+      "width": 80.4453125,
+      "sourceLineCount": 1,
+      "candidateLineCount": 1,
+      "sourceLines": [
+        "검사 가능 범위"
+      ],
+      "candidateLines": [
+        "검사 가능 범위"
+      ],
+      "sourceHeight": 19.203125,
+      "candidateHeight": 19.203125,
+      "canvasAdvance": 80.4375
+    }
+  ],
+  "differenceWidths": [
+    80.4296875
+  ],
+  "sameFullAdvance": true,
+  "sourceOwnedWindow": 0,
+  "candidateOwnedRuntime": 0,
+  "explanation": "Normal original DOM width/computed width unchanged. Accepts one1/128px advance overwidth; rejects1/64px overwidth. Same Canvas/Range/currentWindowsstock advance80.4375. Source/native CSS19.2 normal line heights match. Root protected exception decision pending; comparison tolerance unchanged."
+}

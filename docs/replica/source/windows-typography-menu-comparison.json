@@ -1,0 +1,695 @@
+[
+  {
+    "id": "kr-0",
+    "family": "Malgun Gothic",
+    "ascent": 15.0,
+    "descent": 3.5,
+    "predictedBaseline": 16.5,
+    "sourceBaseline": 16.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0023437499999374722
+    ],
+    "nativeBaseline": 17.1267578125
+  },
+  {
+    "id": "kr-1",
+    "family": "Malgun Gothic",
+    "ascent": 39.0,
+    "descent": 8.5,
+    "predictedBaseline": 39.5,
+    "sourceBaseline": 39.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0015624999999204192,
+      -0.002187499999990905
+    ],
+    "nativeBaseline": 39.540234375
+  },
+  {
+    "id": "kr-2",
+    "family": "Malgun Gothic",
+    "ascent": 15.0,
+    "descent": 3.5,
+    "predictedBaseline": 18.0,
+    "sourceBaseline": 18,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ],
+    "nativeBaseline": 18.5267578125
+  },
+  {
+    "id": "kr-3",
+    "family": "Malgun Gothic",
+    "ascent": 16.5,
+    "descent": 3.5,
+    "predictedBaseline": 20.5,
+    "sourceBaseline": 20.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.00390625,
+      0.0,
+      0.0
+    ],
+    "nativeBaseline": 20.60009765625
+  },
+  {
+    "id": "kr-4",
+    "family": "Malgun Gothic",
+    "ascent": 13.0,
+    "descent": 3.0,
+    "predictedBaseline": 14.5,
+    "sourceBaseline": 14.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ],
+    "nativeBaseline": 14.680078125
+  },
+  {
+    "id": "kr-5",
+    "family": "Malgun Gothic",
+    "ascent": 15.0,
+    "descent": 3.5,
+    "predictedBaseline": 16.5,
+    "sourceBaseline": 16.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ],
+    "nativeBaseline": 17.1267578125
+  },
+  {
+    "id": "kr-6",
+    "family": "Malgun Gothic",
+    "ascent": 14.0,
+    "descent": 3.0,
+    "predictedBaseline": 17.5,
+    "sourceBaseline": 17.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ],
+    "nativeBaseline": 17.52841796875
+  },
+  {
+    "id": "kr-7",
+    "family": "Malgun Gothic",
+    "ascent": 14.0,
+    "descent": 3.0,
+    "predictedBaseline": 16.5,
+    "sourceBaseline": 16.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.005781249999643023,
+      -0.006074218751905391
+    ],
+    "nativeBaseline": 16.55341796875
+  },
+  {
+    "id": "en-0",
+    "family": "Malgun Gothic",
+    "ascent": 15.0,
+    "descent": 3.5,
+    "predictedBaseline": 16.5,
+    "sourceBaseline": 16.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0023437499999374722
+    ],
+    "nativeBaseline": 17.1267578125
+  },
+  {
+    "id": "en-1",
+    "family": "Malgun Gothic",
+    "ascent": 39.0,
+    "descent": 8.5,
+    "predictedBaseline": 39.5,
+    "sourceBaseline": 39.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0009374999998499334
+    ],
+    "nativeBaseline": 39.540234375
+  },
+  {
+    "id": "en-2",
+    "family": "Malgun Gothic",
+    "ascent": 15.0,
+    "descent": 3.5,
+    "predictedBaseline": 18.0,
+    "sourceBaseline": 18,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0068359375
+    ],
+    "nativeBaseline": 18.5267578125
+  },
+  {
+    "id": "en-3",
+    "family": "Malgun Gothic",
+    "ascent": 16.5,
+    "descent": 3.5,
+    "predictedBaseline": 20.5,
+    "sourceBaseline": 20.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.00732421875,
+      -0.0048828125,
+      -0.00732421875
+    ],
+    "nativeBaseline": 20.60009765625
+  },
+  {
+    "id": "en-4",
+    "family": "Malgun Gothic",
+    "ascent": 13.0,
+    "descent": 3.0,
+    "predictedBaseline": 14.5,
+    "sourceBaseline": 14.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.005859375
+    ],
+    "nativeBaseline": 14.680078125
+  },
+  {
+    "id": "en-5",
+    "family": "Malgun Gothic",
+    "ascent": 15.0,
+    "descent": 3.5,
+    "predictedBaseline": 16.5,
+    "sourceBaseline": 16.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0009765625
+    ],
+    "nativeBaseline": 17.1267578125
+  },
+  {
+    "id": "en-6",
+    "family": "Malgun Gothic",
+    "ascent": 14.0,
+    "descent": 3.0,
+    "predictedBaseline": 17.5,
+    "sourceBaseline": 17.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.00537109375
+    ],
+    "nativeBaseline": 17.52841796875
+  },
+  {
+    "id": "en-7",
+    "family": "Malgun Gothic",
+    "ascent": 14.0,
+    "descent": 3.0,
+    "predictedBaseline": 16.5,
+    "sourceBaseline": 16.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.005781249999643023,
+      -0.006074218751905391
+    ],
+    "nativeBaseline": 16.55341796875
+  },
+  {
+    "id": "role-00",
+    "family": "Malgun Gothic",
+    "ascent": 12.0,
+    "descent": 2.5,
+    "predictedBaseline": 13.5,
+    "sourceBaseline": 13.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ],
+    "nativeBaseline": 13.45673828125
+  },
+  {
+    "id": "role-01",
+    "family": "Malgun Gothic",
+    "ascent": 48.0,
+    "descent": 10.5,
+    "predictedBaseline": 46.0,
+    "sourceBaseline": 46,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0002343750000015632
+    ],
+    "nativeBaseline": 47.888671875
+  },
+  {
+    "id": "role-02",
+    "family": "Malgun Gothic",
+    "ascent": 12.0,
+    "descent": 2.5,
+    "predictedBaseline": 13.5,
+    "sourceBaseline": 13.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ],
+    "nativeBaseline": 13.45673828125
+  },
+  {
+    "id": "role-03",
+    "family": "Malgun Gothic",
+    "ascent": 48.0,
+    "descent": 10.5,
+    "predictedBaseline": 46.0,
+    "sourceBaseline": 46,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0002343750000015632
+    ],
+    "nativeBaseline": 47.888671875
+  },
+  {
+    "id": "role-04",
+    "family": "Malgun Gothic",
+    "ascent": 12.0,
+    "descent": 2.5,
+    "predictedBaseline": 13.5,
+    "sourceBaseline": 13.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ],
+    "nativeBaseline": 13.45673828125
+  },
+  {
+    "id": "role-05",
+    "family": "Malgun Gothic",
+    "ascent": 48.0,
+    "descent": 10.5,
+    "predictedBaseline": 46.0,
+    "sourceBaseline": 46,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0004687500000031264
+    ],
+    "nativeBaseline": 47.888671875
+  },
+  {
+    "id": "role-06",
+    "family": "Malgun Gothic",
+    "ascent": 12.0,
+    "descent": 2.5,
+    "predictedBaseline": 13.5,
+    "sourceBaseline": 13.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0068359375
+    ],
+    "nativeBaseline": 13.45673828125
+  },
+  {
+    "id": "role-07",
+    "family": "Consolas",
+    "ascent": 8.0,
+    "descent": 3.0,
+    "predictedBaseline": 11.0,
+    "sourceBaseline": 12,
+    "deltaBaseline": -1.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0048828125
+    ],
+    "nativeBaseline": 11.46943359375
+  },
+  {
+    "id": "role-08",
+    "family": "Malgun Gothic",
+    "ascent": 14.0,
+    "descent": 3.0,
+    "predictedBaseline": 15.5,
+    "sourceBaseline": 15.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0
+    ],
+    "nativeBaseline": 15.90341796875
+  },
+  {
+    "id": "role-09",
+    "family": "Malgun Gothic",
+    "ascent": 11.0,
+    "descent": 2.5,
+    "predictedBaseline": 12.5,
+    "sourceBaseline": 12.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ],
+    "nativeBaseline": 12.7333984375
+  },
+  {
+    "id": "role-10",
+    "family": "Malgun Gothic",
+    "ascent": 28.5,
+    "descent": 6.5,
+    "predictedBaseline": 26.5,
+    "sourceBaseline": 26.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0025390625000003553
+    ],
+    "nativeBaseline": 28.2978515625
+  },
+  {
+    "id": "role-11",
+    "family": "Malgun Gothic",
+    "ascent": 28.5,
+    "descent": 6.5,
+    "predictedBaseline": 26.5,
+    "sourceBaseline": 26.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0025390625000003553
+    ],
+    "nativeBaseline": 28.2978515625
+  },
+  {
+    "id": "role-12",
+    "family": "Malgun Gothic",
+    "ascent": 28.5,
+    "descent": 6.5,
+    "predictedBaseline": 26.5,
+    "sourceBaseline": 26.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0050781250000007105
+    ],
+    "nativeBaseline": 28.2978515625
+  },
+  {
+    "id": "role-13",
+    "family": "Malgun Gothic",
+    "ascent": 14.0,
+    "descent": 3.0,
+    "predictedBaseline": 15.5,
+    "sourceBaseline": 15.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.00390625
+    ],
+    "nativeBaseline": 15.90341796875
+  },
+  {
+    "id": "role-14",
+    "family": "Malgun Gothic",
+    "ascent": 11.0,
+    "descent": 2.5,
+    "predictedBaseline": 12.5,
+    "sourceBaseline": 12.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ],
+    "nativeBaseline": 12.7333984375
+  },
+  {
+    "id": "role-15",
+    "family": "Malgun Gothic",
+    "ascent": 28.5,
+    "descent": 6.5,
+    "predictedBaseline": 26.5,
+    "sourceBaseline": 26.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0050781250000007105
+    ],
+    "nativeBaseline": 28.2978515625
+  },
+  {
+    "id": "role-16",
+    "family": "Malgun Gothic",
+    "ascent": 14.0,
+    "descent": 3.0,
+    "predictedBaseline": 15.5,
+    "sourceBaseline": 15.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.00390625
+    ],
+    "nativeBaseline": 15.90341796875
+  },
+  {
+    "id": "role-17",
+    "family": "Malgun Gothic",
+    "ascent": 11.0,
+    "descent": 2.5,
+    "predictedBaseline": 12.5,
+    "sourceBaseline": 12.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ],
+    "nativeBaseline": 12.7333984375
+  },
+  {
+    "id": "role-18",
+    "family": "Malgun Gothic",
+    "ascent": 28.5,
+    "descent": 6.5,
+    "predictedBaseline": 26.5,
+    "sourceBaseline": 26.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0025390625000003553
+    ],
+    "nativeBaseline": 28.2978515625
+  },
+  {
+    "id": "role-19",
+    "family": "Malgun Gothic",
+    "ascent": 28.5,
+    "descent": 6.5,
+    "predictedBaseline": 26.5,
+    "sourceBaseline": 26.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0025390625000003553
+    ],
+    "nativeBaseline": 28.2978515625
+  },
+  {
+    "id": "role-20",
+    "family": "Malgun Gothic",
+    "ascent": 14.0,
+    "descent": 3.0,
+    "predictedBaseline": 15.5,
+    "sourceBaseline": 15.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ],
+    "nativeBaseline": 15.90341796875
+  },
+  {
+    "id": "role-21",
+    "family": "Malgun Gothic",
+    "ascent": 28.5,
+    "descent": 6.5,
+    "predictedBaseline": 26.5,
+    "sourceBaseline": 26.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0050781250000007105
+    ],
+    "nativeBaseline": 28.2978515625
+  },
+  {
+    "id": "role-22",
+    "family": "Malgun Gothic",
+    "ascent": 15.0,
+    "descent": 3.5,
+    "predictedBaseline": 16.5,
+    "sourceBaseline": 16.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ],
+    "nativeBaseline": 17.1267578125
+  },
+  {
+    "id": "role-23",
+    "family": "Consolas",
+    "ascent": 9.0,
+    "descent": 3.0,
+    "predictedBaseline": 12.5,
+    "sourceBaseline": 13.5,
+    "deltaBaseline": -1.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.00390625
+    ],
+    "nativeBaseline": 12.512109375
+  },
+  {
+    "id": "role-24",
+    "family": "Consolas",
+    "ascent": 9.0,
+    "descent": 3.0,
+    "predictedBaseline": 12.5,
+    "sourceBaseline": 13.5,
+    "deltaBaseline": -1.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ],
+    "nativeBaseline": 12.512109375
+  },
+  {
+    "id": "role-25",
+    "family": "Malgun Gothic",
+    "ascent": 15.0,
+    "descent": 3.5,
+    "predictedBaseline": 16.5,
+    "sourceBaseline": 16.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0048828125
+    ],
+    "nativeBaseline": 17.1267578125
+  },
+  {
+    "id": "role-26",
+    "family": "Consolas",
+    "ascent": 9.0,
+    "descent": 3.0,
+    "predictedBaseline": 12.5,
+    "sourceBaseline": 13.5,
+    "deltaBaseline": -1.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.00390625
+    ],
+    "nativeBaseline": 12.512109375
+  },
+  {
+    "id": "role-27",
+    "family": "Consolas",
+    "ascent": 9.0,
+    "descent": 3.0,
+    "predictedBaseline": 12.5,
+    "sourceBaseline": 13.5,
+    "deltaBaseline": -1.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.00390625
+    ],
+    "nativeBaseline": 12.512109375
+  },
+  {
+    "id": "role-28",
+    "family": "Malgun Gothic",
+    "ascent": 15.0,
+    "descent": 3.5,
+    "predictedBaseline": 16.5,
+    "sourceBaseline": 16.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      0.0
+    ],
+    "nativeBaseline": 17.1267578125
+  },
+  {
+    "id": "role-29",
+    "family": "Consolas",
+    "ascent": 9.0,
+    "descent": 3.0,
+    "predictedBaseline": 12.5,
+    "sourceBaseline": 13.5,
+    "deltaBaseline": -1.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.00390625
+    ],
+    "nativeBaseline": 12.512109375
+  },
+  {
+    "id": "role-30",
+    "family": "Consolas",
+    "ascent": 9.0,
+    "descent": 3.0,
+    "predictedBaseline": 12.5,
+    "sourceBaseline": 13.5,
+    "deltaBaseline": -1.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.00390625
+    ],
+    "nativeBaseline": 12.512109375
+  },
+  {
+    "id": "role-31",
+    "family": "Malgun Gothic",
+    "ascent": 15.0,
+    "descent": 3.5,
+    "predictedBaseline": 16.5,
+    "sourceBaseline": 16.5,
+    "deltaBaseline": 0.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.0029296875
+    ],
+    "nativeBaseline": 17.1267578125
+  },
+  {
+    "id": "role-32",
+    "family": "Consolas",
+    "ascent": 9.0,
+    "descent": 3.0,
+    "predictedBaseline": 12.5,
+    "sourceBaseline": 13.5,
+    "deltaBaseline": -1.0,
+    "lineCountMatches": true,
+    "widthDeltas": [
+      -0.00390625
+    ],
+    "nativeBaseline": 12.512109375
+  }
+]

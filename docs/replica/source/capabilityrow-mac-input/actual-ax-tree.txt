@@ -1,0 +1,38 @@
+Window: "Replica CapabilityRow verification", App: Avalonia Application.
+0 standard window Replica CapabilityRow verification, Secondary Actions: Raise
+	1 container WindowChrome, ID: AvaloniaWindowChrome
+	2 container
+		3 text {"requests":5,"english":true,"key":"access","focused":false,"attached":true,"background":"Transparent","opacity":1,"button":"Required permissions","visible":true}
+		4 button language, ID: CapabilityRow-language
+			5 text language
+		6 button reduced, ID: CapabilityRow-reduced
+			7 text reduced
+		8 button mount, ID: CapabilityRow-mount
+			9 text mount
+		10 button data, ID: CapabilityRow-data
+			11 text data
+		12 cell
+			13 unknown CapabilityRow-cell-0
+				14 text Users & permissions
+				15 text Users, roles, ownership, grants and row policies
+			16 unknown CapabilityRow-cell-1
+				17 unknown
+					18 container
+						19 text Connected
+			20 unknown CapabilityRow-cell-2
+				21 unknown
+					22 container
+						23 text Partially available
+			24 unknown CapabilityRow-cell-3
+				25 container
+					26 text Visibility unconfirmed for 2 grant checks
+					27 button Required permissions, ID: CapabilityRow-permissions
+						28 text Required permissions
+	29 close button
+	30 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	31 minimize button
+	32 text Replica CapabilityRow verification
+33 menu bar
+	34 Avalonia Application
+
+The focused UI element is 4 button language, ID: CapabilityRow-language

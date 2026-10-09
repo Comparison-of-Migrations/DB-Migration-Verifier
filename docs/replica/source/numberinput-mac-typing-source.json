@@ -1,0 +1,170 @@
+[
+  {
+    "text": "-",
+    "state": {
+      "bad": true,
+      "number": null,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": false,
+      "value": ""
+    }
+  },
+  {
+    "text": "+",
+    "state": {
+      "bad": true,
+      "number": null,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": false,
+      "value": ""
+    }
+  },
+  {
+    "text": "e",
+    "state": {
+      "bad": true,
+      "number": null,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": false,
+      "value": ""
+    }
+  },
+  {
+    "text": ".",
+    "state": {
+      "bad": true,
+      "number": null,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": false,
+      "value": ""
+    }
+  },
+  {
+    "text": "1e",
+    "state": {
+      "bad": true,
+      "number": null,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": false,
+      "value": ""
+    }
+  },
+  {
+    "text": "1.",
+    "state": {
+      "bad": false,
+      "number": 1,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "1"
+    }
+  },
+  {
+    "text": "abc123",
+    "state": {
+      "bad": false,
+      "number": 123,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "123"
+    }
+  },
+  {
+    "text": "--1",
+    "state": {
+      "bad": true,
+      "number": null,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": false,
+      "value": ""
+    }
+  },
+  {
+    "text": "1..5",
+    "state": {
+      "bad": false,
+      "number": 1.5,
+      "over": false,
+      "step": true,
+      "under": false,
+      "valid": false,
+      "value": "1.5"
+    }
+  },
+  {
+    "text": "12+3",
+    "state": {
+      "bad": true,
+      "number": null,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": false,
+      "value": ""
+    }
+  },
+  {
+    "text": "1-2",
+    "state": {
+      "bad": true,
+      "number": null,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": false,
+      "value": ""
+    }
+  },
+  {
+    "text": "1e+3",
+    "state": {
+      "bad": false,
+      "number": 1000,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "1e+3"
+    }
+  },
+  {
+    "text": "1e2.3",
+    "state": {
+      "bad": false,
+      "number": 1e+23,
+      "over": true,
+      "step": false,
+      "under": false,
+      "valid": false,
+      "value": "1e23"
+    }
+  },
+  {
+    "text": "１２３",
+    "state": {
+      "bad": false,
+      "number": 123,
+      "over": false,
+      "step": false,
+      "under": false,
+      "valid": true,
+      "value": "123"
+    }
+  }
+]

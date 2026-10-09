@@ -1,0 +1,11 @@
+{
+  "nativeProcessCount": 0,
+  "nativeWindowCount": 0,
+  "sourceWindowCount": 0,
+  "proof": "Scoped WindowPattern.Close returned and exact runtime GetProcess count0 from driver close; focus-read independently required samepath count0 and fullcoldDLLhash; no source opened, prior sourceclosed0 reused",
+  "build": "5956af6458834760aa3a8f96acd82b52",
+  "time": "2026-10-08T16:37:14.550922+00:00",
+  "commandSession": 60468,
+  "exitCode": 0,
+  "batchLog": "resultspage-windows-focus-batch.log"
+}

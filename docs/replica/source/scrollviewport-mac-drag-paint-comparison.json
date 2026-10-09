@@ -1,0 +1,20 @@
+{
+  "scope": "actual source/candidate800-offset expanded track",
+  "parts": [
+    {
+      "part": "content",
+      "differentPixels": 258900,
+      "maxChannel": 35
+    },
+    {
+      "part": "track",
+      "differentPixels": 11168,
+      "maxChannel": 27
+    },
+    {
+      "part": "thumb",
+      "differentPixels": 841,
+      "maxChannel": 9
+    }
+  ]
+}

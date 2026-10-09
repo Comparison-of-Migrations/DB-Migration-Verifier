@@ -1,0 +1,106 @@
+{
+  "status": "PASSED",
+  "checks": 221,
+  "differences": [],
+  "roots": [
+    {
+      "id": "ko-1000",
+      "root": {
+        "innerWidth": 1000,
+        "innerHeight": 900,
+        "clientWidth": 1000,
+        "clientHeight": 900,
+        "scrollWidth": 1000,
+        "scrollHeight": 901,
+        "scrollX": 0,
+        "scrollY": 0,
+        "announcer": {
+          "className": "sr",
+          "role": "status",
+          "position": "absolute",
+          "box": {
+            "x": 0,
+            "y": 900,
+            "width": 1,
+            "height": 1
+          }
+        }
+      }
+    },
+    {
+      "id": "ko-1280",
+      "root": {
+        "innerWidth": 1280,
+        "innerHeight": 900,
+        "clientWidth": 1280,
+        "clientHeight": 900,
+        "scrollWidth": 1280,
+        "scrollHeight": 901,
+        "scrollX": 0,
+        "scrollY": 0,
+        "announcer": {
+          "className": "sr",
+          "role": "status",
+          "position": "absolute",
+          "box": {
+            "x": 0,
+            "y": 900,
+            "width": 1,
+            "height": 1
+          }
+        }
+      }
+    },
+    {
+      "id": "en-1000",
+      "root": {
+        "innerWidth": 1000,
+        "innerHeight": 900,
+        "clientWidth": 1000,
+        "clientHeight": 900,
+        "scrollWidth": 1000,
+        "scrollHeight": 901,
+        "scrollX": 0,
+        "scrollY": 0,
+        "announcer": {
+          "className": "sr",
+          "role": "status",
+          "position": "absolute",
+          "box": {
+            "x": 0,
+            "y": 900,
+            "width": 1,
+            "height": 1
+          }
+        }
+      }
+    },
+    {
+      "id": "en-1280",
+      "root": {
+        "innerWidth": 1280,
+        "innerHeight": 900,
+        "clientWidth": 1280,
+        "clientHeight": 900,
+        "scrollWidth": 1280,
+        "scrollHeight": 901,
+        "scrollX": 0,
+        "scrollY": 0,
+        "announcer": {
+          "className": "sr",
+          "role": "status",
+          "position": "absolute",
+          "box": {
+            "x": 0,
+            "y": 900,
+            "width": 1,
+            "height": 1
+          }
+        }
+      }
+    }
+  ],
+  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/pageintegrationresults-announcer-unhidden-diagnostic/connection-pageintegrationresults-mac-source.json",
+  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/pageintegrationresults-mac-wrapper-source.json",
+  "scope": "Corrected literal original hidden announcer/new root dimensions and parent4 allocation; unchanged68 semantic/report/export evidence retained, no candidate integration pass"
+}

@@ -1,0 +1,1158 @@
+{
+  "phase": "ACTUAL_OS_RECORDED",
+  "rows": [
+    {
+      "id": "ko-960-normal-short",
+      "width": 960,
+      "height": 900,
+      "dpr": 2,
+      "text": "예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다.",
+      "parent": {
+        "finalWidth": 960,
+        "finalHeight": 900,
+        "documentGutterWidth": 15,
+        "documentGutterHeight": 15,
+        "documentClientWidth": 945,
+        "documentClientHeight": 885
+      },
+      "box": {
+        "x": 542.40625,
+        "y": 730.203125,
+        "width": 378.59375,
+        "height": 50.796875
+      },
+      "labelBox": {
+        "x": 561.40625,
+        "y": 745.203125,
+        "width": 340.59375,
+        "height": 20.796875
+      },
+      "lines": [
+        "예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다."
+      ],
+      "style": {
+        "background": "#ff202125",
+        "borderColor": "#ff686e7b",
+        "borderWidth": "1,1,1,1",
+        "radius": "8,8,8,8",
+        "padding": "18,14,18,14",
+        "shadow": "0 10 30 #30000000",
+        "fontSize": 13,
+        "lineHeight": 20.8,
+        "color": "#fff2f3f5",
+        "maxWidth": 420,
+        "hitTest": false
+      },
+      "accessibility": {
+        "toastAttachedLive": "Polite",
+        "labelAttachedLive": "Off",
+        "labelName": "예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다.",
+        "labelType": "Text",
+        "labelLive": "Off",
+        "labelControl": true,
+        "labelContent": true,
+        "labelChildren": 0,
+        "toastPeerType": "StatusBar",
+        "toastPeerLive": "Polite",
+        "toastPeerName": "",
+        "toastPeerControl": true,
+        "toastPeerContent": true,
+        "toastPeerChildren": 1
+      },
+      "focus": null,
+      "opacity": 1,
+      "scope": "Parent settled box/style/text; existing Motion200ms contract reused"
+    },
+    {
+      "id": "ko-960-normal-long",
+      "width": 960,
+      "height": 900,
+      "dpr": 2,
+      "text": "예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다.",
+      "parent": {
+        "finalWidth": 960,
+        "finalHeight": 900,
+        "documentGutterWidth": 15,
+        "documentGutterHeight": 15,
+        "documentClientWidth": 945,
+        "documentClientHeight": 885
+      },
+      "box": {
+        "x": 501,
+        "y": 667.8125,
+        "width": 420,
+        "height": 113.1875
+      },
+      "labelBox": {
+        "x": 520,
+        "y": 682.8125,
+        "width": 382,
+        "height": 83.1875
+      },
+      "lines": [
+        "예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시",
+        "시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험",
+        "준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비",
+        "를 확인했습니다. 실제 DB 검증은 아닙니다."
+      ],
+      "style": {
+        "background": "#ff202125",
+        "borderColor": "#ff686e7b",
+        "borderWidth": "1,1,1,1",
+        "radius": "8,8,8,8",
+        "padding": "18,14,18,14",
+        "shadow": "0 10 30 #30000000",
+        "fontSize": 13,
+        "lineHeight": 20.8,
+        "color": "#fff2f3f5",
+        "maxWidth": 420,
+        "hitTest": false
+      },
+      "accessibility": {
+        "toastAttachedLive": "Polite",
+        "labelAttachedLive": "Off",
+        "labelName": "예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다.",
+        "labelType": "Text",
+        "labelLive": "Off",
+        "labelControl": true,
+        "labelContent": true,
+        "labelChildren": 0,
+        "toastPeerType": "StatusBar",
+        "toastPeerLive": "Polite",
+        "toastPeerName": "",
+        "toastPeerControl": true,
+        "toastPeerContent": true,
+        "toastPeerChildren": 1
+      },
+      "focus": null,
+      "opacity": 1,
+      "scope": "Parent settled box/style/text; existing Motion200ms contract reused"
+    },
+    {
+      "id": "ko-960-reduced-short",
+      "width": 960,
+      "height": 900,
+      "dpr": 2,
+      "text": "예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다.",
+      "parent": {
+        "finalWidth": 960,
+        "finalHeight": 900,
+        "documentGutterWidth": 15,
+        "documentGutterHeight": 15,
+        "documentClientWidth": 945,
+        "documentClientHeight": 885
+      },
+      "box": {
+        "x": 542.40625,
+        "y": 730.203125,
+        "width": 378.59375,
+        "height": 50.796875
+      },
+      "labelBox": {
+        "x": 561.40625,
+        "y": 745.203125,
+        "width": 340.59375,
+        "height": 20.796875
+      },
+      "lines": [
+        "예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다."
+      ],
+      "style": {
+        "background": "#ff202125",
+        "borderColor": "#ff686e7b",
+        "borderWidth": "1,1,1,1",
+        "radius": "8,8,8,8",
+        "padding": "18,14,18,14",
+        "shadow": "0 10 30 #30000000",
+        "fontSize": 13,
+        "lineHeight": 20.8,
+        "color": "#fff2f3f5",
+        "maxWidth": 420,
+        "hitTest": false
+      },
+      "accessibility": {
+        "toastAttachedLive": "Polite",
+        "labelAttachedLive": "Off",
+        "labelName": "예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다.",
+        "labelType": "Text",
+        "labelLive": "Off",
+        "labelControl": true,
+        "labelContent": true,
+        "labelChildren": 0,
+        "toastPeerType": "StatusBar",
+        "toastPeerLive": "Polite",
+        "toastPeerName": "",
+        "toastPeerControl": true,
+        "toastPeerContent": true,
+        "toastPeerChildren": 1
+      },
+      "focus": null,
+      "opacity": 1,
+      "scope": "Parent settled box/style/text; existing Motion200ms contract reused"
+    },
+    {
+      "id": "ko-960-reduced-long",
+      "width": 960,
+      "height": 900,
+      "dpr": 2,
+      "text": "예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다.",
+      "parent": {
+        "finalWidth": 960,
+        "finalHeight": 900,
+        "documentGutterWidth": 15,
+        "documentGutterHeight": 15,
+        "documentClientWidth": 945,
+        "documentClientHeight": 885
+      },
+      "box": {
+        "x": 501,
+        "y": 667.8125,
+        "width": 420,
+        "height": 113.1875
+      },
+      "labelBox": {
+        "x": 520,
+        "y": 682.8125,
+        "width": 382,
+        "height": 83.1875
+      },
+      "lines": [
+        "예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시",
+        "시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험",
+        "준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비",
+        "를 확인했습니다. 실제 DB 검증은 아닙니다."
+      ],
+      "style": {
+        "background": "#ff202125",
+        "borderColor": "#ff686e7b",
+        "borderWidth": "1,1,1,1",
+        "radius": "8,8,8,8",
+        "padding": "18,14,18,14",
+        "shadow": "0 10 30 #30000000",
+        "fontSize": 13,
+        "lineHeight": 20.8,
+        "color": "#fff2f3f5",
+        "maxWidth": 420,
+        "hitTest": false
+      },
+      "accessibility": {
+        "toastAttachedLive": "Polite",
+        "labelAttachedLive": "Off",
+        "labelName": "예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다.",
+        "labelType": "Text",
+        "labelLive": "Off",
+        "labelControl": true,
+        "labelContent": true,
+        "labelChildren": 0,
+        "toastPeerType": "StatusBar",
+        "toastPeerLive": "Polite",
+        "toastPeerName": "",
+        "toastPeerControl": true,
+        "toastPeerContent": true,
+        "toastPeerChildren": 1
+      },
+      "focus": null,
+      "opacity": 1,
+      "scope": "Parent settled box/style/text; existing Motion200ms contract reused"
+    },
+    {
+      "id": "ko-1280-normal-short",
+      "width": 1280,
+      "height": 900,
+      "dpr": 2,
+      "text": "예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다.",
+      "parent": {
+        "finalWidth": 1280,
+        "finalHeight": 900,
+        "documentGutterWidth": 15,
+        "documentGutterHeight": 0,
+        "documentClientWidth": 1265,
+        "documentClientHeight": 900
+      },
+      "box": {
+        "x": 862.40625,
+        "y": 745.203125,
+        "width": 378.59375,
+        "height": 50.796875
+      },
+      "labelBox": {
+        "x": 881.40625,
+        "y": 760.203125,
+        "width": 340.59375,
+        "height": 20.796875
+      },
+      "lines": [
+        "예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다."
+      ],
+      "style": {
+        "background": "#ff202125",
+        "borderColor": "#ff686e7b",
+        "borderWidth": "1,1,1,1",
+        "radius": "8,8,8,8",
+        "padding": "18,14,18,14",
+        "shadow": "0 10 30 #30000000",
+        "fontSize": 13,
+        "lineHeight": 20.8,
+        "color": "#fff2f3f5",
+        "maxWidth": 420,
+        "hitTest": false
+      },
+      "accessibility": {
+        "toastAttachedLive": "Polite",
+        "labelAttachedLive": "Off",
+        "labelName": "예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다.",
+        "labelType": "Text",
+        "labelLive": "Off",
+        "labelControl": true,
+        "labelContent": true,
+        "labelChildren": 0,
+        "toastPeerType": "StatusBar",
+        "toastPeerLive": "Polite",
+        "toastPeerName": "",
+        "toastPeerControl": true,
+        "toastPeerContent": true,
+        "toastPeerChildren": 1
+      },
+      "focus": null,
+      "opacity": 1,
+      "scope": "Parent settled box/style/text; existing Motion200ms contract reused"
+    },
+    {
+      "id": "ko-1280-normal-long",
+      "width": 1280,
+      "height": 900,
+      "dpr": 2,
+      "text": "예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다.",
+      "parent": {
+        "finalWidth": 1280,
+        "finalHeight": 900,
+        "documentGutterWidth": 15,
+        "documentGutterHeight": 0,
+        "documentClientWidth": 1265,
+        "documentClientHeight": 900
+      },
+      "box": {
+        "x": 821,
+        "y": 682.8125,
+        "width": 420,
+        "height": 113.1875
+      },
+      "labelBox": {
+        "x": 840,
+        "y": 697.8125,
+        "width": 382,
+        "height": 83.1875
+      },
+      "lines": [
+        "예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시",
+        "시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험",
+        "준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비",
+        "를 확인했습니다. 실제 DB 검증은 아닙니다."
+      ],
+      "style": {
+        "background": "#ff202125",
+        "borderColor": "#ff686e7b",
+        "borderWidth": "1,1,1,1",
+        "radius": "8,8,8,8",
+        "padding": "18,14,18,14",
+        "shadow": "0 10 30 #30000000",
+        "fontSize": 13,
+        "lineHeight": 20.8,
+        "color": "#fff2f3f5",
+        "maxWidth": 420,
+        "hitTest": false
+      },
+      "accessibility": {
+        "toastAttachedLive": "Polite",
+        "labelAttachedLive": "Off",
+        "labelName": "예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다.",
+        "labelType": "Text",
+        "labelLive": "Off",
+        "labelControl": true,
+        "labelContent": true,
+        "labelChildren": 0,
+        "toastPeerType": "StatusBar",
+        "toastPeerLive": "Polite",
+        "toastPeerName": "",
+        "toastPeerControl": true,
+        "toastPeerContent": true,
+        "toastPeerChildren": 1
+      },
+      "focus": null,
+      "opacity": 1,
+      "scope": "Parent settled box/style/text; existing Motion200ms contract reused"
+    },
+    {
+      "id": "ko-1280-reduced-short",
+      "width": 1280,
+      "height": 900,
+      "dpr": 2,
+      "text": "예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다.",
+      "parent": {
+        "finalWidth": 1280,
+        "finalHeight": 900,
+        "documentGutterWidth": 15,
+        "documentGutterHeight": 0,
+        "documentClientWidth": 1265,
+        "documentClientHeight": 900
+      },
+      "box": {
+        "x": 862.40625,
+        "y": 745.203125,
+        "width": 378.59375,
+        "height": 50.796875
+      },
+      "labelBox": {
+        "x": 881.40625,
+        "y": 760.203125,
+        "width": 340.59375,
+        "height": 20.796875
+      },
+      "lines": [
+        "예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다."
+      ],
+      "style": {
+        "background": "#ff202125",
+        "borderColor": "#ff686e7b",
+        "borderWidth": "1,1,1,1",
+        "radius": "8,8,8,8",
+        "padding": "18,14,18,14",
+        "shadow": "0 10 30 #30000000",
+        "fontSize": 13,
+        "lineHeight": 20.8,
+        "color": "#fff2f3f5",
+        "maxWidth": 420,
+        "hitTest": false
+      },
+      "accessibility": {
+        "toastAttachedLive": "Polite",
+        "labelAttachedLive": "Off",
+        "labelName": "예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다.",
+        "labelType": "Text",
+        "labelLive": "Off",
+        "labelControl": true,
+        "labelContent": true,
+        "labelChildren": 0,
+        "toastPeerType": "StatusBar",
+        "toastPeerLive": "Polite",
+        "toastPeerName": "",
+        "toastPeerControl": true,
+        "toastPeerContent": true,
+        "toastPeerChildren": 1
+      },
+      "focus": null,
+      "opacity": 1,
+      "scope": "Parent settled box/style/text; existing Motion200ms contract reused"
+    },
+    {
+      "id": "ko-1280-reduced-long",
+      "width": 1280,
+      "height": 900,
+      "dpr": 2,
+      "text": "예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다.",
+      "parent": {
+        "finalWidth": 1280,
+        "finalHeight": 900,
+        "documentGutterWidth": 15,
+        "documentGutterHeight": 0,
+        "documentClientWidth": 1265,
+        "documentClientHeight": 900
+      },
+      "box": {
+        "x": 821,
+        "y": 682.8125,
+        "width": 420,
+        "height": 113.1875
+      },
+      "labelBox": {
+        "x": 840,
+        "y": 697.8125,
+        "width": 382,
+        "height": 83.1875
+      },
+      "lines": [
+        "예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시",
+        "시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험",
+        "준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비",
+        "를 확인했습니다. 실제 DB 검증은 아닙니다."
+      ],
+      "style": {
+        "background": "#ff202125",
+        "borderColor": "#ff686e7b",
+        "borderWidth": "1,1,1,1",
+        "radius": "8,8,8,8",
+        "padding": "18,14,18,14",
+        "shadow": "0 10 30 #30000000",
+        "fontSize": 13,
+        "lineHeight": 20.8,
+        "color": "#fff2f3f5",
+        "maxWidth": 420,
+        "hitTest": false
+      },
+      "accessibility": {
+        "toastAttachedLive": "Polite",
+        "labelAttachedLive": "Off",
+        "labelName": "예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다. 예시 시험 준비를 확인했습니다. 실제 DB 검증은 아닙니다.",
+        "labelType": "Text",
+        "labelLive": "Off",
+        "labelControl": true,
+        "labelContent": true,
+        "labelChildren": 0,
+        "toastPeerType": "StatusBar",
+        "toastPeerLive": "Polite",
+        "toastPeerName": "",
+        "toastPeerControl": true,
+        "toastPeerContent": true,
+        "toastPeerChildren": 1
+      },
+      "focus": null,
+      "opacity": 1,
+      "scope": "Parent settled box/style/text; existing Motion200ms contract reused"
+    },
+    {
+      "id": "en-960-normal-short",
+      "width": 960,
+      "height": 900,
+      "dpr": 2,
+      "text": "Sample trial setup confirmed. No actual DB was verified.",
+      "parent": {
+        "finalWidth": 960,
+        "finalHeight": 900,
+        "documentGutterWidth": 15,
+        "documentGutterHeight": 15,
+        "documentClientWidth": 945,
+        "documentClientHeight": 885
+      },
+      "box": {
+        "x": 548.7734375,
+        "y": 730.203125,
+        "width": 372.2265625,
+        "height": 50.796875
+      },
+      "labelBox": {
+        "x": 567.7734375,
+        "y": 745.203125,
+        "width": 334.2265625,
+        "height": 20.796875
+      },
+      "lines": [
+        "Sample trial setup confirmed. No actual DB was verified."
+      ],
+      "style": {
+        "background": "#ff202125",
+        "borderColor": "#ff686e7b",
+        "borderWidth": "1,1,1,1",
+        "radius": "8,8,8,8",
+        "padding": "18,14,18,14",
+        "shadow": "0 10 30 #30000000",
+        "fontSize": 13,
+        "lineHeight": 20.8,
+        "color": "#fff2f3f5",
+        "maxWidth": 420,
+        "hitTest": false
+      },
+      "accessibility": {
+        "toastAttachedLive": "Polite",
+        "labelAttachedLive": "Off",
+        "labelName": "Sample trial setup confirmed. No actual DB was verified.",
+        "labelType": "Text",
+        "labelLive": "Off",
+        "labelControl": true,
+        "labelContent": true,
+        "labelChildren": 0,
+        "toastPeerType": "StatusBar",
+        "toastPeerLive": "Polite",
+        "toastPeerName": "",
+        "toastPeerControl": true,
+        "toastPeerContent": true,
+        "toastPeerChildren": 1
+      },
+      "focus": null,
+      "opacity": 1,
+      "scope": "Parent settled box/style/text; existing Motion200ms contract reused"
+    },
+    {
+      "id": "en-960-normal-long",
+      "width": 960,
+      "height": 900,
+      "dpr": 2,
+      "text": "Sample trial setup confirmed. No actual DB was verified. Sample trial setup confirmed. No actual DB was verified. Sample trial setup confirmed. No actual DB was verified. Sample trial setup confirmed. No actual DB was verified.",
+      "parent": {
+        "finalWidth": 960,
+        "finalHeight": 900,
+        "documentGutterWidth": 15,
+        "documentGutterHeight": 15,
+        "documentClientWidth": 945,
+        "documentClientHeight": 885
+      },
+      "box": {
+        "x": 501,
+        "y": 667.8125,
+        "width": 420,
+        "height": 113.1875
+      },
+      "labelBox": {
+        "x": 520,
+        "y": 682.8125,
+        "width": 382,
+        "height": 83.1875
+      },
+      "lines": [
+        "Sample trial setup confirmed. No actual DB was verified.",
+        "Sample trial setup confirmed. No actual DB was verified.",
+        "Sample trial setup confirmed. No actual DB was verified.",
+        "Sample trial setup confirmed. No actual DB was verified."
+      ],
+      "style": {
+        "background": "#ff202125",
+        "borderColor": "#ff686e7b",
+        "borderWidth": "1,1,1,1",
+        "radius": "8,8,8,8",
+        "padding": "18,14,18,14",
+        "shadow": "0 10 30 #30000000",
+        "fontSize": 13,
+        "lineHeight": 20.8,
+        "color": "#fff2f3f5",
+        "maxWidth": 420,
+        "hitTest": false
+      },
+      "accessibility": {
+        "toastAttachedLive": "Polite",
+        "labelAttachedLive": "Off",
+        "labelName": "Sample trial setup confirmed. No actual DB was verified. Sample trial setup confirmed. No actual DB was verified. Sample trial setup confirmed. No actual DB was verified. Sample trial setup confirmed. No actual DB was verified.",
+        "labelType": "Text",
+        "labelLive": "Off",
+        "labelControl": true,
+        "labelContent": true,
+        "labelChildren": 0,
+        "toastPeerType": "StatusBar",
+        "toastPeerLive": "Polite",
+        "toastPeerName": "",
+        "toastPeerControl": true,
+        "toastPeerContent": true,
+        "toastPeerChildren": 1
+      },
+      "focus": null,
+      "opacity": 1,
+      "scope": "Parent settled box/style/text; existing Motion200ms contract reused"
+    },
+    {
+      "id": "en-960-reduced-short",
+      "width": 960,
+      "height": 900,
+      "dpr": 2,
+      "text": "Sample trial setup confirmed. No actual DB was verified.",
+      "parent": {
+        "finalWidth": 960,
+        "finalHeight": 900,
+        "documentGutterWidth": 15,
+        "documentGutterHeight": 15,
+        "documentClientWidth": 945,
+        "documentClientHeight": 885
+      },
+      "box": {
+        "x": 548.7734375,
+        "y": 730.203125,
+        "width": 372.2265625,
+        "height": 50.796875
+      },
+      "labelBox": {
+        "x": 567.7734375,
+        "y": 745.203125,
+        "width": 334.2265625,
+        "height": 20.796875
+      },
+      "lines": [
+        "Sample trial setup confirmed. No actual DB was verified."
+      ],
+      "style": {
+        "background": "#ff202125",
+        "borderColor": "#ff686e7b",
+        "borderWidth": "1,1,1,1",
+        "radius": "8,8,8,8",
+        "padding": "18,14,18,14",
+        "shadow": "0 10 30 #30000000",
+        "fontSize": 13,
+        "lineHeight": 20.8,
+        "color": "#fff2f3f5",
+        "maxWidth": 420,
+        "hitTest": false
+      },
+      "accessibility": {
+        "toastAttachedLive": "Polite",
+        "labelAttachedLive": "Off",
+        "labelName": "Sample trial setup confirmed. No actual DB was verified.",
+        "labelType": "Text",
+        "labelLive": "Off",
+        "labelControl": true,
+        "labelContent": true,
+        "labelChildren": 0,
+        "toastPeerType": "StatusBar",
+        "toastPeerLive": "Polite",
+        "toastPeerName": "",
+        "toastPeerControl": true,
+        "toastPeerContent": true,
+        "toastPeerChildren": 1
+      },
+      "focus": null,
+      "opacity": 1,
+      "scope": "Parent settled box/style/text; existing Motion200ms contract reused"
+    },
+    {
+      "id": "en-960-reduced-long",
+      "width": 960,
+      "height": 900,
+      "dpr": 2,
+      "text": "Sample trial setup confirmed. No actual DB was verified. Sample trial setup confirmed. No actual DB was verified. Sample trial setup confirmed. No actual DB was verified. Sample trial setup confirmed. No actual DB was verified.",
+      "parent": {
+        "finalWidth": 960,
+        "finalHeight": 900,
+        "documentGutterWidth": 15,
+        "documentGutterHeight": 15,
+        "documentClientWidth": 945,
+        "documentClientHeight": 885
+      },
+      "box": {
+        "x": 501,
+        "y": 667.8125,
+        "width": 420,
+        "height": 113.1875
+      },
+      "labelBox": {
+        "x": 520,
+        "y": 682.8125,
+        "width": 382,
+        "height": 83.1875
+      },
+      "lines": [
+        "Sample trial setup confirmed. No actual DB was verified.",
+        "Sample trial setup confirmed. No actual DB was verified.",
+        "Sample trial setup confirmed. No actual DB was verified.",
+        "Sample trial setup confirmed. No actual DB was verified."
+      ],
+      "style": {
+        "background": "#ff202125",
+        "borderColor": "#ff686e7b",
+        "borderWidth": "1,1,1,1",
+        "radius": "8,8,8,8",
+        "padding": "18,14,18,14",
+        "shadow": "0 10 30 #30000000",
+        "fontSize": 13,
+        "lineHeight": 20.8,
+        "color": "#fff2f3f5",
+        "maxWidth": 420,
+        "hitTest": false
+      },
+      "accessibility": {
+        "toastAttachedLive": "Polite",
+        "labelAttachedLive": "Off",
+        "labelName": "Sample trial setup confirmed. No actual DB was verified. Sample trial setup confirmed. No actual DB was verified. Sample trial setup confirmed. No actual DB was verified. Sample trial setup confirmed. No actual DB was verified.",
+        "labelType": "Text",
+        "labelLive": "Off",
+        "labelControl": true,
+        "labelContent": true,
+        "labelChildren": 0,
+        "toastPeerType": "StatusBar",
+        "toastPeerLive": "Polite",
+        "toastPeerName": "",
+        "toastPeerControl": true,
+        "toastPeerContent": true,
+        "toastPeerChildren": 1
+      },
+      "focus": null,
+      "opacity": 1,
+      "scope": "Parent settled box/style/text; existing Motion200ms contract reused"
+    },
+    {
+      "id": "en-1280-normal-short",
+      "width": 1280,
+      "height": 900,
+      "dpr": 2,
+      "text": "Sample trial setup confirmed. No actual DB was verified.",
+      "parent": {
+        "finalWidth": 1280,
+        "finalHeight": 900,
+        "documentGutterWidth": 15,
+        "documentGutterHeight": 0,
+        "documentClientWidth": 1265,
+        "documentClientHeight": 900
+      },
+      "box": {
+        "x": 868.7734375,
+        "y": 745.203125,
+        "width": 372.2265625,
+        "height": 50.796875
+      },
+      "labelBox": {
+        "x": 887.7734375,
+        "y": 760.203125,
+        "width": 334.2265625,
+        "height": 20.796875
+      },
+      "lines": [
+        "Sample trial setup confirmed. No actual DB was verified."
+      ],
+      "style": {
+        "background": "#ff202125",
+        "borderColor": "#ff686e7b",
+        "borderWidth": "1,1,1,1",
+        "radius": "8,8,8,8",
+        "padding": "18,14,18,14",
+        "shadow": "0 10 30 #30000000",
+        "fontSize": 13,
+        "lineHeight": 20.8,
+        "color": "#fff2f3f5",
+        "maxWidth": 420,
+        "hitTest": false
+      },
+      "accessibility": {
+        "toastAttachedLive": "Polite",
+        "labelAttachedLive": "Off",
+        "labelName": "Sample trial setup confirmed. No actual DB was verified.",
+        "labelType": "Text",
+        "labelLive": "Off",
+        "labelControl": true,
+        "labelContent": true,
+        "labelChildren": 0,
+        "toastPeerType": "StatusBar",
+        "toastPeerLive": "Polite",
+        "toastPeerName": "",
+        "toastPeerControl": true,
+        "toastPeerContent": true,
+        "toastPeerChildren": 1
+      },
+      "focus": null,
+      "opacity": 1,
+      "scope": "Parent settled box/style/text; existing Motion200ms contract reused"
+    },
+    {
+      "id": "en-1280-normal-long",
+      "width": 1280,
+      "height": 900,
+      "dpr": 2,
+      "text": "Sample trial setup confirmed. No actual DB was verified. Sample trial setup confirmed. No actual DB was verified. Sample trial setup confirmed. No actual DB was verified. Sample trial setup confirmed. No actual DB was verified.",
+      "parent": {
+        "finalWidth": 1280,
+        "finalHeight": 900,
+        "documentGutterWidth": 15,
+        "documentGutterHeight": 0,
+        "documentClientWidth": 1265,
+        "documentClientHeight": 900
+      },
+      "box": {
+        "x": 821,
+        "y": 682.8125,
+        "width": 420,
+        "height": 113.1875
+      },
+      "labelBox": {
+        "x": 840,
+        "y": 697.8125,
+        "width": 382,
+        "height": 83.1875
+      },
+      "lines": [
+        "Sample trial setup confirmed. No actual DB was verified.",
+        "Sample trial setup confirmed. No actual DB was verified.",
+        "Sample trial setup confirmed. No actual DB was verified.",
+        "Sample trial setup confirmed. No actual DB was verified."
+      ],
+      "style": {
+        "background": "#ff202125",
+        "borderColor": "#ff686e7b",
+        "borderWidth": "1,1,1,1",
+        "radius": "8,8,8,8",
+        "padding": "18,14,18,14",
+        "shadow": "0 10 30 #30000000",
+        "fontSize": 13,
+        "lineHeight": 20.8,
+        "color": "#fff2f3f5",
+        "maxWidth": 420,
+        "hitTest": false
+      },
+      "accessibility": {
+        "toastAttachedLive": "Polite",
+        "labelAttachedLive": "Off",
+        "labelName": "Sample trial setup confirmed. No actual DB was verified. Sample trial setup confirmed. No actual DB was verified. Sample trial setup confirmed. No actual DB was verified. Sample trial setup confirmed. No actual DB was verified.",
+        "labelType": "Text",
+        "labelLive": "Off",
+        "labelControl": true,
+        "labelContent": true,
+        "labelChildren": 0,
+        "toastPeerType": "StatusBar",
+        "toastPeerLive": "Polite",
+        "toastPeerName": "",
+        "toastPeerControl": true,
+        "toastPeerContent": true,
+        "toastPeerChildren": 1
+      },
+      "focus": null,
+      "opacity": 1,
+      "scope": "Parent settled box/style/text; existing Motion200ms contract reused"
+    },
+    {
+      "id": "en-1280-reduced-short",
+      "width": 1280,
+      "height": 900,
+      "dpr": 2,
+      "text": "Sample trial setup confirmed. No actual DB was verified.",
+      "parent": {
+        "finalWidth": 1280,
+        "finalHeight": 900,
+        "documentGutterWidth": 15,
+        "documentGutterHeight": 0,
+        "documentClientWidth": 1265,
+        "documentClientHeight": 900
+      },
+      "box": {
+        "x": 868.7734375,
+        "y": 745.203125,
+        "width": 372.2265625,
+        "height": 50.796875
+      },
+      "labelBox": {
+        "x": 887.7734375,
+        "y": 760.203125,
+        "width": 334.2265625,
+        "height": 20.796875
+      },
+      "lines": [
+        "Sample trial setup confirmed. No actual DB was verified."
+      ],
+      "style": {
+        "background": "#ff202125",
+        "borderColor": "#ff686e7b",
+        "borderWidth": "1,1,1,1",
+        "radius": "8,8,8,8",
+        "padding": "18,14,18,14",
+        "shadow": "0 10 30 #30000000",
+        "fontSize": 13,
+        "lineHeight": 20.8,
+        "color": "#fff2f3f5",
+        "maxWidth": 420,
+        "hitTest": false
+      },
+      "accessibility": {
+        "toastAttachedLive": "Polite",
+        "labelAttachedLive": "Off",
+        "labelName": "Sample trial setup confirmed. No actual DB was verified.",
+        "labelType": "Text",
+        "labelLive": "Off",
+        "labelControl": true,
+        "labelContent": true,
+        "labelChildren": 0,
+        "toastPeerType": "StatusBar",
+        "toastPeerLive": "Polite",
+        "toastPeerName": "",
+        "toastPeerControl": true,
+        "toastPeerContent": true,
+        "toastPeerChildren": 1
+      },
+      "focus": null,
+      "opacity": 1,
+      "scope": "Parent settled box/style/text; existing Motion200ms contract reused"
+    },
+    {
+      "id": "en-1280-reduced-long",
+      "width": 1280,
+      "height": 900,
+      "dpr": 2,
+      "text": "Sample trial setup confirmed. No actual DB was verified. Sample trial setup confirmed. No actual DB was verified. Sample trial setup confirmed. No actual DB was verified. Sample trial setup confirmed. No actual DB was verified.",
+      "parent": {
+        "finalWidth": 1280,
+        "finalHeight": 900,
+        "documentGutterWidth": 15,
+        "documentGutterHeight": 0,
+        "documentClientWidth": 1265,
+        "documentClientHeight": 900
+      },
+      "box": {
+        "x": 821,
+        "y": 682.8125,
+        "width": 420,
+        "height": 113.1875
+      },
+      "labelBox": {
+        "x": 840,
+        "y": 697.8125,
+        "width": 382,
+        "height": 83.1875
+      },
+      "lines": [
+        "Sample trial setup confirmed. No actual DB was verified.",
+        "Sample trial setup confirmed. No actual DB was verified.",
+        "Sample trial setup confirmed. No actual DB was verified.",
+        "Sample trial setup confirmed. No actual DB was verified."
+      ],
+      "style": {
+        "background": "#ff202125",
+        "borderColor": "#ff686e7b",
+        "borderWidth": "1,1,1,1",
+        "radius": "8,8,8,8",
+        "padding": "18,14,18,14",
+        "shadow": "0 10 30 #30000000",
+        "fontSize": 13,
+        "lineHeight": 20.8,
+        "color": "#fff2f3f5",
+        "maxWidth": 420,
+        "hitTest": false
+      },
+      "accessibility": {
+        "toastAttachedLive": "Polite",
+        "labelAttachedLive": "Off",
+        "labelName": "Sample trial setup confirmed. No actual DB was verified. Sample trial setup confirmed. No actual DB was verified. Sample trial setup confirmed. No actual DB was verified. Sample trial setup confirmed. No actual DB was verified.",
+        "labelType": "Text",
+        "labelLive": "Off",
+        "labelControl": true,
+        "labelContent": true,
+        "labelChildren": 0,
+        "toastPeerType": "StatusBar",
+        "toastPeerLive": "Polite",
+        "toastPeerName": "",
+        "toastPeerControl": true,
+        "toastPeerContent": true,
+        "toastPeerChildren": 1
+      },
+      "focus": null,
+      "opacity": 1,
+      "scope": "Parent settled box/style/text; existing Motion200ms contract reused"
+    }
+  ],
+  "lifetimes": [
+    {
+      "id": "ko-960-normal",
+      "replaced": true,
+      "survivesOldDeadline": true,
+      "beforeNewDeadline": true,
+      "removed": true,
+      "focusSame": true,
+      "oldDeadlineMs": 4297.0003,
+      "beforeMs": 3826.7352,
+      "afterMs": 4412.5557,
+      "attachedOld": false,
+      "transitionEvents": [
+        {
+          "kind": "added",
+          "id": 1,
+          "timeMs": 24.7159
+        },
+        {
+          "kind": "removed",
+          "id": 1,
+          "timeMs": 1262.9365
+        },
+        {
+          "kind": "added",
+          "id": 2,
+          "timeMs": 1316.7201
+        },
+        {
+          "kind": "removed",
+          "id": 2,
+          "timeMs": 5545.7534
+        }
+      ],
+      "removalEventAgeMs": 4229.033299999999,
+      "before4100BySynchronousContinuity": true,
+      "directBefore4100Measurement": false,
+      "priorLateObserver": {
+        "id": "ko-960-normal",
+        "replaced": true,
+        "survivesOldDeadline": true,
+        "beforeNewDeadline": false,
+        "removed": true,
+        "focusSame": true,
+        "oldDeadlineMs": 4378.9937,
+        "beforeMs": 4249.615,
+        "afterMs": 4400.0263,
+        "attachedOld": false
+      },
+      "proofMethod": "Listener attached before firstAdd; exactly oldAdd/oldRemove/newAdd/newRemove; new remains continuously until removed>=4200. Direct3800 observation and inferred4100 presence are separately recorded."
+    },
+    {
+      "id": "ko-960-reduced",
+      "replaced": true,
+      "survivesOldDeadline": true,
+      "beforeNewDeadline": true,
+      "removed": true,
+      "focusSame": true,
+      "oldDeadlineMs": 4306.2898,
+      "beforeMs": 3819.9732,
+      "afterMs": 4402.7986,
+      "attachedOld": false,
+      "transitionEvents": [
+        {
+          "kind": "added",
+          "id": 1,
+          "timeMs": 5.8537
+        },
+        {
+          "kind": "removed",
+          "id": 1,
+          "timeMs": 1224.592
+        },
+        {
+          "kind": "added",
+          "id": 2,
+          "timeMs": 1248.3207
+        },
+        {
+          "kind": "removed",
+          "id": 2,
+          "timeMs": 5473.6957
+        }
+      ],
+      "removalEventAgeMs": 4225.375,
+      "before4100BySynchronousContinuity": true,
+      "directBefore4100Measurement": false,
+      "priorLateObserver": {
+        "id": "ko-960-reduced",
+        "replaced": true,
+        "survivesOldDeadline": true,
+        "beforeNewDeadline": false,
+        "removed": true,
+        "focusSame": true,
+        "oldDeadlineMs": 4391.0329,
+        "beforeMs": 4252.1866,
+        "afterMs": 4405.5634,
+        "attachedOld": false
+      },
+      "proofMethod": "Listener attached before firstAdd; exactly oldAdd/oldRemove/newAdd/newRemove; new remains continuously until removed>=4200. Direct3800 observation and inferred4100 presence are separately recorded."
+    },
+    {
+      "id": "en-960-normal",
+      "replaced": true,
+      "survivesOldDeadline": true,
+      "beforeNewDeadline": true,
+      "removed": true,
+      "focusSame": true,
+      "oldDeadlineMs": 4335.3986,
+      "beforeMs": 4155.1626,
+      "afterMs": 4406.5978,
+      "attachedOld": false
+    },
+    {
+      "id": "en-960-reduced",
+      "replaced": true,
+      "survivesOldDeadline": true,
+      "beforeNewDeadline": true,
+      "removed": true,
+      "focusSame": true,
+      "oldDeadlineMs": 4345.4402,
+      "beforeMs": 4103.5881,
+      "afterMs": 4403.5453,
+      "attachedOld": false
+    }
+  ],
+  "disposal": {
+    "disposedRemoved": true,
+    "oldTimerNoReappearance": true,
+    "elapsedMs": 4460.2982
+  },
+  "errors": [],
+  "composition": {
+    "firstRaw": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/pageintegration/b43b125ea6e44257b44935557a4619a8/toast-fetch-windows/pageintegration-toast.json",
+    "targetRaw": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/pageintegration/e50adb652d0541e3a713c4fa7ded9f11/toast-fetch-ko-timer-windows/pageintegration-toast.json",
+    "scope": "Retained actual16/public peers/EN2/Dispose; only failedKO2 late deadline observer resolved through synchronous actual child transitions. No timestamp fabricated, no repeated geometry."
+  }
+}

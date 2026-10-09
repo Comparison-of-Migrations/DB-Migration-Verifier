@@ -1,0 +1,141 @@
+{
+  "source": "docs/replica/source/capabilitytable-mac-cell-intrinsics.json",
+  "candidateSnapshot": "c4eb48740fc54f788b1105cc91561e55",
+  "checks": 80,
+  "algorithms": {
+    "minCeil": {
+      "differences": [
+        {
+          "id": "ko-1-min-content",
+          "source": 46.3828125,
+          "candidate": 53.46875,
+          "delta": 7.0859375
+        },
+        {
+          "id": "ko-8-min-content",
+          "source": 86.9296875,
+          "candidate": 86.9375,
+          "delta": 0.0078125
+        },
+        {
+          "id": "ko-16-min-content",
+          "source": 139.5078125,
+          "candidate": 139.515625,
+          "delta": 0.0078125
+        },
+        {
+          "id": "en-1-min-content",
+          "source": 77.5,
+          "candidate": 84.5859375,
+          "delta": 7.0859375
+        },
+        {
+          "id": "en-8-min-content",
+          "source": 109.453125,
+          "candidate": 109.4609375,
+          "delta": 0.0078125
+        },
+        {
+          "id": "en-16-min-content",
+          "source": 97.15625,
+          "candidate": 97.1640625,
+          "delta": 0.0078125
+        }
+      ]
+    },
+    "minFloor": {
+      "differences": [
+        {
+          "id": "ko-0-min-content",
+          "source": 46.3828125,
+          "candidate": 46.375,
+          "delta": -0.0078125
+        },
+        {
+          "id": "ko-1-min-content",
+          "source": 46.3828125,
+          "candidate": 53.4609375,
+          "delta": 7.078125
+        },
+        {
+          "id": "ko-2-min-content",
+          "source": 46.3828125,
+          "candidate": 46.375,
+          "delta": -0.0078125
+        },
+        {
+          "id": "ko-3-min-content",
+          "source": 46.3828125,
+          "candidate": 46.375,
+          "delta": -0.0078125
+        },
+        {
+          "id": "ko-4-min-content",
+          "source": 47.25,
+          "candidate": 47.2421875,
+          "delta": -0.0078125
+        },
+        {
+          "id": "ko-7-min-content",
+          "source": 46.3828125,
+          "candidate": 46.375,
+          "delta": -0.0078125
+        },
+        {
+          "id": "ko-11-min-content",
+          "source": 46.3828125,
+          "candidate": 46.375,
+          "delta": -0.0078125
+        },
+        {
+          "id": "ko-12-min-content",
+          "source": 47.25,
+          "candidate": 47.2421875,
+          "delta": -0.0078125
+        },
+        {
+          "id": "ko-15-min-content",
+          "source": 90.765625,
+          "candidate": 90.75,
+          "delta": -0.015625
+        },
+        {
+          "id": "ko-19-min-content",
+          "source": 46.3828125,
+          "candidate": 46.375,
+          "delta": -0.0078125
+        },
+        {
+          "id": "en-0-min-content",
+          "source": 90.4765625,
+          "candidate": 90.46875,
+          "delta": -0.0078125
+        },
+        {
+          "id": "en-1-min-content",
+          "source": 77.5,
+          "candidate": 84.578125,
+          "delta": 7.078125
+        },
+        {
+          "id": "en-3-min-content",
+          "source": 76.9375,
+          "candidate": 76.9296875,
+          "delta": -0.0078125
+        },
+        {
+          "id": "en-12-min-content",
+          "source": 114.8671875,
+          "candidate": 114.859375,
+          "delta": -0.0078125
+        },
+        {
+          "id": "en-15-min-content",
+          "source": 213.21875,
+          "candidate": 213.203125,
+          "delta": -0.015625
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "phase": "HEADLESS_PASSED",
+  "scope": "New connected Trial parent only; source synthetic flow oracle does not replace actual OS input",
+  "cases": 8,
+  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/home-pageintegrationtrial-mac-validation-source.json",
+  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/pageintegration/df2b5cefa35d420e81c71a214437e50c/outputs/32b5b886ee1c4c499559401c12818361/candidate",
+  "differences": [],
+  "unverifiedDestinations": []
+}

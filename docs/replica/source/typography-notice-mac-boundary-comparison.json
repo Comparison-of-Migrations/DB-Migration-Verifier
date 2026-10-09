@@ -1,0 +1,8 @@
+{
+  "platform": "mac",
+  "sourceStates": 48,
+  "applicableNumericBoundaryStates": 40,
+  "errors": [],
+  "exploratoryOutsideOriginalContent": [],
+  "outsideScopeReason": "U+2010/U+2011 do not occur in original.js; Windows fallback glyph mismatch preserved, not treated as successful replication."
+}

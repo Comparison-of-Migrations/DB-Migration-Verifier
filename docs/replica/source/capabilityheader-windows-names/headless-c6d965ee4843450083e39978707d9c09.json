@@ -1,0 +1,58 @@
+{
+  "owner": "preflight",
+  "component": "capabilityheader",
+  "stage": "artifacts/replica/workers/preflight/capabilityheader/2317d49e0205464da7fb489e1b69b77a/windows-stage.json",
+  "guestOutput": "names-headless-c6d965ee4843450083e39978707d9c09",
+  "headless": true,
+  "scale": 2,
+  "result": {
+    "dpr": 2,
+    "states": [
+      {
+        "id": "ko-904",
+        "names": [
+          "검사 분류",
+          "원본 / 대상",
+          "검사 가능 범위",
+          "안내"
+        ],
+        "children": [
+          [],
+          [],
+          [],
+          []
+        ]
+      },
+      {
+        "id": "en-904",
+        "names": [
+          "Category",
+          "Source / target",
+          "Capability",
+          "Details"
+        ],
+        "children": [
+          [],
+          [],
+          [],
+          []
+        ]
+      },
+      {
+        "id": "remount",
+        "names": [
+          "Category",
+          "Source / target",
+          "Capability",
+          "Details"
+        ],
+        "children": [
+          [],
+          [],
+          [],
+          []
+        ]
+      }
+    ]
+  }
+}

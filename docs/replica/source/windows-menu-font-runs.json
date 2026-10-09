@@ -1,0 +1,1736 @@
+[
+  {
+    "id": "kr-0",
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 22.4,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 14,
+    "lineHeight": 22.4,
+    "weight": 650,
+    "spacing": -0.35,
+    "lines": [
+      {
+        "Length": 22,
+        "Width": 136.99765625000006,
+        "WidthIncludingTrailingWhitespace": 136.99765625000006,
+        "Height": 22.4,
+        "Baseline": 17.1267578125,
+        "runs": [
+          {
+            "text": "DB-Migration-Verifier",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 650,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kr-1",
+    "x": 510,
+    "y": 10,
+    "width": 480,
+    "height": 97.2,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 36,
+    "lineHeight": 48.6,
+    "weight": 700,
+    "spacing": -1.26,
+    "lines": [
+      {
+        "Length": 15,
+        "Width": 474.4125000000001,
+        "WidthIncludingTrailingWhitespace": 474.4125000000001,
+        "Height": 48.6,
+        "Baseline": 39.540234375,
+        "runs": [
+          {
+            "text": "\uB9C8\uC774\uADF8\uB808\uC774\uC158 \uACB0\uACFC\uB97C \uBE44\uAD50\uD558\uC138",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 700,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      },
+      {
+        "Length": 2,
+        "Width": 34.74000000000001,
+        "WidthIncludingTrailingWhitespace": 34.74000000000001,
+        "Height": 48.6,
+        "Baseline": 39.540234375,
+        "runs": [
+          {
+            "text": "\uC694",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 700,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kr-2",
+    "x": 10,
+    "y": 140,
+    "width": 480,
+    "height": 25.2,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 14,
+    "lineHeight": 25.2,
+    "weight": 400,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 33,
+        "Width": 352.7890625,
+        "WidthIncludingTrailingWhitespace": 352.7890625,
+        "Height": 25.2,
+        "Baseline": 18.5267578125,
+        "runs": [
+          {
+            "text": "\uC62E\uAE34 \uB4A4\uC758 \uB450 ",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          },
+          {
+            "text": "DB",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          },
+          {
+            "text": "\uB97C \uBE44\uAD50\uD558\uACE0, \uD655\uC778\uD55C \uBC94\uC704\uAE4C\uC9C0 \uBD84\uBA85\uD558\uAC8C.",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kr-3",
+    "x": 510,
+    "y": 140,
+    "width": 480,
+    "height": 85.5,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 15,
+    "lineHeight": 28.5,
+    "weight": 400,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 38,
+        "Width": 471.97265625,
+        "WidthIncludingTrailingWhitespace": 471.97265625,
+        "Height": 28.5,
+        "Baseline": 20.60009765625,
+        "runs": [
+          {
+            "text": "\uB9C8\uC774\uADF8\uB808\uC774\uC158\uC744 \uB9C8\uCE5C \uAC1C\uBC1C\uC790\uAC00 \uB17C\uBB38\uC758 \uB2E4\uCD95 \uAC80\uC99D \uBC29\uBC95\uC73C\uB85C \uB450 ",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          },
+          {
+            "text": "DB",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          },
+          {
+            "text": "\uC758 \uB370",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          }
+        ]
+      },
+      {
+        "Length": 39,
+        "Width": 464.765625,
+        "WidthIncludingTrailingWhitespace": 470.0390625,
+        "Height": 28.5,
+        "Baseline": 20.60009765625,
+        "runs": [
+          {
+            "text": "\uC774\uD130\u00B7\uAD6C\uC870\u00B7\uAD8C\uD55C\u00B7\uAC1D\uCCB4\uB97C \uBE44\uAD50\uD558\uACE0, \uCC28\uC774\uC640 \uD655\uC778\uD558\uC9C0 \uBABB\uD55C \uC601\uC5ED\uC744 \uCC3E\uB3C4\uB85D ",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          }
+        ]
+      },
+      {
+        "Length": 6,
+        "Width": 63.28125,
+        "WidthIncludingTrailingWhitespace": 63.28125,
+        "Height": 28.5,
+        "Baseline": 20.60009765625,
+        "runs": [
+          {
+            "text": "\uB3D5\uC2B5\uB2C8\uB2E4.",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kr-4",
+    "x": 10,
+    "y": 270,
+    "width": 480,
+    "height": 19.2,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 12,
+    "lineHeight": 19.2,
+    "weight": 400,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 47,
+        "Width": 422.15625,
+        "WidthIncludingTrailingWhitespace": 422.15625,
+        "Height": 19.2,
+        "Baseline": 14.680078125,
+        "runs": [
+          {
+            "text": "\uC800\uC7A5\uD55C \uACB0\uACFC ",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          },
+          {
+            "text": "JSON",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          },
+          {
+            "text": "\uC740 ",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          },
+          {
+            "text": "DB ",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          },
+          {
+            "text": "\uC5F0\uACB0\uC774\uB098 \uC0C8 \uAC80\uC0AC \uC5C6\uC774 \uBC14\uB85C \uC5F4\uC5B4 \uD655\uC778\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4.",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kr-5",
+    "x": 510,
+    "y": 270,
+    "width": 480,
+    "height": 22.4,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 14,
+    "lineHeight": 22.4,
+    "weight": 700,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 12,
+        "Width": 127.203125,
+        "WidthIncludingTrailingWhitespace": 127.203125,
+        "Height": 22.4,
+        "Baseline": 17.1267578125,
+        "runs": [
+          {
+            "text": "\uB450 ",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 700,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          },
+          {
+            "text": "DB",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 700,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          },
+          {
+            "text": "\uB97C \uC5F0\uACB0\uD569\uB2C8\uB2E4",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 700,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kr-6",
+    "x": 10,
+    "y": 400,
+    "width": 480,
+    "height": 24.05,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 13,
+    "lineHeight": 24.05,
+    "weight": 400,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 34,
+        "Width": 351.40625,
+        "WidthIncludingTrailingWhitespace": 351.40625,
+        "Height": 24.05,
+        "Baseline": 17.52841796875,
+        "runs": [
+          {
+            "text": "\uC811\uC18D \uD6C4 \uC571\uC774 \uC870\uD68C \uAC00\uB2A5\uD55C \uBC94\uC704\uC640 \uD544\uC694\uD55C \uC900\uBE44\uB97C \uC548\uB0B4\uD569\uB2C8\uB2E4.",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kr-7",
+    "x": 510,
+    "y": 400,
+    "width": 480,
+    "height": 44.2,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 13,
+    "lineHeight": 22.1,
+    "weight": 600,
+    "spacing": -0.195,
+    "lines": [
+      {
+        "Length": 70,
+        "Width": 425.14265625000036,
+        "WidthIncludingTrailingWhitespace": 429.51796875000036,
+        "Height": 22.1,
+        "Baseline": 16.55341796875,
+        "runs": [
+          {
+            "text": "Functional Success versus Database-State, Behavioral, and Operational ",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 600,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      },
+      {
+        "Length": 55,
+        "Width": 350.8611132812481,
+        "WidthIncludingTrailingWhitespace": 350.8611132812481,
+        "Height": 22.1,
+        "Baseline": 16.55341796875,
+        "runs": [
+          {
+            "text": "Contracts in AI-Generated PostgreSQL Schema Migrations",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 600,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-0",
+    "x": 10,
+    "y": 530,
+    "width": 480,
+    "height": 22.4,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 14,
+    "lineHeight": 22.4,
+    "weight": 650,
+    "spacing": -0.35,
+    "lines": [
+      {
+        "Length": 22,
+        "Width": 136.99765625000006,
+        "WidthIncludingTrailingWhitespace": 136.99765625000006,
+        "Height": 22.4,
+        "Baseline": 17.1267578125,
+        "runs": [
+          {
+            "text": "DB-Migration-Verifier",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 650,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-1",
+    "x": 510,
+    "y": 530,
+    "width": 480,
+    "height": 48.6,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 36,
+    "lineHeight": 48.6,
+    "weight": 700,
+    "spacing": -1.26,
+    "lines": [
+      {
+        "Length": 30,
+        "Width": 457.68656250000015,
+        "WidthIncludingTrailingWhitespace": 457.68656250000015,
+        "Height": 48.6,
+        "Baseline": 39.540234375,
+        "runs": [
+          {
+            "text": "Verify your migration results",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 700,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-2",
+    "x": 10,
+    "y": 660,
+    "width": 480,
+    "height": 25.2,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 14,
+    "lineHeight": 25.2,
+    "weight": 400,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 66,
+        "Width": 434.2119140625,
+        "WidthIncludingTrailingWhitespace": 434.2119140625,
+        "Height": 25.2,
+        "Baseline": 18.5267578125,
+        "runs": [
+          {
+            "text": "Compare the two databases and see exactly what has been verified.",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-3",
+    "x": 510,
+    "y": 660,
+    "width": 480,
+    "height": 85.5,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 15,
+    "lineHeight": 28.5,
+    "weight": 400,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 67,
+        "Width": 472.37548828125,
+        "WidthIncludingTrailingWhitespace": 477.64892578125,
+        "Height": 28.5,
+        "Baseline": 20.60009765625,
+        "runs": [
+          {
+            "text": "Helps developers after migration compare data, schema, permissions ",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          }
+        ]
+      },
+      {
+        "Length": 64,
+        "Width": 431.7919921875,
+        "WidthIncludingTrailingWhitespace": 437.0654296875,
+        "Height": 28.5,
+        "Baseline": 20.60009765625,
+        "runs": [
+          {
+            "text": "and objects using the paper\u2019s multi-axis approach, and identify ",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          }
+        ]
+      },
+      {
+        "Length": 34,
+        "Width": 220.53955078125,
+        "WidthIncludingTrailingWhitespace": 220.53955078125,
+        "Height": 28.5,
+        "Baseline": 20.60009765625,
+        "runs": [
+          {
+            "text": "differences and unverified areas.",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-4",
+    "x": 10,
+    "y": 790,
+    "width": 480,
+    "height": 19.2,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 12,
+    "lineHeight": 19.2,
+    "weight": 400,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 76,
+        "Width": 435.275390625,
+        "WidthIncludingTrailingWhitespace": 435.275390625,
+        "Height": 19.2,
+        "Baseline": 14.680078125,
+        "runs": [
+          {
+            "text": "Open a saved result JSON without connecting to a DB or running a new check.",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-5",
+    "x": 510,
+    "y": 790,
+    "width": 480,
+    "height": 22.4,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 14,
+    "lineHeight": 22.4,
+    "weight": 700,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 22,
+        "Width": 155.7021484375,
+        "WidthIncludingTrailingWhitespace": 155.7021484375,
+        "Height": 22.4,
+        "Baseline": 17.1267578125,
+        "runs": [
+          {
+            "text": "Connect two databases",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 700,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-6",
+    "x": 10,
+    "y": 920,
+    "width": 480,
+    "height": 24.05,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 13,
+    "lineHeight": 24.05,
+    "weight": 400,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 67,
+        "Width": 385.18212890625,
+        "WidthIncludingTrailingWhitespace": 385.18212890625,
+        "Height": 24.05,
+        "Baseline": 17.52841796875,
+        "runs": [
+          {
+            "text": "The app checks visibility and explains any additional preparation.",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-7",
+    "x": 510,
+    "y": 920,
+    "width": 480,
+    "height": 44.2,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 13,
+    "lineHeight": 22.1,
+    "weight": 600,
+    "spacing": -0.195,
+    "lines": [
+      {
+        "Length": 70,
+        "Width": 425.14265625000036,
+        "WidthIncludingTrailingWhitespace": 429.51796875000036,
+        "Height": 22.1,
+        "Baseline": 16.55341796875,
+        "runs": [
+          {
+            "text": "Functional Success versus Database-State, Behavioral, and Operational ",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 600,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      },
+      {
+        "Length": 55,
+        "Width": 350.8611132812481,
+        "WidthIncludingTrailingWhitespace": 350.8611132812481,
+        "Height": 22.1,
+        "Baseline": 16.55341796875,
+        "runs": [
+          {
+            "text": "Contracts in AI-Generated PostgreSQL Schema Migrations",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 600,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-00",
+    "x": 10,
+    "y": 1050,
+    "width": 480,
+    "height": 17.6,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 11,
+    "lineHeight": 17.6,
+    "weight": 400,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 7,
+        "Width": 58.8671875,
+        "WidthIncludingTrailingWhitespace": 58.8671875,
+        "Height": 17.6,
+        "Baseline": 13.45673828125,
+        "runs": [
+          {
+            "text": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-01",
+    "x": 510,
+    "y": 1050,
+    "width": 480,
+    "height": 55,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 44,
+    "lineHeight": 55,
+    "weight": 650,
+    "spacing": -1.76,
+    "lines": [
+      {
+        "Length": 2,
+        "Width": 23.741953125,
+        "WidthIncludingTrailingWhitespace": 23.741953125,
+        "Height": 55,
+        "Baseline": 47.888671875,
+        "runs": [
+          {
+            "text": "3",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 650,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-02",
+    "x": 10,
+    "y": 1180,
+    "width": 480,
+    "height": 17.6,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 11,
+    "lineHeight": 17.6,
+    "weight": 400,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 13,
+        "Width": 109.140625,
+        "WidthIncludingTrailingWhitespace": 109.140625,
+        "Height": 17.6,
+        "Baseline": 13.45673828125,
+        "runs": [
+          {
+            "text": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-03",
+    "x": 510,
+    "y": 1180,
+    "width": 480,
+    "height": 55,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 44,
+    "lineHeight": 55,
+    "weight": 650,
+    "spacing": -1.76,
+    "lines": [
+      {
+        "Length": 2,
+        "Width": 23.741953125,
+        "WidthIncludingTrailingWhitespace": 23.741953125,
+        "Height": 55,
+        "Baseline": 47.888671875,
+        "runs": [
+          {
+            "text": "2",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 650,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-04",
+    "x": 10,
+    "y": 1310,
+    "width": 480,
+    "height": 17.6,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 11,
+    "lineHeight": 17.6,
+    "weight": 400,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 6,
+        "Width": 47.8671875,
+        "WidthIncludingTrailingWhitespace": 47.8671875,
+        "Height": 17.6,
+        "Baseline": 13.45673828125,
+        "runs": [
+          {
+            "text": "\uC77C\uCE58 \uD56D\uBAA9",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-05",
+    "x": 510,
+    "y": 1310,
+    "width": 480,
+    "height": 55,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 44,
+    "lineHeight": 55,
+    "weight": 650,
+    "spacing": -1.76,
+    "lines": [
+      {
+        "Length": 3,
+        "Width": 47.48390625,
+        "WidthIncludingTrailingWhitespace": 47.48390625,
+        "Height": 55,
+        "Baseline": 47.888671875,
+        "runs": [
+          {
+            "text": "45",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 650,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-06",
+    "x": 10,
+    "y": 1440,
+    "width": 480,
+    "height": 17.6,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 11,
+    "lineHeight": 17.6,
+    "weight": 400,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 9,
+        "Width": 62.5947265625,
+        "WidthIncludingTrailingWhitespace": 62.5947265625,
+        "Height": 17.6,
+        "Baseline": 13.45673828125,
+        "runs": [
+          {
+            "text": "\uC608\uC2DC \uAC80\uC0AC ",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          },
+          {
+            "text": "ID",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-07",
+    "x": 510,
+    "y": 1440,
+    "width": 480,
+    "height": 17.6,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 11,
+    "lineHeight": 17.6,
+    "weight": 400,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 12,
+        "Width": 73.5732421875,
+        "WidthIncludingTrailingWhitespace": 73.5732421875,
+        "Height": 17.6,
+        "Baseline": 13.45673828125,
+        "runs": [
+          {
+            "text": "UI-MUVX3SBO",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-08",
+    "x": 10,
+    "y": 1570,
+    "width": 480,
+    "height": 20.8,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 13,
+    "lineHeight": 20.8,
+    "weight": 700,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 4,
+        "Width": 39,
+        "WidthIncludingTrailingWhitespace": 39,
+        "Height": 20.8,
+        "Baseline": 15.90341796875,
+        "runs": [
+          {
+            "text": "\uB370\uC774\uD130",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 700,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-09",
+    "x": 510,
+    "y": 1570,
+    "width": 480,
+    "height": 17,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 10,
+    "lineHeight": 17,
+    "weight": 400,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 14,
+        "Width": 87.265625,
+        "WidthIncludingTrailingWhitespace": 87.265625,
+        "Height": 17,
+        "Baseline": 12.7333984375,
+        "runs": [
+          {
+            "text": "\uC2E4\uD589 \uC644\uB8CC \u00B7 \uC804\uCCB4 12",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-10",
+    "x": 10,
+    "y": 1700,
+    "width": 480,
+    "height": 31.2,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 26,
+    "lineHeight": 31.2,
+    "weight": 600,
+    "spacing": -0.65,
+    "lines": [
+      {
+        "Length": 2,
+        "Width": 14.4193359375,
+        "WidthIncludingTrailingWhitespace": 14.4193359375,
+        "Height": 31.2,
+        "Baseline": 28.2978515625,
+        "runs": [
+          {
+            "text": "1",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 600,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-11",
+    "x": 510,
+    "y": 1700,
+    "width": 480,
+    "height": 31.2,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 26,
+    "lineHeight": 31.2,
+    "weight": 600,
+    "spacing": -0.65,
+    "lines": [
+      {
+        "Length": 2,
+        "Width": 14.4193359375,
+        "WidthIncludingTrailingWhitespace": 14.4193359375,
+        "Height": 31.2,
+        "Baseline": 28.2978515625,
+        "runs": [
+          {
+            "text": "0",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 600,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-12",
+    "x": 10,
+    "y": 1830,
+    "width": 480,
+    "height": 31.2,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 26,
+    "lineHeight": 31.2,
+    "weight": 600,
+    "spacing": -0.65,
+    "lines": [
+      {
+        "Length": 3,
+        "Width": 28.838671875,
+        "WidthIncludingTrailingWhitespace": 28.838671875,
+        "Height": 31.2,
+        "Baseline": 28.2978515625,
+        "runs": [
+          {
+            "text": "11",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 600,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-13",
+    "x": 510,
+    "y": 1830,
+    "width": 480,
+    "height": 20.8,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 13,
+    "lineHeight": 20.8,
+    "weight": 700,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 6,
+        "Width": 55.40234375,
+        "WidthIncludingTrailingWhitespace": 55.40234375,
+        "Height": 20.8,
+        "Baseline": 15.90341796875,
+        "runs": [
+          {
+            "text": "\uAD6C\uC870\u00B7\uC81C\uC57D",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 700,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-14",
+    "x": 10,
+    "y": 1960,
+    "width": 480,
+    "height": 17,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 10,
+    "lineHeight": 17,
+    "weight": 400,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 14,
+        "Width": 87.265625,
+        "WidthIncludingTrailingWhitespace": 87.265625,
+        "Height": 17,
+        "Baseline": 12.7333984375,
+        "runs": [
+          {
+            "text": "\uC2E4\uD589 \uC644\uB8CC \u00B7 \uC804\uCCB4 18",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-15",
+    "x": 510,
+    "y": 1960,
+    "width": 480,
+    "height": 31.2,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 26,
+    "lineHeight": 31.2,
+    "weight": 600,
+    "spacing": -0.65,
+    "lines": [
+      {
+        "Length": 3,
+        "Width": 28.838671875,
+        "WidthIncludingTrailingWhitespace": 28.838671875,
+        "Height": 31.2,
+        "Baseline": 28.2978515625,
+        "runs": [
+          {
+            "text": "17",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 600,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-16",
+    "x": 10,
+    "y": 2090,
+    "width": 480,
+    "height": 20.8,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 13,
+    "lineHeight": 20.8,
+    "weight": 700,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 7,
+        "Width": 68.40234375,
+        "WidthIncludingTrailingWhitespace": 68.40234375,
+        "Height": 20.8,
+        "Baseline": 15.90341796875,
+        "runs": [
+          {
+            "text": "\uC0AC\uC6A9\uC790\u00B7\uAD8C\uD55C",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 700,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-17",
+    "x": 510,
+    "y": 2090,
+    "width": 480,
+    "height": 17,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 10,
+    "lineHeight": 17,
+    "weight": 400,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 13,
+        "Width": 81.7578125,
+        "WidthIncludingTrailingWhitespace": 81.7578125,
+        "Height": 17,
+        "Baseline": 12.7333984375,
+        "runs": [
+          {
+            "text": "\uC2E4\uD589 \uC644\uB8CC \u00B7 \uC804\uCCB4 8",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-18",
+    "x": 10,
+    "y": 2220,
+    "width": 480,
+    "height": 31.2,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 26,
+    "lineHeight": 31.2,
+    "weight": 600,
+    "spacing": -0.65,
+    "lines": [
+      {
+        "Length": 2,
+        "Width": 14.4193359375,
+        "WidthIncludingTrailingWhitespace": 14.4193359375,
+        "Height": 31.2,
+        "Baseline": 28.2978515625,
+        "runs": [
+          {
+            "text": "2",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 600,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-19",
+    "x": 510,
+    "y": 2220,
+    "width": 480,
+    "height": 31.2,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 26,
+    "lineHeight": 31.2,
+    "weight": 600,
+    "spacing": -0.65,
+    "lines": [
+      {
+        "Length": 2,
+        "Width": 14.4193359375,
+        "WidthIncludingTrailingWhitespace": 14.4193359375,
+        "Height": 31.2,
+        "Baseline": 28.2978515625,
+        "runs": [
+          {
+            "text": "5",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 600,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-20",
+    "x": 10,
+    "y": 2350,
+    "width": 480,
+    "height": 20.8,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 13,
+    "lineHeight": 20.8,
+    "weight": 700,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 6,
+        "Width": 56.5703125,
+        "WidthIncludingTrailingWhitespace": 56.5703125,
+        "Height": 20.8,
+        "Baseline": 15.90341796875,
+        "runs": [
+          {
+            "text": "\uAD00\uB828 \uAC1D\uCCB4",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 700,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-21",
+    "x": 510,
+    "y": 2350,
+    "width": 480,
+    "height": 31.2,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 26,
+    "lineHeight": 31.2,
+    "weight": 600,
+    "spacing": -0.65,
+    "lines": [
+      {
+        "Length": 3,
+        "Width": 28.838671875,
+        "WidthIncludingTrailingWhitespace": 28.838671875,
+        "Height": 31.2,
+        "Baseline": 28.2978515625,
+        "runs": [
+          {
+            "text": "12",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 600,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-22",
+    "x": 10,
+    "y": 2480,
+    "width": 480,
+    "height": 22.4,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 14,
+    "lineHeight": 22.4,
+    "weight": 700,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 6,
+        "Width": 60.921875,
+        "WidthIncludingTrailingWhitespace": 60.921875,
+        "Height": 22.4,
+        "Baseline": 17.1267578125,
+        "runs": [
+          {
+            "text": "\uAC12 \uBD88\uC77C\uCE58",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 700,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-23",
+    "x": 510,
+    "y": 2480,
+    "width": 480,
+    "height": 19.2,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 12,
+    "lineHeight": 19.2,
+    "weight": 400,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 6,
+        "Width": 30.732421875,
+        "WidthIncludingTrailingWhitespace": 30.732421875,
+        "Height": 19.2,
+        "Baseline": 14.680078125,
+        "runs": [
+          {
+            "text": "F-001",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-24",
+    "x": 10,
+    "y": 2610,
+    "width": 480,
+    "height": 19.2,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 12,
+    "lineHeight": 19.2,
+    "weight": 400,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 21,
+        "Width": 121.517578125,
+        "WidthIncludingTrailingWhitespace": 121.517578125,
+        "Height": 19.2,
+        "Baseline": 14.680078125,
+        "runs": [
+          {
+            "text": "demo.orders \u00B7 amount",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-25",
+    "x": 510,
+    "y": 2610,
+    "width": 480,
+    "height": 22.4,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 14,
+    "lineHeight": 22.4,
+    "weight": 700,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 15,
+        "Width": 148.5107421875,
+        "WidthIncludingTrailingWhitespace": 148.5107421875,
+        "Height": 22.4,
+        "Baseline": 17.1267578125,
+        "runs": [
+          {
+            "text": "NULL ",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 700,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          },
+          {
+            "text": "\uD5C8\uC6A9 \uC815\uC758 \uBD88\uC77C\uCE58",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 700,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-26",
+    "x": 10,
+    "y": 2740,
+    "width": 480,
+    "height": 19.2,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 12,
+    "lineHeight": 19.2,
+    "weight": 400,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 6,
+        "Width": 30.732421875,
+        "WidthIncludingTrailingWhitespace": 30.732421875,
+        "Height": 19.2,
+        "Baseline": 14.680078125,
+        "runs": [
+          {
+            "text": "F-002",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-27",
+    "x": 510,
+    "y": 2740,
+    "width": 480,
+    "height": 19.2,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 12,
+    "lineHeight": 19.2,
+    "weight": 400,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 24,
+        "Width": 129.755859375,
+        "WidthIncludingTrailingWhitespace": 129.755859375,
+        "Height": 19.2,
+        "Baseline": 14.680078125,
+        "runs": [
+          {
+            "text": "demo.orders \u00B7 reference",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-28",
+    "x": 10,
+    "y": 2870,
+    "width": 480,
+    "height": 22.4,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 14,
+    "lineHeight": 22.4,
+    "weight": 700,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 10,
+        "Width": 107.84375,
+        "WidthIncludingTrailingWhitespace": 107.84375,
+        "Height": 22.4,
+        "Baseline": 17.1267578125,
+        "runs": [
+          {
+            "text": "\uAD8C\uD55C \uC815\uC758 \uBD88\uC77C\uCE58",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 700,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-29",
+    "x": 510,
+    "y": 2870,
+    "width": 480,
+    "height": 19.2,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 12,
+    "lineHeight": 19.2,
+    "weight": 400,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 6,
+        "Width": 30.732421875,
+        "WidthIncludingTrailingWhitespace": 30.732421875,
+        "Height": 19.2,
+        "Baseline": 14.680078125,
+        "runs": [
+          {
+            "text": "F-003",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-30",
+    "x": 10,
+    "y": 3000,
+    "width": 480,
+    "height": 19.2,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 12,
+    "lineHeight": 19.2,
+    "weight": 400,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 6,
+        "Width": 35.68359375,
+        "WidthIncludingTrailingWhitespace": 35.68359375,
+        "Height": 19.2,
+        "Baseline": 14.680078125,
+        "runs": [
+          {
+            "text": "\u2014 \u00B7 \u2014",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-31",
+    "x": 510,
+    "y": 3000,
+    "width": 480,
+    "height": 22.4,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 14,
+    "lineHeight": 22.4,
+    "weight": 700,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 19,
+        "Width": 200.7236328125,
+        "WidthIncludingTrailingWhitespace": 200.7236328125,
+        "Height": 22.4,
+        "Baseline": 17.1267578125,
+        "runs": [
+          {
+            "text": "\uAD8C\uD55C \uC815\uC758 2\uAC1C \uC870\uD68C \uBC94\uC704 \uBBF8\uD655\uC778",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 700,
+            "family": "Malgun Gothic",
+            "weight": 700,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "role-32",
+    "x": 10,
+    "y": 3130,
+    "width": 480,
+    "height": 19.2,
+    "fontFamily": "Malgun Gothic",
+    "fontSize": 12,
+    "lineHeight": 19.2,
+    "weight": 400,
+    "spacing": 0,
+    "lines": [
+      {
+        "Length": 6,
+        "Width": 33.181640625,
+        "WidthIncludingTrailingWhitespace": 33.181640625,
+        "Height": 19.2,
+        "Baseline": 14.680078125,
+        "runs": [
+          {
+            "text": "U-001",
+            "requested": "Malgun Gothic",
+            "requestedWeight": 400,
+            "family": "Malgun Gothic",
+            "weight": 400,
+            "simulations": "None"
+          }
+        ]
+      }
+    ]
+  }
+]

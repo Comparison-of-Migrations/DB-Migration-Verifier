@@ -1,0 +1,97 @@
+{
+  "phase": "ACTUAL_OS_PASSED",
+  "scope": "New disabled2 + neutralSpace/Enter4 + windowrestore2; raw BODY/provider ID mapping explicit",
+  "checks": [
+    {
+      "id": "ko",
+      "pass": true,
+      "sourceRawFocus": {
+        "id": "",
+        "tag": "BODY"
+      },
+      "candidateRawFocus": null,
+      "sourceOffset": 0,
+      "candidateOffset": 0
+    },
+    {
+      "id": "ko-neutral-space",
+      "pass": true,
+      "sourceRawFocus": {
+        "id": "",
+        "tag": "BODY"
+      },
+      "candidateRawFocus": null,
+      "sourceOffset": 0,
+      "candidateOffset": 0
+    },
+    {
+      "id": "ko-neutral-enter",
+      "pass": true,
+      "sourceRawFocus": {
+        "id": "",
+        "tag": "BODY"
+      },
+      "candidateRawFocus": null,
+      "sourceOffset": 0,
+      "candidateOffset": 0
+    },
+    {
+      "id": "ko-activate",
+      "pass": true,
+      "sourceRawFocus": {
+        "id": "",
+        "tag": "BODY"
+      },
+      "candidateRawFocus": null,
+      "sourceOffset": 0,
+      "candidateOffset": 0
+    },
+    {
+      "id": "en",
+      "pass": true,
+      "sourceRawFocus": {
+        "id": "",
+        "tag": "BODY"
+      },
+      "candidateRawFocus": null,
+      "sourceOffset": 0,
+      "candidateOffset": 0
+    },
+    {
+      "id": "en-neutral-space",
+      "pass": true,
+      "sourceRawFocus": {
+        "id": "",
+        "tag": "BODY"
+      },
+      "candidateRawFocus": null,
+      "sourceOffset": 0,
+      "candidateOffset": 0
+    },
+    {
+      "id": "en-neutral-enter",
+      "pass": true,
+      "sourceRawFocus": {
+        "id": "",
+        "tag": "BODY"
+      },
+      "candidateRawFocus": null,
+      "sourceOffset": 0,
+      "candidateOffset": 0
+    },
+    {
+      "id": "en-activate",
+      "pass": true,
+      "sourceRawFocus": {
+        "id": "",
+        "tag": "BODY"
+      },
+      "candidateRawFocus": null,
+      "sourceOffset": 0,
+      "candidateOffset": 0
+    }
+  ],
+  "differences": [],
+  "candidate": "b5a246f017944a5bbae67bf70e72a512",
+  "workspaceSha256": "ca27cc012efa26ea7ed0d63ed3b6c50ee26f476519a7f5abb5d16dcfdf01f82f"
+}

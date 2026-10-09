@@ -1,0 +1,7 @@
+{
+  "component": "CategoryHeader",
+  "contract": "DPR2 KO/EN192 layouts/updates plus96 CSS timeline samples each OS, independent checkbox/header actual pointer+keyboard, held/released, normal/reduced playback, native expansion accessibility. Parent owns category border/body/announcer.",
+  "files": {
+    "src/Verifier.Desktop/WebCategoryHeader.cs": "212ed93f2020e7f07d4faf1b5d3be7dc2202a7ae3d5179d669bca856cbdce669"
+  }
+}

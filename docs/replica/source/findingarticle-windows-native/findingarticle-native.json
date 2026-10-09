@@ -1,0 +1,2063 @@
+{
+  "dpr": 2,
+  "rows": [
+    {
+      "id": "ko-326-data",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 326,
+        "height": 126.1953125
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 292,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 60.921875,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 276.0078125,
+        "y": 18.59375,
+        "width": 32.9921875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 292,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 292,
+        "height": 41.59375
+      },
+      "titleText": "\uAC12 \uBD88\uC77C\uCE58",
+      "identifierText": "F-001",
+      "locationText": "demo.orders \u00B7 amount",
+      "reasonText": "\uB300\uC751 \uD589\uC758 \uAD00\uCE21 \uAC12\uC774 \uB2E4\uB985\uB2C8\uB2E4. \uC2E4\uC81C \uAC12\uACFC \uD589 \uD0A4\uB294 \uD45C\uC2DC\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "ko-326-schema",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 326,
+        "height": 126.1953125
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 292,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 148.515625,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 276.0078125,
+        "y": 18.59375,
+        "width": 32.9921875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 292,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 292,
+        "height": 41.59375
+      },
+      "titleText": "NULL \uD5C8\uC6A9 \uC815\uC758 \uBD88\uC77C\uCE58",
+      "identifierText": "F-002",
+      "locationText": "demo.orders \u00B7 reference",
+      "reasonText": "\uCEEC\uB7FC\uC758 NULL \uD5C8\uC6A9 \uC18D\uC131\uC774 \uB2E4\uB985\uB2C8\uB2E4. \uAC12 \uC77C\uCE58\uC640 \uBCC4\uB3C4 \uAC80\uC0AC\uC785\uB2C8\uB2E4.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "ko-326-objects",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 326,
+        "height": 126.1953125
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 292,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 107.84375,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 276.0078125,
+        "y": 18.59375,
+        "width": 32.9921875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 292,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 292,
+        "height": 41.59375
+      },
+      "titleText": "\uAD8C\uD55C \uC815\uC758 \uBD88\uC77C\uCE58",
+      "identifierText": "F-003",
+      "locationText": "\u2014 \u00B7 \u2014",
+      "reasonText": "\uB0B4\uBD80 \uAC1D\uCCB4 PR-003\uC758 \uAD8C\uD55C \uC815\uC758\uAC00 \uB2E4\uB985\uB2C8\uB2E4. \uC2E4\uC81C \uACC4\uC815\uBA85\uC740 \uD45C\uC2DC\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "ko-326-map",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 326,
+        "height": 126.1953125
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 292,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 121.84375,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 262.8125,
+        "y": 18.59375,
+        "width": 46.1875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 292,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 292,
+        "height": 41.59375
+      },
+      "titleText": "\uD14C\uC774\uBE14 \uC774\uB984 \uBD88\uC77C\uCE58",
+      "identifierText": "F-MAP-1",
+      "locationText": "demo.orders \u00B7 \u2014",
+      "reasonText": "\uC218\uB3D9 \uB300\uC751\uD55C \uB300\uC0C1\uC758 \uC774\uB984\uC774 \uB2E4\uB985\uB2C8\uB2E4. \uAC12 \uBE44\uAD50\uC640 \uBCC4\uB3C4\uB85C \uC774\uB984 \uCC28\uC774\uB97C \uC720\uC9C0\uD569\uB2C8\uB2E4.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "ko-326-unknown",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 326,
+        "height": 126.1953125
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 292,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 200.7265625,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 276.0078125,
+        "y": 18.59375,
+        "width": 32.9921875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 292,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 292,
+        "height": 41.59375
+      },
+      "titleText": "\uAD8C\uD55C \uC815\uC758 2\uAC1C \uC870\uD68C \uBC94\uC704 \uBBF8\uD655\uC778",
+      "identifierText": "U-001",
+      "locationText": "\u2014 \u00B7 \u2014",
+      "reasonText": "\uBAA9\uB85D \uAC00\uC2DC\uC131\uC744 \uC785\uC99D\uD558\uC9C0 \uBABB\uD574 \uC874\uC7AC/\uB204\uB77D\uC744 \uD310\uC815\uD558\uC9C0 \uC54A\uC558\uC2B5\uB2C8\uB2E4.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "ko-326-interrupted",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 326,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 292,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 60.921875,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 269.4140625,
+        "y": 18.59375,
+        "width": 39.5859375,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 292,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 292,
+        "height": 20.796875
+      },
+      "titleText": "\uAC80\uC0AC \uC911\uB2E8",
+      "identifierText": "U-data",
+      "locationText": "\u2014 \u00B7 \u2014",
+      "reasonText": "7 \uD56D\uBAA9\uC744 \uB05D\uAE4C\uC9C0 \uD655\uC778\uD558\uC9C0 \uBABB\uD588\uC2B5\uB2C8\uB2E4.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "ko-326-pending",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 326,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 292,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 74.921875,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 269.4140625,
+        "y": 18.59375,
+        "width": 39.5859375,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 292,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 292,
+        "height": 20.796875
+      },
+      "titleText": "\uBBF8\uC2DC\uC791 \uAC80\uC0AC",
+      "identifierText": "U-data",
+      "locationText": "\u2014 \u00B7 \u2014",
+      "reasonText": "12 \uD56D\uBAA9\uC744 \uB05D\uAE4C\uC9C0 \uD655\uC778\uD558\uC9C0 \uBABB\uD588\uC2B5\uB2C8\uB2E4.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "ko-656-data",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 622,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 60.921875,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 606.0078125,
+        "y": 18.59375,
+        "width": 32.9921875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 622,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 622,
+        "height": 20.796875
+      },
+      "titleText": "\uAC12 \uBD88\uC77C\uCE58",
+      "identifierText": "F-001",
+      "locationText": "demo.orders \u00B7 amount",
+      "reasonText": "\uB300\uC751 \uD589\uC758 \uAD00\uCE21 \uAC12\uC774 \uB2E4\uB985\uB2C8\uB2E4. \uC2E4\uC81C \uAC12\uACFC \uD589 \uD0A4\uB294 \uD45C\uC2DC\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "ko-656-schema",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 622,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 148.515625,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 606.0078125,
+        "y": 18.59375,
+        "width": 32.9921875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 622,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 622,
+        "height": 20.796875
+      },
+      "titleText": "NULL \uD5C8\uC6A9 \uC815\uC758 \uBD88\uC77C\uCE58",
+      "identifierText": "F-002",
+      "locationText": "demo.orders \u00B7 reference",
+      "reasonText": "\uCEEC\uB7FC\uC758 NULL \uD5C8\uC6A9 \uC18D\uC131\uC774 \uB2E4\uB985\uB2C8\uB2E4. \uAC12 \uC77C\uCE58\uC640 \uBCC4\uB3C4 \uAC80\uC0AC\uC785\uB2C8\uB2E4.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "ko-656-objects",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 622,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 107.84375,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 606.0078125,
+        "y": 18.59375,
+        "width": 32.9921875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 622,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 622,
+        "height": 20.796875
+      },
+      "titleText": "\uAD8C\uD55C \uC815\uC758 \uBD88\uC77C\uCE58",
+      "identifierText": "F-003",
+      "locationText": "\u2014 \u00B7 \u2014",
+      "reasonText": "\uB0B4\uBD80 \uAC1D\uCCB4 PR-003\uC758 \uAD8C\uD55C \uC815\uC758\uAC00 \uB2E4\uB985\uB2C8\uB2E4. \uC2E4\uC81C \uACC4\uC815\uBA85\uC740 \uD45C\uC2DC\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "ko-656-map",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 622,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 121.84375,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 592.8125,
+        "y": 18.59375,
+        "width": 46.1875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 622,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 622,
+        "height": 20.796875
+      },
+      "titleText": "\uD14C\uC774\uBE14 \uC774\uB984 \uBD88\uC77C\uCE58",
+      "identifierText": "F-MAP-1",
+      "locationText": "demo.orders \u00B7 \u2014",
+      "reasonText": "\uC218\uB3D9 \uB300\uC751\uD55C \uB300\uC0C1\uC758 \uC774\uB984\uC774 \uB2E4\uB985\uB2C8\uB2E4. \uAC12 \uBE44\uAD50\uC640 \uBCC4\uB3C4\uB85C \uC774\uB984 \uCC28\uC774\uB97C \uC720\uC9C0\uD569\uB2C8\uB2E4.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "ko-656-unknown",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 622,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 200.7265625,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 606.0078125,
+        "y": 18.59375,
+        "width": 32.9921875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 622,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 622,
+        "height": 20.796875
+      },
+      "titleText": "\uAD8C\uD55C \uC815\uC758 2\uAC1C \uC870\uD68C \uBC94\uC704 \uBBF8\uD655\uC778",
+      "identifierText": "U-001",
+      "locationText": "\u2014 \u00B7 \u2014",
+      "reasonText": "\uBAA9\uB85D \uAC00\uC2DC\uC131\uC744 \uC785\uC99D\uD558\uC9C0 \uBABB\uD574 \uC874\uC7AC/\uB204\uB77D\uC744 \uD310\uC815\uD558\uC9C0 \uC54A\uC558\uC2B5\uB2C8\uB2E4.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "ko-656-interrupted",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 622,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 60.921875,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 599.4140625,
+        "y": 18.59375,
+        "width": 39.5859375,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 622,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 622,
+        "height": 20.796875
+      },
+      "titleText": "\uAC80\uC0AC \uC911\uB2E8",
+      "identifierText": "U-data",
+      "locationText": "\u2014 \u00B7 \u2014",
+      "reasonText": "7 \uD56D\uBAA9\uC744 \uB05D\uAE4C\uC9C0 \uD655\uC778\uD558\uC9C0 \uBABB\uD588\uC2B5\uB2C8\uB2E4.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "ko-656-pending",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 622,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 74.921875,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 599.4140625,
+        "y": 18.59375,
+        "width": 39.5859375,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 622,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 622,
+        "height": 20.796875
+      },
+      "titleText": "\uBBF8\uC2DC\uC791 \uAC80\uC0AC",
+      "identifierText": "U-data",
+      "locationText": "\u2014 \u00B7 \u2014",
+      "reasonText": "12 \uD56D\uBAA9\uC744 \uB05D\uAE4C\uC9C0 \uD655\uC778\uD558\uC9C0 \uBABB\uD588\uC2B5\uB2C8\uB2E4.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "ko-904-data",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 870,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 60.921875,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 854.0078125,
+        "y": 18.59375,
+        "width": 32.9921875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 870,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 870,
+        "height": 20.796875
+      },
+      "titleText": "\uAC12 \uBD88\uC77C\uCE58",
+      "identifierText": "F-001",
+      "locationText": "demo.orders \u00B7 amount",
+      "reasonText": "\uB300\uC751 \uD589\uC758 \uAD00\uCE21 \uAC12\uC774 \uB2E4\uB985\uB2C8\uB2E4. \uC2E4\uC81C \uAC12\uACFC \uD589 \uD0A4\uB294 \uD45C\uC2DC\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "ko-904-schema",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 870,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 148.515625,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 854.0078125,
+        "y": 18.59375,
+        "width": 32.9921875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 870,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 870,
+        "height": 20.796875
+      },
+      "titleText": "NULL \uD5C8\uC6A9 \uC815\uC758 \uBD88\uC77C\uCE58",
+      "identifierText": "F-002",
+      "locationText": "demo.orders \u00B7 reference",
+      "reasonText": "\uCEEC\uB7FC\uC758 NULL \uD5C8\uC6A9 \uC18D\uC131\uC774 \uB2E4\uB985\uB2C8\uB2E4. \uAC12 \uC77C\uCE58\uC640 \uBCC4\uB3C4 \uAC80\uC0AC\uC785\uB2C8\uB2E4.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "ko-904-objects",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 870,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 107.84375,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 854.0078125,
+        "y": 18.59375,
+        "width": 32.9921875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 870,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 870,
+        "height": 20.796875
+      },
+      "titleText": "\uAD8C\uD55C \uC815\uC758 \uBD88\uC77C\uCE58",
+      "identifierText": "F-003",
+      "locationText": "\u2014 \u00B7 \u2014",
+      "reasonText": "\uB0B4\uBD80 \uAC1D\uCCB4 PR-003\uC758 \uAD8C\uD55C \uC815\uC758\uAC00 \uB2E4\uB985\uB2C8\uB2E4. \uC2E4\uC81C \uACC4\uC815\uBA85\uC740 \uD45C\uC2DC\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "ko-904-map",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 870,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 121.84375,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 840.8125,
+        "y": 18.59375,
+        "width": 46.1875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 870,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 870,
+        "height": 20.796875
+      },
+      "titleText": "\uD14C\uC774\uBE14 \uC774\uB984 \uBD88\uC77C\uCE58",
+      "identifierText": "F-MAP-1",
+      "locationText": "demo.orders \u00B7 \u2014",
+      "reasonText": "\uC218\uB3D9 \uB300\uC751\uD55C \uB300\uC0C1\uC758 \uC774\uB984\uC774 \uB2E4\uB985\uB2C8\uB2E4. \uAC12 \uBE44\uAD50\uC640 \uBCC4\uB3C4\uB85C \uC774\uB984 \uCC28\uC774\uB97C \uC720\uC9C0\uD569\uB2C8\uB2E4.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "ko-904-unknown",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 870,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 200.7265625,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 854.0078125,
+        "y": 18.59375,
+        "width": 32.9921875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 870,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 870,
+        "height": 20.796875
+      },
+      "titleText": "\uAD8C\uD55C \uC815\uC758 2\uAC1C \uC870\uD68C \uBC94\uC704 \uBBF8\uD655\uC778",
+      "identifierText": "U-001",
+      "locationText": "\u2014 \u00B7 \u2014",
+      "reasonText": "\uBAA9\uB85D \uAC00\uC2DC\uC131\uC744 \uC785\uC99D\uD558\uC9C0 \uBABB\uD574 \uC874\uC7AC/\uB204\uB77D\uC744 \uD310\uC815\uD558\uC9C0 \uC54A\uC558\uC2B5\uB2C8\uB2E4.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "ko-904-interrupted",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 870,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 60.921875,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 847.4140625,
+        "y": 18.59375,
+        "width": 39.5859375,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 870,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 870,
+        "height": 20.796875
+      },
+      "titleText": "\uAC80\uC0AC \uC911\uB2E8",
+      "identifierText": "U-data",
+      "locationText": "\u2014 \u00B7 \u2014",
+      "reasonText": "7 \uD56D\uBAA9\uC744 \uB05D\uAE4C\uC9C0 \uD655\uC778\uD558\uC9C0 \uBABB\uD588\uC2B5\uB2C8\uB2E4.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "ko-904-pending",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 870,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 74.921875,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 847.4140625,
+        "y": 18.59375,
+        "width": 39.5859375,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 870,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 870,
+        "height": 20.796875
+      },
+      "titleText": "\uBBF8\uC2DC\uC791 \uAC80\uC0AC",
+      "identifierText": "U-data",
+      "locationText": "\u2014 \u00B7 \u2014",
+      "reasonText": "12 \uD56D\uBAA9\uC744 \uB05D\uAE4C\uC9C0 \uD655\uC778\uD558\uC9C0 \uBABB\uD588\uC2B5\uB2C8\uB2E4.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "en-326-data",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 326,
+        "height": 126.1953125
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 292,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 105.2421875,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 276.0078125,
+        "y": 18.59375,
+        "width": 32.9921875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 292,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 292,
+        "height": 41.59375
+      },
+      "titleText": "Value mismatch",
+      "identifierText": "F-001",
+      "locationText": "demo.orders \u00B7 amount",
+      "reasonText": "An observed value differs in a matched row. Values and row keys are not displayed.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "en-326-schema",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 326,
+        "height": 126.1953125
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 292,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 174.28125,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 276.0078125,
+        "y": 18.59375,
+        "width": 32.9921875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 292,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 292,
+        "height": 41.59375
+      },
+      "titleText": "NULL definition mismatch",
+      "identifierText": "F-002",
+      "locationText": "demo.orders \u00B7 reference",
+      "reasonText": "The column nullability differs. This is separate from value equality.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "en-326-objects",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 326,
+        "height": 126.1953125
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 292,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 175.65625,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 276.0078125,
+        "y": 18.59375,
+        "width": 32.9921875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 292,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 292,
+        "height": 41.59375
+      },
+      "titleText": "Grant definition mismatch",
+      "identifierText": "F-003",
+      "locationText": "\u2014 \u00B7 \u2014",
+      "reasonText": "Grant definitions differ for internal object PR-003. Actual principal names are not displayed.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "en-326-map",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 326,
+        "height": 146.9921875
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 292,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 145.734375,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 262.8125,
+        "y": 18.59375,
+        "width": 46.1875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 292,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 292,
+        "height": 62.390625
+      },
+      "titleText": "Table name mismatch",
+      "identifierText": "F-MAP-1",
+      "locationText": "demo.orders \u00B7 \u2014",
+      "reasonText": "The manually matched target has a different name. This difference is retained separately from value comparison.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "en-326-unknown",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 326,
+        "height": 148.59375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 292,
+        "height": 44.796875
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 249.875,
+        "height": 44.796875
+      },
+      "identifier": {
+        "x": 278.875,
+        "y": 20.1953125,
+        "width": 30.125,
+        "height": 38.40625
+      },
+      "location": {
+        "x": 17,
+        "y": 68.796875,
+        "width": 292,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 90,
+        "width": 292,
+        "height": 41.59375
+      },
+      "titleText": "Visibility unconfirmed for 2 grant checks",
+      "identifierText": "U-001",
+      "locationText": "\u2014 \u00B7 \u2014",
+      "reasonText": "Catalog completeness was not established; presence or absence was not adjudicated.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "en-326-interrupted",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 326,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 292,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 120.1484375,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 269.4140625,
+        "y": 18.59375,
+        "width": 39.5859375,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 292,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 292,
+        "height": 20.796875
+      },
+      "titleText": "Check interrupted",
+      "identifierText": "U-data",
+      "locationText": "\u2014 \u00B7 \u2014",
+      "reasonText": "7 checks have not been completed.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "en-326-pending",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 326,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 292,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 119.3203125,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 269.4140625,
+        "y": 18.59375,
+        "width": 39.5859375,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 292,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 292,
+        "height": 20.796875
+      },
+      "titleText": "Check not started",
+      "identifierText": "U-data",
+      "locationText": "\u2014 \u00B7 \u2014",
+      "reasonText": "12 checks have not been completed.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "en-656-data",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 622,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 105.2421875,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 606.0078125,
+        "y": 18.59375,
+        "width": 32.9921875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 622,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 622,
+        "height": 20.796875
+      },
+      "titleText": "Value mismatch",
+      "identifierText": "F-001",
+      "locationText": "demo.orders \u00B7 amount",
+      "reasonText": "An observed value differs in a matched row. Values and row keys are not displayed.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "en-656-schema",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 622,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 174.28125,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 606.0078125,
+        "y": 18.59375,
+        "width": 32.9921875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 622,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 622,
+        "height": 20.796875
+      },
+      "titleText": "NULL definition mismatch",
+      "identifierText": "F-002",
+      "locationText": "demo.orders \u00B7 reference",
+      "reasonText": "The column nullability differs. This is separate from value equality.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "en-656-objects",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 622,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 175.65625,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 606.0078125,
+        "y": 18.59375,
+        "width": 32.9921875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 622,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 622,
+        "height": 20.796875
+      },
+      "titleText": "Grant definition mismatch",
+      "identifierText": "F-003",
+      "locationText": "\u2014 \u00B7 \u2014",
+      "reasonText": "Grant definitions differ for internal object PR-003. Actual principal names are not displayed.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "en-656-map",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 126.1953125
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 622,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 145.734375,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 592.8125,
+        "y": 18.59375,
+        "width": 46.1875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 622,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 622,
+        "height": 41.59375
+      },
+      "titleText": "Table name mismatch",
+      "identifierText": "F-MAP-1",
+      "locationText": "demo.orders \u00B7 \u2014",
+      "reasonText": "The manually matched target has a different name. This difference is retained separately from value comparison.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "en-656-unknown",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 622,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 273.734375,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 606.0078125,
+        "y": 18.59375,
+        "width": 32.9921875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 622,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 622,
+        "height": 20.796875
+      },
+      "titleText": "Visibility unconfirmed for 2 grant checks",
+      "identifierText": "U-001",
+      "locationText": "\u2014 \u00B7 \u2014",
+      "reasonText": "Catalog completeness was not established; presence or absence was not adjudicated.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "en-656-interrupted",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 622,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 120.1484375,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 599.4140625,
+        "y": 18.59375,
+        "width": 39.5859375,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 622,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 622,
+        "height": 20.796875
+      },
+      "titleText": "Check interrupted",
+      "identifierText": "U-data",
+      "locationText": "\u2014 \u00B7 \u2014",
+      "reasonText": "7 checks have not been completed.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "en-656-pending",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 622,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 119.3203125,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 599.4140625,
+        "y": 18.59375,
+        "width": 39.5859375,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 622,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 622,
+        "height": 20.796875
+      },
+      "titleText": "Check not started",
+      "identifierText": "U-data",
+      "locationText": "\u2014 \u00B7 \u2014",
+      "reasonText": "12 checks have not been completed.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "en-904-data",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 870,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 105.2421875,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 854.0078125,
+        "y": 18.59375,
+        "width": 32.9921875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 870,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 870,
+        "height": 20.796875
+      },
+      "titleText": "Value mismatch",
+      "identifierText": "F-001",
+      "locationText": "demo.orders \u00B7 amount",
+      "reasonText": "An observed value differs in a matched row. Values and row keys are not displayed.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "en-904-schema",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 870,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 174.28125,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 854.0078125,
+        "y": 18.59375,
+        "width": 32.9921875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 870,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 870,
+        "height": 20.796875
+      },
+      "titleText": "NULL definition mismatch",
+      "identifierText": "F-002",
+      "locationText": "demo.orders \u00B7 reference",
+      "reasonText": "The column nullability differs. This is separate from value equality.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "en-904-objects",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 870,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 175.65625,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 854.0078125,
+        "y": 18.59375,
+        "width": 32.9921875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 870,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 870,
+        "height": 20.796875
+      },
+      "titleText": "Grant definition mismatch",
+      "identifierText": "F-003",
+      "locationText": "\u2014 \u00B7 \u2014",
+      "reasonText": "Grant definitions differ for internal object PR-003. Actual principal names are not displayed.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "en-904-map",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 870,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 145.734375,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 840.8125,
+        "y": 18.59375,
+        "width": 46.1875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 870,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 870,
+        "height": 20.796875
+      },
+      "titleText": "Table name mismatch",
+      "identifierText": "F-MAP-1",
+      "locationText": "demo.orders \u00B7 \u2014",
+      "reasonText": "The manually matched target has a different name. This difference is retained separately from value comparison.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "en-904-unknown",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 870,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 273.734375,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 854.0078125,
+        "y": 18.59375,
+        "width": 32.9921875,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 870,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 870,
+        "height": 20.796875
+      },
+      "titleText": "Visibility unconfirmed for 2 grant checks",
+      "identifierText": "U-001",
+      "locationText": "\u2014 \u00B7 \u2014",
+      "reasonText": "Catalog completeness was not established; presence or absence was not adjudicated.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "en-904-interrupted",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 870,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 120.1484375,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 847.4140625,
+        "y": 18.59375,
+        "width": 39.5859375,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 870,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 870,
+        "height": 20.796875
+      },
+      "titleText": "Check interrupted",
+      "identifierText": "U-data",
+      "locationText": "\u2014 \u00B7 \u2014",
+      "reasonText": "7 checks have not been completed.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    },
+    {
+      "id": "en-904-pending",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 105.3984375
+      },
+      "top": {
+        "x": 17,
+        "y": 17,
+        "width": 870,
+        "height": 22.3984375
+      },
+      "title": {
+        "x": 17,
+        "y": 17,
+        "width": 119.3203125,
+        "height": 22.3984375
+      },
+      "identifier": {
+        "x": 847.4140625,
+        "y": 18.59375,
+        "width": 39.5859375,
+        "height": 19.203125
+      },
+      "location": {
+        "x": 17,
+        "y": 46.3984375,
+        "width": 870,
+        "height": 21.203125
+      },
+      "reason": {
+        "x": 17,
+        "y": 67.6015625,
+        "width": 870,
+        "height": 20.796875
+      },
+      "titleText": "Check not started",
+      "identifierText": "U-data",
+      "locationText": "\u2014 \u00B7 \u2014",
+      "reasonText": "12 checks have not been completed.",
+      "locationBaseline": 15.5,
+      "peer": {
+        "type": "Group",
+        "focusable": false,
+        "name": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "component": "Radio",
+  "contract": "20px source radio input, source circle/dot/color/focus/transition; HTML focus-before-change, group arrows/disabled skip/wrap and selected Tab stop; parent owns group names/order/cards/labels/change actions. Label pointer re-focus clears keyboard indication without requiring a focus-change event.",
+  "files": {
+    "src/Verifier.Desktop/WebRadio.cs": "2ce2bcef5952e5ec6d80224dd5567ff394bf883ee4fc9c57e2ac73b3b0a904c4"
+  }
+}

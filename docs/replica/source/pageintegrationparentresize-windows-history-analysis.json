@@ -1,0 +1,159 @@
+{
+  "status": "ORIGINAL_HISTORY_DIAGNOSTIC_RECORDED_NOT_NATIVE_PASS",
+  "recording": "28ef26db74814b958887bce37162eedb",
+  "source": "docs/replica/source/pageintegrationparentresize-windows-history-source.json",
+  "states": 18,
+  "paths": [
+    {
+      "widths": [
+        1280,
+        960
+      ],
+      "gutterSequence": [
+        15,
+        15
+      ],
+      "pageWidthSequence": [
+        950,
+        669
+      ],
+      "pageHeightSequence": [
+        656.78125,
+        678.78125
+      ],
+      "allRefsUnchanged": true,
+      "fontsLoaded": true,
+      "animations0": true
+    },
+    {
+      "widths": [
+        1280,
+        1100,
+        960
+      ],
+      "gutterSequence": [
+        15,
+        0,
+        0
+      ],
+      "pageWidthSequence": [
+        950,
+        809,
+        684
+      ],
+      "pageHeightSequence": [
+        656.78125,
+        656.78125,
+        656.78125
+      ],
+      "allRefsUnchanged": true,
+      "fontsLoaded": true,
+      "animations0": true
+    },
+    {
+      "widths": [
+        1280,
+        1180,
+        960
+      ],
+      "gutterSequence": [
+        15,
+        0,
+        0
+      ],
+      "pageWidthSequence": [
+        950,
+        889,
+        684
+      ],
+      "pageHeightSequence": [
+        656.78125,
+        656.78125,
+        656.78125
+      ],
+      "allRefsUnchanged": true,
+      "fontsLoaded": true,
+      "animations0": true
+    },
+    {
+      "widths": [
+        1280,
+        1181,
+        960
+      ],
+      "gutterSequence": [
+        15,
+        15,
+        15
+      ],
+      "pageWidthSequence": [
+        950,
+        851,
+        669
+      ],
+      "pageHeightSequence": [
+        656.78125,
+        656.78125,
+        678.78125
+      ],
+      "allRefsUnchanged": true,
+      "fontsLoaded": true,
+      "animations0": true
+    },
+    {
+      "widths": [
+        1280,
+        1179,
+        960
+      ],
+      "gutterSequence": [
+        15,
+        0,
+        0
+      ],
+      "pageWidthSequence": [
+        950,
+        888,
+        684
+      ],
+      "pageHeightSequence": [
+        656.78125,
+        656.78125,
+        656.78125
+      ],
+      "allRefsUnchanged": true,
+      "fontsLoaded": true,
+      "animations0": true
+    },
+    {
+      "widths": [
+        1280,
+        960,
+        1100,
+        960
+      ],
+      "gutterSequence": [
+        15,
+        15,
+        0,
+        0
+      ],
+      "pageWidthSequence": [
+        950,
+        669,
+        809,
+        684
+      ],
+      "pageHeightSequence": [
+        656.78125,
+        678.78125,
+        656.78125,
+        656.78125
+      ],
+      "allRefsUnchanged": true,
+      "fontsLoaded": true,
+      "animations0": true
+    }
+  ],
+  "facts": "At960 with unchanged defaultReview DOM/text/font, prior main gutter15 yields narrow669/678.78125; prior0 yields wide684/656.78125. Root policy decision pending, no candidateedit."
+}

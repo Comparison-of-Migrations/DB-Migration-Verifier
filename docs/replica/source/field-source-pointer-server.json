@@ -1,0 +1,22 @@
+[
+  {
+    "active": "ko-port",
+    "event": "mousedown",
+    "id": "ko-180-0"
+  },
+  {
+    "active": "",
+    "event": "focusout",
+    "id": "ko-port"
+  },
+  {
+    "active": "",
+    "event": "mouseup",
+    "id": "ko-180-0"
+  },
+  {
+    "active": "ko-180-0",
+    "event": "focusin",
+    "id": "ko-180-0"
+  }
+]

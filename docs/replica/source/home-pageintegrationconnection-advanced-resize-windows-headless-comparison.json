@@ -1,0 +1,34 @@
+{
+  "phase": "HEADLESS_PASSED",
+  "scope": "New connected Connection KOEN resize identity/caret/entry8 only; source handler oracle; candidate isolated Skia; actualOS unverified",
+  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/home-pageintegrationconnection-advanced-resize-windows-child-source.json",
+  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/pageintegration/575ac0d2a5fd4594a92102aa4f5506d1/actual-advanced-resize-windows/headless-6e4a2fba0a3c450fb9eb23d3baec889d/pageintegration-advanced-resize.json",
+  "cases": 4,
+  "geometryChecks": 160,
+  "geometrySource": "Fresh connected source geometry per row",
+  "geometryReuse": "Fresh connected source geometry per row when included; optional legacy Connection80 oracle only where same viewport/client/gutter/intrinsicheight condition is explicitly proven.",
+  "differences": [],
+  "candidateAdditionalPublicFields": {
+    "ko-advanced-0": {
+      "fieldRetained": null,
+      "caretIndex": null,
+      "immediate": null
+    },
+    "ko-advanced-1": {
+      "fieldRetained": null,
+      "caretIndex": null,
+      "immediate": null
+    },
+    "en-advanced-0": {
+      "fieldRetained": null,
+      "caretIndex": null,
+      "immediate": null
+    },
+    "en-advanced-1": {
+      "fieldRetained": null,
+      "caretIndex": null,
+      "immediate": null
+    }
+  },
+  "oldScopes": "Existing Connection geometry/input/state/AX/paint evidence reused; not rerun by this comparison"
+}

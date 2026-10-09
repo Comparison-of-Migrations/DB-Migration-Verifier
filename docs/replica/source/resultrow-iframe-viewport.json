@@ -1,0 +1,18 @@
+[
+  {
+    "categoryGap": "8px",
+    "compact": true,
+    "gap": "16px",
+    "grid": "158.453px 113.18px 113.18px 113.18px 16px",
+    "padding": "12px 16px",
+    "viewport": 1180
+  },
+  {
+    "categoryGap": "12px",
+    "compact": false,
+    "gap": "20px",
+    "grid": "170px 100.664px 100.664px 100.664px 18px",
+    "padding": "12px 20px",
+    "viewport": 1181
+  }
+]

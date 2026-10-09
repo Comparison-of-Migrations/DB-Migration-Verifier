@@ -1,0 +1,34 @@
+{
+  "stage": "artifacts/replica/workers/preflight/capabilityviewport/124fc20fc89f4a5aaaf19bc9966b3449/windows-stage.json",
+  "guestOutput": "headless-focus-55d107c385fc470f8979839ef6a2d855",
+  "headless": true,
+  "scale": 2,
+  "result": {
+    "states": [
+      {
+        "id": "clip-diagnostic",
+        "behavior": "FromClip",
+        "clip": "0, 0, 0, 0",
+        "bounds": "630, 35, 150, 44"
+      },
+      {
+        "id": "clipped-child",
+        "offscreen": true,
+        "name": "Required permissions",
+        "tabStop": false
+      },
+      {
+        "id": "tab-child",
+        "offset": 322,
+        "visible": false,
+        "focused": false,
+        "tabStop": false
+      },
+      {
+        "id": "visible-child",
+        "offscreen": false,
+        "name": "Required permissions"
+      }
+    ]
+  }
+}

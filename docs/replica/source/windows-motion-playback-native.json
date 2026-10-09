@@ -1,0 +1,2818 @@
+[
+  {
+    "kind": "Page",
+    "duration": 200,
+    "infinite": false,
+    "fill": "None",
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "opacity": 0.35,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          6
+        ],
+        "bounds": [
+          0,
+          6,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 25,
+        "opacity": 0.6631634379090365,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          3.1092605731473544
+        ],
+        "bounds": [
+          0,
+          3.1092605731473526,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 50,
+        "opacity": 0.8471620673885556,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          1.410811685644103
+        ],
+        "bounds": [
+          0,
+          1.4108116856441022,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 75,
+        "opacity": 0.9354732332456228,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.595631693117328
+        ],
+        "bounds": [
+          0,
+          0.5956316931173262,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 100,
+        "opacity": 0.9748986560727249,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.23170471317484775
+        ],
+        "bounds": [
+          0,
+          0.23170471317484953,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 125,
+        "opacity": 0.9916372038186996,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.07719504167354252
+        ],
+        "bounds": [
+          0,
+          0.07719504167354074,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 150,
+        "opacity": 0.9979812412613543,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.018634696049037558
+        ],
+        "bounds": [
+          0,
+          0.018634696049037558,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 175,
+        "opacity": 0.9997893091763821,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.001944838371857216
+        ],
+        "bounds": [
+          0,
+          0.0019448383718554396,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 200,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 200.2,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 250,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 300,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      }
+    ],
+    "midCancellation": {
+      "before": 0.8471620673885556,
+      "after": 0.7,
+      "afterDispose": 0.7,
+      "status": "Canceled"
+    },
+    "restoreCurrentUnderlying": true,
+    "reducedSkipped": true
+  },
+  {
+    "kind": "Modal",
+    "duration": 280,
+    "infinite": false,
+    "fill": "None",
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "opacity": 0,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          10
+        ],
+        "bounds": [
+          0,
+          10,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 35,
+        "opacity": 0.48178990447544096,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          5.18210095524559
+        ],
+        "bounds": [
+          0,
+          5.182100955245591,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 70,
+        "opacity": 0.7648647190593162,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          2.351352809406838
+        ],
+        "bounds": [
+          0,
+          2.351352809406837,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 105,
+        "opacity": 0.9007280511471121,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.9927194885288788
+        ],
+        "bounds": [
+          0,
+          0.992719488528877,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 140,
+        "opacity": 0.9613825478041921,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.386174521958079
+        ],
+        "bounds": [
+          0,
+          0.386174521958079,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 175,
+        "opacity": 0.9871341597210763,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.12865840278923635
+        ],
+        "bounds": [
+          0,
+          0.12865840278923457,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 210,
+        "opacity": 0.9968942173251605,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.031057826748394746
+        ],
+        "bounds": [
+          0,
+          0.031057826748394746,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 245,
+        "opacity": 0.9996758602713571,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.0032413972864286933
+        ],
+        "bounds": [
+          0,
+          0.0032413972864304696,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 280,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 280.28,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 350,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 420,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      }
+    ],
+    "midCancellation": {
+      "before": 0.7648647190593162,
+      "after": 0.7,
+      "afterDispose": 0.7,
+      "status": "Canceled"
+    },
+    "restoreCurrentUnderlying": true,
+    "reducedSkipped": true
+  },
+  {
+    "kind": "Drawer",
+    "duration": 280,
+    "infinite": false,
+    "fill": "None",
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "opacity": 0,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          20,
+          0
+        ],
+        "bounds": [
+          20,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 35,
+        "opacity": 0.48178990447544096,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          10.36420191049118,
+          0
+        ],
+        "bounds": [
+          10.364201910491182,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 70,
+        "opacity": 0.7648647190593162,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          4.702705618813676,
+          0
+        ],
+        "bounds": [
+          4.702705618813674,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 105,
+        "opacity": 0.9007280511471121,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          1.9854389770577576,
+          0
+        ],
+        "bounds": [
+          1.985438977057754,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 140,
+        "opacity": 0.9613825478041921,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0.772349043916158,
+          0
+        ],
+        "bounds": [
+          0.772349043916158,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 175,
+        "opacity": 0.9871341597210763,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0.2573168055784727,
+          0
+        ],
+        "bounds": [
+          0.25731680557846914,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 210,
+        "opacity": 0.9968942173251605,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0.06211565349678949,
+          0
+        ],
+        "bounds": [
+          0.06211565349678949,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 245,
+        "opacity": 0.9996758602713571,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0.006482794572857387,
+          0
+        ],
+        "bounds": [
+          0.006482794572860939,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 280,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 280.28,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 350,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 420,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      }
+    ],
+    "midCancellation": {
+      "before": 0.7648647190593162,
+      "after": 0.7,
+      "afterDispose": 0.7,
+      "status": "Canceled"
+    },
+    "restoreCurrentUnderlying": true,
+    "reducedSkipped": true
+  },
+  {
+    "kind": "Toast",
+    "duration": 200,
+    "infinite": false,
+    "fill": "None",
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "opacity": 0,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          10
+        ],
+        "bounds": [
+          0,
+          10,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 25,
+        "opacity": 0.48178990447544096,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          5.18210095524559
+        ],
+        "bounds": [
+          0,
+          5.182100955245591,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 50,
+        "opacity": 0.7648647190593162,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          2.351352809406838
+        ],
+        "bounds": [
+          0,
+          2.351352809406837,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 75,
+        "opacity": 0.9007280511471121,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.9927194885288788
+        ],
+        "bounds": [
+          0,
+          0.992719488528877,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 100,
+        "opacity": 0.9613825478041921,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.386174521958079
+        ],
+        "bounds": [
+          0,
+          0.386174521958079,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 125,
+        "opacity": 0.9871341597210763,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.12865840278923635
+        ],
+        "bounds": [
+          0,
+          0.12865840278923457,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 150,
+        "opacity": 0.9968942173251605,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.031057826748394746
+        ],
+        "bounds": [
+          0,
+          0.031057826748394746,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 175,
+        "opacity": 0.9996758602713571,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.0032413972864286933
+        ],
+        "bounds": [
+          0,
+          0.0032413972864304696,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 200,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 200.2,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 250,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 300,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      }
+    ],
+    "midCancellation": {
+      "before": 0.7648647190593162,
+      "after": 0.7,
+      "afterDispose": 0.7,
+      "status": "Canceled"
+    },
+    "restoreCurrentUnderlying": true,
+    "reducedSkipped": true
+  },
+  {
+    "kind": "ResultNumber",
+    "duration": 220,
+    "infinite": false,
+    "fill": "None",
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "opacity": 0.6,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          5
+        ],
+        "bounds": [
+          0,
+          5,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 27.5,
+        "opacity": 0.7927159617901763,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          2.591050477622795
+        ],
+        "bounds": [
+          0,
+          2.591050477622794,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 55,
+        "opacity": 0.9059458876237265,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          1.175676404703419
+        ],
+        "bounds": [
+          0,
+          1.1756764047034203,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 82.5,
+        "opacity": 0.9602912204588449,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.4963597442644394
+        ],
+        "bounds": [
+          0,
+          0.4963597442644385,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 110,
+        "opacity": 0.9845530191216768,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.1930872609790395
+        ],
+        "bounds": [
+          0,
+          0.19308726097904128,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 137.5,
+        "opacity": 0.9948536638884306,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.06432920139461817
+        ],
+        "bounds": [
+          0,
+          0.06432920139461729,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 165,
+        "opacity": 0.9987576869300642,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.015528913374197373
+        ],
+        "bounds": [
+          0,
+          0.015528913374197373,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 192.5,
+        "opacity": 0.9998703441085428,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.0016206986432143466
+        ],
+        "bounds": [
+          0,
+          0.0016206986432152348,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 220,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 220.21999999999997,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 275,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 330,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      }
+    ],
+    "midCancellation": {
+      "before": 0.9059458876237265,
+      "after": 0.7,
+      "afterDispose": 0.7,
+      "status": "Canceled"
+    },
+    "restoreCurrentUnderlying": true,
+    "reducedSkipped": true
+  },
+  {
+    "kind": "ResultBar",
+    "duration": 320,
+    "infinite": false,
+    "fill": "None",
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "opacity": 1,
+        "matrix": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          0,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 40,
+        "opacity": 1,
+        "matrix": [
+          0.48178990447544096,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          48.178990447544095,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 80,
+        "opacity": 1,
+        "matrix": [
+          0.7648647190593162,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          76.48647190593162,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 120,
+        "opacity": 1,
+        "matrix": [
+          0.9007280511471121,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          90.0728051147112,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 160,
+        "opacity": 1,
+        "matrix": [
+          0.9613825478041921,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          96.1382547804192,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 200,
+        "opacity": 1,
+        "matrix": [
+          0.9871341597210763,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          98.71341597210763,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 240,
+        "opacity": 1,
+        "matrix": [
+          0.9968942173251605,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          99.68942173251605,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 280,
+        "opacity": 1,
+        "matrix": [
+          0.9996758602713571,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          99.96758602713571,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 320,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 320.31999999999994,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 400,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 480,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      }
+    ],
+    "midCancellation": {
+      "before": 0.7,
+      "after": 0.7,
+      "afterDispose": 0.7,
+      "status": "Canceled"
+    },
+    "restoreCurrentUnderlying": true,
+    "reducedSkipped": true
+  },
+  {
+    "kind": "Press",
+    "duration": 160,
+    "infinite": false,
+    "fill": "None",
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 20,
+        "opacity": 0.944397598046184,
+        "matrix": [
+          0.9920567997208835,
+          0,
+          0,
+          0.9920567997208835,
+          0,
+          0
+        ],
+        "bounds": [
+          0.39716001395582623,
+          0.1588640055823305,
+          99.20567997208835,
+          39.68227198883534
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 40,
+        "opacity": 0.8941213233690777,
+        "matrix": [
+          0.9848744747670111,
+          0,
+          0,
+          0.9848744747670111,
+          0,
+          0
+        ],
+        "bounds": [
+          0.7562762616494467,
+          0.3025105046597787,
+          98.4874474767011,
+          39.39497899068044
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 60,
+        "opacity": 0.8713497180135613,
+        "matrix": [
+          0.9816213882876516,
+          0,
+          0,
+          0.9816213882876516,
+          0,
+          0
+        ],
+        "bounds": [
+          0.9189305856174244,
+          0.3675722342469676,
+          98.16213882876514,
+          39.26485553150607
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 80,
+        "opacity": 0.9117000924795572,
+        "matrix": [
+          0.9873857274970795,
+          0,
+          0,
+          0.9873857274970795,
+          0,
+          0
+        ],
+        "bounds": [
+          0.6307136251460221,
+          0.25228545005840886,
+          98.73857274970794,
+          39.49542909988318
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 100,
+        "opacity": 0.9462338543956674,
+        "matrix": [
+          0.992319122056524,
+          0,
+          0,
+          0.992319122056524,
+          0,
+          0
+        ],
+        "bounds": [
+          0.3840438971738038,
+          0.1536175588695201,
+          99.2319122056524,
+          39.69276488226096
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 120,
+        "opacity": 0.9738298977988321,
+        "matrix": [
+          0.9962614139712618,
+          0,
+          0,
+          0.9962614139712618,
+          0,
+          0
+        ],
+        "bounds": [
+          0.186929301436912,
+          0.07477172057476622,
+          99.62614139712616,
+          39.85045655885047
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 140,
+        "opacity": 0.9927243129674198,
+        "matrix": [
+          0.9989606161382029,
+          0,
+          0,
+          0.9989606161382029,
+          0,
+          0
+        ],
+        "bounds": [
+          0.051969193089860255,
+          0.020787677235944102,
+          99.89606161382028,
+          39.95842464552811
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 160,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 160.15999999999997,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 200,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 240,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      }
+    ],
+    "midCancellation": {
+      "before": 0.8941213233690777,
+      "after": 0.7,
+      "afterDispose": 0.7,
+      "status": "Canceled"
+    },
+    "restoreCurrentUnderlying": true,
+    "reducedSkipped": true
+  },
+  {
+    "kind": "ModalClose",
+    "duration": 160,
+    "infinite": false,
+    "fill": "Forward",
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 20,
+        "opacity": 0.8014199930220857,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          1.1914800418674858
+        ],
+        "bounds": [
+          0,
+          1.1914800418674858,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 40,
+        "opacity": 0.6218618691752776,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          2.268828784948334
+        ],
+        "bounds": [
+          0,
+          2.268828784948333,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 60,
+        "opacity": 0.4594652928087095,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          3.243208243147743
+        ],
+        "bounds": [
+          0,
+          3.243208243147741,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 80,
+        "opacity": 0.3153568125730102,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          4.107859124561939
+        ],
+        "bounds": [
+          0,
+          4.107859124561939,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 100,
+        "opacity": 0.1920219485869019,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          4.8478683084785885
+        ],
+        "bounds": [
+          0,
+          4.8478683084785885,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 120,
+        "opacity": 0.09346465071845689,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          5.439212095689259
+        ],
+        "bounds": [
+          0,
+          5.439212095689259,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 140,
+        "opacity": 0.02598459654492924,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          5.844092420730425
+        ],
+        "bounds": [
+          0,
+          5.844092420730425,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 160,
+        "opacity": 0,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          6
+        ],
+        "bounds": [
+          0,
+          6,
+          100,
+          40
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 160.15999999999997,
+        "opacity": 0,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          6
+        ],
+        "bounds": [
+          0,
+          6,
+          100,
+          40
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 200,
+        "opacity": 0,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          6
+        ],
+        "bounds": [
+          0,
+          6,
+          100,
+          40
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 240,
+        "opacity": 0,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          6
+        ],
+        "bounds": [
+          0,
+          6,
+          100,
+          40
+        ],
+        "completed": true
+      }
+    ],
+    "midCancellation": {
+      "before": 0.6218618691752776,
+      "after": 0.6218618691752776,
+      "afterDispose": 0.7,
+      "status": "Canceled"
+    },
+    "restoreCurrentUnderlying": true,
+    "reducedSkipped": true
+  },
+  {
+    "kind": "SearchFade",
+    "duration": 160,
+    "infinite": false,
+    "fill": "None",
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "opacity": 0.5,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 20,
+        "opacity": 0.5992900034889571,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 40,
+        "opacity": 0.6890690654123612,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 60,
+        "opacity": 0.7702673535956452,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 80,
+        "opacity": 0.8423215937134949,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 100,
+        "opacity": 0.903989025706549,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 120,
+        "opacity": 0.9532676746407716,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 140,
+        "opacity": 0.9870077017275354,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 160,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 160.15999999999997,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 200,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 240,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": true
+      }
+    ],
+    "midCancellation": {
+      "before": 0.6890690654123612,
+      "after": 0.7,
+      "afterDispose": 0.7,
+      "status": "Canceled"
+    },
+    "restoreCurrentUnderlying": true,
+    "reducedSkipped": true
+  },
+  {
+    "kind": "RunningDot",
+    "duration": 1000,
+    "infinite": true,
+    "fill": "None",
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 125,
+        "opacity": 0.9095866482668168,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 250,
+        "opacity": 0.6500000000004775,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 375,
+        "opacity": 0.39041335173318326,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 500,
+        "opacity": 0.30000000000000004,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 625,
+        "opacity": 0.3904133517331832,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 750,
+        "opacity": 0.6499999999995225,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 875,
+        "opacity": 0.9095866482668167,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 1000,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 1000.9999999999999,
+        "opacity": 0.9999947052571889,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 1250,
+        "opacity": 0.6500000000004775,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 1500,
+        "opacity": 0.30000000000000004,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      }
+    ],
+    "midCancellation": {
+      "before": 0.6500000000004775,
+      "after": 0.7,
+      "afterDispose": 0.7,
+      "status": "Canceled"
+    },
+    "restoreCurrentUnderlying": true,
+    "reducedSkipped": true
+  },
+  {
+    "kind": "Spinner",
+    "duration": 800,
+    "infinite": true,
+    "fill": "None",
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 100,
+        "opacity": 1,
+        "matrix": [
+          0.7071067818211394,
+          0.7071067805519557,
+          -0.7071067805519557,
+          0.7071067818211394,
+          0,
+          0
+        ],
+        "bounds": [
+          0.5025252979039152,
+          -29.497474664020572,
+          98.99494940419217,
+          98.99494932804114
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 200,
+        "opacity": 1,
+        "matrix": [
+          1.7948967369654108E-09,
+          1,
+          -1,
+          1.7948967369654108E-09,
+          0,
+          0
+        ],
+        "bounds": [
+          29.999999910255156,
+          -30.000000035897934,
+          40.000000179489675,
+          100.00000007179585
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 300,
+        "opacity": 1,
+        "matrix": [
+          -0.707106779282772,
+          0.707106783090323,
+          -0.707106783090323,
+          -0.707106779282772,
+          0,
+          0
+        ],
+        "bounds": [
+          0.5025253740549402,
+          -29.497474740171594,
+          98.99494925189012,
+          98.99494948034318
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 400,
+        "opacity": 1,
+        "matrix": [
+          -1,
+          3.5897934739308216E-09,
+          -3.5897934739308216E-09,
+          -1,
+          0,
+          0
+        ],
+        "bounds": [
+          -7.179586702932284E-08,
+          -1.7948967467873445E-07,
+          100.00000014359173,
+          40.00000035897935
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 500,
+        "opacity": 1,
+        "matrix": [
+          -0.7071067843595067,
+          -0.7071067780135883,
+          0.7071067780135883,
+          -0.7071067843595067,
+          0,
+          0
+        ],
+        "bounds": [
+          0.5025252217528902,
+          -29.497474587869547,
+          98.9949495564942,
+          98.99494917573911
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 600,
+        "opacity": 1,
+        "matrix": [
+          -5.384690210896232E-09,
+          -1,
+          1,
+          -5.384690210896232E-09,
+          0,
+          0
+        ],
+        "bounds": [
+          29.99999973076549,
+          -30.000000107693808,
+          40.00000053846901,
+          100.00000021538762
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 700,
+        "opacity": 1,
+        "matrix": [
+          0.7071067767444047,
+          -0.7071067856286903,
+          0.7071067856286903,
+          0.7071067767444047,
+          0,
+          0
+        ],
+        "bounds": [
+          0.5025254502059511,
+          -29.497474816322608,
+          98.9949490995881,
+          98.99494963264522
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 800,
+        "opacity": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bounds": [
+          0,
+          0,
+          100,
+          40
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 800.8,
+        "opacity": 1,
+        "matrix": [
+          0.9999802608561822,
+          0.006283143958378814,
+          -0.006283143958378814,
+          0.9999802608561822,
+          0,
+          0
+        ],
+        "bounds": [
+          -0.1246759219766852,
+          -0.31376241504258573,
+          100.24935184395338,
+          40.62752483008518
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 1000,
+        "opacity": 1,
+        "matrix": [
+          1.7948967369654108E-09,
+          1,
+          -1,
+          1.7948967369654108E-09,
+          0,
+          0
+        ],
+        "bounds": [
+          29.999999910255156,
+          -30.000000035897934,
+          40.000000179489675,
+          100.00000007179585
+        ],
+        "completed": false
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 1200,
+        "opacity": 1,
+        "matrix": [
+          -1,
+          3.5897934739308216E-09,
+          -3.5897934739308216E-09,
+          -1,
+          0,
+          0
+        ],
+        "bounds": [
+          -7.179586702932284E-08,
+          -1.7948967467873445E-07,
+          100.00000014359173,
+          40.00000035897935
+        ],
+        "completed": false
+      }
+    ],
+    "midCancellation": {
+      "before": 0.7,
+      "after": 0.7,
+      "afterDispose": 0.7,
+      "status": "Canceled"
+    },
+    "restoreCurrentUnderlying": true,
+    "reducedSkipped": true
+  }
+]

@@ -1,0 +1,75 @@
+{
+  "phase": "HEADLESS_DIFFERENCES",
+  "scope": "Windows generic plain summary publicpeer4 and attachedName/text precedence/clear/restore updates4; Inline grouping remains pending and is not asserted",
+  "checks": 48,
+  "differences": [
+    {
+      "update": {
+        "expected": "Changed text under attached name",
+        "name": "",
+        "type": "Text",
+        "children": 0,
+        "control": true,
+        "content": true,
+        "samePeer": true
+      }
+    },
+    {
+      "update": {
+        "expected": "DBMS",
+        "name": "",
+        "type": "Text",
+        "children": 0,
+        "control": true,
+        "content": true,
+        "samePeer": true
+      }
+    }
+  ],
+  "candidate": "artifacts/replica/workers/home/pageintegration/d598578a3316412fbf874e8198c2ac6f/actual-summary-content-windows/headless-1a4f635c9d17494f98a975a32ecd516d",
+  "rows": [
+    {
+      "expected": "Named summary label",
+      "name": "Named summary label",
+      "type": "Text",
+      "children": 0,
+      "control": true,
+      "content": true,
+      "samePeer": true
+    },
+    {
+      "expected": "Named summary label",
+      "name": "Named summary label",
+      "type": "Text",
+      "children": 0,
+      "control": true,
+      "content": true,
+      "samePeer": true
+    },
+    {
+      "expected": "Changed text under attached name",
+      "name": "",
+      "type": "Text",
+      "children": 0,
+      "control": true,
+      "content": true,
+      "samePeer": true
+    },
+    {
+      "expected": "DBMS",
+      "name": "",
+      "type": "Text",
+      "children": 0,
+      "control": true,
+      "content": true,
+      "samePeer": true
+    }
+  ],
+  "runtime": [
+    {
+      "exitCode": null,
+      "pid": 2592,
+      "ownedHeadlessProcess": 0
+    }
+  ]
+}

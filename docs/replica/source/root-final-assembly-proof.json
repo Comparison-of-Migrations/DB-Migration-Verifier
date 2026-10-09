@@ -1,0 +1,729 @@
+{
+  "phase": "UI_REPLICA_COMPLETE",
+  "scope": "Faithful original sample Web to real C# Avalonia App/MainWindow --replica-preview nine pages; actual live-DB backend/BR-B/release/portfolio outside this UI replica scope. No fullflow proof inferred from handler/headless/build.",
+  "original": {
+    "original.js": "53c8af8c8225c87d25173a82b4ea00ea5349b6c98077ef7b59d8d62f89a68050",
+    "original.css": "656a04f03636788a8029d53cb4a9cddddabb07d7f8e0fee20945bfcf31c5319c"
+  },
+  "product": {
+    "wholeBuild": "94d231816c45427391f431e2df937479",
+    "capturedFiles": 129,
+    "currentMismatches": [],
+    "workspaceSHA256": "8c91cc7cde6eb37060bd30b77c76be8491ec352143ae5e3f5dbdc61e2e0a1a36"
+  },
+  "reusedProofs": {
+    "sourceHandlers": {
+      "path": "docs/replica/source/root-appflow-mac-comparison.json",
+      "sha256": "348dc50f2840e3dbd04f594d9389c6dffc81a3f96da5308038e0820184c76be7"
+    },
+    "macPhysical": {
+      "path": "artifacts/replica/workers/root/physical-comparator-mac-reuse.json",
+      "sha256": "8f3240a7c1dfbd69272bccfce34da8af47c531a47ba65777041f543c210aadfa"
+    },
+    "windowsPhysicalKO": {
+      "path": "docs/replica/source/pageintegrationfullflow-windows-ko-comparison.json",
+      "sha256": "aa1c34408911f5e4a82c321b818c64829839cf7f177a894852db3c0d79e60b31"
+    },
+    "fullProductBuild": {
+      "path": "docs/replica/source/root-full-product-build.json",
+      "sha256": "4017187ca271cbb6ce5c4ad048d5ac5a3133bf310fd6766687402354d63f53e3"
+    },
+    "currentFlowProductIdentity": {
+      "path": "docs/replica/source/pageintegrationfullflow-current-product-identity.json",
+      "sha256": "848a48e3a35aeb41b0267a7e5eb011051c6fe58b021c90658a1c254f17b347a5"
+    },
+    "parentResize": {
+      "path": "docs/replica/source/pageintegrationparentresize-completion.json",
+      "sha256": "85eb807f075562419ba0a7aa7bdfb284f09b9749c68de442a0ad35bb0edae84b"
+    },
+    "summaryContent": {
+      "path": "docs/replica/source/home-pageintegrationsummarycontent-proof-matrix.json",
+      "sha256": "6d3098f15aeb1ad7d20660b781ffd69f709fc5a714242dfee654119ae1acfcf4"
+    },
+    "selectionCallbacks": {
+      "path": "artifacts/replica/workers/preflight/selectioncallbacks/completion/verification.json",
+      "sha256": "89d2386b9027a6762bab826ed990b101e3233e49c57fa1b6cb5c2ead11ba28ce"
+    },
+    "filesWindows": {
+      "path": "docs/replica/source/root-pageintegration-files-windows-comparison.json",
+      "sha256": "70892c087e9fd75d4f6bf4525b1051dc2193e535856b8566f5864849af0a33d0"
+    },
+    "smallModalsMac": {
+      "path": "docs/replica/source/root-modal-bounds-mac-comparison.json",
+      "sha256": "c1d38aa55af1f54bf4e8d4216af39e673860cf2a5889b1935cbf55085f4e6c2a"
+    },
+    "smallModalsWindows": {
+      "path": "docs/replica/source/root-modal-bounds-windows-comparison.json",
+      "sha256": "105ae23effd47df92791a343e2d734cb4a9d0e4166ec44838ad15546b7c964e8"
+    },
+    "toast": {
+      "path": "docs/replica/source/home-pageintegrationtoast-proof-matrix.json",
+      "sha256": "fcb137a9ebcd9c8ba3aee3118b436c752285f77ec58bfa3459fe888c7c6062c9"
+    },
+    "mainPaddingMac": {
+      "path": "artifacts/replica/workers/preflight/mainpadding-completion/mac-verification.json",
+      "sha256": "8f6928245538bcb80bc7af99cb496fd158d3f3001865d9217dc9b6ccae865559"
+    },
+    "completedClosureAudit": {
+      "path": "docs/replica/workers/preflight/window-closure-audit.json",
+      "sha256": "c11546b6346ccbe70db791079bbd0f00168d09b14c92a92ad47040b331135bd0"
+    },
+    "completedSummaryWindowClosure": {
+      "path": "docs/replica/source/root-completed-summary-source-cleanup.json",
+      "sha256": "a640987b79d63648cd9a9bb9f25f3955080fd843f45024429996d42f11e86c69"
+    },
+    "mainPadding": {
+      "path": "artifacts/replica/workers/preflight/mainpadding-completion/verification.json",
+      "sha256": "7b8ee3e8beea06eaf79a9d473bebe081cf3f794bfc29a7e251ff527fa1af3d82"
+    },
+    "windowsPhysicalFinal": {
+      "path": "docs/replica/source/pageintegrationfullflow-windows-completion.json",
+      "sha256": "5c61960755fa080c402bb3c31735ba330c8e4bbce32fc229d1e25c4b83c45166"
+    },
+    "windowsRootStrictComparison": {
+      "path": "artifacts/replica/workers/root/physical-comparator-windows-final.json",
+      "sha256": "cea990f6d01f320a1e3a568cf136dacc99361c5a49aa2efce8635f7d143fa3d8"
+    },
+    "currentFlowFreeze": {
+      "path": "docs/replica/source/pageintegrationfullflow-current-freeze.json",
+      "sha256": "2945be49d4e3754f73069f694204b08c0b19d2c2f2b5b3f710007d155125ec9d"
+    },
+    "officialWindowsHost": {
+      "path": "artifacts/replica/workers/connection/pageintegration/c14baa31227d4c4b9a391aba4d1fe4bc/actual-fullflow-windows/official-host-stage.json",
+      "sha256": "33f494cbae48b73fd3b24ba6eca502391e0fc54afdf6c2a5df7d43ec8bf9c36e"
+    }
+  },
+  "protectedChildren": {
+    "manifests": 69,
+    "fileOrFragmentChecks": 93,
+    "mismatches": [],
+    "records": {
+      "action-button-lock": {
+        "path": "docs/replica/source/action-button-lock.json",
+        "sha256": "7ebc42d921672973d9639b3ec5dd0b32b611ca6f6157cf08275939bd2710b6dc"
+      },
+      "actionfooter-lock": {
+        "path": "docs/replica/source/actionfooter-lock.json",
+        "sha256": "fa9fb09151123cf15ad8c6cfb4ad32a6c2af7f1042ca1d2d45e58d5d4ed5eabd"
+      },
+      "advancedconnection-lock": {
+        "path": "docs/replica/source/advancedconnection-lock.json",
+        "sha256": "45be2645256c736a9bfaa870c36b7ebcd0ad7b696eefcf2774c41190a7981f34"
+      },
+      "bulletlist-lock": {
+        "path": "docs/replica/source/bulletlist-lock.json",
+        "sha256": "d83ce0b7283b065f04274b6738220bcc958f211f2313f996269ba13a4a569e24"
+      },
+      "capabilityheader-lock": {
+        "path": "docs/replica/source/capabilityheader-lock.json",
+        "sha256": "57b2cb85ec015613cce566392815255751e2b2df08685638929e0a242b163829"
+      },
+      "capabilityrow-lock": {
+        "path": "docs/replica/source/capabilityrow-lock.json",
+        "sha256": "d720b2c7fc829f7d92734f33caf02193b0818e4ff78888513b6cf19f1144c4a4"
+      },
+      "capabilitytable-lock": {
+        "path": "docs/replica/source/capabilitytable-lock.json",
+        "sha256": "15259b4e70c78fa8529967b3aaee561afb717699ec107aad7d660334b9d9eb51"
+      },
+      "capabilityviewport-lock": {
+        "path": "docs/replica/source/capabilityviewport-lock.json",
+        "sha256": "4ed320de70a10c0e4bea0aac59f07107d77053ea3796504fc5ae7da73877f3bc"
+      },
+      "categoryheader-lock": {
+        "path": "docs/replica/source/categoryheader-lock.json",
+        "sha256": "0533087ac90ae13503fc5a1bd7f98b119cf93a033fd72325e918ac6a2d4ae670"
+      },
+      "categorysection-lock": {
+        "path": "docs/replica/source/categorysection-lock.json",
+        "sha256": "d36e61ee109f1f08304eed214dff54a9321f22f627f660e5ceb22ca1f3d7538e"
+      },
+      "checkbox-lock": {
+        "path": "docs/replica/source/checkbox-lock.json",
+        "sha256": "d547d079118574fb5049c81af09cfd532d0c9f2c54e4517466433f51c4cf61bf"
+      },
+      "choice-lock": {
+        "path": "docs/replica/source/choice-lock.json",
+        "sha256": "552b6d99f315d0755074f66dbb6cdb4f20b67e1d598b8c4650f9961762800668"
+      },
+      "connectionpage-lock": {
+        "path": "docs/replica/source/connectionpage-lock.json",
+        "sha256": "7fb900d243f428a11ed055f515ecbd09e662bd61a0797065f36d106df5d48010"
+      },
+      "connectionpanel-lock": {
+        "path": "docs/replica/source/connectionpanel-lock.json",
+        "sha256": "e32f6433bed86d7ed955748fef0b0605e8b5c4c25c5910105be757705b2ad101"
+      },
+      "dbmsoption-lock": {
+        "path": "docs/replica/source/dbmsoption-lock.json",
+        "sha256": "4cc7aeff5e5ea851398f1bf8bf7008f5dede3aeae38a37ce55bde29c7dcc5b76"
+      },
+      "dbmspicker-lock": {
+        "path": "docs/replica/source/dbmspicker-lock.json",
+        "sha256": "7a122e0882bd9ddddf1e5256e41af4a17b4d30dfb5a1cef893651811e945f3e6"
+      },
+      "detailsbody-lock": {
+        "path": "docs/replica/source/detailsbody-lock.json",
+        "sha256": "4966de1cc5dea1b271eaaa1f1cc372d613fca51697b7bc6e60f41c45e7114eed"
+      },
+      "downloadoption-lock": {
+        "path": "docs/replica/source/downloadoption-lock.json",
+        "sha256": "40053b24153cf54065a1fd81183bc88f3b6c8e2b18cd2ae117c0a73d4321d8bb"
+      },
+      "field-lock": {
+        "path": "docs/replica/source/field-lock.json",
+        "sha256": "e3b98318786aa39e05cd7182814d64168cb689b2b49d8aae5edae3e7fe6391f6"
+      },
+      "findingarticle-lock": {
+        "path": "docs/replica/source/findingarticle-lock.json",
+        "sha256": "1fde276455df60d9ae8130bf5156f453a371605b5bf9782b7fc67a8402ae6376"
+      },
+      "homepage-lock": {
+        "path": "docs/replica/source/homepage-lock.json",
+        "sha256": "07bd629445a7e4643ed1868d14cff6b5a6aa26926bbc02fffa46200771399416"
+      },
+      "iconbutton-lock": {
+        "path": "docs/replica/source/iconbutton-lock.json",
+        "sha256": "3c436539814fe6c31f7c7b5f4e2a2d3df624e232bf5beccf3ecd95aceaff8b05"
+      },
+      "infodialog-lock": {
+        "path": "docs/replica/source/infodialog-lock.json",
+        "sha256": "265790fb815575956fd6b9b75f8493d6b3af9f7d62a133ca8bafd37d4cc345f3"
+      },
+      "infodialogbody-lock": {
+        "path": "docs/replica/source/infodialogbody-lock.json",
+        "sha256": "307af0e1255646319b2aea8714dee6e200958dab26aaa96bbc0da9a0b8ded7ea"
+      },
+      "inlinetext-lock": {
+        "path": "docs/replica/source/inlinetext-lock.json",
+        "sha256": "0e9341bb034542fb7f8bbf0fe4f986505ed601feece5d99e3b43bf8ec4bdc4d3"
+      },
+      "matchingdialog-lock": {
+        "path": "docs/replica/source/matchingdialog-lock.json",
+        "sha256": "808defcfb2f604fb80604faebb43d0c271a5411f6163c3d9fb5ba7d22dbad0b5"
+      },
+      "matchoption-lock": {
+        "path": "docs/replica/source/matchoption-lock.json",
+        "sha256": "2d4ab5095196221c7daeebbd87b4c495880829ee3c5cebca229f3530aa8ac840"
+      },
+      "metricitem-lock": {
+        "path": "docs/replica/source/metricitem-lock.json",
+        "sha256": "80ec3f4fbd4246d20166d5a457c7ac371a48ea4e63ab041242f76381e0a7fecc"
+      },
+      "metrics-lock": {
+        "path": "docs/replica/source/metrics-lock.json",
+        "sha256": "27b1ab8d4dbeb6f5a6b21c84ce8a04f9725e874471f4b953b13f057a0ebf0dd5"
+      },
+      "motion-lock": {
+        "path": "docs/replica/source/motion-lock.json",
+        "sha256": "1a9a076d5de234645e847f022f3aa70ef783a9a1e5b8f61e9913e66d7e49fb29"
+      },
+      "notice-lock": {
+        "path": "docs/replica/source/notice-lock.json",
+        "sha256": "a853ca69de2b6d92839a3b9fb83b69cbbafa8f9e64563eff0d517d29ef416b03"
+      },
+      "numberinput-lock": {
+        "path": "docs/replica/source/numberinput-lock.json",
+        "sha256": "6692bb4bb690bd883d4c6ebb5f4b79de64b619521424a351eb612297d4b58cce"
+      },
+      "pageheading-lock": {
+        "path": "docs/replica/source/pageheading-lock.json",
+        "sha256": "86e2af4f5e579b670817f0d6b7835a95782fbef595ec62213d5d5e01b75c81d7"
+      },
+      "preflightpage-lock": {
+        "path": "docs/replica/source/preflightpage-lock.json",
+        "sha256": "766d7de9f2538fc7c84a28104219c48f3d4677cc09e43b25a5c4006dd7d234a8"
+      },
+      "prepareddb-lock": {
+        "path": "docs/replica/source/prepareddb-lock.json",
+        "sha256": "d24003a5b32a27b9007a7e530997a1cac155d7332820dd4ad160caa301063d70"
+      },
+      "progressmeter-lock": {
+        "path": "docs/replica/source/progressmeter-lock.json",
+        "sha256": "a67a30f0f4b690209658c42b431fd4a76831502c284680bea7cc4792cc5d9b3e"
+      },
+      "progresspage-lock": {
+        "path": "docs/replica/source/progresspage-lock.json",
+        "sha256": "14a2207f25a2d77ce6d4c1e61c03515c6f2b99120ef38f15c7554627e268207a"
+      },
+      "radio-lock": {
+        "path": "docs/replica/source/radio-lock.json",
+        "sha256": "2804e25de07d5e7161494097f113103409c5408ce0c8b33ff36f0edb68b84ace"
+      },
+      "resultchart-lock": {
+        "path": "docs/replica/source/resultchart-lock.json",
+        "sha256": "b9928695192be789c4f260c0ba3dc4e9c2858bb94ef257cd5834003eb07d7338"
+      },
+      "resultcount-lock": {
+        "path": "docs/replica/source/resultcount-lock.json",
+        "sha256": "eef9869eb25e444ee6ce0f00c9e2dd89267c773bc586c1f98b963355788665e1"
+      },
+      "resultdetails-lock": {
+        "path": "docs/replica/source/resultdetails-lock.json",
+        "sha256": "370825c4cfbcd1a438fe80342193ec93d94f6b00dfa6d04bc110e0729bcaabd6"
+      },
+      "resultrow-lock": {
+        "path": "docs/replica/source/resultrow-lock.json",
+        "sha256": "704c5f9817b0c94ccae4f93f146c7b299fe98f7cfc6212d13538a7ceb8f7981b"
+      },
+      "resultspage-lock": {
+        "path": "docs/replica/source/resultspage-lock.json",
+        "sha256": "c9ad977fb918005ccca72eb6214c3125432a915e2de1135bbdcde8c5e3fe155c"
+      },
+      "reviewpage-lock": {
+        "path": "docs/replica/source/reviewpage-lock.json",
+        "sha256": "4e4c5c3c617269a561e6391b6053231339fb92257cd46d20544ee25d6e04f7a2"
+      },
+      "samplereport-lock": {
+        "path": "docs/replica/source/samplereport-lock.json",
+        "sha256": "492b08b7423ca21bb51d62e3665e072e5c569acb060f6f517696fa503111439b"
+      },
+      "saveoptions-lock": {
+        "path": "docs/replica/source/saveoptions-lock.json",
+        "sha256": "2a01b4a00e44d9a7198b2e60daceca0226ce6b74c2bba4630b65063e8638a31b"
+      },
+      "savepage-lock": {
+        "path": "docs/replica/source/savepage-lock.json",
+        "sha256": "8b41e0e2e566bf07d9c02fb5e2eb386d2eaa620230a51cf134b7a08e05fb7184"
+      },
+      "scrollviewport-lock": {
+        "path": "docs/replica/source/scrollviewport-lock.json",
+        "sha256": "2b0dc769b4144d02501589d105cdf33ed1d0bec5735be91d6ab027e8286ef91c"
+      },
+      "searchinput-lock": {
+        "path": "docs/replica/source/searchinput-lock.json",
+        "sha256": "35cc28151d0970c5a9f6f67040a0842156c3c5e5269fb0a77c58e50a1db75980"
+      },
+      "selectionpage-lock": {
+        "path": "docs/replica/source/selectionpage-lock.json",
+        "sha256": "75c90595a35a5fd3872f29a3c67409eeca4b1aa907c45da044212cf3ee003de4"
+      },
+      "sidebar-lock": {
+        "path": "docs/replica/source/sidebar-lock.json",
+        "sha256": "6a677d7214df3a3534a75f48e4254a0a36b096c784cc90442eb17c3476c36771"
+      },
+      "sidebaritem-lock": {
+        "path": "docs/replica/source/sidebaritem-lock.json",
+        "sha256": "655e63f794d1b8074b25085ea78bcd4b0b5e2e3bdc26f11776f22fd091cf56d3"
+      },
+      "spinner-lock": {
+        "path": "docs/replica/source/spinner-lock.json",
+        "sha256": "72cda02db7bc94eb23d462f3a846b8e7a251e2c6b4572ec7ee3f74296e2cff58"
+      },
+      "statuspill-lock": {
+        "path": "docs/replica/source/statuspill-lock.json",
+        "sha256": "2731cc439178395a2dc29f96d9fbbfbe825c5eef3540b6e7995fd942db272948"
+      },
+      "stepbadge-lock": {
+        "path": "docs/replica/source/stepbadge-lock.json",
+        "sha256": "212fcfac2babe4741ef3e5971e8b41d367e67c6db467b965b24aca70c0ec7328"
+      },
+      "summaryitem-lock": {
+        "path": "docs/replica/source/summaryitem-lock.json",
+        "sha256": "29ab60e009b831f5ec82f9c1503e5eb79f5b7308ed8fc10542326c6962ccb507"
+      },
+      "summarylist-lock": {
+        "path": "docs/replica/source/summarylist-lock.json",
+        "sha256": "fdf6fe639c9e62f136a196fa31a396cc97bd553ccc773028d51bc35cc971a9f9"
+      },
+      "surface-lock": {
+        "path": "docs/replica/source/surface-lock.json",
+        "sha256": "30d2400eb3296aa21a49807065603fc6346ee8502f1be4817b1d657baebef727"
+      },
+      "svg-lock": {
+        "path": "docs/replica/source/svg-lock.json",
+        "sha256": "1a0fe7ae2f1cf11bf840bdf12fb1027db21df666c0aa3c9226d0ec59f0150e24"
+      },
+      "tablemappingrow-lock": {
+        "path": "docs/replica/source/tablemappingrow-lock.json",
+        "sha256": "670cca0c96579c574974b156a5081d9985275e0eac8cbca64e6cc467b0a5704e"
+      },
+      "textinput-lock": {
+        "path": "docs/replica/source/textinput-lock.json",
+        "sha256": "fd62b2962ab779ffe9f64afc3d373c0eafab088084cf721c7627703682c0a4cd"
+      },
+      "topbar-lock": {
+        "path": "docs/replica/source/topbar-lock.json",
+        "sha256": "509f3805c55684cdd6f1a4174d32ca49b73a312b23444dc5eed93479f34a1a2b"
+      },
+      "trialpage-lock": {
+        "path": "docs/replica/source/trialpage-lock.json",
+        "sha256": "b592354ac637f39e1d25e059fc77ed9b6704d862dceb2cd43cc9aeabb38cc880"
+      },
+      "trialpreparation-lock": {
+        "path": "docs/replica/source/trialpreparation-lock.json",
+        "sha256": "d752c531ad68a58e8a39e2e7886048546522d2374acadd301decb098bea2e594"
+      },
+      "typography-lock": {
+        "path": "docs/replica/source/typography-lock.json",
+        "sha256": "089cf0c3361a4cda3662533cc004086e4e144e7b97b29b5e48632a4bac9faf98"
+      },
+      "welcomepaper-lock": {
+        "path": "docs/replica/source/welcomepaper-lock.json",
+        "sha256": "0130cdbb62976fde6499990b1b26433bf57fe045728f06de1a2f743f3599d2e6"
+      },
+      "welcomepapercontent-lock": {
+        "path": "docs/replica/source/welcomepapercontent-lock.json",
+        "sha256": "dffe724fa4663dbfe4d865fefd05900323201c049c917f5cdcfc22034dfca34e"
+      },
+      "welcomestep-lock": {
+        "path": "docs/replica/source/welcomestep-lock.json",
+        "sha256": "f6b1d066bf47b3ad3a5ce1d621aa39bb27549a80b07f17a7640e6553f8e3c018"
+      },
+      "welcomesteps-lock": {
+        "path": "docs/replica/source/welcomesteps-lock.json",
+        "sha256": "6337e5a42544da863f6eb488d1eb64dda6d668ed7facc309162de93d4ceab879"
+      }
+    }
+  },
+  "remainingRequired": [],
+  "cleanupBoundary": "Completed exact-owned source/native/headless scope closed immediately. Exact legacy SummaryList sourcewindow3671056 freshly guarded then closed0; shared Edge/other windows preserved. User source tabs and unattributed system diagnostic excluded.",
+  "referenceInputBoundary": "MainPadding Mac original OS trusted input, Windows original real nonheadless Edge browser Input API with reused KO OSwheel2 and explicit setup; native candidate bothOS actual OS pointer/wheel4. No sourcebrowserAPI claimed OSphysical input.",
+  "windowsRawEvidence": {
+    "ko": {
+      "path": "artifacts/replica/workers/connection/pageintegration/c14baa31227d4c4b9a391aba4d1fe4bc/actual-fullflow-windows/phase-08b23a1301fd4ad7a64c902449a376d0/physical-flow-composed.json",
+      "sha256": "5aebba3c929a92e3e4364e3deabd87aa3ba04d1f741097da1fa8e8a8c21bf9f2"
+    },
+    "koCleanup": {
+      "path": "artifacts/replica/workers/connection/pageintegration/c14baa31227d4c4b9a391aba4d1fe4bc/actual-fullflow-windows/phase-08b23a1301fd4ad7a64c902449a376d0/cleanup.json",
+      "sha256": "bfd5d118384f2e2cb6250cd81f83d46013bc2d254a6335c448ca750a9f54f3f2"
+    },
+    "en": {
+      "path": "artifacts/replica/workers/connection/pageintegration/c14baa31227d4c4b9a391aba4d1fe4bc/actual-fullflow-windows/phase-534d26de96c046469d592a898c63d3ef/physical-flow-checks.json",
+      "sha256": "4f3d1d6d938a444c7ad8dcdd5edfb69b603a4cf833d94adcde336500498158d6"
+    },
+    "enCleanup": {
+      "path": "artifacts/replica/workers/connection/pageintegration/c14baa31227d4c4b9a391aba4d1fe4bc/actual-fullflow-windows/phase-534d26de96c046469d592a898c63d3ef/cleanup.json",
+      "sha256": "8d0cd84cbb820ff0cdb5ce6f8e4e96dc8e4898ef1fa97e7d073597d3ff796f5c"
+    },
+    "immediately-pre-cancel-pointer.json": {
+      "path": "artifacts/replica/workers/connection/pageintegration/c14baa31227d4c4b9a391aba4d1fe4bc/actual-fullflow-windows/phase-534d26de96c046469d592a898c63d3ef/immediately-pre-cancel-pointer.json",
+      "sha256": "c8c548834ae717ae672d67558f41c2867056c7e27d232516efdbdd1245845653"
+    },
+    "input-transport.txt": {
+      "path": "artifacts/replica/workers/connection/pageintegration/c14baa31227d4c4b9a391aba4d1fe4bc/actual-fullflow-windows/phase-534d26de96c046469d592a898c63d3ef/input-transport.txt",
+      "sha256": "e0b95ed097ac20f3e633a2f9c04d3b2ca89974a242c24dbfcbf788a0c0deabcf"
+    },
+    "cancel-stability.json": {
+      "path": "artifacts/replica/workers/connection/pageintegration/c14baa31227d4c4b9a391aba4d1fe4bc/actual-fullflow-windows/phase-534d26de96c046469d592a898c63d3ef/cancel-stability.json",
+      "sha256": "12e0cb22631b7d7fa8d97877bf751deee2e2dbc1494043e83d75b32177afc3ef"
+    },
+    "pageintegration-flow-native-ready.json": {
+      "path": "artifacts/replica/workers/connection/pageintegration/c14baa31227d4c4b9a391aba4d1fe4bc/actual-fullflow-windows/phase-534d26de96c046469d592a898c63d3ef/pageintegration-flow-native-ready.json",
+      "sha256": "b987290c1dcbef5157d61fad1e3b1344212f56e0d26e75912e6c6cb8074d52de"
+    },
+    "host-trace.log": {
+      "path": "artifacts/replica/workers/connection/pageintegration/c14baa31227d4c4b9a391aba4d1fe4bc/actual-fullflow-windows/phase-534d26de96c046469d592a898c63d3ef/host-trace.log",
+      "sha256": "c45661b61fd4cb315408cf36b61bd508f94ba045f479b72fb7e248389a4e2a9e"
+    }
+  },
+  "finalActualComparison": {
+    "macOS": {
+      "matchedStates": 44,
+      "checks": 3312,
+      "differences": 0,
+      "reuse": "Saved unchanged physical state/navigation proof, changed padding/Toast verified independently"
+    },
+    "windows": {
+      "matchedStates": 44,
+      "checks": 3308,
+      "differences": 0,
+      "milestonesPerLanguage": 29,
+      "rawLiveInterruption": true
+    }
+  },
+  "runtimeBoundary": "Windows 11 ARM VM actual win-x64 UI; EN same current frozen DLL launched by official project-local Microsoft.NET10.0.12 x64 muxer with guarded full command/PID/creation/path/hash. Generated apphost prior startup cause remains unknown; no release packaging startup claim. Whole product builds are separate no-probe build proof.",
+  "protectedFinal": {
+    "manifests": 71,
+    "fileOrFragmentChecks": 101,
+    "mismatches": [],
+    "records": {
+      "action-button-lock": {
+        "path": "docs/replica/source/action-button-lock.json",
+        "sha256": "7ebc42d921672973d9639b3ec5dd0b32b611ca6f6157cf08275939bd2710b6dc"
+      },
+      "actionfooter-lock": {
+        "path": "docs/replica/source/actionfooter-lock.json",
+        "sha256": "fa9fb09151123cf15ad8c6cfb4ad32a6c2af7f1042ca1d2d45e58d5d4ed5eabd"
+      },
+      "advancedconnection-lock": {
+        "path": "docs/replica/source/advancedconnection-lock.json",
+        "sha256": "45be2645256c736a9bfaa870c36b7ebcd0ad7b696eefcf2774c41190a7981f34"
+      },
+      "bulletlist-lock": {
+        "path": "docs/replica/source/bulletlist-lock.json",
+        "sha256": "d83ce0b7283b065f04274b6738220bcc958f211f2313f996269ba13a4a569e24"
+      },
+      "capabilityheader-lock": {
+        "path": "docs/replica/source/capabilityheader-lock.json",
+        "sha256": "57b2cb85ec015613cce566392815255751e2b2df08685638929e0a242b163829"
+      },
+      "capabilityrow-lock": {
+        "path": "docs/replica/source/capabilityrow-lock.json",
+        "sha256": "d720b2c7fc829f7d92734f33caf02193b0818e4ff78888513b6cf19f1144c4a4"
+      },
+      "capabilitytable-lock": {
+        "path": "docs/replica/source/capabilitytable-lock.json",
+        "sha256": "15259b4e70c78fa8529967b3aaee561afb717699ec107aad7d660334b9d9eb51"
+      },
+      "capabilityviewport-lock": {
+        "path": "docs/replica/source/capabilityviewport-lock.json",
+        "sha256": "4ed320de70a10c0e4bea0aac59f07107d77053ea3796504fc5ae7da73877f3bc"
+      },
+      "categoryheader-lock": {
+        "path": "docs/replica/source/categoryheader-lock.json",
+        "sha256": "0533087ac90ae13503fc5a1bd7f98b119cf93a033fd72325e918ac6a2d4ae670"
+      },
+      "categorysection-lock": {
+        "path": "docs/replica/source/categorysection-lock.json",
+        "sha256": "d36e61ee109f1f08304eed214dff54a9321f22f627f660e5ceb22ca1f3d7538e"
+      },
+      "checkbox-lock": {
+        "path": "docs/replica/source/checkbox-lock.json",
+        "sha256": "d547d079118574fb5049c81af09cfd532d0c9f2c54e4517466433f51c4cf61bf"
+      },
+      "choice-lock": {
+        "path": "docs/replica/source/choice-lock.json",
+        "sha256": "552b6d99f315d0755074f66dbb6cdb4f20b67e1d598b8c4650f9961762800668"
+      },
+      "connectionpage-lock": {
+        "path": "docs/replica/source/connectionpage-lock.json",
+        "sha256": "7fb900d243f428a11ed055f515ecbd09e662bd61a0797065f36d106df5d48010"
+      },
+      "connectionpanel-lock": {
+        "path": "docs/replica/source/connectionpanel-lock.json",
+        "sha256": "e32f6433bed86d7ed955748fef0b0605e8b5c4c25c5910105be757705b2ad101"
+      },
+      "dbmsoption-lock": {
+        "path": "docs/replica/source/dbmsoption-lock.json",
+        "sha256": "4cc7aeff5e5ea851398f1bf8bf7008f5dede3aeae38a37ce55bde29c7dcc5b76"
+      },
+      "dbmspicker-lock": {
+        "path": "docs/replica/source/dbmspicker-lock.json",
+        "sha256": "7a122e0882bd9ddddf1e5256e41af4a17b4d30dfb5a1cef893651811e945f3e6"
+      },
+      "detailsbody-lock": {
+        "path": "docs/replica/source/detailsbody-lock.json",
+        "sha256": "4966de1cc5dea1b271eaaa1f1cc372d613fca51697b7bc6e60f41c45e7114eed"
+      },
+      "downloadoption-lock": {
+        "path": "docs/replica/source/downloadoption-lock.json",
+        "sha256": "40053b24153cf54065a1fd81183bc88f3b6c8e2b18cd2ae117c0a73d4321d8bb"
+      },
+      "field-lock": {
+        "path": "docs/replica/source/field-lock.json",
+        "sha256": "e3b98318786aa39e05cd7182814d64168cb689b2b49d8aae5edae3e7fe6391f6"
+      },
+      "findingarticle-lock": {
+        "path": "docs/replica/source/findingarticle-lock.json",
+        "sha256": "1fde276455df60d9ae8130bf5156f453a371605b5bf9782b7fc67a8402ae6376"
+      },
+      "homepage-lock": {
+        "path": "docs/replica/source/homepage-lock.json",
+        "sha256": "07bd629445a7e4643ed1868d14cff6b5a6aa26926bbc02fffa46200771399416"
+      },
+      "iconbutton-lock": {
+        "path": "docs/replica/source/iconbutton-lock.json",
+        "sha256": "3c436539814fe6c31f7c7b5f4e2a2d3df624e232bf5beccf3ecd95aceaff8b05"
+      },
+      "infodialog-lock": {
+        "path": "docs/replica/source/infodialog-lock.json",
+        "sha256": "265790fb815575956fd6b9b75f8493d6b3af9f7d62a133ca8bafd37d4cc345f3"
+      },
+      "infodialogbody-lock": {
+        "path": "docs/replica/source/infodialogbody-lock.json",
+        "sha256": "307af0e1255646319b2aea8714dee6e200958dab26aaa96bbc0da9a0b8ded7ea"
+      },
+      "inlinetext-lock": {
+        "path": "docs/replica/source/inlinetext-lock.json",
+        "sha256": "0e9341bb034542fb7f8bbf0fe4f986505ed601feece5d99e3b43bf8ec4bdc4d3"
+      },
+      "maincontent-lock": {
+        "path": "docs/replica/source/maincontent-lock.json",
+        "sha256": "4d69674c4d1761dcea8fed9d6165167fcc32ae30fa97e7dda700221fd398056e"
+      },
+      "mainwindow-lock": {
+        "path": "docs/replica/source/mainwindow-lock.json",
+        "sha256": "d5479118090f6a9b64c26ae3e20bbedde91e5f4f1a4de2dc253b219f7fba6e04"
+      },
+      "matchingdialog-lock": {
+        "path": "docs/replica/source/matchingdialog-lock.json",
+        "sha256": "808defcfb2f604fb80604faebb43d0c271a5411f6163c3d9fb5ba7d22dbad0b5"
+      },
+      "matchoption-lock": {
+        "path": "docs/replica/source/matchoption-lock.json",
+        "sha256": "2d4ab5095196221c7daeebbd87b4c495880829ee3c5cebca229f3530aa8ac840"
+      },
+      "metricitem-lock": {
+        "path": "docs/replica/source/metricitem-lock.json",
+        "sha256": "80ec3f4fbd4246d20166d5a457c7ac371a48ea4e63ab041242f76381e0a7fecc"
+      },
+      "metrics-lock": {
+        "path": "docs/replica/source/metrics-lock.json",
+        "sha256": "27b1ab8d4dbeb6f5a6b21c84ce8a04f9725e874471f4b953b13f057a0ebf0dd5"
+      },
+      "motion-lock": {
+        "path": "docs/replica/source/motion-lock.json",
+        "sha256": "1a9a076d5de234645e847f022f3aa70ef783a9a1e5b8f61e9913e66d7e49fb29"
+      },
+      "notice-lock": {
+        "path": "docs/replica/source/notice-lock.json",
+        "sha256": "a853ca69de2b6d92839a3b9fb83b69cbbafa8f9e64563eff0d517d29ef416b03"
+      },
+      "numberinput-lock": {
+        "path": "docs/replica/source/numberinput-lock.json",
+        "sha256": "6692bb4bb690bd883d4c6ebb5f4b79de64b619521424a351eb612297d4b58cce"
+      },
+      "pageheading-lock": {
+        "path": "docs/replica/source/pageheading-lock.json",
+        "sha256": "86e2af4f5e579b670817f0d6b7835a95782fbef595ec62213d5d5e01b75c81d7"
+      },
+      "preflightpage-lock": {
+        "path": "docs/replica/source/preflightpage-lock.json",
+        "sha256": "766d7de9f2538fc7c84a28104219c48f3d4677cc09e43b25a5c4006dd7d234a8"
+      },
+      "prepareddb-lock": {
+        "path": "docs/replica/source/prepareddb-lock.json",
+        "sha256": "d24003a5b32a27b9007a7e530997a1cac155d7332820dd4ad160caa301063d70"
+      },
+      "progressmeter-lock": {
+        "path": "docs/replica/source/progressmeter-lock.json",
+        "sha256": "a67a30f0f4b690209658c42b431fd4a76831502c284680bea7cc4792cc5d9b3e"
+      },
+      "progresspage-lock": {
+        "path": "docs/replica/source/progresspage-lock.json",
+        "sha256": "14a2207f25a2d77ce6d4c1e61c03515c6f2b99120ef38f15c7554627e268207a"
+      },
+      "radio-lock": {
+        "path": "docs/replica/source/radio-lock.json",
+        "sha256": "2804e25de07d5e7161494097f113103409c5408ce0c8b33ff36f0edb68b84ace"
+      },
+      "resultchart-lock": {
+        "path": "docs/replica/source/resultchart-lock.json",
+        "sha256": "b9928695192be789c4f260c0ba3dc4e9c2858bb94ef257cd5834003eb07d7338"
+      },
+      "resultcount-lock": {
+        "path": "docs/replica/source/resultcount-lock.json",
+        "sha256": "eef9869eb25e444ee6ce0f00c9e2dd89267c773bc586c1f98b963355788665e1"
+      },
+      "resultdetails-lock": {
+        "path": "docs/replica/source/resultdetails-lock.json",
+        "sha256": "370825c4cfbcd1a438fe80342193ec93d94f6b00dfa6d04bc110e0729bcaabd6"
+      },
+      "resultrow-lock": {
+        "path": "docs/replica/source/resultrow-lock.json",
+        "sha256": "704c5f9817b0c94ccae4f93f146c7b299fe98f7cfc6212d13538a7ceb8f7981b"
+      },
+      "resultspage-lock": {
+        "path": "docs/replica/source/resultspage-lock.json",
+        "sha256": "c9ad977fb918005ccca72eb6214c3125432a915e2de1135bbdcde8c5e3fe155c"
+      },
+      "reviewpage-lock": {
+        "path": "docs/replica/source/reviewpage-lock.json",
+        "sha256": "4e4c5c3c617269a561e6391b6053231339fb92257cd46d20544ee25d6e04f7a2"
+      },
+      "samplereport-lock": {
+        "path": "docs/replica/source/samplereport-lock.json",
+        "sha256": "492b08b7423ca21bb51d62e3665e072e5c569acb060f6f517696fa503111439b"
+      },
+      "saveoptions-lock": {
+        "path": "docs/replica/source/saveoptions-lock.json",
+        "sha256": "2a01b4a00e44d9a7198b2e60daceca0226ce6b74c2bba4630b65063e8638a31b"
+      },
+      "savepage-lock": {
+        "path": "docs/replica/source/savepage-lock.json",
+        "sha256": "8b41e0e2e566bf07d9c02fb5e2eb386d2eaa620230a51cf134b7a08e05fb7184"
+      },
+      "scrollviewport-lock": {
+        "path": "docs/replica/source/scrollviewport-lock.json",
+        "sha256": "2b0dc769b4144d02501589d105cdf33ed1d0bec5735be91d6ab027e8286ef91c"
+      },
+      "searchinput-lock": {
+        "path": "docs/replica/source/searchinput-lock.json",
+        "sha256": "35cc28151d0970c5a9f6f67040a0842156c3c5e5269fb0a77c58e50a1db75980"
+      },
+      "selectionpage-lock": {
+        "path": "docs/replica/source/selectionpage-lock.json",
+        "sha256": "75c90595a35a5fd3872f29a3c67409eeca4b1aa907c45da044212cf3ee003de4"
+      },
+      "sidebar-lock": {
+        "path": "docs/replica/source/sidebar-lock.json",
+        "sha256": "6a677d7214df3a3534a75f48e4254a0a36b096c784cc90442eb17c3476c36771"
+      },
+      "sidebaritem-lock": {
+        "path": "docs/replica/source/sidebaritem-lock.json",
+        "sha256": "655e63f794d1b8074b25085ea78bcd4b0b5e2e3bdc26f11776f22fd091cf56d3"
+      },
+      "spinner-lock": {
+        "path": "docs/replica/source/spinner-lock.json",
+        "sha256": "72cda02db7bc94eb23d462f3a846b8e7a251e2c6b4572ec7ee3f74296e2cff58"
+      },
+      "statuspill-lock": {
+        "path": "docs/replica/source/statuspill-lock.json",
+        "sha256": "2731cc439178395a2dc29f96d9fbbfbe825c5eef3540b6e7995fd942db272948"
+      },
+      "stepbadge-lock": {
+        "path": "docs/replica/source/stepbadge-lock.json",
+        "sha256": "212fcfac2babe4741ef3e5971e8b41d367e67c6db467b965b24aca70c0ec7328"
+      },
+      "summaryitem-lock": {
+        "path": "docs/replica/source/summaryitem-lock.json",
+        "sha256": "29ab60e009b831f5ec82f9c1503e5eb79f5b7308ed8fc10542326c6962ccb507"
+      },
+      "summarylist-lock": {
+        "path": "docs/replica/source/summarylist-lock.json",
+        "sha256": "fdf6fe639c9e62f136a196fa31a396cc97bd553ccc773028d51bc35cc971a9f9"
+      },
+      "surface-lock": {
+        "path": "docs/replica/source/surface-lock.json",
+        "sha256": "30d2400eb3296aa21a49807065603fc6346ee8502f1be4817b1d657baebef727"
+      },
+      "svg-lock": {
+        "path": "docs/replica/source/svg-lock.json",
+        "sha256": "1a0fe7ae2f1cf11bf840bdf12fb1027db21df666c0aa3c9226d0ec59f0150e24"
+      },
+      "tablemappingrow-lock": {
+        "path": "docs/replica/source/tablemappingrow-lock.json",
+        "sha256": "670cca0c96579c574974b156a5081d9985275e0eac8cbca64e6cc467b0a5704e"
+      },
+      "textinput-lock": {
+        "path": "docs/replica/source/textinput-lock.json",
+        "sha256": "fd62b2962ab779ffe9f64afc3d373c0eafab088084cf721c7627703682c0a4cd"
+      },
+      "topbar-lock": {
+        "path": "docs/replica/source/topbar-lock.json",
+        "sha256": "509f3805c55684cdd6f1a4174d32ca49b73a312b23444dc5eed93479f34a1a2b"
+      },
+      "trialpage-lock": {
+        "path": "docs/replica/source/trialpage-lock.json",
+        "sha256": "b592354ac637f39e1d25e059fc77ed9b6704d862dceb2cd43cc9aeabb38cc880"
+      },
+      "trialpreparation-lock": {
+        "path": "docs/replica/source/trialpreparation-lock.json",
+        "sha256": "d752c531ad68a58e8a39e2e7886048546522d2374acadd301decb098bea2e594"
+      },
+      "typography-lock": {
+        "path": "docs/replica/source/typography-lock.json",
+        "sha256": "089cf0c3361a4cda3662533cc004086e4e144e7b97b29b5e48632a4bac9faf98"
+      },
+      "welcomepaper-lock": {
+        "path": "docs/replica/source/welcomepaper-lock.json",
+        "sha256": "0130cdbb62976fde6499990b1b26433bf57fe045728f06de1a2f743f3599d2e6"
+      },
+      "welcomepapercontent-lock": {
+        "path": "docs/replica/source/welcomepapercontent-lock.json",
+        "sha256": "dffe724fa4663dbfe4d865fefd05900323201c049c917f5cdcfc22034dfca34e"
+      },
+      "welcomestep-lock": {
+        "path": "docs/replica/source/welcomestep-lock.json",
+        "sha256": "f6b1d066bf47b3ad3a5ce1d621aa39bb27549a80b07f17a7640e6553f8e3c018"
+      },
+      "welcomesteps-lock": {
+        "path": "docs/replica/source/welcomesteps-lock.json",
+        "sha256": "6337e5a42544da863f6eb488d1eb64dda6d668ed7facc309162de93d4ceab879"
+      }
+    }
+  },
+  "completionDate": "2026-10-09",
+  "workers": "All three INACTIVE/COMPLETE; root final composition complete; no owned GUI/runtime/input actors remain."
+}

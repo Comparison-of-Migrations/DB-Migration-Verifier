@@ -1,0 +1,23 @@
+Window: "Replica CapabilityViewport verification", App: Avalonia Application.
+0 standard window Replica CapabilityViewport verification, Secondary Actions: Raise
+	1 container WindowChrome, ID: AvaloniaWindowChrome
+	2 container
+		3 container CapabilityViewport-box
+		4 button reset, ID: CapabilityViewport-reset
+			5 text reset
+		6 button middle, ID: CapabilityViewport-middle
+			7 text middle
+		8 button child-toggle, ID: CapabilityViewport-child-toggle
+			9 text child-toggle
+		10 button fit, ID: CapabilityViewport-fit
+			11 text fit
+		12 button mount, ID: CapabilityViewport-mount
+			13 text mount
+		14 button record, ID: CapabilityViewport-record
+			15 text record
+	16 close button
+	17 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	18 minimize button
+	19 text Replica CapabilityViewport verification
+20 menu bar
+	21 Avalonia Application

@@ -1,0 +1,30 @@
+{
+  "originalLive": {
+    "action": "PostgreSQL text click",
+    "engine": "PostgreSQL",
+    "ports": [
+      "5432",
+      "5432"
+    ],
+    "focus": "dbms-1",
+    "focusVisible": false
+  },
+  "isolation": {
+    "actions": [
+      "PostgreSQL text click",
+      "ArrowRight",
+      "Space"
+    ],
+    "checkedEngines": [
+      "PostgreSQL",
+      "MySQL",
+      "MySQL"
+    ],
+    "focusIds": [
+      "dbms-1",
+      "dbms-2",
+      "dbms-2"
+    ],
+    "evidence": "CUA actual AX state 2026-10-08; same literal connect fieldset; no injected state"
+  }
+}

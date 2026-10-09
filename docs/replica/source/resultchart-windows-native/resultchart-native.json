@@ -1,0 +1,3435 @@
+{
+  "scale": 2,
+  "rows": [
+    {
+      "id": "0",
+      "present": true,
+      "width": 610,
+      "height": 499.7890625,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 608,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 267.9375,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 267.9375,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 506.796875,
+        "y": 27.59375,
+        "width": 82.203125,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 608,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 21,
+          "y": 97.1953125,
+          "width": 170,
+          "height": 17.59375
+        },
+        {
+          "x": 211,
+          "y": 97.1953125,
+          "width": 100,
+          "height": 17.59375
+        },
+        {
+          "x": 331,
+          "y": 97.1953125,
+          "width": 100,
+          "height": 17.59375
+        },
+        {
+          "x": 451,
+          "y": 97.1953125,
+          "width": 100,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 608,
+            "height": 82
+          },
+          "name": "\uB370\uC774\uD130: \uBD88\uC77C\uCE58 1, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 11. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            1,
+            0,
+            11
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 209.7890625,
+            "width": 608,
+            "height": 82
+          },
+          "name": "\uAD6C\uC870\u00B7\uC81C\uC57D: \uBD88\uC77C\uCE58 1, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 17. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            1,
+            0,
+            17
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 291.7890625,
+            "width": 608,
+            "height": 82
+          },
+          "name": "\uC0AC\uC6A9\uC790\u00B7\uAD8C\uD55C: \uBD88\uC77C\uCE58 1, \uBBF8\uAC80\uC99D 2, \uC77C\uCE58 5. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 373.7890625,
+            "width": 608,
+            "height": 82
+          },
+          "name": "\uAD00\uB828 \uAC1D\uCCB4: \uBD88\uC77C\uCE58 0, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 12. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            0,
+            0,
+            12
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 455.7890625,
+        "width": 608,
+        "height": 43
+      },
+      "unitText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\n\uB9C9\uB300 \uACF5\uD1B5 \uCD95 0\u201320",
+      "headingText": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "helpText": "\uBD84\uB958\uB97C \uB20C\uB7EC \uC138\uBD80 \uAC80\uC0AC\uC640 \uD310\uC815 \uADFC\uAC70\uB97C \uD655\uC778\uD558\uC138\uC694.",
+      "captionText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\uB97C \uBE44\uAD50\uD569\uB2C8\uB2E4. \uD589 \uC218\uB098 \uC804\uCCB4 DB \uC131\uACF5\uB960\uC774 \uC544\uB2D9\uB2C8\uB2E4. \uBBF8\uAC80\uC99D\uC5D0\uB294 \uD655\uC778 \uBD88\uAC00\u00B7\uC911\uB2E8\u00B7\uBBF8\uC2DC\uC791 \uD56D\uBAA9\uC774 \uD3EC\uD568\uB429\uB2C8\uB2E4.",
+      "maximum": 20
+    },
+    {
+      "id": "1",
+      "present": true,
+      "width": 858,
+      "height": 499.7890625,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 856,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 267.9375,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 267.9375,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 754.796875,
+        "y": 27.59375,
+        "width": 82.203125,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 856,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 21,
+          "y": 97.1953125,
+          "width": 228.453125,
+          "height": 17.59375
+        },
+        {
+          "x": 269.453125,
+          "y": 97.1953125,
+          "width": 163.1796875,
+          "height": 17.59375
+        },
+        {
+          "x": 452.6328125,
+          "y": 97.1953125,
+          "width": 163.1796875,
+          "height": 17.59375
+        },
+        {
+          "x": 635.8125,
+          "y": 97.1953125,
+          "width": 163.1796875,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 856,
+            "height": 82
+          },
+          "name": "\uB370\uC774\uD130: \uBD88\uC77C\uCE58 1, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 11. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            1,
+            0,
+            11
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 209.7890625,
+            "width": 856,
+            "height": 82
+          },
+          "name": "\uAD6C\uC870\u00B7\uC81C\uC57D: \uBD88\uC77C\uCE58 1, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 17. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            1,
+            0,
+            17
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 291.7890625,
+            "width": 856,
+            "height": 82
+          },
+          "name": "\uC0AC\uC6A9\uC790\u00B7\uAD8C\uD55C: \uBD88\uC77C\uCE58 1, \uBBF8\uAC80\uC99D 2, \uC77C\uCE58 5. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 373.7890625,
+            "width": 856,
+            "height": 82
+          },
+          "name": "\uAD00\uB828 \uAC1D\uCCB4: \uBD88\uC77C\uCE58 0, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 12. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            0,
+            0,
+            12
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 455.7890625,
+        "width": 856,
+        "height": 43
+      },
+      "unitText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\n\uB9C9\uB300 \uACF5\uD1B5 \uCD95 0\u201320",
+      "headingText": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "helpText": "\uBD84\uB958\uB97C \uB20C\uB7EC \uC138\uBD80 \uAC80\uC0AC\uC640 \uD310\uC815 \uADFC\uAC70\uB97C \uD655\uC778\uD558\uC138\uC694.",
+      "captionText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\uB97C \uBE44\uAD50\uD569\uB2C8\uB2E4. \uD589 \uC218\uB098 \uC804\uCCB4 DB \uC131\uACF5\uB960\uC774 \uC544\uB2D9\uB2C8\uB2E4. \uBBF8\uAC80\uC99D\uC5D0\uB294 \uD655\uC778 \uBD88\uAC00\u00B7\uC911\uB2E8\u00B7\uBBF8\uC2DC\uC791 \uD56D\uBAA9\uC774 \uD3EC\uD568\uB429\uB2C8\uB2E4.",
+      "maximum": 20
+    },
+    {
+      "id": "2",
+      "present": true,
+      "width": 980,
+      "height": 499.7890625,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 978,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 267.9375,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 267.9375,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 876.796875,
+        "y": 27.59375,
+        "width": 82.203125,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 978,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 21,
+          "y": 97.1953125,
+          "width": 267.265625,
+          "height": 17.59375
+        },
+        {
+          "x": 308.265625,
+          "y": 97.1953125,
+          "width": 190.9140625,
+          "height": 17.59375
+        },
+        {
+          "x": 519.1796875,
+          "y": 97.1953125,
+          "width": 190.90625,
+          "height": 17.59375
+        },
+        {
+          "x": 730.0859375,
+          "y": 97.1953125,
+          "width": 190.90625,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 978,
+            "height": 82
+          },
+          "name": "\uB370\uC774\uD130: \uBD88\uC77C\uCE58 1, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 11. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            1,
+            0,
+            11
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 209.7890625,
+            "width": 978,
+            "height": 82
+          },
+          "name": "\uAD6C\uC870\u00B7\uC81C\uC57D: \uBD88\uC77C\uCE58 1, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 17. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            1,
+            0,
+            17
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 291.7890625,
+            "width": 978,
+            "height": 82
+          },
+          "name": "\uC0AC\uC6A9\uC790\u00B7\uAD8C\uD55C: \uBD88\uC77C\uCE58 1, \uBBF8\uAC80\uC99D 2, \uC77C\uCE58 5. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 373.7890625,
+            "width": 978,
+            "height": 82
+          },
+          "name": "\uAD00\uB828 \uAC1D\uCCB4: \uBD88\uC77C\uCE58 0, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 12. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            0,
+            0,
+            12
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 455.7890625,
+        "width": 978,
+        "height": 43
+      },
+      "unitText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\n\uB9C9\uB300 \uACF5\uD1B5 \uCD95 0\u201320",
+      "headingText": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "helpText": "\uBD84\uB958\uB97C \uB20C\uB7EC \uC138\uBD80 \uAC80\uC0AC\uC640 \uD310\uC815 \uADFC\uAC70\uB97C \uD655\uC778\uD558\uC138\uC694.",
+      "captionText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\uB97C \uBE44\uAD50\uD569\uB2C8\uB2E4. \uD589 \uC218\uB098 \uC804\uCCB4 DB \uC131\uACF5\uB960\uC774 \uC544\uB2D9\uB2C8\uB2E4. \uBBF8\uAC80\uC99D\uC5D0\uB294 \uD655\uC778 \uBD88\uAC00\u00B7\uC911\uB2E8\u00B7\uBBF8\uC2DC\uC791 \uD56D\uBAA9\uC774 \uD3EC\uD568\uB429\uB2C8\uB2E4.",
+      "maximum": 20
+    },
+    {
+      "id": "3",
+      "present": true,
+      "width": 1060,
+      "height": 499.7890625,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 1058,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 267.9375,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 267.9375,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 956.796875,
+        "y": 27.59375,
+        "width": 82.203125,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 1058,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 21,
+          "y": 97.1953125,
+          "width": 292.7265625,
+          "height": 17.59375
+        },
+        {
+          "x": 333.7265625,
+          "y": 97.1953125,
+          "width": 209.0859375,
+          "height": 17.59375
+        },
+        {
+          "x": 562.8125,
+          "y": 97.1953125,
+          "width": 209.09375,
+          "height": 17.59375
+        },
+        {
+          "x": 791.90625,
+          "y": 97.1953125,
+          "width": 209.09375,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 1058,
+            "height": 82
+          },
+          "name": "\uB370\uC774\uD130: \uBD88\uC77C\uCE58 1, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 11. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            1,
+            0,
+            11
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 209.7890625,
+            "width": 1058,
+            "height": 82
+          },
+          "name": "\uAD6C\uC870\u00B7\uC81C\uC57D: \uBD88\uC77C\uCE58 1, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 17. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            1,
+            0,
+            17
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 291.7890625,
+            "width": 1058,
+            "height": 82
+          },
+          "name": "\uC0AC\uC6A9\uC790\u00B7\uAD8C\uD55C: \uBD88\uC77C\uCE58 1, \uBBF8\uAC80\uC99D 2, \uC77C\uCE58 5. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 373.7890625,
+            "width": 1058,
+            "height": 82
+          },
+          "name": "\uAD00\uB828 \uAC1D\uCCB4: \uBD88\uC77C\uCE58 0, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 12. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            0,
+            0,
+            12
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 455.7890625,
+        "width": 1058,
+        "height": 43
+      },
+      "unitText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\n\uB9C9\uB300 \uACF5\uD1B5 \uCD95 0\u201320",
+      "headingText": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "helpText": "\uBD84\uB958\uB97C \uB20C\uB7EC \uC138\uBD80 \uAC80\uC0AC\uC640 \uD310\uC815 \uADFC\uAC70\uB97C \uD655\uC778\uD558\uC138\uC694.",
+      "captionText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\uB97C \uBE44\uAD50\uD569\uB2C8\uB2E4. \uD589 \uC218\uB098 \uC804\uCCB4 DB \uC131\uACF5\uB960\uC774 \uC544\uB2D9\uB2C8\uB2E4. \uBBF8\uAC80\uC99D\uC5D0\uB294 \uD655\uC778 \uBD88\uAC00\u00B7\uC911\uB2E8\u00B7\uBBF8\uC2DC\uC791 \uD56D\uBAA9\uC774 \uD3EC\uD568\uB429\uB2C8\uB2E4.",
+      "maximum": 20
+    },
+    {
+      "id": "4",
+      "present": true,
+      "width": 610,
+      "height": 253.7890625,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 608,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 267.9375,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 267.9375,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 506.796875,
+        "y": 27.59375,
+        "width": 82.203125,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 608,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 21,
+          "y": 97.1953125,
+          "width": 170,
+          "height": 17.59375
+        },
+        {
+          "x": 211,
+          "y": 97.1953125,
+          "width": 100,
+          "height": 17.59375
+        },
+        {
+          "x": 331,
+          "y": 97.1953125,
+          "width": 100,
+          "height": 17.59375
+        },
+        {
+          "x": 451,
+          "y": 97.1953125,
+          "width": 100,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 608,
+            "height": 82
+          },
+          "name": "\uB370\uC774\uD130: \uBD88\uC77C\uCE58 7, \uBBF8\uAC80\uC99D 5, \uC77C\uCE58 0. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            7,
+            5,
+            0
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 209.7890625,
+        "width": 608,
+        "height": 43
+      },
+      "unitText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\n\uB9C9\uB300 \uACF5\uD1B5 \uCD95 0\u201310",
+      "headingText": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "helpText": "\uBD84\uB958\uB97C \uB20C\uB7EC \uC138\uBD80 \uAC80\uC0AC\uC640 \uD310\uC815 \uADFC\uAC70\uB97C \uD655\uC778\uD558\uC138\uC694.",
+      "captionText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\uB97C \uBE44\uAD50\uD569\uB2C8\uB2E4. \uD589 \uC218\uB098 \uC804\uCCB4 DB \uC131\uACF5\uB960\uC774 \uC544\uB2D9\uB2C8\uB2E4. \uBBF8\uAC80\uC99D\uC5D0\uB294 \uD655\uC778 \uBD88\uAC00\u00B7\uC911\uB2E8\u00B7\uBBF8\uC2DC\uC791 \uD56D\uBAA9\uC774 \uD3EC\uD568\uB429\uB2C8\uB2E4.",
+      "maximum": 10
+    },
+    {
+      "id": "5",
+      "present": true,
+      "width": 610,
+      "height": 335.7890625,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 608,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 267.9375,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 267.9375,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 506.796875,
+        "y": 27.59375,
+        "width": 82.203125,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 608,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 21,
+          "y": 97.1953125,
+          "width": 170,
+          "height": 17.59375
+        },
+        {
+          "x": 211,
+          "y": 97.1953125,
+          "width": 100,
+          "height": 17.59375
+        },
+        {
+          "x": 331,
+          "y": 97.1953125,
+          "width": 100,
+          "height": 17.59375
+        },
+        {
+          "x": 451,
+          "y": 97.1953125,
+          "width": 100,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 608,
+            "height": 82
+          },
+          "name": "\uC0AC\uC6A9\uC790\u00B7\uAD8C\uD55C: \uBD88\uC77C\uCE58 0, \uBBF8\uAC80\uC99D 8, \uC77C\uCE58 0. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            0,
+            8,
+            0
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 209.7890625,
+            "width": 608,
+            "height": 82
+          },
+          "name": "\uAD00\uB828 \uAC1D\uCCB4: \uBD88\uC77C\uCE58 0, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 0. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 291.7890625,
+        "width": 608,
+        "height": 43
+      },
+      "unitText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\n\uB9C9\uB300 \uACF5\uD1B5 \uCD95 0\u201310",
+      "headingText": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "helpText": "\uBD84\uB958\uB97C \uB20C\uB7EC \uC138\uBD80 \uAC80\uC0AC\uC640 \uD310\uC815 \uADFC\uAC70\uB97C \uD655\uC778\uD558\uC138\uC694.",
+      "captionText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\uB97C \uBE44\uAD50\uD569\uB2C8\uB2E4. \uD589 \uC218\uB098 \uC804\uCCB4 DB \uC131\uACF5\uB960\uC774 \uC544\uB2D9\uB2C8\uB2E4. \uBBF8\uAC80\uC99D\uC5D0\uB294 \uD655\uC778 \uBD88\uAC00\u00B7\uC911\uB2E8\u00B7\uBBF8\uC2DC\uC791 \uD56D\uBAA9\uC774 \uD3EC\uD568\uB429\uB2C8\uB2E4.",
+      "maximum": 10
+    },
+    {
+      "id": "6",
+      "present": false
+    },
+    {
+      "id": "7",
+      "present": false
+    },
+    {
+      "id": "8",
+      "present": true,
+      "width": 610,
+      "height": 499.7890625,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 608,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 267.9375,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 267.9375,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 506.796875,
+        "y": 27.59375,
+        "width": 82.203125,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 608,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 17,
+          "y": 97.1953125,
+          "width": 157.8125,
+          "height": 17.59375
+        },
+        {
+          "x": 190.8125,
+          "y": 97.1953125,
+          "width": 112.7265625,
+          "height": 17.59375
+        },
+        {
+          "x": 319.5390625,
+          "y": 97.1953125,
+          "width": 112.7265625,
+          "height": 17.59375
+        },
+        {
+          "x": 448.265625,
+          "y": 97.1953125,
+          "width": 112.7265625,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 608,
+            "height": 82
+          },
+          "name": "\uB370\uC774\uD130: \uBD88\uC77C\uCE58 1, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 11. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            1,
+            0,
+            11
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 209.7890625,
+            "width": 608,
+            "height": 82
+          },
+          "name": "\uAD6C\uC870\u00B7\uC81C\uC57D: \uBD88\uC77C\uCE58 1, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 17. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            1,
+            0,
+            17
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 291.7890625,
+            "width": 608,
+            "height": 82
+          },
+          "name": "\uC0AC\uC6A9\uC790\u00B7\uAD8C\uD55C: \uBD88\uC77C\uCE58 1, \uBBF8\uAC80\uC99D 2, \uC77C\uCE58 5. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 373.7890625,
+            "width": 608,
+            "height": 82
+          },
+          "name": "\uAD00\uB828 \uAC1D\uCCB4: \uBD88\uC77C\uCE58 0, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 12. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            0,
+            0,
+            12
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 455.7890625,
+        "width": 608,
+        "height": 43
+      },
+      "unitText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\n\uB9C9\uB300 \uACF5\uD1B5 \uCD95 0\u201320",
+      "headingText": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "helpText": "\uBD84\uB958\uB97C \uB20C\uB7EC \uC138\uBD80 \uAC80\uC0AC\uC640 \uD310\uC815 \uADFC\uAC70\uB97C \uD655\uC778\uD558\uC138\uC694.",
+      "captionText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\uB97C \uBE44\uAD50\uD569\uB2C8\uB2E4. \uD589 \uC218\uB098 \uC804\uCCB4 DB \uC131\uACF5\uB960\uC774 \uC544\uB2D9\uB2C8\uB2E4. \uBBF8\uAC80\uC99D\uC5D0\uB294 \uD655\uC778 \uBD88\uAC00\u00B7\uC911\uB2E8\u00B7\uBBF8\uC2DC\uC791 \uD56D\uBAA9\uC774 \uD3EC\uD568\uB429\uB2C8\uB2E4.",
+      "maximum": 20
+    },
+    {
+      "id": "9",
+      "present": true,
+      "width": 858,
+      "height": 499.7890625,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 856,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 267.9375,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 267.9375,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 754.796875,
+        "y": 27.59375,
+        "width": 82.203125,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 856,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 17,
+          "y": 97.1953125,
+          "width": 236.7265625,
+          "height": 17.59375
+        },
+        {
+          "x": 269.7265625,
+          "y": 97.1953125,
+          "width": 169.0859375,
+          "height": 17.59375
+        },
+        {
+          "x": 454.8125,
+          "y": 97.1953125,
+          "width": 169.09375,
+          "height": 17.59375
+        },
+        {
+          "x": 639.90625,
+          "y": 97.1953125,
+          "width": 169.09375,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 856,
+            "height": 82
+          },
+          "name": "\uB370\uC774\uD130: \uBD88\uC77C\uCE58 1, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 11. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            1,
+            0,
+            11
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 209.7890625,
+            "width": 856,
+            "height": 82
+          },
+          "name": "\uAD6C\uC870\u00B7\uC81C\uC57D: \uBD88\uC77C\uCE58 1, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 17. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            1,
+            0,
+            17
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 291.7890625,
+            "width": 856,
+            "height": 82
+          },
+          "name": "\uC0AC\uC6A9\uC790\u00B7\uAD8C\uD55C: \uBD88\uC77C\uCE58 1, \uBBF8\uAC80\uC99D 2, \uC77C\uCE58 5. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 373.7890625,
+            "width": 856,
+            "height": 82
+          },
+          "name": "\uAD00\uB828 \uAC1D\uCCB4: \uBD88\uC77C\uCE58 0, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 12. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            0,
+            0,
+            12
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 455.7890625,
+        "width": 856,
+        "height": 43
+      },
+      "unitText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\n\uB9C9\uB300 \uACF5\uD1B5 \uCD95 0\u201320",
+      "headingText": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "helpText": "\uBD84\uB958\uB97C \uB20C\uB7EC \uC138\uBD80 \uAC80\uC0AC\uC640 \uD310\uC815 \uADFC\uAC70\uB97C \uD655\uC778\uD558\uC138\uC694.",
+      "captionText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\uB97C \uBE44\uAD50\uD569\uB2C8\uB2E4. \uD589 \uC218\uB098 \uC804\uCCB4 DB \uC131\uACF5\uB960\uC774 \uC544\uB2D9\uB2C8\uB2E4. \uBBF8\uAC80\uC99D\uC5D0\uB294 \uD655\uC778 \uBD88\uAC00\u00B7\uC911\uB2E8\u00B7\uBBF8\uC2DC\uC791 \uD56D\uBAA9\uC774 \uD3EC\uD568\uB429\uB2C8\uB2E4.",
+      "maximum": 20
+    },
+    {
+      "id": "10",
+      "present": true,
+      "width": 980,
+      "height": 499.7890625,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 978,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 267.9375,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 267.9375,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 876.796875,
+        "y": 27.59375,
+        "width": 82.203125,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 978,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 17,
+          "y": 97.1953125,
+          "width": 275.5390625,
+          "height": 17.59375
+        },
+        {
+          "x": 308.5390625,
+          "y": 97.1953125,
+          "width": 196.8203125,
+          "height": 17.59375
+        },
+        {
+          "x": 521.359375,
+          "y": 97.1953125,
+          "width": 196.8203125,
+          "height": 17.59375
+        },
+        {
+          "x": 734.1796875,
+          "y": 97.1953125,
+          "width": 196.8125,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 978,
+            "height": 82
+          },
+          "name": "\uB370\uC774\uD130: \uBD88\uC77C\uCE58 1, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 11. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            1,
+            0,
+            11
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 209.7890625,
+            "width": 978,
+            "height": 82
+          },
+          "name": "\uAD6C\uC870\u00B7\uC81C\uC57D: \uBD88\uC77C\uCE58 1, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 17. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            1,
+            0,
+            17
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 291.7890625,
+            "width": 978,
+            "height": 82
+          },
+          "name": "\uC0AC\uC6A9\uC790\u00B7\uAD8C\uD55C: \uBD88\uC77C\uCE58 1, \uBBF8\uAC80\uC99D 2, \uC77C\uCE58 5. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 373.7890625,
+            "width": 978,
+            "height": 82
+          },
+          "name": "\uAD00\uB828 \uAC1D\uCCB4: \uBD88\uC77C\uCE58 0, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 12. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            0,
+            0,
+            12
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 455.7890625,
+        "width": 978,
+        "height": 43
+      },
+      "unitText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\n\uB9C9\uB300 \uACF5\uD1B5 \uCD95 0\u201320",
+      "headingText": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "helpText": "\uBD84\uB958\uB97C \uB20C\uB7EC \uC138\uBD80 \uAC80\uC0AC\uC640 \uD310\uC815 \uADFC\uAC70\uB97C \uD655\uC778\uD558\uC138\uC694.",
+      "captionText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\uB97C \uBE44\uAD50\uD569\uB2C8\uB2E4. \uD589 \uC218\uB098 \uC804\uCCB4 DB \uC131\uACF5\uB960\uC774 \uC544\uB2D9\uB2C8\uB2E4. \uBBF8\uAC80\uC99D\uC5D0\uB294 \uD655\uC778 \uBD88\uAC00\u00B7\uC911\uB2E8\u00B7\uBBF8\uC2DC\uC791 \uD56D\uBAA9\uC774 \uD3EC\uD568\uB429\uB2C8\uB2E4.",
+      "maximum": 20
+    },
+    {
+      "id": "11",
+      "present": true,
+      "width": 1060,
+      "height": 499.7890625,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 1058,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 267.9375,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 267.9375,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 956.796875,
+        "y": 27.59375,
+        "width": 82.203125,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 1058,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 17,
+          "y": 97.1953125,
+          "width": 301,
+          "height": 17.59375
+        },
+        {
+          "x": 334,
+          "y": 97.1953125,
+          "width": 215,
+          "height": 17.59375
+        },
+        {
+          "x": 565,
+          "y": 97.1953125,
+          "width": 215,
+          "height": 17.59375
+        },
+        {
+          "x": 796,
+          "y": 97.1953125,
+          "width": 215,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 1058,
+            "height": 82
+          },
+          "name": "\uB370\uC774\uD130: \uBD88\uC77C\uCE58 1, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 11. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            1,
+            0,
+            11
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 209.7890625,
+            "width": 1058,
+            "height": 82
+          },
+          "name": "\uAD6C\uC870\u00B7\uC81C\uC57D: \uBD88\uC77C\uCE58 1, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 17. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            1,
+            0,
+            17
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 291.7890625,
+            "width": 1058,
+            "height": 82
+          },
+          "name": "\uC0AC\uC6A9\uC790\u00B7\uAD8C\uD55C: \uBD88\uC77C\uCE58 1, \uBBF8\uAC80\uC99D 2, \uC77C\uCE58 5. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 373.7890625,
+            "width": 1058,
+            "height": 82
+          },
+          "name": "\uAD00\uB828 \uAC1D\uCCB4: \uBD88\uC77C\uCE58 0, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 12. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            0,
+            0,
+            12
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 455.7890625,
+        "width": 1058,
+        "height": 43
+      },
+      "unitText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\n\uB9C9\uB300 \uACF5\uD1B5 \uCD95 0\u201320",
+      "headingText": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "helpText": "\uBD84\uB958\uB97C \uB20C\uB7EC \uC138\uBD80 \uAC80\uC0AC\uC640 \uD310\uC815 \uADFC\uAC70\uB97C \uD655\uC778\uD558\uC138\uC694.",
+      "captionText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\uB97C \uBE44\uAD50\uD569\uB2C8\uB2E4. \uD589 \uC218\uB098 \uC804\uCCB4 DB \uC131\uACF5\uB960\uC774 \uC544\uB2D9\uB2C8\uB2E4. \uBBF8\uAC80\uC99D\uC5D0\uB294 \uD655\uC778 \uBD88\uAC00\u00B7\uC911\uB2E8\u00B7\uBBF8\uC2DC\uC791 \uD56D\uBAA9\uC774 \uD3EC\uD568\uB429\uB2C8\uB2E4.",
+      "maximum": 20
+    },
+    {
+      "id": "12",
+      "present": true,
+      "width": 610,
+      "height": 253.7890625,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 608,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 267.9375,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 267.9375,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 506.796875,
+        "y": 27.59375,
+        "width": 82.203125,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 608,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 17,
+          "y": 97.1953125,
+          "width": 157.8125,
+          "height": 17.59375
+        },
+        {
+          "x": 190.8125,
+          "y": 97.1953125,
+          "width": 112.7265625,
+          "height": 17.59375
+        },
+        {
+          "x": 319.5390625,
+          "y": 97.1953125,
+          "width": 112.7265625,
+          "height": 17.59375
+        },
+        {
+          "x": 448.265625,
+          "y": 97.1953125,
+          "width": 112.7265625,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 608,
+            "height": 82
+          },
+          "name": "\uB370\uC774\uD130: \uBD88\uC77C\uCE58 7, \uBBF8\uAC80\uC99D 5, \uC77C\uCE58 0. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            7,
+            5,
+            0
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 209.7890625,
+        "width": 608,
+        "height": 43
+      },
+      "unitText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\n\uB9C9\uB300 \uACF5\uD1B5 \uCD95 0\u201310",
+      "headingText": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "helpText": "\uBD84\uB958\uB97C \uB20C\uB7EC \uC138\uBD80 \uAC80\uC0AC\uC640 \uD310\uC815 \uADFC\uAC70\uB97C \uD655\uC778\uD558\uC138\uC694.",
+      "captionText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\uB97C \uBE44\uAD50\uD569\uB2C8\uB2E4. \uD589 \uC218\uB098 \uC804\uCCB4 DB \uC131\uACF5\uB960\uC774 \uC544\uB2D9\uB2C8\uB2E4. \uBBF8\uAC80\uC99D\uC5D0\uB294 \uD655\uC778 \uBD88\uAC00\u00B7\uC911\uB2E8\u00B7\uBBF8\uC2DC\uC791 \uD56D\uBAA9\uC774 \uD3EC\uD568\uB429\uB2C8\uB2E4.",
+      "maximum": 10
+    },
+    {
+      "id": "13",
+      "present": true,
+      "width": 610,
+      "height": 335.7890625,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 608,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 267.9375,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 267.9375,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 506.796875,
+        "y": 27.59375,
+        "width": 82.203125,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 608,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 17,
+          "y": 97.1953125,
+          "width": 157.8125,
+          "height": 17.59375
+        },
+        {
+          "x": 190.8125,
+          "y": 97.1953125,
+          "width": 112.7265625,
+          "height": 17.59375
+        },
+        {
+          "x": 319.5390625,
+          "y": 97.1953125,
+          "width": 112.7265625,
+          "height": 17.59375
+        },
+        {
+          "x": 448.265625,
+          "y": 97.1953125,
+          "width": 112.7265625,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 608,
+            "height": 82
+          },
+          "name": "\uC0AC\uC6A9\uC790\u00B7\uAD8C\uD55C: \uBD88\uC77C\uCE58 0, \uBBF8\uAC80\uC99D 8, \uC77C\uCE58 0. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            0,
+            8,
+            0
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 209.7890625,
+            "width": 608,
+            "height": 82
+          },
+          "name": "\uAD00\uB828 \uAC1D\uCCB4: \uBD88\uC77C\uCE58 0, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 0. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 291.7890625,
+        "width": 608,
+        "height": 43
+      },
+      "unitText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\n\uB9C9\uB300 \uACF5\uD1B5 \uCD95 0\u201310",
+      "headingText": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "helpText": "\uBD84\uB958\uB97C \uB20C\uB7EC \uC138\uBD80 \uAC80\uC0AC\uC640 \uD310\uC815 \uADFC\uAC70\uB97C \uD655\uC778\uD558\uC138\uC694.",
+      "captionText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\uB97C \uBE44\uAD50\uD569\uB2C8\uB2E4. \uD589 \uC218\uB098 \uC804\uCCB4 DB \uC131\uACF5\uB960\uC774 \uC544\uB2D9\uB2C8\uB2E4. \uBBF8\uAC80\uC99D\uC5D0\uB294 \uD655\uC778 \uBD88\uAC00\u00B7\uC911\uB2E8\u00B7\uBBF8\uC2DC\uC791 \uD56D\uBAA9\uC774 \uD3EC\uD568\uB429\uB2C8\uB2E4.",
+      "maximum": 10
+    },
+    {
+      "id": "14",
+      "present": false
+    },
+    {
+      "id": "15",
+      "present": false
+    },
+    {
+      "id": "16",
+      "present": true,
+      "width": 610,
+      "height": 522.3828125,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 608,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 281.0625,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 281.0625,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 488.9453125,
+        "y": 27.59375,
+        "width": 100.0546875,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 608,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 21,
+          "y": 97.1953125,
+          "width": 170,
+          "height": 17.59375
+        },
+        {
+          "x": 211,
+          "y": 97.1953125,
+          "width": 100,
+          "height": 17.59375
+        },
+        {
+          "x": 331,
+          "y": 97.1953125,
+          "width": 100,
+          "height": 17.59375
+        },
+        {
+          "x": 451,
+          "y": 97.1953125,
+          "width": 100,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 608,
+            "height": 82
+          },
+          "name": "Data: Different 1, Unverified 0, Equal 11. View details",
+          "numbers": [
+            1,
+            0,
+            11
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 209.7890625,
+            "width": 608,
+            "height": 86.59375
+          },
+          "name": "Schema \u0026 constraints: Different 1, Unverified 0, Equal 17. View details",
+          "numbers": [
+            1,
+            0,
+            17
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 296.3828125,
+            "width": 608,
+            "height": 82
+          },
+          "name": "Users \u0026 permissions: Different 1, Unverified 2, Equal 5. View details",
+          "numbers": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 378.3828125,
+            "width": 608,
+            "height": 82
+          },
+          "name": "Related objects: Different 0, Unverified 0, Equal 12. View details",
+          "numbers": [
+            0,
+            0,
+            12
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 460.3828125,
+        "width": 608,
+        "height": 61
+      },
+      "unitText": "Check counts\nShared bar scale 0\u201320",
+      "headingText": "Comparison results by category",
+      "helpText": "Select a category for detailed checks and evidence.",
+      "captionText": "These are check counts, not row counts or a whole-DB success rate. Unverified includes unreadable, interrupted and unstarted checks.",
+      "maximum": 20
+    },
+    {
+      "id": "17",
+      "present": true,
+      "width": 858,
+      "height": 499.7890625,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 856,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 281.0625,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 281.0625,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 736.9453125,
+        "y": 27.59375,
+        "width": 100.0546875,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 856,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 21,
+          "y": 97.1953125,
+          "width": 228.453125,
+          "height": 17.59375
+        },
+        {
+          "x": 269.453125,
+          "y": 97.1953125,
+          "width": 163.1796875,
+          "height": 17.59375
+        },
+        {
+          "x": 452.6328125,
+          "y": 97.1953125,
+          "width": 163.1796875,
+          "height": 17.59375
+        },
+        {
+          "x": 635.8125,
+          "y": 97.1953125,
+          "width": 163.1796875,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 856,
+            "height": 82
+          },
+          "name": "Data: Different 1, Unverified 0, Equal 11. View details",
+          "numbers": [
+            1,
+            0,
+            11
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 209.7890625,
+            "width": 856,
+            "height": 82
+          },
+          "name": "Schema \u0026 constraints: Different 1, Unverified 0, Equal 17. View details",
+          "numbers": [
+            1,
+            0,
+            17
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 291.7890625,
+            "width": 856,
+            "height": 82
+          },
+          "name": "Users \u0026 permissions: Different 1, Unverified 2, Equal 5. View details",
+          "numbers": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 373.7890625,
+            "width": 856,
+            "height": 82
+          },
+          "name": "Related objects: Different 0, Unverified 0, Equal 12. View details",
+          "numbers": [
+            0,
+            0,
+            12
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 455.7890625,
+        "width": 856,
+        "height": 43
+      },
+      "unitText": "Check counts\nShared bar scale 0\u201320",
+      "headingText": "Comparison results by category",
+      "helpText": "Select a category for detailed checks and evidence.",
+      "captionText": "These are check counts, not row counts or a whole-DB success rate. Unverified includes unreadable, interrupted and unstarted checks.",
+      "maximum": 20
+    },
+    {
+      "id": "18",
+      "present": true,
+      "width": 980,
+      "height": 499.7890625,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 978,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 281.0625,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 281.0625,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 858.9453125,
+        "y": 27.59375,
+        "width": 100.0546875,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 978,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 21,
+          "y": 97.1953125,
+          "width": 267.265625,
+          "height": 17.59375
+        },
+        {
+          "x": 308.265625,
+          "y": 97.1953125,
+          "width": 190.9140625,
+          "height": 17.59375
+        },
+        {
+          "x": 519.1796875,
+          "y": 97.1953125,
+          "width": 190.90625,
+          "height": 17.59375
+        },
+        {
+          "x": 730.0859375,
+          "y": 97.1953125,
+          "width": 190.90625,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 978,
+            "height": 82
+          },
+          "name": "Data: Different 1, Unverified 0, Equal 11. View details",
+          "numbers": [
+            1,
+            0,
+            11
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 209.7890625,
+            "width": 978,
+            "height": 82
+          },
+          "name": "Schema \u0026 constraints: Different 1, Unverified 0, Equal 17. View details",
+          "numbers": [
+            1,
+            0,
+            17
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 291.7890625,
+            "width": 978,
+            "height": 82
+          },
+          "name": "Users \u0026 permissions: Different 1, Unverified 2, Equal 5. View details",
+          "numbers": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 373.7890625,
+            "width": 978,
+            "height": 82
+          },
+          "name": "Related objects: Different 0, Unverified 0, Equal 12. View details",
+          "numbers": [
+            0,
+            0,
+            12
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 455.7890625,
+        "width": 978,
+        "height": 43
+      },
+      "unitText": "Check counts\nShared bar scale 0\u201320",
+      "headingText": "Comparison results by category",
+      "helpText": "Select a category for detailed checks and evidence.",
+      "captionText": "These are check counts, not row counts or a whole-DB success rate. Unverified includes unreadable, interrupted and unstarted checks.",
+      "maximum": 20
+    },
+    {
+      "id": "19",
+      "present": true,
+      "width": 1060,
+      "height": 499.7890625,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 1058,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 281.0625,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 281.0625,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 938.9453125,
+        "y": 27.59375,
+        "width": 100.0546875,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 1058,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 21,
+          "y": 97.1953125,
+          "width": 292.7265625,
+          "height": 17.59375
+        },
+        {
+          "x": 333.7265625,
+          "y": 97.1953125,
+          "width": 209.0859375,
+          "height": 17.59375
+        },
+        {
+          "x": 562.8125,
+          "y": 97.1953125,
+          "width": 209.09375,
+          "height": 17.59375
+        },
+        {
+          "x": 791.90625,
+          "y": 97.1953125,
+          "width": 209.09375,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 1058,
+            "height": 82
+          },
+          "name": "Data: Different 1, Unverified 0, Equal 11. View details",
+          "numbers": [
+            1,
+            0,
+            11
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 209.7890625,
+            "width": 1058,
+            "height": 82
+          },
+          "name": "Schema \u0026 constraints: Different 1, Unverified 0, Equal 17. View details",
+          "numbers": [
+            1,
+            0,
+            17
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 291.7890625,
+            "width": 1058,
+            "height": 82
+          },
+          "name": "Users \u0026 permissions: Different 1, Unverified 2, Equal 5. View details",
+          "numbers": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 373.7890625,
+            "width": 1058,
+            "height": 82
+          },
+          "name": "Related objects: Different 0, Unverified 0, Equal 12. View details",
+          "numbers": [
+            0,
+            0,
+            12
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 455.7890625,
+        "width": 1058,
+        "height": 43
+      },
+      "unitText": "Check counts\nShared bar scale 0\u201320",
+      "headingText": "Comparison results by category",
+      "helpText": "Select a category for detailed checks and evidence.",
+      "captionText": "These are check counts, not row counts or a whole-DB success rate. Unverified includes unreadable, interrupted and unstarted checks.",
+      "maximum": 20
+    },
+    {
+      "id": "20",
+      "present": true,
+      "width": 610,
+      "height": 271.7890625,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 608,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 281.0625,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 281.0625,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 488.9453125,
+        "y": 27.59375,
+        "width": 100.0546875,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 608,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 21,
+          "y": 97.1953125,
+          "width": 170,
+          "height": 17.59375
+        },
+        {
+          "x": 211,
+          "y": 97.1953125,
+          "width": 100,
+          "height": 17.59375
+        },
+        {
+          "x": 331,
+          "y": 97.1953125,
+          "width": 100,
+          "height": 17.59375
+        },
+        {
+          "x": 451,
+          "y": 97.1953125,
+          "width": 100,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 608,
+            "height": 82
+          },
+          "name": "Data: Different 7, Unverified 5, Equal 0. View details",
+          "numbers": [
+            7,
+            5,
+            0
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 209.7890625,
+        "width": 608,
+        "height": 61
+      },
+      "unitText": "Check counts\nShared bar scale 0\u201310",
+      "headingText": "Comparison results by category",
+      "helpText": "Select a category for detailed checks and evidence.",
+      "captionText": "These are check counts, not row counts or a whole-DB success rate. Unverified includes unreadable, interrupted and unstarted checks.",
+      "maximum": 10
+    },
+    {
+      "id": "21",
+      "present": true,
+      "width": 610,
+      "height": 354.5859375,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 608,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 281.0625,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 281.0625,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 488.9453125,
+        "y": 27.59375,
+        "width": 100.0546875,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 608,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 21,
+          "y": 97.1953125,
+          "width": 170,
+          "height": 17.59375
+        },
+        {
+          "x": 211,
+          "y": 97.1953125,
+          "width": 100,
+          "height": 17.59375
+        },
+        {
+          "x": 331,
+          "y": 97.1953125,
+          "width": 100,
+          "height": 17.59375
+        },
+        {
+          "x": 451,
+          "y": 97.1953125,
+          "width": 100,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 608,
+            "height": 82.796875
+          },
+          "name": "Users \u0026 permissions: Different 0, Unverified 8, Equal 0. View details",
+          "numbers": [
+            0,
+            8,
+            0
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 210.5859375,
+            "width": 608,
+            "height": 82
+          },
+          "name": "Related objects: Different 0, Unverified 0, Equal 0. View details",
+          "numbers": [
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 292.5859375,
+        "width": 608,
+        "height": 61
+      },
+      "unitText": "Check counts\nShared bar scale 0\u201310",
+      "headingText": "Comparison results by category",
+      "helpText": "Select a category for detailed checks and evidence.",
+      "captionText": "These are check counts, not row counts or a whole-DB success rate. Unverified includes unreadable, interrupted and unstarted checks.",
+      "maximum": 10
+    },
+    {
+      "id": "22",
+      "present": false
+    },
+    {
+      "id": "23",
+      "present": false
+    },
+    {
+      "id": "24",
+      "present": true,
+      "width": 610,
+      "height": 526.9765625,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 608,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 281.0625,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 281.0625,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 488.9453125,
+        "y": 27.59375,
+        "width": 100.0546875,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 608,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 17,
+          "y": 97.1953125,
+          "width": 157.8125,
+          "height": 17.59375
+        },
+        {
+          "x": 190.8125,
+          "y": 97.1953125,
+          "width": 112.7265625,
+          "height": 17.59375
+        },
+        {
+          "x": 319.5390625,
+          "y": 97.1953125,
+          "width": 112.7265625,
+          "height": 17.59375
+        },
+        {
+          "x": 448.265625,
+          "y": 97.1953125,
+          "width": 112.7265625,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 608,
+            "height": 82
+          },
+          "name": "Data: Different 1, Unverified 0, Equal 11. View details",
+          "numbers": [
+            1,
+            0,
+            11
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 209.7890625,
+            "width": 608,
+            "height": 86.59375
+          },
+          "name": "Schema \u0026 constraints: Different 1, Unverified 0, Equal 17. View details",
+          "numbers": [
+            1,
+            0,
+            17
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 296.3828125,
+            "width": 608,
+            "height": 86.59375
+          },
+          "name": "Users \u0026 permissions: Different 1, Unverified 2, Equal 5. View details",
+          "numbers": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 382.9765625,
+            "width": 608,
+            "height": 82
+          },
+          "name": "Related objects: Different 0, Unverified 0, Equal 12. View details",
+          "numbers": [
+            0,
+            0,
+            12
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 464.9765625,
+        "width": 608,
+        "height": 61
+      },
+      "unitText": "Check counts\nShared bar scale 0\u201320",
+      "headingText": "Comparison results by category",
+      "helpText": "Select a category for detailed checks and evidence.",
+      "captionText": "These are check counts, not row counts or a whole-DB success rate. Unverified includes unreadable, interrupted and unstarted checks.",
+      "maximum": 20
+    },
+    {
+      "id": "25",
+      "present": true,
+      "width": 858,
+      "height": 499.7890625,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 856,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 281.0625,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 281.0625,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 736.9453125,
+        "y": 27.59375,
+        "width": 100.0546875,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 856,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 17,
+          "y": 97.1953125,
+          "width": 236.7265625,
+          "height": 17.59375
+        },
+        {
+          "x": 269.7265625,
+          "y": 97.1953125,
+          "width": 169.0859375,
+          "height": 17.59375
+        },
+        {
+          "x": 454.8125,
+          "y": 97.1953125,
+          "width": 169.09375,
+          "height": 17.59375
+        },
+        {
+          "x": 639.90625,
+          "y": 97.1953125,
+          "width": 169.09375,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 856,
+            "height": 82
+          },
+          "name": "Data: Different 1, Unverified 0, Equal 11. View details",
+          "numbers": [
+            1,
+            0,
+            11
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 209.7890625,
+            "width": 856,
+            "height": 82
+          },
+          "name": "Schema \u0026 constraints: Different 1, Unverified 0, Equal 17. View details",
+          "numbers": [
+            1,
+            0,
+            17
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 291.7890625,
+            "width": 856,
+            "height": 82
+          },
+          "name": "Users \u0026 permissions: Different 1, Unverified 2, Equal 5. View details",
+          "numbers": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 373.7890625,
+            "width": 856,
+            "height": 82
+          },
+          "name": "Related objects: Different 0, Unverified 0, Equal 12. View details",
+          "numbers": [
+            0,
+            0,
+            12
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 455.7890625,
+        "width": 856,
+        "height": 43
+      },
+      "unitText": "Check counts\nShared bar scale 0\u201320",
+      "headingText": "Comparison results by category",
+      "helpText": "Select a category for detailed checks and evidence.",
+      "captionText": "These are check counts, not row counts or a whole-DB success rate. Unverified includes unreadable, interrupted and unstarted checks.",
+      "maximum": 20
+    },
+    {
+      "id": "26",
+      "present": true,
+      "width": 980,
+      "height": 499.7890625,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 978,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 281.0625,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 281.0625,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 858.9453125,
+        "y": 27.59375,
+        "width": 100.0546875,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 978,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 17,
+          "y": 97.1953125,
+          "width": 275.5390625,
+          "height": 17.59375
+        },
+        {
+          "x": 308.5390625,
+          "y": 97.1953125,
+          "width": 196.8203125,
+          "height": 17.59375
+        },
+        {
+          "x": 521.359375,
+          "y": 97.1953125,
+          "width": 196.8203125,
+          "height": 17.59375
+        },
+        {
+          "x": 734.1796875,
+          "y": 97.1953125,
+          "width": 196.8125,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 978,
+            "height": 82
+          },
+          "name": "Data: Different 1, Unverified 0, Equal 11. View details",
+          "numbers": [
+            1,
+            0,
+            11
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 209.7890625,
+            "width": 978,
+            "height": 82
+          },
+          "name": "Schema \u0026 constraints: Different 1, Unverified 0, Equal 17. View details",
+          "numbers": [
+            1,
+            0,
+            17
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 291.7890625,
+            "width": 978,
+            "height": 82
+          },
+          "name": "Users \u0026 permissions: Different 1, Unverified 2, Equal 5. View details",
+          "numbers": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 373.7890625,
+            "width": 978,
+            "height": 82
+          },
+          "name": "Related objects: Different 0, Unverified 0, Equal 12. View details",
+          "numbers": [
+            0,
+            0,
+            12
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 455.7890625,
+        "width": 978,
+        "height": 43
+      },
+      "unitText": "Check counts\nShared bar scale 0\u201320",
+      "headingText": "Comparison results by category",
+      "helpText": "Select a category for detailed checks and evidence.",
+      "captionText": "These are check counts, not row counts or a whole-DB success rate. Unverified includes unreadable, interrupted and unstarted checks.",
+      "maximum": 20
+    },
+    {
+      "id": "27",
+      "present": true,
+      "width": 1060,
+      "height": 499.7890625,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 1058,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 281.0625,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 281.0625,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 938.9453125,
+        "y": 27.59375,
+        "width": 100.0546875,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 1058,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 17,
+          "y": 97.1953125,
+          "width": 301,
+          "height": 17.59375
+        },
+        {
+          "x": 334,
+          "y": 97.1953125,
+          "width": 215,
+          "height": 17.59375
+        },
+        {
+          "x": 565,
+          "y": 97.1953125,
+          "width": 215,
+          "height": 17.59375
+        },
+        {
+          "x": 796,
+          "y": 97.1953125,
+          "width": 215,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 1058,
+            "height": 82
+          },
+          "name": "Data: Different 1, Unverified 0, Equal 11. View details",
+          "numbers": [
+            1,
+            0,
+            11
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 209.7890625,
+            "width": 1058,
+            "height": 82
+          },
+          "name": "Schema \u0026 constraints: Different 1, Unverified 0, Equal 17. View details",
+          "numbers": [
+            1,
+            0,
+            17
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 291.7890625,
+            "width": 1058,
+            "height": 82
+          },
+          "name": "Users \u0026 permissions: Different 1, Unverified 2, Equal 5. View details",
+          "numbers": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 373.7890625,
+            "width": 1058,
+            "height": 82
+          },
+          "name": "Related objects: Different 0, Unverified 0, Equal 12. View details",
+          "numbers": [
+            0,
+            0,
+            12
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 455.7890625,
+        "width": 1058,
+        "height": 43
+      },
+      "unitText": "Check counts\nShared bar scale 0\u201320",
+      "headingText": "Comparison results by category",
+      "helpText": "Select a category for detailed checks and evidence.",
+      "captionText": "These are check counts, not row counts or a whole-DB success rate. Unverified includes unreadable, interrupted and unstarted checks.",
+      "maximum": 20
+    },
+    {
+      "id": "28",
+      "present": true,
+      "width": 610,
+      "height": 271.7890625,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 608,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 281.0625,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 281.0625,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 488.9453125,
+        "y": 27.59375,
+        "width": 100.0546875,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 608,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 17,
+          "y": 97.1953125,
+          "width": 157.8125,
+          "height": 17.59375
+        },
+        {
+          "x": 190.8125,
+          "y": 97.1953125,
+          "width": 112.7265625,
+          "height": 17.59375
+        },
+        {
+          "x": 319.5390625,
+          "y": 97.1953125,
+          "width": 112.7265625,
+          "height": 17.59375
+        },
+        {
+          "x": 448.265625,
+          "y": 97.1953125,
+          "width": 112.7265625,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 608,
+            "height": 82
+          },
+          "name": "Data: Different 7, Unverified 5, Equal 0. View details",
+          "numbers": [
+            7,
+            5,
+            0
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 209.7890625,
+        "width": 608,
+        "height": 61
+      },
+      "unitText": "Check counts\nShared bar scale 0\u201310",
+      "headingText": "Comparison results by category",
+      "helpText": "Select a category for detailed checks and evidence.",
+      "captionText": "These are check counts, not row counts or a whole-DB success rate. Unverified includes unreadable, interrupted and unstarted checks.",
+      "maximum": 10
+    },
+    {
+      "id": "29",
+      "present": true,
+      "width": 610,
+      "height": 375.3828125,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 608,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 281.0625,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 281.0625,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 488.9453125,
+        "y": 27.59375,
+        "width": 100.0546875,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 608,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 17,
+          "y": 97.1953125,
+          "width": 157.8125,
+          "height": 17.59375
+        },
+        {
+          "x": 190.8125,
+          "y": 97.1953125,
+          "width": 112.7265625,
+          "height": 17.59375
+        },
+        {
+          "x": 319.5390625,
+          "y": 97.1953125,
+          "width": 112.7265625,
+          "height": 17.59375
+        },
+        {
+          "x": 448.265625,
+          "y": 97.1953125,
+          "width": 112.7265625,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 608,
+            "height": 103.59375
+          },
+          "name": "Users \u0026 permissions: Different 0, Unverified 8, Equal 0. View details",
+          "numbers": [
+            0,
+            8,
+            0
+          ]
+        },
+        {
+          "box": {
+            "x": 1,
+            "y": 231.3828125,
+            "width": 608,
+            "height": 82
+          },
+          "name": "Related objects: Different 0, Unverified 0, Equal 0. View details",
+          "numbers": [
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 313.3828125,
+        "width": 608,
+        "height": 61
+      },
+      "unitText": "Check counts\nShared bar scale 0\u201310",
+      "headingText": "Comparison results by category",
+      "helpText": "Select a category for detailed checks and evidence.",
+      "captionText": "These are check counts, not row counts or a whole-DB success rate. Unverified includes unreadable, interrupted and unstarted checks.",
+      "maximum": 10
+    },
+    {
+      "id": "30",
+      "present": false
+    },
+    {
+      "id": "31",
+      "present": false
+    },
+    {
+      "id": "32",
+      "present": true,
+      "width": 980,
+      "height": 253.7890625,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 978,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 267.9375,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 267.9375,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 882.3046875,
+        "y": 27.59375,
+        "width": 76.6953125,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 978,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 21,
+          "y": 97.1953125,
+          "width": 267.265625,
+          "height": 17.59375
+        },
+        {
+          "x": 308.265625,
+          "y": 97.1953125,
+          "width": 190.9140625,
+          "height": 17.59375
+        },
+        {
+          "x": 519.1796875,
+          "y": 97.1953125,
+          "width": 190.90625,
+          "height": 17.59375
+        },
+        {
+          "x": 730.0859375,
+          "y": 97.1953125,
+          "width": 190.90625,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 978,
+            "height": 82
+          },
+          "name": "\uB370\uC774\uD130: \uBD88\uC77C\uCE58 0, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 0. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 209.7890625,
+        "width": 978,
+        "height": 43
+      },
+      "unitText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\n\uB9C9\uB300 \uACF5\uD1B5 \uCD95 0\u20135",
+      "headingText": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "helpText": "\uBD84\uB958\uB97C \uB20C\uB7EC \uC138\uBD80 \uAC80\uC0AC\uC640 \uD310\uC815 \uADFC\uAC70\uB97C \uD655\uC778\uD558\uC138\uC694.",
+      "captionText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\uB97C \uBE44\uAD50\uD569\uB2C8\uB2E4. \uD589 \uC218\uB098 \uC804\uCCB4 DB \uC131\uACF5\uB960\uC774 \uC544\uB2D9\uB2C8\uB2E4. \uBBF8\uAC80\uC99D\uC5D0\uB294 \uD655\uC778 \uBD88\uAC00\u00B7\uC911\uB2E8\u00B7\uBBF8\uC2DC\uC791 \uD56D\uBAA9\uC774 \uD3EC\uD568\uB429\uB2C8\uB2E4.",
+      "maximum": 5
+    },
+    {
+      "id": "33",
+      "present": true,
+      "width": 980,
+      "height": 253.7890625,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 978,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 267.9375,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 267.9375,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 882.3046875,
+        "y": 27.59375,
+        "width": 76.6953125,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 978,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 21,
+          "y": 97.1953125,
+          "width": 267.265625,
+          "height": 17.59375
+        },
+        {
+          "x": 308.265625,
+          "y": 97.1953125,
+          "width": 190.9140625,
+          "height": 17.59375
+        },
+        {
+          "x": 519.1796875,
+          "y": 97.1953125,
+          "width": 190.90625,
+          "height": 17.59375
+        },
+        {
+          "x": 730.0859375,
+          "y": 97.1953125,
+          "width": 190.90625,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 978,
+            "height": 82
+          },
+          "name": "\uB370\uC774\uD130: \uBD88\uC77C\uCE58 0, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 1. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            0,
+            0,
+            1
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 209.7890625,
+        "width": 978,
+        "height": 43
+      },
+      "unitText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\n\uB9C9\uB300 \uACF5\uD1B5 \uCD95 0\u20135",
+      "headingText": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "helpText": "\uBD84\uB958\uB97C \uB20C\uB7EC \uC138\uBD80 \uAC80\uC0AC\uC640 \uD310\uC815 \uADFC\uAC70\uB97C \uD655\uC778\uD558\uC138\uC694.",
+      "captionText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\uB97C \uBE44\uAD50\uD569\uB2C8\uB2E4. \uD589 \uC218\uB098 \uC804\uCCB4 DB \uC131\uACF5\uB960\uC774 \uC544\uB2D9\uB2C8\uB2E4. \uBBF8\uAC80\uC99D\uC5D0\uB294 \uD655\uC778 \uBD88\uAC00\u00B7\uC911\uB2E8\u00B7\uBBF8\uC2DC\uC791 \uD56D\uBAA9\uC774 \uD3EC\uD568\uB429\uB2C8\uB2E4.",
+      "maximum": 5
+    },
+    {
+      "id": "34",
+      "present": true,
+      "width": 980,
+      "height": 253.7890625,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 978,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 267.9375,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 267.9375,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 882.3046875,
+        "y": 27.59375,
+        "width": 76.6953125,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 978,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 21,
+          "y": 97.1953125,
+          "width": 267.265625,
+          "height": 17.59375
+        },
+        {
+          "x": 308.265625,
+          "y": 97.1953125,
+          "width": 190.9140625,
+          "height": 17.59375
+        },
+        {
+          "x": 519.1796875,
+          "y": 97.1953125,
+          "width": 190.90625,
+          "height": 17.59375
+        },
+        {
+          "x": 730.0859375,
+          "y": 97.1953125,
+          "width": 190.90625,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 978,
+            "height": 82
+          },
+          "name": "\uB370\uC774\uD130: \uBD88\uC77C\uCE58 0, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 5. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            0,
+            0,
+            5
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 209.7890625,
+        "width": 978,
+        "height": 43
+      },
+      "unitText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\n\uB9C9\uB300 \uACF5\uD1B5 \uCD95 0\u20135",
+      "headingText": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "helpText": "\uBD84\uB958\uB97C \uB20C\uB7EC \uC138\uBD80 \uAC80\uC0AC\uC640 \uD310\uC815 \uADFC\uAC70\uB97C \uD655\uC778\uD558\uC138\uC694.",
+      "captionText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\uB97C \uBE44\uAD50\uD569\uB2C8\uB2E4. \uD589 \uC218\uB098 \uC804\uCCB4 DB \uC131\uACF5\uB960\uC774 \uC544\uB2D9\uB2C8\uB2E4. \uBBF8\uAC80\uC99D\uC5D0\uB294 \uD655\uC778 \uBD88\uAC00\u00B7\uC911\uB2E8\u00B7\uBBF8\uC2DC\uC791 \uD56D\uBAA9\uC774 \uD3EC\uD568\uB429\uB2C8\uB2E4.",
+      "maximum": 5
+    },
+    {
+      "id": "35",
+      "present": true,
+      "width": 980,
+      "height": 253.7890625,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 978,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 267.9375,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 267.9375,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 876.796875,
+        "y": 27.59375,
+        "width": 82.203125,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 978,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 21,
+          "y": 97.1953125,
+          "width": 267.265625,
+          "height": 17.59375
+        },
+        {
+          "x": 308.265625,
+          "y": 97.1953125,
+          "width": 190.9140625,
+          "height": 17.59375
+        },
+        {
+          "x": 519.1796875,
+          "y": 97.1953125,
+          "width": 190.90625,
+          "height": 17.59375
+        },
+        {
+          "x": 730.0859375,
+          "y": 97.1953125,
+          "width": 190.90625,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 978,
+            "height": 82
+          },
+          "name": "\uB370\uC774\uD130: \uBD88\uC77C\uCE58 0, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 6. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            0,
+            0,
+            6
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 209.7890625,
+        "width": 978,
+        "height": 43
+      },
+      "unitText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\n\uB9C9\uB300 \uACF5\uD1B5 \uCD95 0\u201310",
+      "headingText": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "helpText": "\uBD84\uB958\uB97C \uB20C\uB7EC \uC138\uBD80 \uAC80\uC0AC\uC640 \uD310\uC815 \uADFC\uAC70\uB97C \uD655\uC778\uD558\uC138\uC694.",
+      "captionText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\uB97C \uBE44\uAD50\uD569\uB2C8\uB2E4. \uD589 \uC218\uB098 \uC804\uCCB4 DB \uC131\uACF5\uB960\uC774 \uC544\uB2D9\uB2C8\uB2E4. \uBBF8\uAC80\uC99D\uC5D0\uB294 \uD655\uC778 \uBD88\uAC00\u00B7\uC911\uB2E8\u00B7\uBBF8\uC2DC\uC791 \uD56D\uBAA9\uC774 \uD3EC\uD568\uB429\uB2C8\uB2E4.",
+      "maximum": 10
+    },
+    {
+      "id": "36",
+      "present": true,
+      "width": 980,
+      "height": 253.7890625,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 978,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 267.9375,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 267.9375,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 876.796875,
+        "y": 27.59375,
+        "width": 82.203125,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 978,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 21,
+          "y": 97.1953125,
+          "width": 267.265625,
+          "height": 17.59375
+        },
+        {
+          "x": 308.265625,
+          "y": 97.1953125,
+          "width": 190.9140625,
+          "height": 17.59375
+        },
+        {
+          "x": 519.1796875,
+          "y": 97.1953125,
+          "width": 190.90625,
+          "height": 17.59375
+        },
+        {
+          "x": 730.0859375,
+          "y": 97.1953125,
+          "width": 190.90625,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 978,
+            "height": 82
+          },
+          "name": "\uB370\uC774\uD130: \uBD88\uC77C\uCE58 0, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 20. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            0,
+            0,
+            20
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 209.7890625,
+        "width": 978,
+        "height": 43
+      },
+      "unitText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\n\uB9C9\uB300 \uACF5\uD1B5 \uCD95 0\u201320",
+      "headingText": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "helpText": "\uBD84\uB958\uB97C \uB20C\uB7EC \uC138\uBD80 \uAC80\uC0AC\uC640 \uD310\uC815 \uADFC\uAC70\uB97C \uD655\uC778\uD558\uC138\uC694.",
+      "captionText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\uB97C \uBE44\uAD50\uD569\uB2C8\uB2E4. \uD589 \uC218\uB098 \uC804\uCCB4 DB \uC131\uACF5\uB960\uC774 \uC544\uB2D9\uB2C8\uB2E4. \uBBF8\uAC80\uC99D\uC5D0\uB294 \uD655\uC778 \uBD88\uAC00\u00B7\uC911\uB2E8\u00B7\uBBF8\uC2DC\uC791 \uD56D\uBAA9\uC774 \uD3EC\uD568\uB429\uB2C8\uB2E4.",
+      "maximum": 20
+    },
+    {
+      "id": "37",
+      "present": true,
+      "width": 980,
+      "height": 253.7890625,
+      "header": {
+        "x": 1,
+        "y": 1,
+        "width": 978,
+        "height": 83.1953125
+      },
+      "heading": {
+        "x": 21,
+        "y": 21,
+        "width": 267.9375,
+        "height": 24
+      },
+      "help": {
+        "x": 21,
+        "y": 49,
+        "width": 267.9375,
+        "height": 19.1953125
+      },
+      "unit": {
+        "x": 876.796875,
+        "y": 27.59375,
+        "width": 82.203125,
+        "height": 34
+      },
+      "columns": {
+        "x": 1,
+        "y": 84.1953125,
+        "width": 978,
+        "height": 43.59375
+      },
+      "labels": [
+        {
+          "x": 21,
+          "y": 97.1953125,
+          "width": 267.265625,
+          "height": 17.59375
+        },
+        {
+          "x": 308.265625,
+          "y": 97.1953125,
+          "width": 190.9140625,
+          "height": 17.59375
+        },
+        {
+          "x": 519.1796875,
+          "y": 97.1953125,
+          "width": 190.90625,
+          "height": 17.59375
+        },
+        {
+          "x": 730.0859375,
+          "y": 97.1953125,
+          "width": 190.90625,
+          "height": 17.59375
+        }
+      ],
+      "rows": [
+        {
+          "box": {
+            "x": 1,
+            "y": 127.7890625,
+            "width": 978,
+            "height": 82
+          },
+          "name": "\uB370\uC774\uD130: \uBD88\uC77C\uCE58 0, \uBBF8\uAC80\uC99D 0, \uC77C\uCE58 21. \uC138\uBD80 \uBCF4\uAE30",
+          "numbers": [
+            0,
+            0,
+            21
+          ]
+        }
+      ],
+      "captionBox": {
+        "x": 1,
+        "y": 209.7890625,
+        "width": 978,
+        "height": 43
+      },
+      "unitText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\n\uB9C9\uB300 \uACF5\uD1B5 \uCD95 0\u201325",
+      "headingText": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "helpText": "\uBD84\uB958\uB97C \uB20C\uB7EC \uC138\uBD80 \uAC80\uC0AC\uC640 \uD310\uC815 \uADFC\uAC70\uB97C \uD655\uC778\uD558\uC138\uC694.",
+      "captionText": "\uAC80\uC0AC \uD56D\uBAA9 \uC218\uB97C \uBE44\uAD50\uD569\uB2C8\uB2E4. \uD589 \uC218\uB098 \uC804\uCCB4 DB \uC131\uACF5\uB960\uC774 \uC544\uB2D9\uB2C8\uB2E4. \uBBF8\uAC80\uC99D\uC5D0\uB294 \uD655\uC778 \uBD88\uAC00\u00B7\uC911\uB2E8\u00B7\uBBF8\uC2DC\uC791 \uD56D\uBAA9\uC774 \uD3EC\uD568\uB429\uB2C8\uB2E4.",
+      "maximum": 25
+    }
+  ]
+}

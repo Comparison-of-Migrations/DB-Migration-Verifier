@@ -1,0 +1,23 @@
+{
+  "status": "DESIGN_ONLY_NOT_EXECUTED",
+  "scope": "Root-requested official dotnet host fallback for SAME owned frozen DLL, only if unique apphost diagnostic warrants",
+  "prerequisites": [
+    "Fresh installed official dotnet host identity (path/signature/version/hash) must be observed, not assumed",
+    "Canonical Windows lease and root scope",
+    "Exact frozen ReplicaProbe.dll hash and directory/runtime dependencies retained"
+  ],
+  "processGuard": [
+    "Exact spawned PID + creation + official host image path",
+    "Fresh Win32_Process CommandLine equals generated fixed sameDLL path + owned cases/output + --pageintegration-window --flow-window-only optional --flow-resume-trial/--flow-english",
+    "Actual title, root HWND, named enabled visible target, physical point/workarea/foreground same guards",
+    "Require complete ready observer before input; never retry uncertain input"
+  ],
+  "cleanup": [
+    "Close only exact owned HWND verified by PID/host image/commandline",
+    "If completed no-window startup, stop only guarded PID/creation/full exact commandline",
+    "Never terminate other dotnet processes or interact with system dialog"
+  ],
+  "sourceProductChanged": false,
+  "installedHostPath": null,
+  "executed": false
+}

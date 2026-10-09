@@ -1,0 +1,22 @@
+[
+  {
+    "font": "700 18px / 27px system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "optical": "auto",
+    "size": "18px",
+    "spacing": "-0.27px",
+    "text": "Source DB",
+    "variation": "normal",
+    "weight": "700",
+    "width": 87.390625
+  },
+  {
+    "font": "700 18px / 27px system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "optical": "auto",
+    "size": "18px",
+    "spacing": "-0.27px",
+    "text": "Target DB",
+    "variation": "normal",
+    "weight": "700",
+    "width": 82.0625
+  }
+]

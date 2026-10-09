@@ -1,0 +1,7 @@
+{
+  "platform": "mac",
+  "states": 192,
+  "failed": 0,
+  "scope": "DPR2, original KO/EN five categories plus prepared trial; widths300/610/858/1058, selected×expanded, same native instance replacements and transformed AABB. Width300 is a wrapping stress case, not mobile support.",
+  "errors": []
+}

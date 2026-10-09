@@ -1,0 +1,436 @@
+{
+  "phase": "ACTUAL_OS_READING_RECORDED",
+  "rows": [
+    {
+      "id": "review-default-ko-960",
+      "missing": [],
+      "names": [
+        {
+          "text": "DBMS",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "SQL Server · 예시 연결",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "원본 → 대상",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "migration_sample → migration_sample원본과 대상은 서로 다른 예시 서버입니다.",
+          "hits": 2,
+          "positive": 2
+        },
+        {
+          "text": "선택 분류",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "데이터 · 구조·제약 · 사용자·권한 · 관련 객체",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "검사 테이블",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "3 개 · 대응 확인",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "선택하지 않은 분류",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "별도 DB 동작 시험",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "변경 경계",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "원본·대상 읽기 전용",
+          "hits": 1,
+          "positive": 1
+        }
+      ]
+    },
+    {
+      "id": "review-trial-ko-960",
+      "missing": [],
+      "names": [
+        {
+          "text": "DBMS",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "SQL Server · 예시 연결",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "원본 → 대상",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "migration_sample → migration_sample원본과 대상은 서로 다른 예시 서버입니다.",
+          "hits": 2,
+          "positive": 2
+        },
+        {
+          "text": "선택 분류",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "데이터 · 구조·제약 · 사용자·권한 · 관련 객체 · 별도 DB 동작 시험",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "검사 테이블",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "3 개 · 대응 확인",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "선택하지 않은 분류",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "없음",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "변경 경계",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "원본·대상 읽기 전용",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "동작 시험: 준비한 시험 DB에서만 쓰기",
+          "hits": 1,
+          "positive": 1
+        }
+      ]
+    },
+    {
+      "id": "save-completed-ko-960",
+      "missing": [],
+      "names": [
+        {
+          "text": "포함",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "예시 run ID, 선택 범위, 완료·중단·미시작, 판정과 확인 불가 이유, 안전한 finding 위치",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "제외",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "실제 값·PK·비밀번호·토큰·원 SQL 정의·접속 설정",
+          "hits": 1,
+          "positive": 1
+        }
+      ]
+    },
+    {
+      "id": "save-interrupted-ko-960",
+      "missing": [],
+      "names": [
+        {
+          "text": "포함",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "예시 run ID, 선택 범위, 완료·중단·미시작, 판정과 확인 불가 이유, 안전한 finding 위치",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "제외",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "실제 값·PK·비밀번호·토큰·원 SQL 정의·접속 설정",
+          "hits": 1,
+          "positive": 1
+        }
+      ]
+    },
+    {
+      "id": "save-pending-ko-960",
+      "missing": [],
+      "names": [
+        {
+          "text": "포함",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "예시 run ID, 선택 범위, 완료·중단·미시작, 판정과 확인 불가 이유, 안전한 finding 위치",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "제외",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "실제 값·PK·비밀번호·토큰·원 SQL 정의·접속 설정",
+          "hits": 1,
+          "positive": 1
+        }
+      ]
+    },
+    {
+      "id": "review-default-en-960",
+      "missing": [],
+      "names": [
+        {
+          "text": "DBMS",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "SQL Server · Sample connections",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "Source → target",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "migration_sample → migration_sampleSource and target are separate sample servers.",
+          "hits": 2,
+          "positive": 2
+        },
+        {
+          "text": "Selected categories",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "Data · Schema & constraints · Users & permissions · Related objects",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "Selected tables",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "3 tables · Matching reviewed",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "Excluded categories",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "Behavior tests in a separate DB",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "Write boundary",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "Source and target: read-only",
+          "hits": 1,
+          "positive": 1
+        }
+      ]
+    },
+    {
+      "id": "review-trial-en-960",
+      "missing": [],
+      "names": [
+        {
+          "text": "DBMS",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "SQL Server · Sample connections",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "Source → target",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "migration_sample → migration_sampleSource and target are separate sample servers.",
+          "hits": 2,
+          "positive": 2
+        },
+        {
+          "text": "Selected categories",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "Data · Schema & constraints · Users & permissions · Related objects · Behavior tests in a separate DB",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "Selected tables",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "3 tables · Matching reviewed",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "Excluded categories",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "None",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "Write boundary",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "Source and target: read-only",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "Behavior tests: writes only in the prepared test DB",
+          "hits": 1,
+          "positive": 1
+        }
+      ]
+    },
+    {
+      "id": "save-completed-en-960",
+      "missing": [],
+      "names": [
+        {
+          "text": "Included",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "Sample run ID, scope, completed/interrupted/pending states, outcomes, gap reasons and safe finding locations",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "Excluded",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "Values, PKs, passwords, tokens, raw SQL definitions and connection settings",
+          "hits": 1,
+          "positive": 1
+        }
+      ]
+    },
+    {
+      "id": "save-interrupted-en-960",
+      "missing": [],
+      "names": [
+        {
+          "text": "Included",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "Sample run ID, scope, completed/interrupted/pending states, outcomes, gap reasons and safe finding locations",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "Excluded",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "Values, PKs, passwords, tokens, raw SQL definitions and connection settings",
+          "hits": 1,
+          "positive": 1
+        }
+      ]
+    },
+    {
+      "id": "save-pending-en-960",
+      "missing": [],
+      "names": [
+        {
+          "text": "Included",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "Sample run ID, scope, completed/interrupted/pending states, outcomes, gap reasons and safe finding locations",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "Excluded",
+          "hits": 1,
+          "positive": 1
+        },
+        {
+          "text": "Values, PKs, passwords, tokens, raw SQL definitions and connection settings",
+          "hits": 1,
+          "positive": 1
+        }
+      ]
+    }
+  ],
+  "scope": "Exact source whole Mono combined value names/positive bbox recorded. Duplicate underlying Raw muted leaf preserved and not inferred equivalent semantic grouping; protected InlineText peer contract/root decision pending."
+}

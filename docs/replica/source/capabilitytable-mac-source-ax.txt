@@ -1,0 +1,56 @@
+Browser tab: 13, Title: "CapabilityTable · original isolation", URL: "http://10.211.55.2:8768/capabilitytable.html?os=mac".
+0 AXWebArea CapabilityTable · original isolation, URL: 10.211.55.2:8768/capabilitytable.html?os=mac
+	1 table
+		2 row
+			3 cell
+				4 text 검사 분류
+			5 cell
+				6 text 원본 / 대상
+			7 cell
+				8 text 검사 가능 범위
+			9 cell
+				10 text 안내
+		11 row
+			12 cell
+				13 text 데이터
+				14 text 전체 값·누락·중복·참조 관계
+			15 cell
+				16 text 연결 확인
+			17 cell
+				18 text 가능
+			19 cell
+				20 text 선택 대상의 예시 조회 가능
+		21 row
+			22 cell
+				23 text 구조·제약
+				24 text 컬럼·자료형·키·제약·인덱스·partition
+			25 cell
+				26 text 연결 확인
+			27 cell
+				28 text 가능
+			29 cell
+				30 text 선택 대상의 예시 조회 가능
+		31 row
+			32 cell
+				33 text 사용자·권한
+				34 text 사용자·역할·소유자·권한·행 정책
+			35 cell
+				36 text 연결 확인
+			37 cell
+				38 text 일부 가능
+			39 cell
+				40 text 권한 정의 2개 조회 범위 미확인
+				41 button 필요한 권한 보기
+		42 row
+			43 cell
+				44 text 관련 객체
+				45 text view·함수·trigger·sequence·사용자 타입
+			46 cell
+				47 text 연결 확인
+			48 cell
+				49 text 가능
+			50 cell
+				51 text 선택 대상의 예시 조회 가능
+	52 button Capability table diagnostics recorded, ID: capabilitytable-record
+
+The focused UI element is 52 button Capability table diagnostics recorded, ID: capabilitytable-record

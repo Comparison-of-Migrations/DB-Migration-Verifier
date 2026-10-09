@@ -1,0 +1,175 @@
+{
+  "phase": "ACTUAL_OS_DIFFERENCES",
+  "scope": "Read-only same captured source/candidate trees, ordinary summary Text wrapper/native child2 versus originalText1; root Typography dependency decision, no new input/productchange",
+  "rows": [
+    {
+      "expected": "DBMS",
+      "source": [
+        {
+          "id": 59,
+          "parent": 56,
+          "depth": 14,
+          "name": "DBMS",
+          "type": "ControlType.Text",
+          "localizedType": "텍스트",
+          "class": "",
+          "automationId": "",
+          "control": true,
+          "content": true,
+          "offscreen": false,
+          "box": {
+            "x": 574,
+            "y": 798,
+            "width": 72,
+            "height": 35
+          }
+        }
+      ],
+      "candidate": [
+        {
+          "name": "DBMS",
+          "class": "WebSystemTextBlock",
+          "x": 661,
+          "y": 679,
+          "width": 260,
+          "height": 44
+        },
+        {
+          "name": "DBMS",
+          "class": "WindowsWebTextBlock",
+          "x": 661,
+          "y": 679,
+          "width": 260,
+          "height": 44
+        }
+      ]
+    },
+    {
+      "expected": "SQL Server · 예시 연결",
+      "source": [
+        {
+          "id": 60,
+          "parent": 56,
+          "depth": 14,
+          "name": "SQL Server · 예시 연결",
+          "type": "ControlType.Text",
+          "localizedType": "텍스트",
+          "class": "",
+          "automationId": "",
+          "control": true,
+          "content": true,
+          "offscreen": false,
+          "box": {
+            "x": 874,
+            "y": 798,
+            "width": 275,
+            "height": 35
+          }
+        }
+      ],
+      "candidate": [
+        {
+          "name": "SQL Server · 예시 연결",
+          "class": "WebSystemTextBlock",
+          "x": 961,
+          "y": 679,
+          "width": 930,
+          "height": 44
+        },
+        {
+          "name": "SQL Server · 예시 연결",
+          "class": "WindowsWebTextBlock",
+          "x": 961,
+          "y": 679,
+          "width": 930,
+          "height": 44
+        }
+      ]
+    },
+    {
+      "expected": "원본 → 대상",
+      "source": [
+        {
+          "id": 61,
+          "parent": 56,
+          "depth": 14,
+          "name": "원본 → 대상",
+          "type": "ControlType.Text",
+          "localizedType": "텍스트",
+          "class": "",
+          "automationId": "",
+          "control": true,
+          "content": true,
+          "offscreen": false,
+          "box": {
+            "x": 574,
+            "y": 908,
+            "width": 147,
+            "height": 35
+          }
+        }
+      ],
+      "candidate": [
+        {
+          "name": "원본 → 대상",
+          "class": "WebSystemTextBlock",
+          "x": 661,
+          "y": 789,
+          "width": 260,
+          "height": 44
+        },
+        {
+          "name": "원본 → 대상",
+          "class": "WindowsWebTextBlock",
+          "x": 661,
+          "y": 789,
+          "width": 260,
+          "height": 44
+        }
+      ]
+    },
+    {
+      "expected": "선택 분류",
+      "source": [
+        {
+          "id": 64,
+          "parent": 56,
+          "depth": 14,
+          "name": "선택 분류",
+          "type": "ControlType.Text",
+          "localizedType": "텍스트",
+          "class": "",
+          "automationId": "",
+          "control": true,
+          "content": true,
+          "offscreen": false,
+          "box": {
+            "x": 574,
+            "y": 1018,
+            "width": 114,
+            "height": 35
+          }
+        }
+      ],
+      "candidate": [
+        {
+          "name": "선택 분류",
+          "class": "WebSystemTextBlock",
+          "x": 661,
+          "y": 943,
+          "width": 260,
+          "height": 44
+        },
+        {
+          "name": "선택 분류",
+          "class": "WindowsWebTextBlock",
+          "x": 661,
+          "y": 943,
+          "width": 260,
+          "height": 44
+        }
+      ]
+    }
+  ],
+  "geometryPaintChanged": false
+}

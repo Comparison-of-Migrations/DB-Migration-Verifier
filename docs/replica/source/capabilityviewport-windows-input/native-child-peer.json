@@ -1,0 +1,11 @@
+{
+    "offscreen":  false,
+    "id":  "CapabilityViewport-child",
+    "type":  "ControlType.Button",
+    "parentId":  "",
+    "content":  true,
+    "name":  "Required permissions",
+    "focusable":  true,
+    "control":  true,
+    "parentType":  "ControlType.Window"
+}

@@ -1,0 +1,46 @@
+[
+    {
+        "id":  "CapabilityHeader-cell-0",
+        "name":  "Category",
+        "children":  [
+
+                     ],
+        "invoke":  false,
+        "focusable":  false,
+        "type":  "ControlType.HeaderItem",
+        "enabled":  true
+    },
+    {
+        "id":  "CapabilityHeader-cell-1",
+        "name":  "Source / target",
+        "children":  [
+
+                     ],
+        "invoke":  false,
+        "focusable":  false,
+        "type":  "ControlType.HeaderItem",
+        "enabled":  true
+    },
+    {
+        "id":  "CapabilityHeader-cell-2",
+        "name":  "Capability",
+        "children":  [
+
+                     ],
+        "invoke":  false,
+        "focusable":  false,
+        "type":  "ControlType.HeaderItem",
+        "enabled":  true
+    },
+    {
+        "id":  "CapabilityHeader-cell-3",
+        "name":  "Details",
+        "children":  [
+
+                     ],
+        "invoke":  false,
+        "focusable":  false,
+        "type":  "ControlType.HeaderItem",
+        "enabled":  true
+    }
+]

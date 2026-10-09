@@ -1,0 +1,51 @@
+{
+  "checks": [
+    {
+      "case": "child-tab",
+      "sourceReadVia": "CUA read-only DOM after actual pointer/Shift+Tab or Space; fresh fixture reload restored DOM order",
+      "source": {
+        "focused": false,
+        "focusVisible": false,
+        "active": "scroll-child",
+        "clientWidth": 220,
+        "offset": 0,
+        "maximum": 800
+      },
+      "native": {
+        "focused": false,
+        "focusVisible": false,
+        "clientWidth": 220,
+        "offset": 0,
+        "maximum": 800,
+        "activeControl": "ScrollChild",
+        "tabStop": false,
+        "capturedAtUtc": "2026-10-07T10:47:16.631897Z"
+      },
+      "passed": true
+    },
+    {
+      "case": "short-key",
+      "sourceReadVia": "CUA read-only DOM after actual pointer/Shift+Tab or Space; fresh fixture reload restored DOM order",
+      "source": {
+        "focused": false,
+        "focusVisible": false,
+        "active": "BODY",
+        "clientWidth": 220,
+        "offset": 0,
+        "maximum": 0
+      },
+      "native": {
+        "focused": false,
+        "focusVisible": false,
+        "clientWidth": 220,
+        "offset": 0,
+        "maximum": 0,
+        "activeControl": null,
+        "tabStop": false,
+        "capturedAtUtc": "2026-10-07T10:47:32.967536Z"
+      },
+      "passed": true
+    }
+  ],
+  "passed": true
+}

@@ -1,0 +1,56 @@
+{
+  "phase": "WINDOWS_PHYSICAL_FLOW_SCOPED_PASSED",
+  "source": "docs/replica/source/root-appflow-mac-source.json",
+  "comparison": "docs/replica/source/pageintegrationfullflow-windows-comparison.json",
+  "checks": 3308,
+  "differences": [],
+  "matchedStates": 44,
+  "physicalMilestones": {
+    "ko": 29,
+    "en": 29
+  },
+  "aggregate": "artifacts/replica/workers/connection/pageintegration/c14baa31227d4c4b9a391aba4d1fe4bc/actual-fullflow-windows/physical-flow-aggregate.json",
+  "currentENRuntime": {
+    "manifest": "artifacts/replica/workers/connection/pageintegration/c14baa31227d4c4b9a391aba4d1fe4bc/build.json",
+    "dllSHA256": "78c6a3644a5244c9f4abe3fabbd2f15a91f901fb5539de9ca03fcc85f1334b5d",
+    "workspaceSHA256": "8c91cc7cde6eb37060bd30b77c76be8491ec352143ae5e3f5dbdc61e2e0a1a36",
+    "hostStage": "artifacts/replica/workers/connection/pageintegration/c14baa31227d4c4b9a391aba4d1fe4bc/actual-fullflow-windows/official-host-stage.json",
+    "fullCommandIdentity": "artifacts/replica/workers/connection/pageintegration/c14baa31227d4c4b9a391aba4d1fe4bc/actual-fullflow-windows/official4236-command-diagnostic.json",
+    "literalTrailingSpace": "Measured Start-Process appends exactly one ASCII space; independently specified exact whole command, no trim/relaxed matching",
+    "hostTrace": "artifacts/replica/workers/connection/pageintegration/c14baa31227d4c4b9a391aba4d1fe4bc/actual-fullflow-windows/phase-534d26de96c046469d592a898c63d3ef/host-trace.log",
+    "hostTraceBoundary": "Official10.0.12 x64 hostfxr; current frozen app self-contained runtimeconfig/deps and app-local hostpolicy/coreclr; managed exit0. No ARMhost/native-dependency mixing."
+  },
+  "englishCancel": {
+    "prePointer": "artifacts/replica/workers/connection/pageintegration/c14baa31227d4c4b9a391aba4d1fe4bc/actual-fullflow-windows/phase-534d26de96c046469d592a898c63d3ef/immediately-pre-cancel-pointer.json",
+    "pairedClocks": "artifacts/replica/workers/connection/pageintegration/c14baa31227d4c4b9a391aba4d1fe4bc/actual-fullflow-windows/phase-534d26de96c046469d592a898c63d3ef/input-transport.txt",
+    "preDone": [
+      8,
+      0,
+      0,
+      0,
+      0
+    ],
+    "stoppedDone": [
+      9,
+      0,
+      0,
+      0,
+      0
+    ],
+    "stability": "artifacts/replica/workers/connection/pageintegration/c14baa31227d4c4b9a391aba4d1fe4bc/actual-fullflow-windows/phase-534d26de96c046469d592a898c63d3ef/cancel-stability.json",
+    "policy": "Raw140ms timer/counts preserved; bounds/completedprefix/pendingzero and exact stoppedrun persistence through Results/Save/csv/html checked. No fixture35ms count substitution."
+  },
+  "cleanup": {
+    "pid": 4236,
+    "path": "C:\\Users\\youptebook\\AppData\\Local\\Temp\\DBMV-Connection-OfficialHost-10.0.12-win-x64-4d0fb102bcc74218a71d8b22a6db2400\\dotnet.exe",
+    "process": 0,
+    "window": 0
+  },
+  "scope": "Actual guarded App→MainWindow→Workspace physicalKOcomplete/ENinterrupted. KO retained17/new12 composition and fixture setup distinction preserved; filter/detail and platform file dialogs reuse separate existing proofs. WholeApp LOCK remains root decision.",
+  "preservedFailures": [
+    "pageintegrationfullflow-english-startup-diagnostic.json",
+    "pageintegrationfullflow-english-unique-startup-diagnostic.json",
+    "artifacts/replica/workers/connection/pageintegration/c14baa31227d4c4b9a391aba4d1fe4bc/actual-fullflow-windows/official4280-malformed-cleanup.json"
+  ],
+  "startupBoundary": "Prior generated apphost pre-managed startup cause remains unknown; official muxer bypass proves current actual UI/state, does not assert loader cause fixed."
+}

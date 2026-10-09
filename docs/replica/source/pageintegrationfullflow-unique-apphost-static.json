@@ -1,0 +1,50 @@
+{
+  "scope": "Host-only unique apphost alias prerequisite, no launch",
+  "apphostSHA256": "9cce8a1e2674ead331cb8be875a2d8799808e841235add1e5a8b4ad85f78fb48",
+  "embeddedEntryDLLPresent": true,
+  "aliasPattern": "DBMV-Connection-59e-[32hex].exe",
+  "sameBytesCopyRequired": true,
+  "productChanged": false,
+  "traceVariableBinaryLiteralDiagnostic": {
+    "ReplicaProbe.exe": {
+      "COREHOST_TRACE": false,
+      "COREHOST_TRACEFILE": false,
+      "DOTNET_HOST_TRACE": false,
+      "DOTNET_HOST_TRACEFILE": false
+    },
+    "hostfxr.dll": {
+      "COREHOST_TRACE": false,
+      "COREHOST_TRACEFILE": false,
+      "DOTNET_HOST_TRACE": false,
+      "DOTNET_HOST_TRACEFILE": false
+    },
+    "hostpolicy.dll": {
+      "COREHOST_TRACE": false,
+      "COREHOST_TRACEFILE": false,
+      "DOTNET_HOST_TRACE": true,
+      "DOTNET_HOST_TRACEFILE": false
+    }
+  },
+  "traceLogAbsenceDoesNotProveRuntimeEntryFailure": true,
+  "officialTraceReference": "https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-environment-variables#dotnet_host_trace",
+  "requestedTraceVariables": [
+    "DOTNET_HOST_TRACE=1",
+    "DOTNET_HOST_TRACE_VERBOSITY=4",
+    "DOTNET_HOST_TRACEFILE=owned phase/host-trace.log"
+  ],
+  "runtimeConfig": {
+    "runtimeOptions": {
+      "tfm": "net10.0",
+      "includedFrameworks": [
+        {
+          "name": "Microsoft.NETCore.App",
+          "version": "10.0.12"
+        }
+      ],
+      "configProperties": {
+        "System.Reflection.Metadata.MetadataUpdater.IsSupported": false,
+        "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": false
+      }
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "capturedAtUtc": "2026-10-08T00:02:33.6567378Z",
+  "dpr": 2,
+  "visible": true,
+  "closing": false,
+  "reduced": false,
+  "backgroundEnabled": false,
+  "backgroundBlur": 2,
+  "focus": "MatchingDialog-search",
+  "events": [
+    {
+      "action": "draft",
+      "value": "archive.orders"
+    }
+  ],
+  "row": {
+    "id": "ko-960-600-all",
+    "parts": {
+      "dialog": {
+        "x": 760,
+        "y": 69.8046875,
+        "width": 500,
+        "height": 580.3828125
+      },
+      "head": {
+        "x": 761,
+        "y": 70.8046875,
+        "width": 498,
+        "height": 85
+      },
+      "title": {
+        "x": 785,
+        "y": 99.3046875,
+        "width": 386,
+        "height": 27
+      },
+      "close": {
+        "x": 1191,
+        "y": 90.8046875,
+        "width": 44,
+        "height": 44
+      },
+      "body": {
+        "x": 761,
+        "y": 155.8046875,
+        "width": 498,
+        "height": 408.3828125
+      },
+      "source": {
+        "x": 785,
+        "y": 179.8046875,
+        "width": 450,
+        "height": 75.59375
+      },
+      "sourceLabel": {
+        "x": 802,
+        "y": 194.8046875,
+        "width": 416,
+        "height": 19.1953125
+      },
+      "targetLabel": {
+        "x": 785,
+        "y": 275.3984375,
+        "width": 450,
+        "height": 24
+      },
+      "search": {
+        "x": 785,
+        "y": 309.3984375,
+        "width": 450,
+        "height": 44
+      },
+      "list": {
+        "x": 785,
+        "y": 367.3984375,
+        "width": 450,
+        "height": 86.3984375
+      },
+      "note": {
+        "x": 785,
+        "y": 463.796875,
+        "width": 450,
+        "height": 22
+      },
+      "policy": {
+        "x": 785,
+        "y": 501.796875,
+        "width": 450,
+        "height": 38.390625
+      },
+      "footer": {
+        "x": 761,
+        "y": 564.1875,
+        "width": 498,
+        "height": 85
+      },
+      "cancel": {
+        "x": 999,
+        "y": 583.1875,
+        "width": 60,
+        "height": 48
+      },
+      "apply": {
+        "x": 1071,
+        "y": 583.1875,
+        "width": 164,
+        "height": 48
+      }
+    },
+    "cards": [],
+    "texts": {
+      "title": "\uD14C\uC774\uBE14 \uB300\uC751 \uBCC0\uACBD",
+      "sourceLabel": "\uC6D0\uBCF8 \uD14C\uC774\uBE14",
+      "targetLabel": "\uB300\uC751\uD560 \uB300\uC0C1 \uD14C\uC774\uBE14",
+      "note": "\uAC80\uC0C9\uC740 \uB300\uC751\uC744 \uBC14\uAFB8\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4. \uC120\uD0DD \uD6C4 \uC801\uC6A9\uD558\uC138\uC694.",
+      "policy": "\uC77C\uB300\uC77C \uB300\uC751\uB9CC \uD5C8\uC6A9\uD569\uB2C8\uB2E4. \uC774\uB984 \uCC28\uC774\uB294 \uAD6C\uC870 \uBD88\uC77C\uCE58\uB85C \uB0A8\uC73C\uBA70 \uAC12 \uBCC0\uD658\uC744 \uC2B9\uC778\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.",
+      "cancel": "\uCDE8\uC18C",
+      "apply": "\uB300\uC751 \uC801\uC6A9"
+    },
+    "bodyScrollHeight": 408,
+    "listScrollHeight": 86,
+    "bodyScrollTop": 0,
+    "listScrollTop": 0,
+    "draft": "archive.orders",
+    "shadow": "rgba(0, 0, 0, 0.14) 0px 18px 48px 0px",
+    "empty": "\uAC80\uC0C9\uB41C \uB300\uC0C1\uC774 \uC5C6\uC2B5\uB2C8\uB2E4. \uAC80\uC0C9\uC5B4\uB97C \uBC14\uAFD4 \uBCF4\uC138\uC694."
+  }
+}

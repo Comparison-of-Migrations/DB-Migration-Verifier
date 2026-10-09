@@ -1,0 +1,762 @@
+[
+  {
+    "bounds": {
+      "height": 17.59375,
+      "width": 50.734375,
+      "x": 248,
+      "y": 226.9921875
+    },
+    "class": "metric-label",
+    "color": "rgb(181, 186, 193)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "17.6px",
+    "numeric": "normal",
+    "parentClass": "",
+    "size": "11px",
+    "spacing": "normal",
+    "tag": "DIV",
+    "text": "불일치 항목",
+    "weight": "400"
+  },
+  {
+    "bounds": {
+      "height": 55,
+      "width": 50.734375,
+      "x": 248,
+      "y": 248.5859375
+    },
+    "class": "metric-number red num",
+    "color": "rgb(255, 149, 157)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "55px",
+    "numeric": "tabular-nums",
+    "parentClass": "",
+    "size": "44px",
+    "spacing": "-1.76px",
+    "tag": "DIV",
+    "text": "3",
+    "weight": "650"
+  },
+  {
+    "bounds": {
+      "height": 17.59375,
+      "width": 95.2890625,
+      "x": 326.734375,
+      "y": 226.9921875
+    },
+    "class": "metric-label",
+    "color": "rgb(181, 186, 193)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "17.6px",
+    "numeric": "normal",
+    "parentClass": "",
+    "size": "11px",
+    "spacing": "normal",
+    "tag": "DIV",
+    "text": "확인 불가·미검증 항목",
+    "weight": "400"
+  },
+  {
+    "bounds": {
+      "height": 55,
+      "width": 95.2890625,
+      "x": 326.734375,
+      "y": 248.5859375
+    },
+    "class": "metric-number amber num",
+    "color": "rgb(240, 196, 124)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "55px",
+    "numeric": "tabular-nums",
+    "parentClass": "",
+    "size": "44px",
+    "spacing": "-1.76px",
+    "tag": "DIV",
+    "text": "2",
+    "weight": "650"
+  },
+  {
+    "bounds": {
+      "height": 17.59375,
+      "width": 53.546875,
+      "x": 450.0234375,
+      "y": 226.9921875
+    },
+    "class": "metric-label",
+    "color": "rgb(181, 186, 193)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "17.6px",
+    "numeric": "normal",
+    "parentClass": "",
+    "size": "11px",
+    "spacing": "normal",
+    "tag": "DIV",
+    "text": "일치 항목",
+    "weight": "400"
+  },
+  {
+    "bounds": {
+      "height": 55,
+      "width": 53.546875,
+      "x": 450.0234375,
+      "y": 248.5859375
+    },
+    "class": "metric-number green num",
+    "color": "rgb(107, 221, 163)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "55px",
+    "numeric": "tabular-nums",
+    "parentClass": "",
+    "size": "44px",
+    "spacing": "-1.76px",
+    "tag": "DIV",
+    "text": "45",
+    "weight": "650"
+  },
+  {
+    "bounds": {
+      "height": 17.59375,
+      "width": 72.8515625,
+      "x": 1048.1484375,
+      "y": 247.6953125
+    },
+    "class": "metric-label",
+    "color": "rgb(181, 186, 193)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "17.6px",
+    "numeric": "normal",
+    "parentClass": "",
+    "size": "11px",
+    "spacing": "normal",
+    "tag": "DIV",
+    "text": "예시 검사 ID",
+    "weight": "400"
+  },
+  {
+    "bounds": {
+      "height": 17.59375,
+      "width": 72.8515625,
+      "x": 1048.1484375,
+      "y": 265.2890625
+    },
+    "class": "mono",
+    "color": "rgb(181, 186, 193)",
+    "font": "ui-monospace, SFMono-Regular, Consolas, monospace",
+    "line": "17.6px",
+    "numeric": "tabular-nums",
+    "parentClass": "",
+    "size": "11px",
+    "spacing": "normal",
+    "tag": "DIV",
+    "text": "UI-MUVX3SBO",
+    "weight": "400"
+  },
+  {
+    "bounds": {
+      "height": 20.796875,
+      "width": 77.6171875,
+      "x": 303,
+      "y": 500.4765625
+    },
+    "class": "",
+    "color": "rgb(242, 243, 245)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "20.8px",
+    "numeric": "normal",
+    "parentClass": "",
+    "size": "13px",
+    "spacing": "normal",
+    "tag": "STRONG",
+    "text": "데이터",
+    "weight": "700"
+  },
+  {
+    "bounds": {
+      "height": 17,
+      "width": 77.6171875,
+      "x": 303,
+      "y": 524.2734375
+    },
+    "class": "",
+    "color": "rgb(181, 186, 193)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "17px",
+    "numeric": "normal",
+    "parentClass": "",
+    "size": "10px",
+    "spacing": "normal",
+    "tag": "SMALL",
+    "text": "실행 완료 · 전체 12",
+    "weight": "400"
+  },
+  {
+    "bounds": {
+      "height": 31.1953125,
+      "width": 172.5,
+      "x": 522.5,
+      "y": 498.2734375
+    },
+    "class": "num",
+    "color": "rgb(255, 149, 157)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "31.2px",
+    "numeric": "tabular-nums",
+    "parentClass": "result-count different ",
+    "size": "26px",
+    "spacing": "-0.65px",
+    "tag": "B",
+    "text": "1",
+    "weight": "600"
+  },
+  {
+    "bounds": {
+      "height": 31.1953125,
+      "width": 172.5,
+      "x": 711,
+      "y": 498.2734375
+    },
+    "class": "num",
+    "color": "rgb(181, 186, 193)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "31.2px",
+    "numeric": "tabular-nums",
+    "parentClass": "result-count unknown zero",
+    "size": "26px",
+    "spacing": "-0.65px",
+    "tag": "B",
+    "text": "0",
+    "weight": "600"
+  },
+  {
+    "bounds": {
+      "height": 31.1953125,
+      "width": 172.5,
+      "x": 899.5,
+      "y": 498.2734375
+    },
+    "class": "num",
+    "color": "rgb(107, 221, 163)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "31.2px",
+    "numeric": "tabular-nums",
+    "parentClass": "result-count equal ",
+    "size": "26px",
+    "spacing": "-0.65px",
+    "tag": "B",
+    "text": "11",
+    "weight": "600"
+  },
+  {
+    "bounds": {
+      "height": 20.796875,
+      "width": 77.96875,
+      "x": 303,
+      "y": 582.4765625
+    },
+    "class": "",
+    "color": "rgb(242, 243, 245)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "20.8px",
+    "numeric": "normal",
+    "parentClass": "",
+    "size": "13px",
+    "spacing": "normal",
+    "tag": "STRONG",
+    "text": "구조·제약",
+    "weight": "700"
+  },
+  {
+    "bounds": {
+      "height": 17,
+      "width": 77.96875,
+      "x": 303,
+      "y": 606.2734375
+    },
+    "class": "",
+    "color": "rgb(181, 186, 193)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "17px",
+    "numeric": "normal",
+    "parentClass": "",
+    "size": "10px",
+    "spacing": "normal",
+    "tag": "SMALL",
+    "text": "실행 완료 · 전체 18",
+    "weight": "400"
+  },
+  {
+    "bounds": {
+      "height": 31.1953125,
+      "width": 172.5,
+      "x": 522.5,
+      "y": 580.2734375
+    },
+    "class": "num",
+    "color": "rgb(255, 149, 157)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "31.2px",
+    "numeric": "tabular-nums",
+    "parentClass": "result-count different ",
+    "size": "26px",
+    "spacing": "-0.65px",
+    "tag": "B",
+    "text": "1",
+    "weight": "600"
+  },
+  {
+    "bounds": {
+      "height": 31.1953125,
+      "width": 172.5,
+      "x": 711,
+      "y": 580.2734375
+    },
+    "class": "num",
+    "color": "rgb(181, 186, 193)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "31.2px",
+    "numeric": "tabular-nums",
+    "parentClass": "result-count unknown zero",
+    "size": "26px",
+    "spacing": "-0.65px",
+    "tag": "B",
+    "text": "0",
+    "weight": "600"
+  },
+  {
+    "bounds": {
+      "height": 31.1953125,
+      "width": 172.5,
+      "x": 899.5,
+      "y": 580.2734375
+    },
+    "class": "num",
+    "color": "rgb(107, 221, 163)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "31.2px",
+    "numeric": "tabular-nums",
+    "parentClass": "result-count equal ",
+    "size": "26px",
+    "spacing": "-0.65px",
+    "tag": "B",
+    "text": "17",
+    "weight": "600"
+  },
+  {
+    "bounds": {
+      "height": 20.796875,
+      "width": 73.2109375,
+      "x": 303,
+      "y": 664.4765625
+    },
+    "class": "",
+    "color": "rgb(242, 243, 245)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "20.8px",
+    "numeric": "normal",
+    "parentClass": "",
+    "size": "13px",
+    "spacing": "normal",
+    "tag": "STRONG",
+    "text": "사용자·권한",
+    "weight": "700"
+  },
+  {
+    "bounds": {
+      "height": 17,
+      "width": 73.2109375,
+      "x": 303,
+      "y": 688.2734375
+    },
+    "class": "",
+    "color": "rgb(181, 186, 193)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "17px",
+    "numeric": "normal",
+    "parentClass": "",
+    "size": "10px",
+    "spacing": "normal",
+    "tag": "SMALL",
+    "text": "실행 완료 · 전체 8",
+    "weight": "400"
+  },
+  {
+    "bounds": {
+      "height": 31.1953125,
+      "width": 172.5,
+      "x": 522.5,
+      "y": 662.2734375
+    },
+    "class": "num",
+    "color": "rgb(255, 149, 157)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "31.2px",
+    "numeric": "tabular-nums",
+    "parentClass": "result-count different ",
+    "size": "26px",
+    "spacing": "-0.65px",
+    "tag": "B",
+    "text": "1",
+    "weight": "600"
+  },
+  {
+    "bounds": {
+      "height": 31.1953125,
+      "width": 172.5,
+      "x": 711,
+      "y": 662.2734375
+    },
+    "class": "num",
+    "color": "rgb(240, 196, 124)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "31.2px",
+    "numeric": "tabular-nums",
+    "parentClass": "result-count unknown ",
+    "size": "26px",
+    "spacing": "-0.65px",
+    "tag": "B",
+    "text": "2",
+    "weight": "600"
+  },
+  {
+    "bounds": {
+      "height": 31.1953125,
+      "width": 172.5,
+      "x": 899.5,
+      "y": 662.2734375
+    },
+    "class": "num",
+    "color": "rgb(107, 221, 163)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "31.2px",
+    "numeric": "tabular-nums",
+    "parentClass": "result-count equal ",
+    "size": "26px",
+    "spacing": "-0.65px",
+    "tag": "B",
+    "text": "5",
+    "weight": "600"
+  },
+  {
+    "bounds": {
+      "height": 20.796875,
+      "width": 77.6171875,
+      "x": 303,
+      "y": 746.9765625
+    },
+    "class": "",
+    "color": "rgb(242, 243, 245)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "20.8px",
+    "numeric": "normal",
+    "parentClass": "",
+    "size": "13px",
+    "spacing": "normal",
+    "tag": "STRONG",
+    "text": "관련 객체",
+    "weight": "700"
+  },
+  {
+    "bounds": {
+      "height": 17,
+      "width": 77.6171875,
+      "x": 303,
+      "y": 770.7734375
+    },
+    "class": "",
+    "color": "rgb(181, 186, 193)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "17px",
+    "numeric": "normal",
+    "parentClass": "",
+    "size": "10px",
+    "spacing": "normal",
+    "tag": "SMALL",
+    "text": "실행 완료 · 전체 12",
+    "weight": "400"
+  },
+  {
+    "bounds": {
+      "height": 31.1953125,
+      "width": 172.5,
+      "x": 522.5,
+      "y": 744.7734375
+    },
+    "class": "num",
+    "color": "rgb(181, 186, 193)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "31.2px",
+    "numeric": "tabular-nums",
+    "parentClass": "result-count different zero",
+    "size": "26px",
+    "spacing": "-0.65px",
+    "tag": "B",
+    "text": "0",
+    "weight": "600"
+  },
+  {
+    "bounds": {
+      "height": 31.1953125,
+      "width": 172.5,
+      "x": 711,
+      "y": 744.7734375
+    },
+    "class": "num",
+    "color": "rgb(181, 186, 193)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "31.2px",
+    "numeric": "tabular-nums",
+    "parentClass": "result-count unknown zero",
+    "size": "26px",
+    "spacing": "-0.65px",
+    "tag": "B",
+    "text": "0",
+    "weight": "600"
+  },
+  {
+    "bounds": {
+      "height": 31.1953125,
+      "width": 172.5,
+      "x": 899.5,
+      "y": 744.7734375
+    },
+    "class": "num",
+    "color": "rgb(107, 221, 163)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "31.2px",
+    "numeric": "tabular-nums",
+    "parentClass": "result-count equal ",
+    "size": "26px",
+    "spacing": "-0.65px",
+    "tag": "B",
+    "text": "12",
+    "weight": "600"
+  },
+  {
+    "bounds": {
+      "height": 22.3984375,
+      "width": 51.90625,
+      "x": 265,
+      "y": 1015.375
+    },
+    "class": "",
+    "color": "rgb(219, 222, 225)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "22.4px",
+    "numeric": "normal",
+    "parentClass": "finding-top",
+    "size": "14px",
+    "spacing": "normal",
+    "tag": "STRONG",
+    "text": "값 불일치",
+    "weight": "700"
+  },
+  {
+    "bounds": {
+      "height": 19.1953125,
+      "width": 36.125,
+      "x": 1067.875,
+      "y": 1016.9765625
+    },
+    "class": "mono",
+    "color": "rgb(219, 222, 225)",
+    "font": "ui-monospace, SFMono-Regular, Consolas, monospace",
+    "line": "19.2px",
+    "numeric": "tabular-nums",
+    "parentClass": "finding-top",
+    "size": "12px",
+    "spacing": "normal",
+    "tag": "SPAN",
+    "text": "F-001",
+    "weight": "400"
+  },
+  {
+    "bounds": {
+      "height": 14,
+      "width": 144.4921875,
+      "x": 265,
+      "y": 1048.7734375
+    },
+    "class": "mono",
+    "color": "rgb(181, 186, 193)",
+    "font": "ui-monospace, SFMono-Regular, Consolas, monospace",
+    "line": "19.2px",
+    "numeric": "tabular-nums",
+    "parentClass": "",
+    "size": "12px",
+    "spacing": "normal",
+    "tag": "SPAN",
+    "text": "demo.orders · amount",
+    "weight": "400"
+  },
+  {
+    "bounds": {
+      "height": 22.3984375,
+      "width": 132.6015625,
+      "x": 265,
+      "y": 1130.3671875
+    },
+    "class": "",
+    "color": "rgb(219, 222, 225)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "22.4px",
+    "numeric": "normal",
+    "parentClass": "finding-top",
+    "size": "14px",
+    "spacing": "normal",
+    "tag": "STRONG",
+    "text": "NULL 허용 정의 불일치",
+    "weight": "700"
+  },
+  {
+    "bounds": {
+      "height": 19.1953125,
+      "width": 36.125,
+      "x": 1067.875,
+      "y": 1131.96875
+    },
+    "class": "mono",
+    "color": "rgb(219, 222, 225)",
+    "font": "ui-monospace, SFMono-Regular, Consolas, monospace",
+    "line": "19.2px",
+    "numeric": "tabular-nums",
+    "parentClass": "finding-top",
+    "size": "12px",
+    "spacing": "normal",
+    "tag": "SPAN",
+    "text": "F-002",
+    "weight": "400"
+  },
+  {
+    "bounds": {
+      "height": 14,
+      "width": 166.171875,
+      "x": 265,
+      "y": 1163.765625
+    },
+    "class": "mono",
+    "color": "rgb(181, 186, 193)",
+    "font": "ui-monospace, SFMono-Regular, Consolas, monospace",
+    "line": "19.2px",
+    "numeric": "tabular-nums",
+    "parentClass": "",
+    "size": "12px",
+    "spacing": "normal",
+    "tag": "SPAN",
+    "text": "demo.orders · reference",
+    "weight": "400"
+  },
+  {
+    "bounds": {
+      "height": 22.3984375,
+      "width": 91.6953125,
+      "x": 265,
+      "y": 1245.359375
+    },
+    "class": "",
+    "color": "rgb(219, 222, 225)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "22.4px",
+    "numeric": "normal",
+    "parentClass": "finding-top",
+    "size": "14px",
+    "spacing": "normal",
+    "tag": "STRONG",
+    "text": "권한 정의 불일치",
+    "weight": "700"
+  },
+  {
+    "bounds": {
+      "height": 19.1953125,
+      "width": 36.125,
+      "x": 1067.875,
+      "y": 1246.9609375
+    },
+    "class": "mono",
+    "color": "rgb(219, 222, 225)",
+    "font": "ui-monospace, SFMono-Regular, Consolas, monospace",
+    "line": "19.2px",
+    "numeric": "tabular-nums",
+    "parentClass": "finding-top",
+    "size": "12px",
+    "spacing": "normal",
+    "tag": "SPAN",
+    "text": "F-003",
+    "weight": "400"
+  },
+  {
+    "bounds": {
+      "height": 14,
+      "width": 36.125,
+      "x": 265,
+      "y": 1278.7578125
+    },
+    "class": "mono",
+    "color": "rgb(181, 186, 193)",
+    "font": "ui-monospace, SFMono-Regular, Consolas, monospace",
+    "line": "19.2px",
+    "numeric": "tabular-nums",
+    "parentClass": "",
+    "size": "12px",
+    "spacing": "normal",
+    "tag": "SPAN",
+    "text": "— · —",
+    "weight": "400"
+  },
+  {
+    "bounds": {
+      "height": 22.3984375,
+      "width": 171.46875,
+      "x": 265,
+      "y": 1360.3515625
+    },
+    "class": "",
+    "color": "rgb(219, 222, 225)",
+    "font": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "line": "22.4px",
+    "numeric": "normal",
+    "parentClass": "finding-top",
+    "size": "14px",
+    "spacing": "normal",
+    "tag": "STRONG",
+    "text": "권한 정의 2개 조회 범위 미확인",
+    "weight": "700"
+  },
+  {
+    "bounds": {
+      "height": 19.1953125,
+      "width": 36.125,
+      "x": 1067.875,
+      "y": 1361.953125
+    },
+    "class": "mono",
+    "color": "rgb(219, 222, 225)",
+    "font": "ui-monospace, SFMono-Regular, Consolas, monospace",
+    "line": "19.2px",
+    "numeric": "tabular-nums",
+    "parentClass": "finding-top",
+    "size": "12px",
+    "spacing": "normal",
+    "tag": "SPAN",
+    "text": "U-001",
+    "weight": "400"
+  },
+  {
+    "bounds": {
+      "height": 14,
+      "width": 36.125,
+      "x": 265,
+      "y": 1393.75
+    },
+    "class": "mono",
+    "color": "rgb(181, 186, 193)",
+    "font": "ui-monospace, SFMono-Regular, Consolas, monospace",
+    "line": "19.2px",
+    "numeric": "tabular-nums",
+    "parentClass": "",
+    "size": "12px",
+    "spacing": "normal",
+    "tag": "SPAN",
+    "text": "— · —",
+    "weight": "400"
+  }
+]

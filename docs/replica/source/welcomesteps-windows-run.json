@@ -1,0 +1,103 @@
+{
+  "phase": "WINDOWS_OS_RECORDED",
+  "headless": false,
+  "manifest": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/welcomesteps/a2e95fd6c9294a0f9cd995a5c2a2044f/build.json",
+  "stage": {
+    "owner": "home",
+    "component": "welcomesteps",
+    "buildManifest": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/welcomesteps/a2e95fd6c9294a0f9cd995a5c2a2044f/build.json",
+    "archive": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/windows-download/home-welcomesteps-a2e95fd6c9294a0f9cd995a5c2a2044f-runtime.zip",
+    "archiveSha256": "7b48f0c0c5dc0406879cedf294f525bdd59638eb2a146f744d28c38c792f2239",
+    "servedURL": "http://10.211.55.2:8768/home-welcomesteps-a2e95fd6c9294a0f9cd995a5c2a2044f-runtime.zip",
+    "guestFolder": "DBMV-Isolated-home-welcomesteps-a2e95fd6c9294a0f9cd995a5c2a2044f",
+    "binarySha256": "720f7234918130d3468c34cb608bee6f545c2adcaa4e1c2d43bef876a1f77441",
+    "selfContained": true
+  },
+  "binarySha256": "720f7234918130d3468c34cb608bee6f545c2adcaa4e1c2d43bef876a1f77441",
+  "casesSha256": "0BFC35B8BBF7BAB6A0B95DAC4153E613B2A70F4E950CABB40CD525F007BF79F4",
+  "output": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/welcomesteps-windows-native",
+  "rows": 8,
+  "lifecycle": [
+    {
+      "english": false,
+      "attached": true,
+      "root": {
+        "x": 0,
+        "y": 24,
+        "width": 1120,
+        "height": 100.4921875
+      },
+      "tracks": {
+        "Number": 14,
+        "Title": 22.3984375,
+        "Body": 48.09375,
+        "Height": 100.4921875
+      },
+      "numbers": [
+        "01",
+        "02",
+        "03"
+      ],
+      "titles": [
+        "\ub450 DB\ub97c \uc5f0\uacb0\ud569\ub2c8\ub2e4",
+        "\ubc94\uc704\ub97c \uace0\ub974\uace0 \ube44\uad50\ud569\ub2c8\ub2e4",
+        "\ucc28\uc774\uc640 \ubbf8\uac80\uc99d\uc744 \ud655\uc778\ud569\ub2c8\ub2e4"
+      ],
+      "children": 3
+    },
+    {
+      "english": true,
+      "attached": true,
+      "root": {
+        "x": 0,
+        "y": 24,
+        "width": 1120,
+        "height": 100.4921875
+      },
+      "tracks": {
+        "Number": 14,
+        "Title": 22.3984375,
+        "Body": 48.09375,
+        "Height": 100.4921875
+      },
+      "numbers": [
+        "01",
+        "02",
+        "03"
+      ],
+      "titles": [
+        "Connect two databases",
+        "Choose what to compare",
+        "Review differences and gaps"
+      ],
+      "children": 3
+    },
+    {
+      "english": false,
+      "attached": true,
+      "root": {
+        "x": 0,
+        "y": 24,
+        "width": 1120,
+        "height": 100.4921875
+      },
+      "tracks": {
+        "Number": 14,
+        "Title": 22.3984375,
+        "Body": 48.09375,
+        "Height": 100.4921875
+      },
+      "numbers": [
+        "01",
+        "02",
+        "03"
+      ],
+      "titles": [
+        "\ub450 DB\ub97c \uc5f0\uacb0\ud569\ub2c8\ub2e4",
+        "\ubc94\uc704\ub97c \uace0\ub974\uace0 \ube44\uad50\ud569\ub2c8\ub2e4",
+        "\ucc28\uc774\uc640 \ubbf8\uac80\uc99d\uc744 \ud655\uc778\ud569\ub2c8\ub2e4"
+      ],
+      "children": 3
+    }
+  ]
+}

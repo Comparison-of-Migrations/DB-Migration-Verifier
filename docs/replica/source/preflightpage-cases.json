@@ -1,0 +1,98 @@
+[
+  {
+    "id": "ko-960",
+    "width": 684,
+    "viewport": 960,
+    "english": false
+  },
+  {
+    "id": "ko-1100",
+    "width": 824,
+    "viewport": 1100,
+    "english": false
+  },
+  {
+    "id": "ko-1101",
+    "width": 825,
+    "viewport": 1101,
+    "english": false
+  },
+  {
+    "id": "ko-1180",
+    "width": 904,
+    "viewport": 1180,
+    "english": false
+  },
+  {
+    "id": "ko-1181",
+    "width": 881,
+    "viewport": 1181,
+    "english": false
+  },
+  {
+    "id": "ko-1280",
+    "width": 980,
+    "viewport": 1280,
+    "english": false
+  },
+  {
+    "id": "ko-1440",
+    "width": 1120,
+    "viewport": 1440,
+    "english": false
+  },
+  {
+    "id": "ko-1600",
+    "width": 1120,
+    "viewport": 1600,
+    "english": false
+  },
+  {
+    "id": "en-960",
+    "width": 684,
+    "viewport": 960,
+    "english": true
+  },
+  {
+    "id": "en-1100",
+    "width": 824,
+    "viewport": 1100,
+    "english": true
+  },
+  {
+    "id": "en-1101",
+    "width": 825,
+    "viewport": 1101,
+    "english": true
+  },
+  {
+    "id": "en-1180",
+    "width": 904,
+    "viewport": 1180,
+    "english": true
+  },
+  {
+    "id": "en-1181",
+    "width": 881,
+    "viewport": 1181,
+    "english": true
+  },
+  {
+    "id": "en-1280",
+    "width": 980,
+    "viewport": 1280,
+    "english": true
+  },
+  {
+    "id": "en-1440",
+    "width": 1120,
+    "viewport": 1440,
+    "english": true
+  },
+  {
+    "id": "en-1600",
+    "width": 1120,
+    "viewport": 1600,
+    "english": true
+  }
+]

@@ -1,0 +1,2212 @@
+{
+  "cases": 48,
+  "rawErrors": [
+    {
+      "path": "ko-960-600-all.parts.dialog.x",
+      "source": 425,
+      "native": 440
+    },
+    {
+      "path": "ko-960-600-all.parts.dialog.y",
+      "source": 16.5,
+      "native": 24
+    },
+    {
+      "path": "ko-960-600-all.parts.head.x",
+      "source": 426,
+      "native": 441
+    },
+    {
+      "path": "ko-960-600-all.parts.head.y",
+      "source": 17.5,
+      "native": 25
+    },
+    {
+      "path": "ko-960-600-all.parts.title.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600-all.parts.title.y",
+      "source": 46,
+      "native": 53.5
+    },
+    {
+      "path": "ko-960-600-all.parts.close.x",
+      "source": 841,
+      "native": 856
+    },
+    {
+      "path": "ko-960-600-all.parts.close.y",
+      "source": 37.5,
+      "native": 45
+    },
+    {
+      "path": "ko-960-600-all.parts.body.x",
+      "source": 426,
+      "native": 441
+    },
+    {
+      "path": "ko-960-600-all.parts.body.y",
+      "source": 102.5,
+      "native": 110
+    },
+    {
+      "path": "ko-960-600-all.parts.source.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600-all.parts.source.y",
+      "source": 126.5,
+      "native": 134
+    },
+    {
+      "path": "ko-960-600-all.parts.sourceLabel.x",
+      "source": 467,
+      "native": 482
+    },
+    {
+      "path": "ko-960-600-all.parts.sourceLabel.y",
+      "source": 141.5,
+      "native": 149
+    },
+    {
+      "path": "ko-960-600-all.parts.targetLabel.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600-all.parts.targetLabel.y",
+      "source": 222.09375,
+      "native": 229.59375
+    },
+    {
+      "path": "ko-960-600-all.parts.search.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600-all.parts.search.y",
+      "source": 256.09375,
+      "native": 263.59375
+    },
+    {
+      "path": "ko-960-600-all.parts.list.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600-all.parts.list.y",
+      "source": 314.09375,
+      "native": 321.59375
+    },
+    {
+      "path": "ko-960-600-all.parts.note.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600-all.parts.note.y",
+      "source": 624.09375,
+      "native": 631.59375
+    },
+    {
+      "path": "ko-960-600-all.parts.policy.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600-all.parts.policy.y",
+      "source": 662.09375,
+      "native": 669.59375
+    },
+    {
+      "path": "ko-960-600-all.parts.footer.x",
+      "source": 426,
+      "native": 441
+    },
+    {
+      "path": "ko-960-600-all.parts.footer.y",
+      "source": 492.5,
+      "native": 500
+    },
+    {
+      "path": "ko-960-600-all.parts.cancel.x",
+      "source": 649,
+      "native": 664
+    },
+    {
+      "path": "ko-960-600-all.parts.cancel.y",
+      "source": 511.5,
+      "native": 519
+    },
+    {
+      "path": "ko-960-600-all.parts.apply.x",
+      "source": 721,
+      "native": 736
+    },
+    {
+      "path": "ko-960-600-all.parts.apply.y",
+      "source": 511.5,
+      "native": 519
+    },
+    {
+      "path": "ko-960-600-all.cards[0].box.x",
+      "source": 454,
+      "native": 469
+    },
+    {
+      "path": "ko-960-600-all.cards[0].box.y",
+      "source": 318.09375,
+      "native": 325.59375
+    },
+    {
+      "path": "ko-960-600-all.cards[1].box.x",
+      "source": 454,
+      "native": 469
+    },
+    {
+      "path": "ko-960-600-all.cards[1].box.y",
+      "source": 393.8828125,
+      "native": 401.3828125
+    },
+    {
+      "path": "ko-960-600-all.cards[2].box.x",
+      "source": 454,
+      "native": 469
+    },
+    {
+      "path": "ko-960-600-all.cards[2].box.y",
+      "source": 469.671875,
+      "native": 477.171875
+    },
+    {
+      "path": "ko-960-600-all.cards[3].box.x",
+      "source": 454,
+      "native": 469
+    },
+    {
+      "path": "ko-960-600-all.cards[3].box.y",
+      "source": 545.4609375,
+      "native": 552.9609375
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.dialog.x",
+      "source": 425,
+      "native": 440
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.dialog.y",
+      "source": 16.5,
+      "native": 24
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.head.x",
+      "source": 426,
+      "native": 441
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.head.y",
+      "source": 17.5,
+      "native": 25
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.title.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.title.y",
+      "source": 46,
+      "native": 53.5
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.close.x",
+      "source": 841,
+      "native": 856
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.close.y",
+      "source": 37.5,
+      "native": 45
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.body.x",
+      "source": 426,
+      "native": 441
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.body.y",
+      "source": 102.5,
+      "native": 110
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.source.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.source.y",
+      "source": 126.5,
+      "native": 134
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.sourceLabel.x",
+      "source": 467,
+      "native": 482
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.sourceLabel.y",
+      "source": 141.5,
+      "native": 149
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.targetLabel.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.targetLabel.y",
+      "source": 222.09375,
+      "native": 229.59375
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.search.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.search.y",
+      "source": 256.09375,
+      "native": 263.59375
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.list.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.list.y",
+      "source": 314.09375,
+      "native": 321.59375
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.note.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.note.y",
+      "source": 399.8828125,
+      "native": 407.3828125
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.policy.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.policy.y",
+      "source": 437.8828125,
+      "native": 445.3828125
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.footer.x",
+      "source": 426,
+      "native": 441
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.footer.y",
+      "source": 492.5,
+      "native": 500
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.cancel.x",
+      "source": 649,
+      "native": 664
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.cancel.y",
+      "source": 511.5,
+      "native": 519
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.apply.x",
+      "source": 721,
+      "native": 736
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .parts.apply.y",
+      "source": 511.5,
+      "native": 519
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .cards[0].box.x",
+      "source": 454,
+      "native": 469
+    },
+    {
+      "path": "ko-960-600- ARCHIVE .cards[0].box.y",
+      "source": 318.09375,
+      "native": 325.59375
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.dialog.x",
+      "source": 425,
+      "native": 440
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.dialog.y",
+      "source": 16.5,
+      "native": 24
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.head.x",
+      "source": 426,
+      "native": 441
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.head.y",
+      "source": 17.5,
+      "native": 25
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.title.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.title.y",
+      "source": 46,
+      "native": 53.5
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.close.x",
+      "source": 841,
+      "native": 856
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.close.y",
+      "source": 37.5,
+      "native": 45
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.body.x",
+      "source": 426,
+      "native": 441
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.body.y",
+      "source": 102.5,
+      "native": 110
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.source.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.source.y",
+      "source": 126.5,
+      "native": 134
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.sourceLabel.x",
+      "source": 467,
+      "native": 482
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.sourceLabel.y",
+      "source": 141.5,
+      "native": 149
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.targetLabel.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.targetLabel.y",
+      "source": 222.09375,
+      "native": 229.59375
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.search.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.search.y",
+      "source": 256.09375,
+      "native": 263.59375
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.list.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.list.y",
+      "source": 314.09375,
+      "native": 321.59375
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.note.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.note.y",
+      "source": 410.4921875,
+      "native": 417.9921875
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.policy.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.policy.y",
+      "source": 448.4921875,
+      "native": 455.9921875
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.footer.x",
+      "source": 426,
+      "native": 441
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.footer.y",
+      "source": 492.5,
+      "native": 500
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.cancel.x",
+      "source": 649,
+      "native": 664
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.cancel.y",
+      "source": 511.5,
+      "native": 519
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.apply.x",
+      "source": 721,
+      "native": 736
+    },
+    {
+      "path": "ko-960-600-NO_SUCH_TABLE.parts.apply.y",
+      "source": 511.5,
+      "native": 519
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.dialog.x",
+      "source": 425,
+      "native": 440
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.dialog.y",
+      "source": 16.5,
+      "native": 24
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.head.x",
+      "source": 426,
+      "native": 441
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.head.y",
+      "source": 17.5,
+      "native": 25
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.title.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.title.y",
+      "source": 46,
+      "native": 53.5
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.close.x",
+      "source": 841,
+      "native": 856
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.close.y",
+      "source": 37.5,
+      "native": 45
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.body.x",
+      "source": 426,
+      "native": 441
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.body.y",
+      "source": 102.5,
+      "native": 110
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.source.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.source.y",
+      "source": 126.5,
+      "native": 134
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.sourceLabel.x",
+      "source": 467,
+      "native": 482
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.sourceLabel.y",
+      "source": 141.5,
+      "native": 149
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.targetLabel.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.targetLabel.y",
+      "source": 222.09375,
+      "native": 229.59375
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.search.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.search.y",
+      "source": 256.09375,
+      "native": 263.59375
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.list.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.list.y",
+      "source": 314.09375,
+      "native": 321.59375
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.note.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.note.y",
+      "source": 399.8828125,
+      "native": 407.3828125
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.policy.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.policy.y",
+      "source": 437.8828125,
+      "native": 445.3828125
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.footer.x",
+      "source": 426,
+      "native": 441
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.footer.y",
+      "source": 492.5,
+      "native": 500
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.cancel.x",
+      "source": 649,
+      "native": 664
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.cancel.y",
+      "source": 511.5,
+      "native": 519
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.apply.x",
+      "source": 721,
+      "native": 736
+    },
+    {
+      "path": "ko-960-600-demo.orders.parts.apply.y",
+      "source": 511.5,
+      "native": 519
+    },
+    {
+      "path": "ko-960-600-demo.orders.cards[0].box.x",
+      "source": 454,
+      "native": 469
+    },
+    {
+      "path": "ko-960-600-demo.orders.cards[0].box.y",
+      "source": 318.09375,
+      "native": 325.59375
+    },
+    {
+      "path": "ko-1280-600-all.parts.dialog.x",
+      "source": 745,
+      "native": 760
+    },
+    {
+      "path": "ko-1280-600-all.parts.head.x",
+      "source": 746,
+      "native": 761
+    },
+    {
+      "path": "ko-1280-600-all.parts.title.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600-all.parts.close.x",
+      "source": 1161,
+      "native": 1176
+    },
+    {
+      "path": "ko-1280-600-all.parts.body.x",
+      "source": 746,
+      "native": 761
+    },
+    {
+      "path": "ko-1280-600-all.parts.source.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600-all.parts.sourceLabel.x",
+      "source": 787,
+      "native": 802
+    },
+    {
+      "path": "ko-1280-600-all.parts.targetLabel.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600-all.parts.search.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600-all.parts.list.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600-all.parts.note.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600-all.parts.policy.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600-all.parts.footer.x",
+      "source": 746,
+      "native": 761
+    },
+    {
+      "path": "ko-1280-600-all.parts.cancel.x",
+      "source": 969,
+      "native": 984
+    },
+    {
+      "path": "ko-1280-600-all.parts.apply.x",
+      "source": 1041,
+      "native": 1056
+    },
+    {
+      "path": "ko-1280-600-all.cards[0].box.x",
+      "source": 774,
+      "native": 789
+    },
+    {
+      "path": "ko-1280-600-all.cards[1].box.x",
+      "source": 774,
+      "native": 789
+    },
+    {
+      "path": "ko-1280-600-all.cards[2].box.x",
+      "source": 774,
+      "native": 789
+    },
+    {
+      "path": "ko-1280-600-all.cards[3].box.x",
+      "source": 774,
+      "native": 789
+    },
+    {
+      "path": "ko-1280-600- ARCHIVE .parts.dialog.x",
+      "source": 745,
+      "native": 760
+    },
+    {
+      "path": "ko-1280-600- ARCHIVE .parts.head.x",
+      "source": 746,
+      "native": 761
+    },
+    {
+      "path": "ko-1280-600- ARCHIVE .parts.title.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600- ARCHIVE .parts.close.x",
+      "source": 1161,
+      "native": 1176
+    },
+    {
+      "path": "ko-1280-600- ARCHIVE .parts.body.x",
+      "source": 746,
+      "native": 761
+    },
+    {
+      "path": "ko-1280-600- ARCHIVE .parts.source.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600- ARCHIVE .parts.sourceLabel.x",
+      "source": 787,
+      "native": 802
+    },
+    {
+      "path": "ko-1280-600- ARCHIVE .parts.targetLabel.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600- ARCHIVE .parts.search.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600- ARCHIVE .parts.list.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600- ARCHIVE .parts.note.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600- ARCHIVE .parts.policy.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600- ARCHIVE .parts.footer.x",
+      "source": 746,
+      "native": 761
+    },
+    {
+      "path": "ko-1280-600- ARCHIVE .parts.cancel.x",
+      "source": 969,
+      "native": 984
+    },
+    {
+      "path": "ko-1280-600- ARCHIVE .parts.apply.x",
+      "source": 1041,
+      "native": 1056
+    },
+    {
+      "path": "ko-1280-600- ARCHIVE .cards[0].box.x",
+      "source": 774,
+      "native": 789
+    },
+    {
+      "path": "ko-1280-600-NO_SUCH_TABLE.parts.dialog.x",
+      "source": 745,
+      "native": 760
+    },
+    {
+      "path": "ko-1280-600-NO_SUCH_TABLE.parts.head.x",
+      "source": 746,
+      "native": 761
+    },
+    {
+      "path": "ko-1280-600-NO_SUCH_TABLE.parts.title.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600-NO_SUCH_TABLE.parts.close.x",
+      "source": 1161,
+      "native": 1176
+    },
+    {
+      "path": "ko-1280-600-NO_SUCH_TABLE.parts.body.x",
+      "source": 746,
+      "native": 761
+    },
+    {
+      "path": "ko-1280-600-NO_SUCH_TABLE.parts.source.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600-NO_SUCH_TABLE.parts.sourceLabel.x",
+      "source": 787,
+      "native": 802
+    },
+    {
+      "path": "ko-1280-600-NO_SUCH_TABLE.parts.targetLabel.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600-NO_SUCH_TABLE.parts.search.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600-NO_SUCH_TABLE.parts.list.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600-NO_SUCH_TABLE.parts.note.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600-NO_SUCH_TABLE.parts.policy.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600-NO_SUCH_TABLE.parts.footer.x",
+      "source": 746,
+      "native": 761
+    },
+    {
+      "path": "ko-1280-600-NO_SUCH_TABLE.parts.cancel.x",
+      "source": 969,
+      "native": 984
+    },
+    {
+      "path": "ko-1280-600-NO_SUCH_TABLE.parts.apply.x",
+      "source": 1041,
+      "native": 1056
+    },
+    {
+      "path": "ko-1280-600-demo.orders.parts.dialog.x",
+      "source": 745,
+      "native": 760
+    },
+    {
+      "path": "ko-1280-600-demo.orders.parts.head.x",
+      "source": 746,
+      "native": 761
+    },
+    {
+      "path": "ko-1280-600-demo.orders.parts.title.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600-demo.orders.parts.close.x",
+      "source": 1161,
+      "native": 1176
+    },
+    {
+      "path": "ko-1280-600-demo.orders.parts.body.x",
+      "source": 746,
+      "native": 761
+    },
+    {
+      "path": "ko-1280-600-demo.orders.parts.source.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600-demo.orders.parts.sourceLabel.x",
+      "source": 787,
+      "native": 802
+    },
+    {
+      "path": "ko-1280-600-demo.orders.parts.targetLabel.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600-demo.orders.parts.search.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600-demo.orders.parts.list.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600-demo.orders.parts.note.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600-demo.orders.parts.policy.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "ko-1280-600-demo.orders.parts.footer.x",
+      "source": 746,
+      "native": 761
+    },
+    {
+      "path": "ko-1280-600-demo.orders.parts.cancel.x",
+      "source": 969,
+      "native": 984
+    },
+    {
+      "path": "ko-1280-600-demo.orders.parts.apply.x",
+      "source": 1041,
+      "native": 1056
+    },
+    {
+      "path": "ko-1280-600-demo.orders.cards[0].box.x",
+      "source": 774,
+      "native": 789
+    },
+    {
+      "path": "en-960-600-all.parts.dialog.x",
+      "source": 425,
+      "native": 440
+    },
+    {
+      "path": "en-960-600-all.parts.dialog.y",
+      "source": 16.5,
+      "native": 24
+    },
+    {
+      "path": "en-960-600-all.parts.head.x",
+      "source": 426,
+      "native": 441
+    },
+    {
+      "path": "en-960-600-all.parts.head.y",
+      "source": 17.5,
+      "native": 25
+    },
+    {
+      "path": "en-960-600-all.parts.title.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600-all.parts.title.y",
+      "source": 46,
+      "native": 53.5
+    },
+    {
+      "path": "en-960-600-all.parts.close.x",
+      "source": 841,
+      "native": 856
+    },
+    {
+      "path": "en-960-600-all.parts.close.y",
+      "source": 37.5,
+      "native": 45
+    },
+    {
+      "path": "en-960-600-all.parts.body.x",
+      "source": 426,
+      "native": 441
+    },
+    {
+      "path": "en-960-600-all.parts.body.y",
+      "source": 102.5,
+      "native": 110
+    },
+    {
+      "path": "en-960-600-all.parts.source.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600-all.parts.source.y",
+      "source": 126.5,
+      "native": 134
+    },
+    {
+      "path": "en-960-600-all.parts.sourceLabel.x",
+      "source": 467,
+      "native": 482
+    },
+    {
+      "path": "en-960-600-all.parts.sourceLabel.y",
+      "source": 141.5,
+      "native": 149
+    },
+    {
+      "path": "en-960-600-all.parts.targetLabel.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600-all.parts.targetLabel.y",
+      "source": 222.09375,
+      "native": 229.59375
+    },
+    {
+      "path": "en-960-600-all.parts.search.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600-all.parts.search.y",
+      "source": 256.09375,
+      "native": 263.59375
+    },
+    {
+      "path": "en-960-600-all.parts.list.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600-all.parts.list.y",
+      "source": 314.09375,
+      "native": 321.59375
+    },
+    {
+      "path": "en-960-600-all.parts.note.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600-all.parts.note.y",
+      "source": 624.09375,
+      "native": 631.59375
+    },
+    {
+      "path": "en-960-600-all.parts.policy.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600-all.parts.policy.y",
+      "source": 662.09375,
+      "native": 669.59375
+    },
+    {
+      "path": "en-960-600-all.parts.footer.x",
+      "source": 426,
+      "native": 441
+    },
+    {
+      "path": "en-960-600-all.parts.footer.y",
+      "source": 492.5,
+      "native": 500
+    },
+    {
+      "path": "en-960-600-all.parts.cancel.x",
+      "source": 634.6796875,
+      "native": 649.6796875
+    },
+    {
+      "path": "en-960-600-all.parts.cancel.y",
+      "source": 511.5,
+      "native": 519
+    },
+    {
+      "path": "en-960-600-all.parts.apply.x",
+      "source": 721,
+      "native": 736
+    },
+    {
+      "path": "en-960-600-all.parts.apply.y",
+      "source": 511.5,
+      "native": 519
+    },
+    {
+      "path": "en-960-600-all.cards[0].box.x",
+      "source": 454,
+      "native": 469
+    },
+    {
+      "path": "en-960-600-all.cards[0].box.y",
+      "source": 318.09375,
+      "native": 325.59375
+    },
+    {
+      "path": "en-960-600-all.cards[1].box.x",
+      "source": 454,
+      "native": 469
+    },
+    {
+      "path": "en-960-600-all.cards[1].box.y",
+      "source": 393.8828125,
+      "native": 401.3828125
+    },
+    {
+      "path": "en-960-600-all.cards[2].box.x",
+      "source": 454,
+      "native": 469
+    },
+    {
+      "path": "en-960-600-all.cards[2].box.y",
+      "source": 469.671875,
+      "native": 477.171875
+    },
+    {
+      "path": "en-960-600-all.cards[3].box.x",
+      "source": 454,
+      "native": 469
+    },
+    {
+      "path": "en-960-600-all.cards[3].box.y",
+      "source": 545.4609375,
+      "native": 552.9609375
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.dialog.x",
+      "source": 425,
+      "native": 440
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.dialog.y",
+      "source": 16.5,
+      "native": 24
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.head.x",
+      "source": 426,
+      "native": 441
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.head.y",
+      "source": 17.5,
+      "native": 25
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.title.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.title.y",
+      "source": 46,
+      "native": 53.5
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.close.x",
+      "source": 841,
+      "native": 856
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.close.y",
+      "source": 37.5,
+      "native": 45
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.body.x",
+      "source": 426,
+      "native": 441
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.body.y",
+      "source": 102.5,
+      "native": 110
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.source.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.source.y",
+      "source": 126.5,
+      "native": 134
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.sourceLabel.x",
+      "source": 467,
+      "native": 482
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.sourceLabel.y",
+      "source": 141.5,
+      "native": 149
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.targetLabel.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.targetLabel.y",
+      "source": 222.09375,
+      "native": 229.59375
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.search.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.search.y",
+      "source": 256.09375,
+      "native": 263.59375
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.list.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.list.y",
+      "source": 314.09375,
+      "native": 321.59375
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.note.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.note.y",
+      "source": 399.8828125,
+      "native": 407.3828125
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.policy.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.policy.y",
+      "source": 437.8828125,
+      "native": 445.3828125
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.footer.x",
+      "source": 426,
+      "native": 441
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.footer.y",
+      "source": 492.5,
+      "native": 500
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.cancel.x",
+      "source": 634.6796875,
+      "native": 649.6796875
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.cancel.y",
+      "source": 511.5,
+      "native": 519
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.apply.x",
+      "source": 721,
+      "native": 736
+    },
+    {
+      "path": "en-960-600- ARCHIVE .parts.apply.y",
+      "source": 511.5,
+      "native": 519
+    },
+    {
+      "path": "en-960-600- ARCHIVE .cards[0].box.x",
+      "source": 454,
+      "native": 469
+    },
+    {
+      "path": "en-960-600- ARCHIVE .cards[0].box.y",
+      "source": 318.09375,
+      "native": 325.59375
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.dialog.x",
+      "source": 425,
+      "native": 440
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.dialog.y",
+      "source": 16.5,
+      "native": 24
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.head.x",
+      "source": 426,
+      "native": 441
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.head.y",
+      "source": 17.5,
+      "native": 25
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.title.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.title.y",
+      "source": 46,
+      "native": 53.5
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.close.x",
+      "source": 841,
+      "native": 856
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.close.y",
+      "source": 37.5,
+      "native": 45
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.body.x",
+      "source": 426,
+      "native": 441
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.body.y",
+      "source": 102.5,
+      "native": 110
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.source.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.source.y",
+      "source": 126.5,
+      "native": 134
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.sourceLabel.x",
+      "source": 467,
+      "native": 482
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.sourceLabel.y",
+      "source": 141.5,
+      "native": 149
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.targetLabel.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.targetLabel.y",
+      "source": 222.09375,
+      "native": 229.59375
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.search.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.search.y",
+      "source": 256.09375,
+      "native": 263.59375
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.list.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.list.y",
+      "source": 314.09375,
+      "native": 321.59375
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.note.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.note.y",
+      "source": 410.4921875,
+      "native": 417.9921875
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.policy.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.policy.y",
+      "source": 448.4921875,
+      "native": 455.9921875
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.footer.x",
+      "source": 426,
+      "native": 441
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.footer.y",
+      "source": 492.5,
+      "native": 500
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.cancel.x",
+      "source": 634.6796875,
+      "native": 649.6796875
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.cancel.y",
+      "source": 511.5,
+      "native": 519
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.apply.x",
+      "source": 721,
+      "native": 736
+    },
+    {
+      "path": "en-960-600-NO_SUCH_TABLE.parts.apply.y",
+      "source": 511.5,
+      "native": 519
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.dialog.x",
+      "source": 425,
+      "native": 440
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.dialog.y",
+      "source": 16.5,
+      "native": 24
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.head.x",
+      "source": 426,
+      "native": 441
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.head.y",
+      "source": 17.5,
+      "native": 25
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.title.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.title.y",
+      "source": 46,
+      "native": 53.5
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.close.x",
+      "source": 841,
+      "native": 856
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.close.y",
+      "source": 37.5,
+      "native": 45
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.body.x",
+      "source": 426,
+      "native": 441
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.body.y",
+      "source": 102.5,
+      "native": 110
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.source.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.source.y",
+      "source": 126.5,
+      "native": 134
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.sourceLabel.x",
+      "source": 467,
+      "native": 482
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.sourceLabel.y",
+      "source": 141.5,
+      "native": 149
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.targetLabel.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.targetLabel.y",
+      "source": 222.09375,
+      "native": 229.59375
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.search.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.search.y",
+      "source": 256.09375,
+      "native": 263.59375
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.list.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.list.y",
+      "source": 314.09375,
+      "native": 321.59375
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.note.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.note.y",
+      "source": 399.8828125,
+      "native": 407.3828125
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.policy.x",
+      "source": 450,
+      "native": 465
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.policy.y",
+      "source": 437.8828125,
+      "native": 445.3828125
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.footer.x",
+      "source": 426,
+      "native": 441
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.footer.y",
+      "source": 492.5,
+      "native": 500
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.cancel.x",
+      "source": 634.6796875,
+      "native": 649.6796875
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.cancel.y",
+      "source": 511.5,
+      "native": 519
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.apply.x",
+      "source": 721,
+      "native": 736
+    },
+    {
+      "path": "en-960-600-demo.orders.parts.apply.y",
+      "source": 511.5,
+      "native": 519
+    },
+    {
+      "path": "en-960-600-demo.orders.cards[0].box.x",
+      "source": 454,
+      "native": 469
+    },
+    {
+      "path": "en-960-600-demo.orders.cards[0].box.y",
+      "source": 318.09375,
+      "native": 325.59375
+    },
+    {
+      "path": "en-1280-600-all.parts.dialog.x",
+      "source": 745,
+      "native": 760
+    },
+    {
+      "path": "en-1280-600-all.parts.head.x",
+      "source": 746,
+      "native": 761
+    },
+    {
+      "path": "en-1280-600-all.parts.title.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600-all.parts.close.x",
+      "source": 1161,
+      "native": 1176
+    },
+    {
+      "path": "en-1280-600-all.parts.body.x",
+      "source": 746,
+      "native": 761
+    },
+    {
+      "path": "en-1280-600-all.parts.source.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600-all.parts.sourceLabel.x",
+      "source": 787,
+      "native": 802
+    },
+    {
+      "path": "en-1280-600-all.parts.targetLabel.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600-all.parts.search.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600-all.parts.list.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600-all.parts.note.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600-all.parts.policy.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600-all.parts.footer.x",
+      "source": 746,
+      "native": 761
+    },
+    {
+      "path": "en-1280-600-all.parts.cancel.x",
+      "source": 954.6796875,
+      "native": 969.6796875
+    },
+    {
+      "path": "en-1280-600-all.parts.apply.x",
+      "source": 1041,
+      "native": 1056
+    },
+    {
+      "path": "en-1280-600-all.cards[0].box.x",
+      "source": 774,
+      "native": 789
+    },
+    {
+      "path": "en-1280-600-all.cards[1].box.x",
+      "source": 774,
+      "native": 789
+    },
+    {
+      "path": "en-1280-600-all.cards[2].box.x",
+      "source": 774,
+      "native": 789
+    },
+    {
+      "path": "en-1280-600-all.cards[3].box.x",
+      "source": 774,
+      "native": 789
+    },
+    {
+      "path": "en-1280-600- ARCHIVE .parts.dialog.x",
+      "source": 745,
+      "native": 760
+    },
+    {
+      "path": "en-1280-600- ARCHIVE .parts.head.x",
+      "source": 746,
+      "native": 761
+    },
+    {
+      "path": "en-1280-600- ARCHIVE .parts.title.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600- ARCHIVE .parts.close.x",
+      "source": 1161,
+      "native": 1176
+    },
+    {
+      "path": "en-1280-600- ARCHIVE .parts.body.x",
+      "source": 746,
+      "native": 761
+    },
+    {
+      "path": "en-1280-600- ARCHIVE .parts.source.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600- ARCHIVE .parts.sourceLabel.x",
+      "source": 787,
+      "native": 802
+    },
+    {
+      "path": "en-1280-600- ARCHIVE .parts.targetLabel.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600- ARCHIVE .parts.search.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600- ARCHIVE .parts.list.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600- ARCHIVE .parts.note.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600- ARCHIVE .parts.policy.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600- ARCHIVE .parts.footer.x",
+      "source": 746,
+      "native": 761
+    },
+    {
+      "path": "en-1280-600- ARCHIVE .parts.cancel.x",
+      "source": 954.6796875,
+      "native": 969.6796875
+    },
+    {
+      "path": "en-1280-600- ARCHIVE .parts.apply.x",
+      "source": 1041,
+      "native": 1056
+    },
+    {
+      "path": "en-1280-600- ARCHIVE .cards[0].box.x",
+      "source": 774,
+      "native": 789
+    },
+    {
+      "path": "en-1280-600-NO_SUCH_TABLE.parts.dialog.x",
+      "source": 745,
+      "native": 760
+    },
+    {
+      "path": "en-1280-600-NO_SUCH_TABLE.parts.head.x",
+      "source": 746,
+      "native": 761
+    },
+    {
+      "path": "en-1280-600-NO_SUCH_TABLE.parts.title.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600-NO_SUCH_TABLE.parts.close.x",
+      "source": 1161,
+      "native": 1176
+    },
+    {
+      "path": "en-1280-600-NO_SUCH_TABLE.parts.body.x",
+      "source": 746,
+      "native": 761
+    },
+    {
+      "path": "en-1280-600-NO_SUCH_TABLE.parts.source.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600-NO_SUCH_TABLE.parts.sourceLabel.x",
+      "source": 787,
+      "native": 802
+    },
+    {
+      "path": "en-1280-600-NO_SUCH_TABLE.parts.targetLabel.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600-NO_SUCH_TABLE.parts.search.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600-NO_SUCH_TABLE.parts.list.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600-NO_SUCH_TABLE.parts.note.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600-NO_SUCH_TABLE.parts.policy.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600-NO_SUCH_TABLE.parts.footer.x",
+      "source": 746,
+      "native": 761
+    },
+    {
+      "path": "en-1280-600-NO_SUCH_TABLE.parts.cancel.x",
+      "source": 954.6796875,
+      "native": 969.6796875
+    },
+    {
+      "path": "en-1280-600-NO_SUCH_TABLE.parts.apply.x",
+      "source": 1041,
+      "native": 1056
+    },
+    {
+      "path": "en-1280-600-demo.orders.parts.dialog.x",
+      "source": 745,
+      "native": 760
+    },
+    {
+      "path": "en-1280-600-demo.orders.parts.head.x",
+      "source": 746,
+      "native": 761
+    },
+    {
+      "path": "en-1280-600-demo.orders.parts.title.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600-demo.orders.parts.close.x",
+      "source": 1161,
+      "native": 1176
+    },
+    {
+      "path": "en-1280-600-demo.orders.parts.body.x",
+      "source": 746,
+      "native": 761
+    },
+    {
+      "path": "en-1280-600-demo.orders.parts.source.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600-demo.orders.parts.sourceLabel.x",
+      "source": 787,
+      "native": 802
+    },
+    {
+      "path": "en-1280-600-demo.orders.parts.targetLabel.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600-demo.orders.parts.search.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600-demo.orders.parts.list.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600-demo.orders.parts.note.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600-demo.orders.parts.policy.x",
+      "source": 770,
+      "native": 785
+    },
+    {
+      "path": "en-1280-600-demo.orders.parts.footer.x",
+      "source": 746,
+      "native": 761
+    },
+    {
+      "path": "en-1280-600-demo.orders.parts.cancel.x",
+      "source": 954.6796875,
+      "native": 969.6796875
+    },
+    {
+      "path": "en-1280-600-demo.orders.parts.apply.x",
+      "source": 1041,
+      "native": 1056
+    },
+    {
+      "path": "en-1280-600-demo.orders.cards[0].box.x",
+      "source": 774,
+      "native": 789
+    }
+  ],
+  "allowedOSOffsets": [
+    {
+      "id": "ko-960-600-all",
+      "reason": "Default Windows root scrollbars below original minimum desktop height",
+      "environment": {
+        "innerWidth": 960,
+        "innerHeight": 600,
+        "clientWidth": 945,
+        "clientHeight": 585,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 15,
+      "yOffset": 7.5
+    },
+    {
+      "id": "ko-960-600- ARCHIVE ",
+      "reason": "Default Windows root scrollbars below original minimum desktop height",
+      "environment": {
+        "innerWidth": 960,
+        "innerHeight": 600,
+        "clientWidth": 945,
+        "clientHeight": 585,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 15,
+      "yOffset": 7.5
+    },
+    {
+      "id": "ko-960-600-NO_SUCH_TABLE",
+      "reason": "Default Windows root scrollbars below original minimum desktop height",
+      "environment": {
+        "innerWidth": 960,
+        "innerHeight": 600,
+        "clientWidth": 945,
+        "clientHeight": 585,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 15,
+      "yOffset": 7.5
+    },
+    {
+      "id": "ko-960-600-demo.orders",
+      "reason": "Default Windows root scrollbars below original minimum desktop height",
+      "environment": {
+        "innerWidth": 960,
+        "innerHeight": 600,
+        "clientWidth": 945,
+        "clientHeight": 585,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 15,
+      "yOffset": 7.5
+    },
+    {
+      "id": "ko-1280-600-all",
+      "reason": "Default Windows root scrollbars below original minimum desktop height",
+      "environment": {
+        "innerWidth": 1280,
+        "innerHeight": 600,
+        "clientWidth": 1265,
+        "clientHeight": 600,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 15,
+      "yOffset": 0.0
+    },
+    {
+      "id": "ko-1280-600- ARCHIVE ",
+      "reason": "Default Windows root scrollbars below original minimum desktop height",
+      "environment": {
+        "innerWidth": 1280,
+        "innerHeight": 600,
+        "clientWidth": 1265,
+        "clientHeight": 600,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 15,
+      "yOffset": 0.0
+    },
+    {
+      "id": "ko-1280-600-NO_SUCH_TABLE",
+      "reason": "Default Windows root scrollbars below original minimum desktop height",
+      "environment": {
+        "innerWidth": 1280,
+        "innerHeight": 600,
+        "clientWidth": 1265,
+        "clientHeight": 600,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 15,
+      "yOffset": 0.0
+    },
+    {
+      "id": "ko-1280-600-demo.orders",
+      "reason": "Default Windows root scrollbars below original minimum desktop height",
+      "environment": {
+        "innerWidth": 1280,
+        "innerHeight": 600,
+        "clientWidth": 1265,
+        "clientHeight": 600,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 15,
+      "yOffset": 0.0
+    },
+    {
+      "id": "en-960-600-all",
+      "reason": "Default Windows root scrollbars below original minimum desktop height",
+      "environment": {
+        "innerWidth": 960,
+        "innerHeight": 600,
+        "clientWidth": 945,
+        "clientHeight": 585,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 15,
+      "yOffset": 7.5
+    },
+    {
+      "id": "en-960-600- ARCHIVE ",
+      "reason": "Default Windows root scrollbars below original minimum desktop height",
+      "environment": {
+        "innerWidth": 960,
+        "innerHeight": 600,
+        "clientWidth": 945,
+        "clientHeight": 585,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 15,
+      "yOffset": 7.5
+    },
+    {
+      "id": "en-960-600-NO_SUCH_TABLE",
+      "reason": "Default Windows root scrollbars below original minimum desktop height",
+      "environment": {
+        "innerWidth": 960,
+        "innerHeight": 600,
+        "clientWidth": 945,
+        "clientHeight": 585,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 15,
+      "yOffset": 7.5
+    },
+    {
+      "id": "en-960-600-demo.orders",
+      "reason": "Default Windows root scrollbars below original minimum desktop height",
+      "environment": {
+        "innerWidth": 960,
+        "innerHeight": 600,
+        "clientWidth": 945,
+        "clientHeight": 585,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 15,
+      "yOffset": 7.5
+    },
+    {
+      "id": "en-1280-600-all",
+      "reason": "Default Windows root scrollbars below original minimum desktop height",
+      "environment": {
+        "innerWidth": 1280,
+        "innerHeight": 600,
+        "clientWidth": 1265,
+        "clientHeight": 600,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 15,
+      "yOffset": 0.0
+    },
+    {
+      "id": "en-1280-600- ARCHIVE ",
+      "reason": "Default Windows root scrollbars below original minimum desktop height",
+      "environment": {
+        "innerWidth": 1280,
+        "innerHeight": 600,
+        "clientWidth": 1265,
+        "clientHeight": 600,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 15,
+      "yOffset": 0.0
+    },
+    {
+      "id": "en-1280-600-NO_SUCH_TABLE",
+      "reason": "Default Windows root scrollbars below original minimum desktop height",
+      "environment": {
+        "innerWidth": 1280,
+        "innerHeight": 600,
+        "clientWidth": 1265,
+        "clientHeight": 600,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 15,
+      "yOffset": 0.0
+    },
+    {
+      "id": "en-1280-600-demo.orders",
+      "reason": "Default Windows root scrollbars below original minimum desktop height",
+      "environment": {
+        "innerWidth": 1280,
+        "innerHeight": 600,
+        "clientWidth": 1265,
+        "clientHeight": 600,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 15,
+      "yOffset": 0.0
+    }
+  ],
+  "errors": []
+}

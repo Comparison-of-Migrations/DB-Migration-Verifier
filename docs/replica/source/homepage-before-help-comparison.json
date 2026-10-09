@@ -1,0 +1,2632 @@
+{
+  "cases": 16,
+  "lifecycle": 3,
+  "inputs": 12,
+  "errors": [
+    {
+      "path": "ko-960.help.box.width",
+      "source": 650,
+      "native": 638.9164733886719
+    },
+    {
+      "path": "ko-960.steps.articles[0].root.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "ko-960.steps.articles[0].root.width",
+      "source": 206.6640625,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-960.steps.articles[0].number.box.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "ko-960.steps.articles[0].number.box.width",
+      "source": 206.6640625,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-960.steps.articles[0].title.box.y",
+      "source": 362.984375,
+      "native": 612.0703125
+    },
+    {
+      "path": "ko-960.steps.articles[0].title.box.width",
+      "source": 206.6640625,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-960.steps.articles[0].body.box.y",
+      "source": 393.3828125,
+      "native": 642.46875
+    },
+    {
+      "path": "ko-960.steps.articles[0].body.box.width",
+      "source": 206.6640625,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-960.steps.articles[0].body.box.height",
+      "source": 48.09375,
+      "native": 24.046875
+    },
+    {
+      "path": "ko-960.steps.articles[1].root.x",
+      "source": 238.6640625,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-960.steps.articles[1].root.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "ko-960.steps.articles[1].root.width",
+      "source": 206.6640625,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-960.steps.articles[1].number.box.x",
+      "source": 238.6640625,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-960.steps.articles[1].number.box.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "ko-960.steps.articles[1].number.box.width",
+      "source": 206.6640625,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-960.steps.articles[1].title.box.x",
+      "source": 238.6640625,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-960.steps.articles[1].title.box.y",
+      "source": 362.984375,
+      "native": 612.0703125
+    },
+    {
+      "path": "ko-960.steps.articles[1].title.box.width",
+      "source": 206.6640625,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-960.steps.articles[1].body.box.x",
+      "source": 238.6640625,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-960.steps.articles[1].body.box.y",
+      "source": 393.3828125,
+      "native": 642.46875
+    },
+    {
+      "path": "ko-960.steps.articles[1].body.box.width",
+      "source": 206.6640625,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-960.steps.articles[2].root.x",
+      "source": 477.328125,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-960.steps.articles[2].root.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "ko-960.steps.articles[2].root.width",
+      "source": 206.671875,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-960.steps.articles[2].number.box.x",
+      "source": 477.328125,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-960.steps.articles[2].number.box.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "ko-960.steps.articles[2].number.box.width",
+      "source": 206.671875,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-960.steps.articles[2].title.box.x",
+      "source": 477.328125,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-960.steps.articles[2].title.box.y",
+      "source": 362.984375,
+      "native": 612.0703125
+    },
+    {
+      "path": "ko-960.steps.articles[2].title.box.width",
+      "source": 206.671875,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-960.steps.articles[2].body.box.x",
+      "source": 477.328125,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-960.steps.articles[2].body.box.y",
+      "source": 393.3828125,
+      "native": 642.46875
+    },
+    {
+      "path": "ko-960.steps.articles[2].body.box.width",
+      "source": 206.671875,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-960.steps.articles[2].body.box.height",
+      "source": 48.09375,
+      "native": 24.046875
+    },
+    {
+      "path": "ko-1100.help.box.width",
+      "source": 650,
+      "native": 638.9164733886719
+    },
+    {
+      "path": "ko-1100.steps.articles[0].root.y",
+      "source": 340.98439025878906,
+      "native": 590.0703125
+    },
+    {
+      "path": "ko-1100.steps.articles[0].root.width",
+      "source": 253.328125,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-1100.steps.articles[0].number.box.y",
+      "source": 340.98439025878906,
+      "native": 590.0703125
+    },
+    {
+      "path": "ko-1100.steps.articles[0].number.box.width",
+      "source": 253.328125,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-1100.steps.articles[0].title.box.y",
+      "source": 362.98439025878906,
+      "native": 612.0703125
+    },
+    {
+      "path": "ko-1100.steps.articles[0].title.box.width",
+      "source": 253.328125,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-1100.steps.articles[0].body.box.y",
+      "source": 393.38282775878906,
+      "native": 642.46875
+    },
+    {
+      "path": "ko-1100.steps.articles[0].body.box.width",
+      "source": 253.328125,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-1100.steps.articles[0].body.box.height",
+      "source": 48.09375,
+      "native": 24.046875
+    },
+    {
+      "path": "ko-1100.steps.articles[1].root.x",
+      "source": 285.328125,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-1100.steps.articles[1].root.y",
+      "source": 340.98439025878906,
+      "native": 590.0703125
+    },
+    {
+      "path": "ko-1100.steps.articles[1].root.width",
+      "source": 253.3359375,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1100.steps.articles[1].number.box.x",
+      "source": 285.328125,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-1100.steps.articles[1].number.box.y",
+      "source": 340.98439025878906,
+      "native": 590.0703125
+    },
+    {
+      "path": "ko-1100.steps.articles[1].number.box.width",
+      "source": 253.3359375,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1100.steps.articles[1].title.box.x",
+      "source": 285.328125,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-1100.steps.articles[1].title.box.y",
+      "source": 362.98439025878906,
+      "native": 612.0703125
+    },
+    {
+      "path": "ko-1100.steps.articles[1].title.box.width",
+      "source": 253.3359375,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1100.steps.articles[1].body.box.x",
+      "source": 285.328125,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-1100.steps.articles[1].body.box.y",
+      "source": 393.38282775878906,
+      "native": 642.46875
+    },
+    {
+      "path": "ko-1100.steps.articles[1].body.box.width",
+      "source": 253.3359375,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1100.steps.articles[2].root.x",
+      "source": 570.6640625,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-1100.steps.articles[2].root.y",
+      "source": 340.98439025878906,
+      "native": 590.0703125
+    },
+    {
+      "path": "ko-1100.steps.articles[2].root.width",
+      "source": 253.328125,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1100.steps.articles[2].number.box.x",
+      "source": 570.6640625,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-1100.steps.articles[2].number.box.y",
+      "source": 340.98439025878906,
+      "native": 590.0703125
+    },
+    {
+      "path": "ko-1100.steps.articles[2].number.box.width",
+      "source": 253.328125,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1100.steps.articles[2].title.box.x",
+      "source": 570.6640625,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-1100.steps.articles[2].title.box.y",
+      "source": 362.98439025878906,
+      "native": 612.0703125
+    },
+    {
+      "path": "ko-1100.steps.articles[2].title.box.width",
+      "source": 253.328125,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1100.steps.articles[2].body.box.x",
+      "source": 570.6640625,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-1100.steps.articles[2].body.box.y",
+      "source": 393.38282775878906,
+      "native": 642.46875
+    },
+    {
+      "path": "ko-1100.steps.articles[2].body.box.width",
+      "source": 253.328125,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1100.steps.articles[2].body.box.height",
+      "source": 48.09375,
+      "native": 24.046875
+    },
+    {
+      "path": "ko-1101.help.box.width",
+      "source": 650,
+      "native": 638.9164733886719
+    },
+    {
+      "path": "ko-1101.steps.articles[0].root.y",
+      "source": 340.98435974121094,
+      "native": 590.0703125
+    },
+    {
+      "path": "ko-1101.steps.articles[0].root.width",
+      "source": 253.6640625,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-1101.steps.articles[0].number.box.y",
+      "source": 340.98435974121094,
+      "native": 590.0703125
+    },
+    {
+      "path": "ko-1101.steps.articles[0].number.box.width",
+      "source": 253.6640625,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-1101.steps.articles[0].title.box.y",
+      "source": 362.98435974121094,
+      "native": 612.0703125
+    },
+    {
+      "path": "ko-1101.steps.articles[0].title.box.width",
+      "source": 253.6640625,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-1101.steps.articles[0].body.box.y",
+      "source": 393.38282775878906,
+      "native": 642.46875
+    },
+    {
+      "path": "ko-1101.steps.articles[0].body.box.width",
+      "source": 253.6640625,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-1101.steps.articles[0].body.box.height",
+      "source": 48.09375,
+      "native": 24.046875
+    },
+    {
+      "path": "ko-1101.steps.articles[1].root.x",
+      "source": 285.6640625,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-1101.steps.articles[1].root.y",
+      "source": 340.98435974121094,
+      "native": 590.0703125
+    },
+    {
+      "path": "ko-1101.steps.articles[1].root.width",
+      "source": 253.6640625,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1101.steps.articles[1].number.box.x",
+      "source": 285.6640625,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-1101.steps.articles[1].number.box.y",
+      "source": 340.98435974121094,
+      "native": 590.0703125
+    },
+    {
+      "path": "ko-1101.steps.articles[1].number.box.width",
+      "source": 253.6640625,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1101.steps.articles[1].title.box.x",
+      "source": 285.6640625,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-1101.steps.articles[1].title.box.y",
+      "source": 362.98435974121094,
+      "native": 612.0703125
+    },
+    {
+      "path": "ko-1101.steps.articles[1].title.box.width",
+      "source": 253.6640625,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1101.steps.articles[1].body.box.x",
+      "source": 285.6640625,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-1101.steps.articles[1].body.box.y",
+      "source": 393.38282775878906,
+      "native": 642.46875
+    },
+    {
+      "path": "ko-1101.steps.articles[1].body.box.width",
+      "source": 253.6640625,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1101.steps.articles[2].root.x",
+      "source": 571.328125,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-1101.steps.articles[2].root.y",
+      "source": 340.98435974121094,
+      "native": 590.0703125
+    },
+    {
+      "path": "ko-1101.steps.articles[2].root.width",
+      "source": 253.671875,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1101.steps.articles[2].number.box.x",
+      "source": 571.328125,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-1101.steps.articles[2].number.box.y",
+      "source": 340.98435974121094,
+      "native": 590.0703125
+    },
+    {
+      "path": "ko-1101.steps.articles[2].number.box.width",
+      "source": 253.671875,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1101.steps.articles[2].title.box.x",
+      "source": 571.328125,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-1101.steps.articles[2].title.box.y",
+      "source": 362.98435974121094,
+      "native": 612.0703125
+    },
+    {
+      "path": "ko-1101.steps.articles[2].title.box.width",
+      "source": 253.671875,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1101.steps.articles[2].body.box.x",
+      "source": 571.328125,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-1101.steps.articles[2].body.box.y",
+      "source": 393.38282775878906,
+      "native": 642.46875
+    },
+    {
+      "path": "ko-1101.steps.articles[2].body.box.width",
+      "source": 253.671875,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1101.steps.articles[2].body.box.height",
+      "source": 48.09375,
+      "native": 24.046875
+    },
+    {
+      "path": "ko-1180.help.box.width",
+      "source": 650,
+      "native": 638.9164733886719
+    },
+    {
+      "path": "ko-1180.steps.articles[0].root.y",
+      "source": 340.98438262939453,
+      "native": 590.0703125
+    },
+    {
+      "path": "ko-1180.steps.articles[0].root.width",
+      "source": 280,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-1180.steps.articles[0].number.box.y",
+      "source": 340.98438262939453,
+      "native": 590.0703125
+    },
+    {
+      "path": "ko-1180.steps.articles[0].number.box.width",
+      "source": 280,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-1180.steps.articles[0].title.box.y",
+      "source": 362.98438262939453,
+      "native": 612.0703125
+    },
+    {
+      "path": "ko-1180.steps.articles[0].title.box.width",
+      "source": 280,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-1180.steps.articles[0].body.box.y",
+      "source": 393.38282012939453,
+      "native": 642.46875
+    },
+    {
+      "path": "ko-1180.steps.articles[0].body.box.width",
+      "source": 280,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-1180.steps.articles[0].body.box.height",
+      "source": 48.09375,
+      "native": 24.046875
+    },
+    {
+      "path": "ko-1180.steps.articles[1].root.x",
+      "source": 312,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-1180.steps.articles[1].root.y",
+      "source": 340.98438262939453,
+      "native": 590.0703125
+    },
+    {
+      "path": "ko-1180.steps.articles[1].root.width",
+      "source": 280,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1180.steps.articles[1].number.box.x",
+      "source": 312,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-1180.steps.articles[1].number.box.y",
+      "source": 340.98438262939453,
+      "native": 590.0703125
+    },
+    {
+      "path": "ko-1180.steps.articles[1].number.box.width",
+      "source": 280,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1180.steps.articles[1].title.box.x",
+      "source": 312,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-1180.steps.articles[1].title.box.y",
+      "source": 362.98438262939453,
+      "native": 612.0703125
+    },
+    {
+      "path": "ko-1180.steps.articles[1].title.box.width",
+      "source": 280,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1180.steps.articles[1].body.box.x",
+      "source": 312,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-1180.steps.articles[1].body.box.y",
+      "source": 393.38282012939453,
+      "native": 642.46875
+    },
+    {
+      "path": "ko-1180.steps.articles[1].body.box.width",
+      "source": 280,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1180.steps.articles[2].root.x",
+      "source": 624,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-1180.steps.articles[2].root.y",
+      "source": 340.98438262939453,
+      "native": 590.0703125
+    },
+    {
+      "path": "ko-1180.steps.articles[2].root.width",
+      "source": 280,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1180.steps.articles[2].number.box.x",
+      "source": 624,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-1180.steps.articles[2].number.box.y",
+      "source": 340.98438262939453,
+      "native": 590.0703125
+    },
+    {
+      "path": "ko-1180.steps.articles[2].number.box.width",
+      "source": 280,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1180.steps.articles[2].title.box.x",
+      "source": 624,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-1180.steps.articles[2].title.box.y",
+      "source": 362.98438262939453,
+      "native": 612.0703125
+    },
+    {
+      "path": "ko-1180.steps.articles[2].title.box.width",
+      "source": 280,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1180.steps.articles[2].body.box.x",
+      "source": 624,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-1180.steps.articles[2].body.box.y",
+      "source": 393.38282012939453,
+      "native": 642.46875
+    },
+    {
+      "path": "ko-1180.steps.articles[2].body.box.width",
+      "source": 280,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1180.steps.articles[2].body.box.height",
+      "source": 48.09375,
+      "native": 24.046875
+    },
+    {
+      "path": "ko-1181.help.box.width",
+      "source": 541.4453125,
+      "native": 535.9039306640625
+    },
+    {
+      "path": "ko-1181.steps.articles[0].root.width",
+      "source": 272.328125,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-1181.steps.articles[0].number.box.width",
+      "source": 272.328125,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-1181.steps.articles[0].title.box.width",
+      "source": 272.328125,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-1181.steps.articles[0].body.box.width",
+      "source": 272.328125,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-1181.steps.articles[0].body.box.height",
+      "source": 48.09375,
+      "native": 24.046875
+    },
+    {
+      "path": "ko-1181.steps.articles[1].root.x",
+      "source": 304.328125,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-1181.steps.articles[1].root.width",
+      "source": 272.3359375,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1181.steps.articles[1].number.box.x",
+      "source": 304.328125,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-1181.steps.articles[1].number.box.width",
+      "source": 272.3359375,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1181.steps.articles[1].title.box.x",
+      "source": 304.328125,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-1181.steps.articles[1].title.box.width",
+      "source": 272.3359375,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1181.steps.articles[1].body.box.x",
+      "source": 304.328125,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-1181.steps.articles[1].body.box.width",
+      "source": 272.3359375,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1181.steps.articles[2].root.x",
+      "source": 608.6640625,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-1181.steps.articles[2].root.width",
+      "source": 272.3359375,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1181.steps.articles[2].number.box.x",
+      "source": 608.6640625,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-1181.steps.articles[2].number.box.width",
+      "source": 272.3359375,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1181.steps.articles[2].title.box.x",
+      "source": 608.6640625,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-1181.steps.articles[2].title.box.width",
+      "source": 272.3359375,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1181.steps.articles[2].body.box.x",
+      "source": 608.6640625,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-1181.steps.articles[2].body.box.width",
+      "source": 272.3359375,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1181.steps.articles[2].body.box.height",
+      "source": 48.09375,
+      "native": 24.046875
+    },
+    {
+      "path": "ko-1280.help.box.width",
+      "source": 605.796875,
+      "native": 596.007080078125
+    },
+    {
+      "path": "ko-1440.help.box.width",
+      "source": 650,
+      "native": 638.9164733886719
+    },
+    {
+      "path": "ko-1440.steps.articles[0].root.width",
+      "source": 352,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-1440.steps.articles[0].root.height",
+      "source": 76.4453125,
+      "native": 100.4921875
+    },
+    {
+      "path": "ko-1440.steps.articles[0].number.box.width",
+      "source": 352,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-1440.steps.articles[0].title.box.width",
+      "source": 352,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-1440.steps.articles[0].body.box.width",
+      "source": 352,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-1440.steps.articles[1].root.x",
+      "source": 384,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-1440.steps.articles[1].root.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1440.steps.articles[1].root.height",
+      "source": 76.4453125,
+      "native": 100.4921875
+    },
+    {
+      "path": "ko-1440.steps.articles[1].number.box.x",
+      "source": 384,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-1440.steps.articles[1].number.box.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1440.steps.articles[1].title.box.x",
+      "source": 384,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-1440.steps.articles[1].title.box.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1440.steps.articles[1].body.box.x",
+      "source": 384,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-1440.steps.articles[1].body.box.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1440.steps.articles[1].body.box.height",
+      "source": 24.046875,
+      "native": 48.09375
+    },
+    {
+      "path": "ko-1440.steps.articles[2].root.x",
+      "source": 768,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-1440.steps.articles[2].root.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1440.steps.articles[2].root.height",
+      "source": 76.4453125,
+      "native": 100.4921875
+    },
+    {
+      "path": "ko-1440.steps.articles[2].number.box.x",
+      "source": 768,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-1440.steps.articles[2].number.box.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1440.steps.articles[2].title.box.x",
+      "source": 768,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-1440.steps.articles[2].title.box.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1440.steps.articles[2].body.box.x",
+      "source": 768,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-1440.steps.articles[2].body.box.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1600.help.box.width",
+      "source": 650,
+      "native": 638.9164733886719
+    },
+    {
+      "path": "ko-1600.steps.articles[0].root.width",
+      "source": 352,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-1600.steps.articles[0].root.height",
+      "source": 76.4453125,
+      "native": 100.4921875
+    },
+    {
+      "path": "ko-1600.steps.articles[0].number.box.width",
+      "source": 352,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-1600.steps.articles[0].title.box.width",
+      "source": 352,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-1600.steps.articles[0].body.box.width",
+      "source": 352,
+      "native": 305.328125
+    },
+    {
+      "path": "ko-1600.steps.articles[1].root.x",
+      "source": 384,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-1600.steps.articles[1].root.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1600.steps.articles[1].root.height",
+      "source": 76.4453125,
+      "native": 100.4921875
+    },
+    {
+      "path": "ko-1600.steps.articles[1].number.box.x",
+      "source": 384,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-1600.steps.articles[1].number.box.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1600.steps.articles[1].title.box.x",
+      "source": 384,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-1600.steps.articles[1].title.box.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1600.steps.articles[1].body.box.x",
+      "source": 384,
+      "native": 337.328125
+    },
+    {
+      "path": "ko-1600.steps.articles[1].body.box.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1600.steps.articles[1].body.box.height",
+      "source": 24.046875,
+      "native": 48.09375
+    },
+    {
+      "path": "ko-1600.steps.articles[2].root.x",
+      "source": 768,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-1600.steps.articles[2].root.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1600.steps.articles[2].root.height",
+      "source": 76.4453125,
+      "native": 100.4921875
+    },
+    {
+      "path": "ko-1600.steps.articles[2].number.box.x",
+      "source": 768,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-1600.steps.articles[2].number.box.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1600.steps.articles[2].title.box.x",
+      "source": 768,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-1600.steps.articles[2].title.box.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "ko-1600.steps.articles[2].body.box.x",
+      "source": 768,
+      "native": 674.6640625
+    },
+    {
+      "path": "ko-1600.steps.articles[2].body.box.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-960.help.box.width",
+      "source": 650,
+      "native": 625.400390625
+    },
+    {
+      "path": "en-960.steps.articles[0].root.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "en-960.steps.articles[0].root.width",
+      "source": 206.6640625,
+      "native": 305.328125
+    },
+    {
+      "path": "en-960.steps.articles[0].root.height",
+      "source": 124.53909301757812,
+      "native": 100.4921875
+    },
+    {
+      "path": "en-960.steps.articles[0].number.box.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "en-960.steps.articles[0].number.box.width",
+      "source": 206.6640625,
+      "native": 305.328125
+    },
+    {
+      "path": "en-960.steps.articles[0].title.box.y",
+      "source": 362.984375,
+      "native": 612.0703125
+    },
+    {
+      "path": "en-960.steps.articles[0].title.box.width",
+      "source": 206.6640625,
+      "native": 305.328125
+    },
+    {
+      "path": "en-960.steps.articles[0].title.text",
+      "source": "Connect two databases",
+      "native": "두 DB를 연결합니다"
+    },
+    {
+      "path": "en-960.steps.articles[0].body.box.y",
+      "source": 393.3828430175781,
+      "native": 642.46875
+    },
+    {
+      "path": "en-960.steps.articles[0].body.box.width",
+      "source": 206.6640625,
+      "native": 305.328125
+    },
+    {
+      "path": "en-960.steps.articles[0].body.box.height",
+      "source": 72.140625,
+      "native": 24.046875
+    },
+    {
+      "path": "en-960.steps.articles[0].body.text",
+      "source": "The app checks visibility and explains any additional preparation.",
+      "native": "접속 후 앱이 조회 가능한 범위와 필요한 준비를 안내합니다."
+    },
+    {
+      "path": "en-960.steps.articles[1].root.x",
+      "source": 238.6640625,
+      "native": 337.328125
+    },
+    {
+      "path": "en-960.steps.articles[1].root.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "en-960.steps.articles[1].root.width",
+      "source": 206.6640625,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-960.steps.articles[1].root.height",
+      "source": 124.53909301757812,
+      "native": 100.4921875
+    },
+    {
+      "path": "en-960.steps.articles[1].number.box.x",
+      "source": 238.6640625,
+      "native": 337.328125
+    },
+    {
+      "path": "en-960.steps.articles[1].number.box.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "en-960.steps.articles[1].number.box.width",
+      "source": 206.6640625,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-960.steps.articles[1].title.box.x",
+      "source": 238.6640625,
+      "native": 337.328125
+    },
+    {
+      "path": "en-960.steps.articles[1].title.box.y",
+      "source": 362.984375,
+      "native": 612.0703125
+    },
+    {
+      "path": "en-960.steps.articles[1].title.box.width",
+      "source": 206.6640625,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-960.steps.articles[1].title.text",
+      "source": "Choose what to compare",
+      "native": "범위를 고르고 비교합니다"
+    },
+    {
+      "path": "en-960.steps.articles[1].body.box.x",
+      "source": 238.6640625,
+      "native": 337.328125
+    },
+    {
+      "path": "en-960.steps.articles[1].body.box.y",
+      "source": 393.3828430175781,
+      "native": 642.46875
+    },
+    {
+      "path": "en-960.steps.articles[1].body.box.width",
+      "source": 206.6640625,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-960.steps.articles[1].body.text",
+      "source": "Select categories and confirm how tables are matched.",
+      "native": "데이터·구조·권한·객체를 선택하고 테이블 대응을 확인합니다."
+    },
+    {
+      "path": "en-960.steps.articles[2].root.x",
+      "source": 477.328125,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-960.steps.articles[2].root.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "en-960.steps.articles[2].root.width",
+      "source": 206.671875,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-960.steps.articles[2].root.height",
+      "source": 124.53909301757812,
+      "native": 100.4921875
+    },
+    {
+      "path": "en-960.steps.articles[2].number.box.x",
+      "source": 477.328125,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-960.steps.articles[2].number.box.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "en-960.steps.articles[2].number.box.width",
+      "source": 206.671875,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-960.steps.articles[2].title.box.x",
+      "source": 477.328125,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-960.steps.articles[2].title.box.y",
+      "source": 362.984375,
+      "native": 612.0703125
+    },
+    {
+      "path": "en-960.steps.articles[2].title.box.width",
+      "source": 206.671875,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-960.steps.articles[2].title.text",
+      "source": "Review differences and gaps",
+      "native": "차이와 미검증을 확인합니다"
+    },
+    {
+      "path": "en-960.steps.articles[2].body.box.x",
+      "source": 477.328125,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-960.steps.articles[2].body.box.y",
+      "source": 393.3828430175781,
+      "native": 642.46875
+    },
+    {
+      "path": "en-960.steps.articles[2].body.box.width",
+      "source": 206.671875,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-960.steps.articles[2].body.box.height",
+      "source": 48.09375,
+      "native": 24.046875
+    },
+    {
+      "path": "en-960.steps.articles[2].body.text",
+      "source": "Review verified outcomes and save a report without row values.",
+      "native": "확인한 결과를 구분해 보고, 안전한 결과 파일로 보관합니다."
+    },
+    {
+      "path": "en-1100.help.box.width",
+      "source": 650,
+      "native": 625.400390625
+    },
+    {
+      "path": "en-1100.steps.articles[0].root.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "en-1100.steps.articles[0].root.width",
+      "source": 253.328125,
+      "native": 305.328125
+    },
+    {
+      "path": "en-1100.steps.articles[0].number.box.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "en-1100.steps.articles[0].number.box.width",
+      "source": 253.328125,
+      "native": 305.328125
+    },
+    {
+      "path": "en-1100.steps.articles[0].title.box.y",
+      "source": 362.984375,
+      "native": 612.0703125
+    },
+    {
+      "path": "en-1100.steps.articles[0].title.box.width",
+      "source": 253.328125,
+      "native": 305.328125
+    },
+    {
+      "path": "en-1100.steps.articles[0].title.text",
+      "source": "Connect two databases",
+      "native": "두 DB를 연결합니다"
+    },
+    {
+      "path": "en-1100.steps.articles[0].body.box.y",
+      "source": 393.3828125,
+      "native": 642.46875
+    },
+    {
+      "path": "en-1100.steps.articles[0].body.box.width",
+      "source": 253.328125,
+      "native": 305.328125
+    },
+    {
+      "path": "en-1100.steps.articles[0].body.box.height",
+      "source": 48.09375,
+      "native": 24.046875
+    },
+    {
+      "path": "en-1100.steps.articles[0].body.text",
+      "source": "The app checks visibility and explains any additional preparation.",
+      "native": "접속 후 앱이 조회 가능한 범위와 필요한 준비를 안내합니다."
+    },
+    {
+      "path": "en-1100.steps.articles[1].root.x",
+      "source": 285.328125,
+      "native": 337.328125
+    },
+    {
+      "path": "en-1100.steps.articles[1].root.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "en-1100.steps.articles[1].root.width",
+      "source": 253.3359375,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1100.steps.articles[1].number.box.x",
+      "source": 285.328125,
+      "native": 337.328125
+    },
+    {
+      "path": "en-1100.steps.articles[1].number.box.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "en-1100.steps.articles[1].number.box.width",
+      "source": 253.3359375,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1100.steps.articles[1].title.box.x",
+      "source": 285.328125,
+      "native": 337.328125
+    },
+    {
+      "path": "en-1100.steps.articles[1].title.box.y",
+      "source": 362.984375,
+      "native": 612.0703125
+    },
+    {
+      "path": "en-1100.steps.articles[1].title.box.width",
+      "source": 253.3359375,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1100.steps.articles[1].title.text",
+      "source": "Choose what to compare",
+      "native": "범위를 고르고 비교합니다"
+    },
+    {
+      "path": "en-1100.steps.articles[1].body.box.x",
+      "source": 285.328125,
+      "native": 337.328125
+    },
+    {
+      "path": "en-1100.steps.articles[1].body.box.y",
+      "source": 393.3828125,
+      "native": 642.46875
+    },
+    {
+      "path": "en-1100.steps.articles[1].body.box.width",
+      "source": 253.3359375,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1100.steps.articles[1].body.text",
+      "source": "Select categories and confirm how tables are matched.",
+      "native": "데이터·구조·권한·객체를 선택하고 테이블 대응을 확인합니다."
+    },
+    {
+      "path": "en-1100.steps.articles[2].root.x",
+      "source": 570.6640625,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-1100.steps.articles[2].root.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "en-1100.steps.articles[2].root.width",
+      "source": 253.328125,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1100.steps.articles[2].number.box.x",
+      "source": 570.6640625,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-1100.steps.articles[2].number.box.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "en-1100.steps.articles[2].number.box.width",
+      "source": 253.328125,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1100.steps.articles[2].title.box.x",
+      "source": 570.6640625,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-1100.steps.articles[2].title.box.y",
+      "source": 362.984375,
+      "native": 612.0703125
+    },
+    {
+      "path": "en-1100.steps.articles[2].title.box.width",
+      "source": 253.328125,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1100.steps.articles[2].title.text",
+      "source": "Review differences and gaps",
+      "native": "차이와 미검증을 확인합니다"
+    },
+    {
+      "path": "en-1100.steps.articles[2].body.box.x",
+      "source": 570.6640625,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-1100.steps.articles[2].body.box.y",
+      "source": 393.3828125,
+      "native": 642.46875
+    },
+    {
+      "path": "en-1100.steps.articles[2].body.box.width",
+      "source": 253.328125,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1100.steps.articles[2].body.box.height",
+      "source": 48.09375,
+      "native": 24.046875
+    },
+    {
+      "path": "en-1100.steps.articles[2].body.text",
+      "source": "Review verified outcomes and save a report without row values.",
+      "native": "확인한 결과를 구분해 보고, 안전한 결과 파일로 보관합니다."
+    },
+    {
+      "path": "en-1101.help.box.width",
+      "source": 650,
+      "native": 625.400390625
+    },
+    {
+      "path": "en-1101.steps.articles[0].root.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "en-1101.steps.articles[0].root.width",
+      "source": 253.6640625,
+      "native": 305.328125
+    },
+    {
+      "path": "en-1101.steps.articles[0].number.box.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "en-1101.steps.articles[0].number.box.width",
+      "source": 253.6640625,
+      "native": 305.328125
+    },
+    {
+      "path": "en-1101.steps.articles[0].title.box.y",
+      "source": 362.984375,
+      "native": 612.0703125
+    },
+    {
+      "path": "en-1101.steps.articles[0].title.box.width",
+      "source": 253.6640625,
+      "native": 305.328125
+    },
+    {
+      "path": "en-1101.steps.articles[0].title.text",
+      "source": "Connect two databases",
+      "native": "두 DB를 연결합니다"
+    },
+    {
+      "path": "en-1101.steps.articles[0].body.box.y",
+      "source": 393.3828430175781,
+      "native": 642.46875
+    },
+    {
+      "path": "en-1101.steps.articles[0].body.box.width",
+      "source": 253.6640625,
+      "native": 305.328125
+    },
+    {
+      "path": "en-1101.steps.articles[0].body.box.height",
+      "source": 48.09375,
+      "native": 24.046875
+    },
+    {
+      "path": "en-1101.steps.articles[0].body.text",
+      "source": "The app checks visibility and explains any additional preparation.",
+      "native": "접속 후 앱이 조회 가능한 범위와 필요한 준비를 안내합니다."
+    },
+    {
+      "path": "en-1101.steps.articles[1].root.x",
+      "source": 285.6640625,
+      "native": 337.328125
+    },
+    {
+      "path": "en-1101.steps.articles[1].root.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "en-1101.steps.articles[1].root.width",
+      "source": 253.6640625,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1101.steps.articles[1].number.box.x",
+      "source": 285.6640625,
+      "native": 337.328125
+    },
+    {
+      "path": "en-1101.steps.articles[1].number.box.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "en-1101.steps.articles[1].number.box.width",
+      "source": 253.6640625,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1101.steps.articles[1].title.box.x",
+      "source": 285.6640625,
+      "native": 337.328125
+    },
+    {
+      "path": "en-1101.steps.articles[1].title.box.y",
+      "source": 362.984375,
+      "native": 612.0703125
+    },
+    {
+      "path": "en-1101.steps.articles[1].title.box.width",
+      "source": 253.6640625,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1101.steps.articles[1].title.text",
+      "source": "Choose what to compare",
+      "native": "범위를 고르고 비교합니다"
+    },
+    {
+      "path": "en-1101.steps.articles[1].body.box.x",
+      "source": 285.6640625,
+      "native": 337.328125
+    },
+    {
+      "path": "en-1101.steps.articles[1].body.box.y",
+      "source": 393.3828430175781,
+      "native": 642.46875
+    },
+    {
+      "path": "en-1101.steps.articles[1].body.box.width",
+      "source": 253.6640625,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1101.steps.articles[1].body.text",
+      "source": "Select categories and confirm how tables are matched.",
+      "native": "데이터·구조·권한·객체를 선택하고 테이블 대응을 확인합니다."
+    },
+    {
+      "path": "en-1101.steps.articles[2].root.x",
+      "source": 571.328125,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-1101.steps.articles[2].root.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "en-1101.steps.articles[2].root.width",
+      "source": 253.671875,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1101.steps.articles[2].number.box.x",
+      "source": 571.328125,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-1101.steps.articles[2].number.box.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "en-1101.steps.articles[2].number.box.width",
+      "source": 253.671875,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1101.steps.articles[2].title.box.x",
+      "source": 571.328125,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-1101.steps.articles[2].title.box.y",
+      "source": 362.984375,
+      "native": 612.0703125
+    },
+    {
+      "path": "en-1101.steps.articles[2].title.box.width",
+      "source": 253.671875,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1101.steps.articles[2].title.text",
+      "source": "Review differences and gaps",
+      "native": "차이와 미검증을 확인합니다"
+    },
+    {
+      "path": "en-1101.steps.articles[2].body.box.x",
+      "source": 571.328125,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-1101.steps.articles[2].body.box.y",
+      "source": 393.3828430175781,
+      "native": 642.46875
+    },
+    {
+      "path": "en-1101.steps.articles[2].body.box.width",
+      "source": 253.671875,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1101.steps.articles[2].body.box.height",
+      "source": 48.09375,
+      "native": 24.046875
+    },
+    {
+      "path": "en-1101.steps.articles[2].body.text",
+      "source": "Review verified outcomes and save a report without row values.",
+      "native": "확인한 결과를 구분해 보고, 안전한 결과 파일로 보관합니다."
+    },
+    {
+      "path": "en-1180.help.box.width",
+      "source": 650,
+      "native": 625.400390625
+    },
+    {
+      "path": "en-1180.steps.articles[0].root.y",
+      "source": 340.98435974121094,
+      "native": 590.0703125
+    },
+    {
+      "path": "en-1180.steps.articles[0].root.width",
+      "source": 280,
+      "native": 305.328125
+    },
+    {
+      "path": "en-1180.steps.articles[0].number.box.y",
+      "source": 340.98435974121094,
+      "native": 590.0703125
+    },
+    {
+      "path": "en-1180.steps.articles[0].number.box.width",
+      "source": 280,
+      "native": 305.328125
+    },
+    {
+      "path": "en-1180.steps.articles[0].title.box.y",
+      "source": 362.98435974121094,
+      "native": 612.0703125
+    },
+    {
+      "path": "en-1180.steps.articles[0].title.box.width",
+      "source": 280,
+      "native": 305.328125
+    },
+    {
+      "path": "en-1180.steps.articles[0].title.text",
+      "source": "Connect two databases",
+      "native": "두 DB를 연결합니다"
+    },
+    {
+      "path": "en-1180.steps.articles[0].body.box.y",
+      "source": 393.38282775878906,
+      "native": 642.46875
+    },
+    {
+      "path": "en-1180.steps.articles[0].body.box.width",
+      "source": 280,
+      "native": 305.328125
+    },
+    {
+      "path": "en-1180.steps.articles[0].body.box.height",
+      "source": 48.09375,
+      "native": 24.046875
+    },
+    {
+      "path": "en-1180.steps.articles[0].body.text",
+      "source": "The app checks visibility and explains any additional preparation.",
+      "native": "접속 후 앱이 조회 가능한 범위와 필요한 준비를 안내합니다."
+    },
+    {
+      "path": "en-1180.steps.articles[1].root.x",
+      "source": 312,
+      "native": 337.328125
+    },
+    {
+      "path": "en-1180.steps.articles[1].root.y",
+      "source": 340.98435974121094,
+      "native": 590.0703125
+    },
+    {
+      "path": "en-1180.steps.articles[1].root.width",
+      "source": 280,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1180.steps.articles[1].number.box.x",
+      "source": 312,
+      "native": 337.328125
+    },
+    {
+      "path": "en-1180.steps.articles[1].number.box.y",
+      "source": 340.98435974121094,
+      "native": 590.0703125
+    },
+    {
+      "path": "en-1180.steps.articles[1].number.box.width",
+      "source": 280,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1180.steps.articles[1].title.box.x",
+      "source": 312,
+      "native": 337.328125
+    },
+    {
+      "path": "en-1180.steps.articles[1].title.box.y",
+      "source": 362.98435974121094,
+      "native": 612.0703125
+    },
+    {
+      "path": "en-1180.steps.articles[1].title.box.width",
+      "source": 280,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1180.steps.articles[1].title.text",
+      "source": "Choose what to compare",
+      "native": "범위를 고르고 비교합니다"
+    },
+    {
+      "path": "en-1180.steps.articles[1].body.box.x",
+      "source": 312,
+      "native": 337.328125
+    },
+    {
+      "path": "en-1180.steps.articles[1].body.box.y",
+      "source": 393.38282775878906,
+      "native": 642.46875
+    },
+    {
+      "path": "en-1180.steps.articles[1].body.box.width",
+      "source": 280,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1180.steps.articles[1].body.text",
+      "source": "Select categories and confirm how tables are matched.",
+      "native": "데이터·구조·권한·객체를 선택하고 테이블 대응을 확인합니다."
+    },
+    {
+      "path": "en-1180.steps.articles[2].root.x",
+      "source": 624,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-1180.steps.articles[2].root.y",
+      "source": 340.98435974121094,
+      "native": 590.0703125
+    },
+    {
+      "path": "en-1180.steps.articles[2].root.width",
+      "source": 280,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1180.steps.articles[2].number.box.x",
+      "source": 624,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-1180.steps.articles[2].number.box.y",
+      "source": 340.98435974121094,
+      "native": 590.0703125
+    },
+    {
+      "path": "en-1180.steps.articles[2].number.box.width",
+      "source": 280,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1180.steps.articles[2].title.box.x",
+      "source": 624,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-1180.steps.articles[2].title.box.y",
+      "source": 362.98435974121094,
+      "native": 612.0703125
+    },
+    {
+      "path": "en-1180.steps.articles[2].title.box.width",
+      "source": 280,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1180.steps.articles[2].title.text",
+      "source": "Review differences and gaps",
+      "native": "차이와 미검증을 확인합니다"
+    },
+    {
+      "path": "en-1180.steps.articles[2].body.box.x",
+      "source": 624,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-1180.steps.articles[2].body.box.y",
+      "source": 393.38282775878906,
+      "native": 642.46875
+    },
+    {
+      "path": "en-1180.steps.articles[2].body.box.width",
+      "source": 280,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1180.steps.articles[2].body.box.height",
+      "source": 48.09375,
+      "native": 24.046875
+    },
+    {
+      "path": "en-1180.steps.articles[2].body.text",
+      "source": "Review verified outcomes and save a report without row values.",
+      "native": "확인한 결과를 구분해 보고, 안전한 결과 파일로 보관합니다."
+    },
+    {
+      "path": "en-1181.help.box.width",
+      "source": 541.4453125,
+      "native": 512.16796875
+    },
+    {
+      "path": "en-1181.steps.articles[0].root.width",
+      "source": 272.328125,
+      "native": 305.328125
+    },
+    {
+      "path": "en-1181.steps.articles[0].number.box.width",
+      "source": 272.328125,
+      "native": 305.328125
+    },
+    {
+      "path": "en-1181.steps.articles[0].title.box.width",
+      "source": 272.328125,
+      "native": 305.328125
+    },
+    {
+      "path": "en-1181.steps.articles[0].title.text",
+      "source": "Connect two databases",
+      "native": "두 DB를 연결합니다"
+    },
+    {
+      "path": "en-1181.steps.articles[0].body.box.width",
+      "source": 272.328125,
+      "native": 305.328125
+    },
+    {
+      "path": "en-1181.steps.articles[0].body.box.height",
+      "source": 48.09375,
+      "native": 24.046875
+    },
+    {
+      "path": "en-1181.steps.articles[0].body.text",
+      "source": "The app checks visibility and explains any additional preparation.",
+      "native": "접속 후 앱이 조회 가능한 범위와 필요한 준비를 안내합니다."
+    },
+    {
+      "path": "en-1181.steps.articles[1].root.x",
+      "source": 304.328125,
+      "native": 337.328125
+    },
+    {
+      "path": "en-1181.steps.articles[1].root.width",
+      "source": 272.3359375,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1181.steps.articles[1].number.box.x",
+      "source": 304.328125,
+      "native": 337.328125
+    },
+    {
+      "path": "en-1181.steps.articles[1].number.box.width",
+      "source": 272.3359375,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1181.steps.articles[1].title.box.x",
+      "source": 304.328125,
+      "native": 337.328125
+    },
+    {
+      "path": "en-1181.steps.articles[1].title.box.width",
+      "source": 272.3359375,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1181.steps.articles[1].title.text",
+      "source": "Choose what to compare",
+      "native": "범위를 고르고 비교합니다"
+    },
+    {
+      "path": "en-1181.steps.articles[1].body.box.x",
+      "source": 304.328125,
+      "native": 337.328125
+    },
+    {
+      "path": "en-1181.steps.articles[1].body.box.width",
+      "source": 272.3359375,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1181.steps.articles[1].body.text",
+      "source": "Select categories and confirm how tables are matched.",
+      "native": "데이터·구조·권한·객체를 선택하고 테이블 대응을 확인합니다."
+    },
+    {
+      "path": "en-1181.steps.articles[2].root.x",
+      "source": 608.6640625,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-1181.steps.articles[2].root.width",
+      "source": 272.3359375,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1181.steps.articles[2].number.box.x",
+      "source": 608.6640625,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-1181.steps.articles[2].number.box.width",
+      "source": 272.3359375,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1181.steps.articles[2].title.box.x",
+      "source": 608.6640625,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-1181.steps.articles[2].title.box.width",
+      "source": 272.3359375,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1181.steps.articles[2].title.text",
+      "source": "Review differences and gaps",
+      "native": "차이와 미검증을 확인합니다"
+    },
+    {
+      "path": "en-1181.steps.articles[2].body.box.x",
+      "source": 608.6640625,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-1181.steps.articles[2].body.box.width",
+      "source": 272.3359375,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1181.steps.articles[2].body.box.height",
+      "source": 48.09375,
+      "native": 24.046875
+    },
+    {
+      "path": "en-1181.steps.articles[2].body.text",
+      "source": "Review verified outcomes and save a report without row values.",
+      "native": "확인한 결과를 구분해 보고, 안전한 결과 파일로 보관합니다."
+    },
+    {
+      "path": "en-1280.help.box.width",
+      "source": 605.796875,
+      "native": 599.27490234375
+    },
+    {
+      "path": "en-1280.steps.articles[0].title.text",
+      "source": "Connect two databases",
+      "native": "두 DB를 연결합니다"
+    },
+    {
+      "path": "en-1280.steps.articles[0].body.box.height",
+      "source": 48.09375,
+      "native": 24.046875
+    },
+    {
+      "path": "en-1280.steps.articles[0].body.text",
+      "source": "The app checks visibility and explains any additional preparation.",
+      "native": "접속 후 앱이 조회 가능한 범위와 필요한 준비를 안내합니다."
+    },
+    {
+      "path": "en-1280.steps.articles[1].title.text",
+      "source": "Choose what to compare",
+      "native": "범위를 고르고 비교합니다"
+    },
+    {
+      "path": "en-1280.steps.articles[1].body.text",
+      "source": "Select categories and confirm how tables are matched.",
+      "native": "데이터·구조·권한·객체를 선택하고 테이블 대응을 확인합니다."
+    },
+    {
+      "path": "en-1280.steps.articles[2].title.text",
+      "source": "Review differences and gaps",
+      "native": "차이와 미검증을 확인합니다"
+    },
+    {
+      "path": "en-1280.steps.articles[2].body.box.height",
+      "source": 48.09375,
+      "native": 24.046875
+    },
+    {
+      "path": "en-1280.steps.articles[2].body.text",
+      "source": "Review verified outcomes and save a report without row values.",
+      "native": "확인한 결과를 구분해 보고, 안전한 결과 파일로 보관합니다."
+    },
+    {
+      "path": "en-1440.help.box.width",
+      "source": 650,
+      "native": 625.400390625
+    },
+    {
+      "path": "en-1440.steps.articles[0].root.width",
+      "source": 352,
+      "native": 305.328125
+    },
+    {
+      "path": "en-1440.steps.articles[0].number.box.width",
+      "source": 352,
+      "native": 305.328125
+    },
+    {
+      "path": "en-1440.steps.articles[0].title.box.width",
+      "source": 352,
+      "native": 305.328125
+    },
+    {
+      "path": "en-1440.steps.articles[0].title.text",
+      "source": "Connect two databases",
+      "native": "두 DB를 연결합니다"
+    },
+    {
+      "path": "en-1440.steps.articles[0].body.box.width",
+      "source": 352,
+      "native": 305.328125
+    },
+    {
+      "path": "en-1440.steps.articles[0].body.box.height",
+      "source": 48.09375,
+      "native": 24.046875
+    },
+    {
+      "path": "en-1440.steps.articles[0].body.text",
+      "source": "The app checks visibility and explains any additional preparation.",
+      "native": "접속 후 앱이 조회 가능한 범위와 필요한 준비를 안내합니다."
+    },
+    {
+      "path": "en-1440.steps.articles[1].root.x",
+      "source": 384,
+      "native": 337.328125
+    },
+    {
+      "path": "en-1440.steps.articles[1].root.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1440.steps.articles[1].number.box.x",
+      "source": 384,
+      "native": 337.328125
+    },
+    {
+      "path": "en-1440.steps.articles[1].number.box.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1440.steps.articles[1].title.box.x",
+      "source": 384,
+      "native": 337.328125
+    },
+    {
+      "path": "en-1440.steps.articles[1].title.box.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1440.steps.articles[1].title.text",
+      "source": "Choose what to compare",
+      "native": "범위를 고르고 비교합니다"
+    },
+    {
+      "path": "en-1440.steps.articles[1].body.box.x",
+      "source": 384,
+      "native": 337.328125
+    },
+    {
+      "path": "en-1440.steps.articles[1].body.box.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1440.steps.articles[1].body.box.height",
+      "source": 24.046875,
+      "native": 48.09375
+    },
+    {
+      "path": "en-1440.steps.articles[1].body.text",
+      "source": "Select categories and confirm how tables are matched.",
+      "native": "데이터·구조·권한·객체를 선택하고 테이블 대응을 확인합니다."
+    },
+    {
+      "path": "en-1440.steps.articles[2].root.x",
+      "source": 768,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-1440.steps.articles[2].root.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1440.steps.articles[2].number.box.x",
+      "source": 768,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-1440.steps.articles[2].number.box.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1440.steps.articles[2].title.box.x",
+      "source": 768,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-1440.steps.articles[2].title.box.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1440.steps.articles[2].title.text",
+      "source": "Review differences and gaps",
+      "native": "차이와 미검증을 확인합니다"
+    },
+    {
+      "path": "en-1440.steps.articles[2].body.box.x",
+      "source": 768,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-1440.steps.articles[2].body.box.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1440.steps.articles[2].body.box.height",
+      "source": 48.09375,
+      "native": 24.046875
+    },
+    {
+      "path": "en-1440.steps.articles[2].body.text",
+      "source": "Review verified outcomes and save a report without row values.",
+      "native": "확인한 결과를 구분해 보고, 안전한 결과 파일로 보관합니다."
+    },
+    {
+      "path": "en-1600.help.box.width",
+      "source": 650,
+      "native": 625.400390625
+    },
+    {
+      "path": "en-1600.steps.articles[0].root.width",
+      "source": 352,
+      "native": 305.328125
+    },
+    {
+      "path": "en-1600.steps.articles[0].number.box.width",
+      "source": 352,
+      "native": 305.328125
+    },
+    {
+      "path": "en-1600.steps.articles[0].title.box.width",
+      "source": 352,
+      "native": 305.328125
+    },
+    {
+      "path": "en-1600.steps.articles[0].title.text",
+      "source": "Connect two databases",
+      "native": "두 DB를 연결합니다"
+    },
+    {
+      "path": "en-1600.steps.articles[0].body.box.width",
+      "source": 352,
+      "native": 305.328125
+    },
+    {
+      "path": "en-1600.steps.articles[0].body.box.height",
+      "source": 48.09375,
+      "native": 24.046875
+    },
+    {
+      "path": "en-1600.steps.articles[0].body.text",
+      "source": "The app checks visibility and explains any additional preparation.",
+      "native": "접속 후 앱이 조회 가능한 범위와 필요한 준비를 안내합니다."
+    },
+    {
+      "path": "en-1600.steps.articles[1].root.x",
+      "source": 384,
+      "native": 337.328125
+    },
+    {
+      "path": "en-1600.steps.articles[1].root.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1600.steps.articles[1].number.box.x",
+      "source": 384,
+      "native": 337.328125
+    },
+    {
+      "path": "en-1600.steps.articles[1].number.box.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1600.steps.articles[1].title.box.x",
+      "source": 384,
+      "native": 337.328125
+    },
+    {
+      "path": "en-1600.steps.articles[1].title.box.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1600.steps.articles[1].title.text",
+      "source": "Choose what to compare",
+      "native": "범위를 고르고 비교합니다"
+    },
+    {
+      "path": "en-1600.steps.articles[1].body.box.x",
+      "source": 384,
+      "native": 337.328125
+    },
+    {
+      "path": "en-1600.steps.articles[1].body.box.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1600.steps.articles[1].body.box.height",
+      "source": 24.046875,
+      "native": 48.09375
+    },
+    {
+      "path": "en-1600.steps.articles[1].body.text",
+      "source": "Select categories and confirm how tables are matched.",
+      "native": "데이터·구조·권한·객체를 선택하고 테이블 대응을 확인합니다."
+    },
+    {
+      "path": "en-1600.steps.articles[2].root.x",
+      "source": 768,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-1600.steps.articles[2].root.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1600.steps.articles[2].number.box.x",
+      "source": 768,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-1600.steps.articles[2].number.box.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1600.steps.articles[2].title.box.x",
+      "source": 768,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-1600.steps.articles[2].title.box.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1600.steps.articles[2].title.text",
+      "source": "Review differences and gaps",
+      "native": "차이와 미검증을 확인합니다"
+    },
+    {
+      "path": "en-1600.steps.articles[2].body.box.x",
+      "source": 768,
+      "native": 674.6640625
+    },
+    {
+      "path": "en-1600.steps.articles[2].body.box.width",
+      "source": 352,
+      "native": 305.3359375
+    },
+    {
+      "path": "en-1600.steps.articles[2].body.box.height",
+      "source": 48.09375,
+      "native": 24.046875
+    },
+    {
+      "path": "en-1600.steps.articles[2].body.text",
+      "source": "Review verified outcomes and save a report without row values.",
+      "native": "확인한 결과를 구분해 보고, 안전한 결과 파일로 보관합니다."
+    },
+    {
+      "path": "mounted.ko-1280.help.box.width",
+      "source": 605.796875,
+      "native": 596.007080078125
+    },
+    {
+      "path": "mounted.en-960.help.box.width",
+      "source": 650,
+      "native": 625.400390625
+    },
+    {
+      "path": "mounted.en-960.steps.articles[0].root.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "mounted.en-960.steps.articles[0].root.width",
+      "source": 206.6640625,
+      "native": 305.328125
+    },
+    {
+      "path": "mounted.en-960.steps.articles[0].root.height",
+      "source": 124.53909301757812,
+      "native": 100.4921875
+    },
+    {
+      "path": "mounted.en-960.steps.articles[0].number.box.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "mounted.en-960.steps.articles[0].number.box.width",
+      "source": 206.6640625,
+      "native": 305.328125
+    },
+    {
+      "path": "mounted.en-960.steps.articles[0].title.box.y",
+      "source": 362.984375,
+      "native": 612.0703125
+    },
+    {
+      "path": "mounted.en-960.steps.articles[0].title.box.width",
+      "source": 206.6640625,
+      "native": 305.328125
+    },
+    {
+      "path": "mounted.en-960.steps.articles[0].title.text",
+      "source": "Connect two databases",
+      "native": "두 DB를 연결합니다"
+    },
+    {
+      "path": "mounted.en-960.steps.articles[0].body.box.y",
+      "source": 393.3828430175781,
+      "native": 642.46875
+    },
+    {
+      "path": "mounted.en-960.steps.articles[0].body.box.width",
+      "source": 206.6640625,
+      "native": 305.328125
+    },
+    {
+      "path": "mounted.en-960.steps.articles[0].body.box.height",
+      "source": 72.140625,
+      "native": 24.046875
+    },
+    {
+      "path": "mounted.en-960.steps.articles[0].body.text",
+      "source": "The app checks visibility and explains any additional preparation.",
+      "native": "접속 후 앱이 조회 가능한 범위와 필요한 준비를 안내합니다."
+    },
+    {
+      "path": "mounted.en-960.steps.articles[1].root.x",
+      "source": 238.6640625,
+      "native": 337.328125
+    },
+    {
+      "path": "mounted.en-960.steps.articles[1].root.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "mounted.en-960.steps.articles[1].root.width",
+      "source": 206.6640625,
+      "native": 305.3359375
+    },
+    {
+      "path": "mounted.en-960.steps.articles[1].root.height",
+      "source": 124.53909301757812,
+      "native": 100.4921875
+    },
+    {
+      "path": "mounted.en-960.steps.articles[1].number.box.x",
+      "source": 238.6640625,
+      "native": 337.328125
+    },
+    {
+      "path": "mounted.en-960.steps.articles[1].number.box.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "mounted.en-960.steps.articles[1].number.box.width",
+      "source": 206.6640625,
+      "native": 305.3359375
+    },
+    {
+      "path": "mounted.en-960.steps.articles[1].title.box.x",
+      "source": 238.6640625,
+      "native": 337.328125
+    },
+    {
+      "path": "mounted.en-960.steps.articles[1].title.box.y",
+      "source": 362.984375,
+      "native": 612.0703125
+    },
+    {
+      "path": "mounted.en-960.steps.articles[1].title.box.width",
+      "source": 206.6640625,
+      "native": 305.3359375
+    },
+    {
+      "path": "mounted.en-960.steps.articles[1].title.text",
+      "source": "Choose what to compare",
+      "native": "범위를 고르고 비교합니다"
+    },
+    {
+      "path": "mounted.en-960.steps.articles[1].body.box.x",
+      "source": 238.6640625,
+      "native": 337.328125
+    },
+    {
+      "path": "mounted.en-960.steps.articles[1].body.box.y",
+      "source": 393.3828430175781,
+      "native": 642.46875
+    },
+    {
+      "path": "mounted.en-960.steps.articles[1].body.box.width",
+      "source": 206.6640625,
+      "native": 305.3359375
+    },
+    {
+      "path": "mounted.en-960.steps.articles[1].body.text",
+      "source": "Select categories and confirm how tables are matched.",
+      "native": "데이터·구조·권한·객체를 선택하고 테이블 대응을 확인합니다."
+    },
+    {
+      "path": "mounted.en-960.steps.articles[2].root.x",
+      "source": 477.328125,
+      "native": 674.6640625
+    },
+    {
+      "path": "mounted.en-960.steps.articles[2].root.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "mounted.en-960.steps.articles[2].root.width",
+      "source": 206.671875,
+      "native": 305.3359375
+    },
+    {
+      "path": "mounted.en-960.steps.articles[2].root.height",
+      "source": 124.53909301757812,
+      "native": 100.4921875
+    },
+    {
+      "path": "mounted.en-960.steps.articles[2].number.box.x",
+      "source": 477.328125,
+      "native": 674.6640625
+    },
+    {
+      "path": "mounted.en-960.steps.articles[2].number.box.y",
+      "source": 340.984375,
+      "native": 590.0703125
+    },
+    {
+      "path": "mounted.en-960.steps.articles[2].number.box.width",
+      "source": 206.671875,
+      "native": 305.3359375
+    },
+    {
+      "path": "mounted.en-960.steps.articles[2].title.box.x",
+      "source": 477.328125,
+      "native": 674.6640625
+    },
+    {
+      "path": "mounted.en-960.steps.articles[2].title.box.y",
+      "source": 362.984375,
+      "native": 612.0703125
+    },
+    {
+      "path": "mounted.en-960.steps.articles[2].title.box.width",
+      "source": 206.671875,
+      "native": 305.3359375
+    },
+    {
+      "path": "mounted.en-960.steps.articles[2].title.text",
+      "source": "Review differences and gaps",
+      "native": "차이와 미검증을 확인합니다"
+    },
+    {
+      "path": "mounted.en-960.steps.articles[2].body.box.x",
+      "source": 477.328125,
+      "native": 674.6640625
+    },
+    {
+      "path": "mounted.en-960.steps.articles[2].body.box.y",
+      "source": 393.3828430175781,
+      "native": 642.46875
+    },
+    {
+      "path": "mounted.en-960.steps.articles[2].body.box.width",
+      "source": 206.671875,
+      "native": 305.3359375
+    },
+    {
+      "path": "mounted.en-960.steps.articles[2].body.box.height",
+      "source": 48.09375,
+      "native": 24.046875
+    },
+    {
+      "path": "mounted.en-960.steps.articles[2].body.text",
+      "source": "Review verified outcomes and save a report without row values.",
+      "native": "확인한 결과를 구분해 보고, 안전한 결과 파일로 보관합니다."
+    },
+    {
+      "path": "mounted.ko-1280.help.box.width",
+      "source": 605.796875,
+      "native": 596.007080078125
+    }
+  ]
+}

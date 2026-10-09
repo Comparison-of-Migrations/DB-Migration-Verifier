@@ -1,0 +1,23 @@
+[
+  {
+    "id": "initial",
+    "width": 480,
+    "height": 55,
+    "lineWidth": 26.7734375,
+    "text": "3"
+  },
+  {
+    "id": "narrow",
+    "width": 240,
+    "height": 17.6015625,
+    "lineWidth": 72.8515625,
+    "text": "UI-MUVX3SBO"
+  },
+  {
+    "id": "restored",
+    "width": 480,
+    "height": 55,
+    "lineWidth": 26.7734375,
+    "text": "3"
+  }
+]

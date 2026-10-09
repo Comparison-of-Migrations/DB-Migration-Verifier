@@ -1,0 +1,8 @@
+{
+  "status": "PASSED",
+  "checks": 44,
+  "differences": [],
+  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/connection/pageintegration/e57cf5b7f6ad479592eb6ef9c53ae9ae/actual-results-windows/guest/source-en-announcer-peer.json",
+  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/connection/pageintegration/3e6bab0fd555469db21e426137ea865d/actual-results-windows/guest/native-en-boundary-announcer-peer.json",
+  "scope": "Actual Windows source/native bounded announcer Control/Content exactrole/name/child structure/focus/value; default text raster/overflow boxes and unsupported source ARIA/LiveSetting provider properties recorded separately, no implicit exemptions"
+}

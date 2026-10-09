@@ -1,0 +1,141 @@
+{
+  "count": 19,
+  "differences": [],
+  "checks": [
+    {
+      "label": "right",
+      "offset": 140,
+      "activeSource": "BODY",
+      "activeNative": "CapabilityViewport-box",
+      "attached": true
+    },
+    {
+      "label": "left",
+      "offset": 60,
+      "activeSource": "BODY",
+      "activeNative": "CapabilityViewport-box",
+      "attached": true
+    },
+    {
+      "label": "down",
+      "offset": 100,
+      "activeSource": "BODY",
+      "activeNative": "CapabilityViewport-box",
+      "attached": true
+    },
+    {
+      "label": "up",
+      "offset": 100,
+      "activeSource": "BODY",
+      "activeNative": "CapabilityViewport-box",
+      "attached": true
+    },
+    {
+      "label": "page-down",
+      "offset": 100,
+      "activeSource": "BODY",
+      "activeNative": "CapabilityViewport-box",
+      "attached": true
+    },
+    {
+      "label": "page-up",
+      "offset": 100,
+      "activeSource": "BODY",
+      "activeNative": "CapabilityViewport-box",
+      "attached": true
+    },
+    {
+      "label": "home",
+      "offset": 100,
+      "activeSource": "BODY",
+      "activeNative": "CapabilityViewport-box",
+      "attached": true
+    },
+    {
+      "label": "end",
+      "offset": 100,
+      "activeSource": "BODY",
+      "activeNative": "CapabilityViewport-box",
+      "attached": true
+    },
+    {
+      "label": "space",
+      "offset": 100,
+      "activeSource": "BODY",
+      "activeNative": "CapabilityViewport-box",
+      "attached": true
+    },
+    {
+      "label": "shift-space",
+      "offset": 100,
+      "activeSource": "BODY",
+      "activeNative": "CapabilityViewport-box",
+      "attached": true
+    },
+    {
+      "label": "wheel-x",
+      "offset": 100,
+      "activeSource": "BODY",
+      "activeNative": "CapabilityViewport-box",
+      "attached": true
+    },
+    {
+      "label": "wheel-y",
+      "offset": 0,
+      "activeSource": "BODY",
+      "activeNative": "CapabilityViewport-box",
+      "attached": true
+    },
+    {
+      "label": "wheel-shift-y",
+      "offset": 100,
+      "activeSource": "BODY",
+      "activeNative": "CapabilityViewport-box",
+      "attached": true
+    },
+    {
+      "label": "fit-no-overflow",
+      "offset": 0,
+      "activeSource": "BODY",
+      "activeNative": "CapabilityViewport-box",
+      "attached": true
+    },
+    {
+      "label": "fit",
+      "offset": 0,
+      "activeSource": "BODY",
+      "activeNative": "CapabilityViewport-box",
+      "attached": true
+    },
+    {
+      "label": "child-focus",
+      "offset": 322,
+      "activeSource": "CapabilityViewport-child",
+      "activeNative": "CapabilityViewport-child",
+      "attached": true
+    },
+    {
+      "label": "mount-detached",
+      "offset": 0,
+      "activeSource": "BODY",
+      "activeNative": "",
+      "attached": false
+    },
+    {
+      "label": "mount",
+      "offset": 0,
+      "activeSource": "BODY",
+      "activeNative": "",
+      "attached": true
+    },
+    {
+      "label": "drag",
+      "offset": 322,
+      "activeSource": "BODY",
+      "activeNative": "CapabilityViewport-box",
+      "attached": true
+    }
+  ],
+  "detachedBounds": "DOM zero vs cached native Bounds not rendered; both detached/offset0/no named focus",
+  "scope": "actual endpoint/state/focus; timing path and held behavior separate"
+}

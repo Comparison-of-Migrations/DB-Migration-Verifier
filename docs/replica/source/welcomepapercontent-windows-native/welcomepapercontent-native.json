@@ -1,0 +1,442 @@
+{
+  "dpr": 2,
+  "rows": [
+    {
+      "id": "ko-438",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 438,
+        "height": 111.7734375
+      },
+      "label": {
+        "box": {
+          "x": 0,
+          "y": 0,
+          "width": 438,
+          "height": 19.1953125
+        },
+        "text": "\uC774 \uC571\uC758 \uC5F0\uAD6C \uADFC\uAC70",
+        "color": "rgb(181, 186, 193)"
+      },
+      "title": {
+        "box": {
+          "x": 0,
+          "y": 25.1953125,
+          "width": 438,
+          "height": 44.1875
+        },
+        "text": "Functional Success versus Database-State, Behavioral, and Operational Contracts in AI-Generated PostgreSQL Schema Migrations",
+        "color": "rgb(242, 243, 245)"
+      },
+      "body": {
+        "box": {
+          "x": 0,
+          "y": 73.3828125,
+          "width": 438,
+          "height": 38.390625
+        },
+        "text": "\uAE30\uBCF8 \uAE30\uB2A5 \uC131\uACF5\uACFC \uB113\uC740 DB \uACC4\uC57D \uCDA9\uC871\uC744 \uAD6C\uBD84\uD558\uB294 \uC5F0\uAD6C\uB97C \uAC80\uC0AC \uBD84\uB958\uC640 \uBBF8\uAC80\uC99D \uD45C\uC2DC\uC5D0 \uBC18\uC601\uD569\uB2C8\uB2E4.",
+        "color": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-600",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 600,
+        "height": 92.578125
+      },
+      "label": {
+        "box": {
+          "x": 0,
+          "y": 0,
+          "width": 600,
+          "height": 19.1953125
+        },
+        "text": "\uC774 \uC571\uC758 \uC5F0\uAD6C \uADFC\uAC70",
+        "color": "rgb(181, 186, 193)"
+      },
+      "title": {
+        "box": {
+          "x": 0,
+          "y": 25.1953125,
+          "width": 600,
+          "height": 44.1875
+        },
+        "text": "Functional Success versus Database-State, Behavioral, and Operational Contracts in AI-Generated PostgreSQL Schema Migrations",
+        "color": "rgb(242, 243, 245)"
+      },
+      "body": {
+        "box": {
+          "x": 0,
+          "y": 73.3828125,
+          "width": 600,
+          "height": 19.1953125
+        },
+        "text": "\uAE30\uBCF8 \uAE30\uB2A5 \uC131\uACF5\uACFC \uB113\uC740 DB \uACC4\uC57D \uCDA9\uC871\uC744 \uAD6C\uBD84\uD558\uB294 \uC5F0\uAD6C\uB97C \uAC80\uC0AC \uBD84\uB958\uC640 \uBBF8\uAC80\uC99D \uD45C\uC2DC\uC5D0 \uBC18\uC601\uD569\uB2C8\uB2E4.",
+        "color": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-744",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 744,
+        "height": 92.578125
+      },
+      "label": {
+        "box": {
+          "x": 0,
+          "y": 0,
+          "width": 744,
+          "height": 19.1953125
+        },
+        "text": "\uC774 \uC571\uC758 \uC5F0\uAD6C \uADFC\uAC70",
+        "color": "rgb(181, 186, 193)"
+      },
+      "title": {
+        "box": {
+          "x": 0,
+          "y": 25.1953125,
+          "width": 740,
+          "height": 44.1875
+        },
+        "text": "Functional Success versus Database-State, Behavioral, and Operational Contracts in AI-Generated PostgreSQL Schema Migrations",
+        "color": "rgb(242, 243, 245)"
+      },
+      "body": {
+        "box": {
+          "x": 0,
+          "y": 73.3828125,
+          "width": 744,
+          "height": 19.1953125
+        },
+        "text": "\uAE30\uBCF8 \uAE30\uB2A5 \uC131\uACF5\uACFC \uB113\uC740 DB \uACC4\uC57D \uCDA9\uC871\uC744 \uAD6C\uBD84\uD558\uB294 \uC5F0\uAD6C\uB97C \uAC80\uC0AC \uBD84\uB958\uC640 \uBBF8\uAC80\uC99D \uD45C\uC2DC\uC5D0 \uBC18\uC601\uD569\uB2C8\uB2E4.",
+        "color": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-980",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 92.578125
+      },
+      "label": {
+        "box": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 19.1953125
+        },
+        "text": "\uC774 \uC571\uC758 \uC5F0\uAD6C \uADFC\uAC70",
+        "color": "rgb(181, 186, 193)"
+      },
+      "title": {
+        "box": {
+          "x": 0,
+          "y": 25.1953125,
+          "width": 740,
+          "height": 44.1875
+        },
+        "text": "Functional Success versus Database-State, Behavioral, and Operational Contracts in AI-Generated PostgreSQL Schema Migrations",
+        "color": "rgb(242, 243, 245)"
+      },
+      "body": {
+        "box": {
+          "x": 0,
+          "y": 73.3828125,
+          "width": 980,
+          "height": 19.1953125
+        },
+        "text": "\uAE30\uBCF8 \uAE30\uB2A5 \uC131\uACF5\uACFC \uB113\uC740 DB \uACC4\uC57D \uCDA9\uC871\uC744 \uAD6C\uBD84\uD558\uB294 \uC5F0\uAD6C\uB97C \uAC80\uC0AC \uBD84\uB958\uC640 \uBBF8\uAC80\uC99D \uD45C\uC2DC\uC5D0 \uBC18\uC601\uD569\uB2C8\uB2E4.",
+        "color": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-438",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 438,
+        "height": 111.7734375
+      },
+      "label": {
+        "box": {
+          "x": 0,
+          "y": 0,
+          "width": 438,
+          "height": 19.1953125
+        },
+        "text": "Research behind this app",
+        "color": "rgb(181, 186, 193)"
+      },
+      "title": {
+        "box": {
+          "x": 0,
+          "y": 25.1953125,
+          "width": 438,
+          "height": 44.1875
+        },
+        "text": "Functional Success versus Database-State, Behavioral, and Operational Contracts in AI-Generated PostgreSQL Schema Migrations",
+        "color": "rgb(242, 243, 245)"
+      },
+      "body": {
+        "box": {
+          "x": 0,
+          "y": 73.3828125,
+          "width": 438,
+          "height": 38.390625
+        },
+        "text": "The research distinction between functional success and wider contracts informs the check categories and unverified states.",
+        "color": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-600",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 600,
+        "height": 111.7734375
+      },
+      "label": {
+        "box": {
+          "x": 0,
+          "y": 0,
+          "width": 600,
+          "height": 19.1953125
+        },
+        "text": "Research behind this app",
+        "color": "rgb(181, 186, 193)"
+      },
+      "title": {
+        "box": {
+          "x": 0,
+          "y": 25.1953125,
+          "width": 600,
+          "height": 44.1875
+        },
+        "text": "Functional Success versus Database-State, Behavioral, and Operational Contracts in AI-Generated PostgreSQL Schema Migrations",
+        "color": "rgb(242, 243, 245)"
+      },
+      "body": {
+        "box": {
+          "x": 0,
+          "y": 73.3828125,
+          "width": 600,
+          "height": 38.390625
+        },
+        "text": "The research distinction between functional success and wider contracts informs the check categories and unverified states.",
+        "color": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-744",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 744,
+        "height": 92.578125
+      },
+      "label": {
+        "box": {
+          "x": 0,
+          "y": 0,
+          "width": 744,
+          "height": 19.1953125
+        },
+        "text": "Research behind this app",
+        "color": "rgb(181, 186, 193)"
+      },
+      "title": {
+        "box": {
+          "x": 0,
+          "y": 25.1953125,
+          "width": 740,
+          "height": 44.1875
+        },
+        "text": "Functional Success versus Database-State, Behavioral, and Operational Contracts in AI-Generated PostgreSQL Schema Migrations",
+        "color": "rgb(242, 243, 245)"
+      },
+      "body": {
+        "box": {
+          "x": 0,
+          "y": 73.3828125,
+          "width": 744,
+          "height": 19.1953125
+        },
+        "text": "The research distinction between functional success and wider contracts informs the check categories and unverified states.",
+        "color": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-980",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 92.578125
+      },
+      "label": {
+        "box": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 19.1953125
+        },
+        "text": "Research behind this app",
+        "color": "rgb(181, 186, 193)"
+      },
+      "title": {
+        "box": {
+          "x": 0,
+          "y": 25.1953125,
+          "width": 740,
+          "height": 44.1875
+        },
+        "text": "Functional Success versus Database-State, Behavioral, and Operational Contracts in AI-Generated PostgreSQL Schema Migrations",
+        "color": "rgb(242, 243, 245)"
+      },
+      "body": {
+        "box": {
+          "x": 0,
+          "y": 73.3828125,
+          "width": 980,
+          "height": 19.1953125
+        },
+        "text": "The research distinction between functional success and wider contracts informs the check categories and unverified states.",
+        "color": "rgb(181, 186, 193)"
+      }
+    }
+  ],
+  "lifecycle": [
+    {
+      "english": false,
+      "attached": true,
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 600,
+        "height": 92.578125
+      },
+      "label": {
+        "box": {
+          "x": 0,
+          "y": 0,
+          "width": 600,
+          "height": 19.1953125
+        },
+        "text": "\uC774 \uC571\uC758 \uC5F0\uAD6C \uADFC\uAC70",
+        "color": "rgb(181, 186, 193)"
+      },
+      "title": {
+        "box": {
+          "x": 0,
+          "y": 25.1953125,
+          "width": 600,
+          "height": 44.1875
+        },
+        "text": "Functional Success versus Database-State, Behavioral, and Operational Contracts in AI-Generated PostgreSQL Schema Migrations",
+        "color": "rgb(242, 243, 245)"
+      },
+      "body": {
+        "box": {
+          "x": 0,
+          "y": 73.3828125,
+          "width": 600,
+          "height": 19.1953125
+        },
+        "text": "\uAE30\uBCF8 \uAE30\uB2A5 \uC131\uACF5\uACFC \uB113\uC740 DB \uACC4\uC57D \uCDA9\uC871\uC744 \uAD6C\uBD84\uD558\uB294 \uC5F0\uAD6C\uB97C \uAC80\uC0AC \uBD84\uB958\uC640 \uBBF8\uAC80\uC99D \uD45C\uC2DC\uC5D0 \uBC18\uC601\uD569\uB2C8\uB2E4.",
+        "color": "rgb(181, 186, 193)"
+      },
+      "children": 3
+    },
+    {
+      "english": true,
+      "attached": true,
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 600,
+        "height": 111.7734375
+      },
+      "label": {
+        "box": {
+          "x": 0,
+          "y": 0,
+          "width": 600,
+          "height": 19.1953125
+        },
+        "text": "Research behind this app",
+        "color": "rgb(181, 186, 193)"
+      },
+      "title": {
+        "box": {
+          "x": 0,
+          "y": 25.1953125,
+          "width": 600,
+          "height": 44.1875
+        },
+        "text": "Functional Success versus Database-State, Behavioral, and Operational Contracts in AI-Generated PostgreSQL Schema Migrations",
+        "color": "rgb(242, 243, 245)"
+      },
+      "body": {
+        "box": {
+          "x": 0,
+          "y": 73.3828125,
+          "width": 600,
+          "height": 38.390625
+        },
+        "text": "The research distinction between functional success and wider contracts informs the check categories and unverified states.",
+        "color": "rgb(181, 186, 193)"
+      },
+      "children": 3
+    },
+    {
+      "english": false,
+      "attached": true,
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 600,
+        "height": 92.578125
+      },
+      "label": {
+        "box": {
+          "x": 0,
+          "y": 0,
+          "width": 600,
+          "height": 19.1953125
+        },
+        "text": "\uC774 \uC571\uC758 \uC5F0\uAD6C \uADFC\uAC70",
+        "color": "rgb(181, 186, 193)"
+      },
+      "title": {
+        "box": {
+          "x": 0,
+          "y": 25.1953125,
+          "width": 600,
+          "height": 44.1875
+        },
+        "text": "Functional Success versus Database-State, Behavioral, and Operational Contracts in AI-Generated PostgreSQL Schema Migrations",
+        "color": "rgb(242, 243, 245)"
+      },
+      "body": {
+        "box": {
+          "x": 0,
+          "y": 73.3828125,
+          "width": 600,
+          "height": 19.1953125
+        },
+        "text": "\uAE30\uBCF8 \uAE30\uB2A5 \uC131\uACF5\uACFC \uB113\uC740 DB \uACC4\uC57D \uCDA9\uC871\uC744 \uAD6C\uBD84\uD558\uB294 \uC5F0\uAD6C\uB97C \uAC80\uC0AC \uBD84\uB958\uC640 \uBBF8\uAC80\uC99D \uD45C\uC2DC\uC5D0 \uBC18\uC601\uD569\uB2C8\uB2E4.",
+        "color": "rgb(181, 186, 193)"
+      },
+      "children": 3
+    }
+  ]
+}

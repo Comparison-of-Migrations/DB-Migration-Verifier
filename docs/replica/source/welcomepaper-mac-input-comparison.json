@@ -1,0 +1,84 @@
+{
+  "cases": 6,
+  "errors": [],
+  "rows": [
+    {
+      "phase": "compact",
+      "kind": "pointer",
+      "source": {
+        "requests": 1,
+        "english": false,
+        "viewportWidth": 960,
+        "focused": true
+      },
+      "nativeRequests": 1,
+      "nativeFocus": true,
+      "matched": true
+    },
+    {
+      "phase": "compact",
+      "kind": "enter",
+      "source": {
+        "requests": 2,
+        "english": false,
+        "viewportWidth": 960,
+        "focused": true
+      },
+      "nativeRequests": 2,
+      "nativeFocus": true,
+      "matched": true
+    },
+    {
+      "phase": "compact",
+      "kind": "space",
+      "source": {
+        "requests": 3,
+        "english": false,
+        "viewportWidth": 960,
+        "focused": true
+      },
+      "nativeRequests": 3,
+      "nativeFocus": true,
+      "matched": true
+    },
+    {
+      "phase": "wide",
+      "kind": "pointer",
+      "source": {
+        "requests": 1,
+        "english": true,
+        "viewportWidth": 1101,
+        "focused": true
+      },
+      "nativeRequests": 4,
+      "nativeFocus": true,
+      "matched": true
+    },
+    {
+      "phase": "wide",
+      "kind": "enter",
+      "source": {
+        "requests": 2,
+        "english": true,
+        "viewportWidth": 1101,
+        "focused": true
+      },
+      "nativeRequests": 5,
+      "nativeFocus": true,
+      "matched": true
+    },
+    {
+      "phase": "wide",
+      "kind": "space",
+      "source": {
+        "requests": 3,
+        "english": true,
+        "viewportWidth": 1101,
+        "focused": true
+      },
+      "nativeRequests": 6,
+      "nativeFocus": true,
+      "matched": true
+    }
+  ]
+}

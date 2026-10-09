@@ -1,0 +1,118 @@
+Browser tab: 5, Title: "DB-Migration-Verifier · ca5af0d1-11ab-4111-b4d2-1bcb0c2c434b", URL: "http://127.0.0.1:8766/i02-final-kr.html".
+1 AXWebArea DB-Migration-Verifier · ca5af0d1-11ab-4111-b4d2-1bcb0c2c434b, URL: 127.0.0.1:8766/i02-final-kr.html
+	2 container
+		3 text DB-Migration-Verifier
+		4 heading 마이그레이션 비교 결과, Value: 1
+			5 text 마이그레이션 비교 결과
+		6 text 선택한 범위의 차이와 확인하지 못한 영역을 함께 보관합니다.
+		7 text 합성 예시 결과 · 실제 사용자 DB 검사가 아닙니다.
+		8 heading 검사 요약, Value: 2
+			9 text 검사 요약
+		10 container
+			11 text Run ID:  ca5af0d1-11ab-4111-b4d2-1bcb0c2c434b
+			12 text 시작 / 종료: 2026-10-02T05:10:09.6126240+00:00 / 2026-10-02T05:10:09.6410790+00:00
+			13 text Adapter: Synthetic-v1 · Format: 1
+		14 text 불일치 검사
+		15 text 1
+		16 text 확인 불가·미검증 검사
+		17 text 9
+		18 text 일치 검사
+		19 text 0
+		20 text 차이와 확인 불가가 같은 검사에 공존할 수 있습니다. 수치는 검사 ID 개수이며 전체 DB의 성공률이 아닙니다.
+		21 text HasDifferences: true · HasUnknown: true · AllEqual: false
+		22 heading 선택 테이블, Value: 2
+			23 text 선택 테이블
+		24 content list
+			25 container
+				26 AXListMarker • 
+				27 text demo.entries
+		28 heading DATA-01 · RP-D01, Value: 2
+			29 text DATA-01 · RP-D01
+		30 container
+			31 text 데이터 · 선택됨 · 실행 완료 ·  불일치  · 추가 미확인 사유 없음
+		32 text Data / Completed / Different / None
+		33 heading 차이의 위치와 종류, Value: 2
+			34 text 차이의 위치와 종류
+		35 table
+			36 row
+				37 cell
+					38 text 테이블 / 컬럼
+				39 cell
+					40 text 종류 / 건수
+				41 cell
+					42 text 앱 내부 번호
+			43 row
+				44 cell
+					45 text demo.entries
+					46 text —
+				47 cell
+					48 text SourceOnlyRow · 2
+				49 cell
+					50 text 591182ff80414f5e9365c636fbad6465
+			51 row
+				52 cell
+					53 text demo.entries
+					54 text —
+				55 cell
+					56 text TargetOnlyRow · 2
+				57 cell
+					58 text 5a6fb6dd28604dfd80a9eba28316678c
+		59 heading DATA-02 · RP-D01, Value: 2
+			60 text DATA-02 · RP-D01
+		61 container
+			62 text 데이터 · 선택됨 · 미시작 ·  미검증  · 상세 검사 미구현
+		63 text Data / Pending / Unverified / NotImplemented
+		64 heading SCHEMA-01 · RP-C01, Value: 2
+			65 text SCHEMA-01 · RP-C01
+		66 container
+			67 text 구조·제약 · 선택됨 · 실행 완료 ·  판정 불가  · 상세 검사 미구현
+		68 text Schema / Completed / Indeterminate / NotImplemented
+		69 heading SCHEMA-02 · RP-C01, Value: 2
+			70 text SCHEMA-02 · RP-C01
+		71 container
+			72 text 구조·제약 · 선택됨 · 미시작 ·  미검증  · 상세 검사 미구현
+		73 text Schema / Pending / Unverified / NotImplemented
+		74 heading SCHEMA-03 · RP-C02, Value: 2
+			75 text SCHEMA-03 · RP-C02
+		76 container
+			77 text 구조·제약 · 선택됨 · 미시작 ·  미검증  · 상세 검사 미구현
+		78 text Schema / Pending / Unverified / NotImplemented
+		79 heading ACCESS-01 · RP-A01, Value: 2
+			80 text ACCESS-01 · RP-A01
+		81 container
+			82 text 사용자·권한 · 선택됨 · 미시작 ·  미검증  · 상세 검사 미구현
+		83 text Access / Pending / Unverified / NotImplemented
+		84 heading ACCESS-02 · RP-A02, Value: 2
+			85 text ACCESS-02 · RP-A02
+		86 container
+			87 text 사용자·권한 · 선택됨 · 미시작 ·  미검증  · 상세 검사 미구현
+		88 text Access / Pending / Unverified / NotImplemented
+		89 heading OBJECT-01 · RP-O01, Value: 2
+			90 text OBJECT-01 · RP-O01
+		91 container
+			92 text 관련 객체 · 선택됨 · 미시작 ·  미검증  · 상세 검사 미구현
+		93 text Objects / Pending / Unverified / NotImplemented
+		94 heading OBJECT-02 · RP-O01, Value: 2
+			95 text OBJECT-02 · RP-O01
+		96 container
+			97 text 관련 객체 · 선택됨 · 미시작 ·  미검증  · 상세 검사 미구현
+		98 text Objects / Pending / Unverified / NotImplemented
+		99 heading OBJECT-03 · RP-O01, Value: 2
+			100 text OBJECT-03 · RP-O01
+		101 container
+			102 text 관련 객체 · 선택됨 · 미시작 ·  미검증  · 상세 검사 미구현
+		103 text Objects / Pending / Unverified / NotImplemented
+		104 heading BEHAVIOR-01 · RP-B01, Value: 2
+			105 text BEHAVIOR-01 · RP-B01
+		106 container
+			107 text 별도 DB 동작 시험 · 선택 제외 · 미시작 ·  미검증  · 상세 검사 미구현
+		108 text Behavior / Pending / Unverified / NotImplemented
+		109 heading BEHAVIOR-02 · RP-A02, Value: 2
+			110 text BEHAVIOR-02 · RP-A02
+		111 container
+			112 text 별도 DB 동작 시험 · 선택 제외 · 미시작 ·  미검증  · 상세 검사 미구현
+		113 text Behavior / Pending / Unverified / NotImplemented
+		114 text 원본값·행 키·접속 정보·계정 이름·원 SQL 정의는 포함하지 않습니다. 다시 열기에는 JSON 파일을 사용하세요.
+		115 text Functional Success versus Database-State, Behavioral, and Operational Contracts in AI-Generated PostgreSQL Schema Migrations
+
+The focused UI element is 1 AXWebArea DB-Migration-Verifier · ca5af0d1-11ab-4111-b4d2-1bcb0c2c434b, URL: 127.0.0.1:8766/i02-final-kr.html

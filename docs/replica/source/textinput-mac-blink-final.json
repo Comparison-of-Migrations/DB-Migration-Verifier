@@ -1,0 +1,36 @@
+{
+  "utc": "2026-10-06T06:52:46.152106Z",
+  "interval": 500,
+  "samples": [
+    {
+      "elapsed": 500.9102,
+      "visible": false,
+      "focused": true
+    },
+    {
+      "elapsed": 999.6582,
+      "visible": true,
+      "focused": true
+    },
+    {
+      "elapsed": 1499.9839,
+      "visible": false,
+      "focused": true
+    },
+    {
+      "elapsed": 1998.9197,
+      "visible": true,
+      "focused": true
+    },
+    {
+      "elapsed": 2498.7346,
+      "visible": false,
+      "focused": true
+    },
+    {
+      "elapsed": 2999.8871,
+      "visible": true,
+      "focused": true
+    }
+  ]
+}

@@ -1,0 +1,708 @@
+{
+  "scope": "Actual new App Trial parent; child80/14/hover12 reused",
+  "cases": [
+    {
+      "index": 0,
+      "id": "ko-disabled",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "actual-pointer",
+          "target": "primary footer (actual reference/geometry; duplicate trial-back IDs must not select quiet back)",
+          "checks": [
+            "new parent state/footer/source oracle",
+            "disabled no action",
+            "fresh routed trace plus physicalcursor sameprocess guards"
+          ]
+        },
+        {
+          "kind": "actual-pointer-extra",
+          "target": "quiet Back to selection",
+          "checks": [
+            "Screen select",
+            "Error cleared",
+            "scroll0"
+          ]
+        },
+        {
+          "kind": "record-extra",
+          "id": "ko-quiet-back",
+          "credit": "own new parent wiring; independent snapshot before next seed"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "id": "ko-inputs-priority",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "actual-pointer",
+          "target": "primary footer (actual reference/geometry; duplicate trial-back IDs must not select quiet back)",
+          "checks": [
+            "new parent state/footer/source oracle",
+            "validation/return result",
+            "fresh routed trace plus physicalcursor sameprocess guards"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "id": "ko-invalid-empty",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "actual-pointer",
+          "target": "primary footer (actual reference/geometry; duplicate trial-back IDs must not select quiet back)",
+          "checks": [
+            "new parent state/footer/source oracle",
+            "validation/return result",
+            "fresh routed trace plus physicalcursor sameprocess guards"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "id": "ko-host-empty",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "actual-pointer",
+          "target": "primary footer (actual reference/geometry; duplicate trial-back IDs must not select quiet back)",
+          "checks": [
+            "new parent state/footer/source oracle",
+            "validation/return result",
+            "fresh routed trace plus physicalcursor sameprocess guards"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "id": "ko-db-empty",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "actual-pointer",
+          "target": "primary footer (actual reference/geometry; duplicate trial-back IDs must not select quiet back)",
+          "checks": [
+            "new parent state/footer/source oracle",
+            "validation/return result",
+            "fresh routed trace plus physicalcursor sameprocess guards"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "id": "ko-same-source",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "actual-pointer",
+          "target": "primary footer (actual reference/geometry; duplicate trial-back IDs must not select quiet back)",
+          "checks": [
+            "new parent state/footer/source oracle",
+            "validation/return result",
+            "fresh routed trace plus physicalcursor sameprocess guards"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "id": "ko-same-target",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "actual-pointer",
+          "target": "primary footer (actual reference/geometry; duplicate trial-back IDs must not select quiet back)",
+          "checks": [
+            "new parent state/footer/source oracle",
+            "validation/return result",
+            "fresh routed trace plus physicalcursor sameprocess guards"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "id": "ko-exact-whitespace",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "actual-pointer",
+          "target": "primary footer (actual reference/geometry; duplicate trial-back IDs must not select quiet back)",
+          "checks": [
+            "new parent state/footer/source oracle",
+            "validation/return result",
+            "fresh routed trace plus physicalcursor sameprocess guards"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "id": "ko-success",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "actual-pointer",
+          "target": "primary footer (actual reference/geometry; duplicate trial-back IDs must not select quiet back)",
+          "checks": [
+            "new parent state/footer/source oracle",
+            "validation/return result",
+            "fresh routed trace plus physicalcursor sameprocess guards"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "id": "ko-stale-success",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "actual-pointer",
+          "target": "primary footer (actual reference/geometry; duplicate trial-back IDs must not select quiet back)",
+          "checks": [
+            "new parent state/footer/source oracle",
+            "validation/return result",
+            "fresh routed trace plus physicalcursor sameprocess guards"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "id": "ko-edit-reset",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "setup",
+          "candidate": "fresh trial-validInput BringIntoView/scroll",
+          "source": "external editor-scroll",
+          "credit": "none"
+        },
+        {
+          "kind": "actual-edit",
+          "target": "trial-validInput",
+          "value": "owned-parent-value",
+          "checks": [
+            "same page",
+            "same editor",
+            "same primary footer button",
+            "Ready/Consent false",
+            "stale Error retained",
+            "caret/focus preserved"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "id": "ko-consent-reset",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "setup",
+          "candidate": "fresh flag-trial.consent main scroll",
+          "source": "external consent-scroll",
+          "credit": "none"
+        },
+        {
+          "kind": "actual-pointer",
+          "target": "flag-trial.consent",
+          "checks": [
+            "unchecked",
+            "Ready false",
+            "primary trial-check disabled"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "id": "ko-return-reopen",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "actual-pointer",
+          "target": "primary footer (actual reference/geometry; duplicate trial-back IDs must not select quiet back)",
+          "checks": [
+            "new parent state/footer/source oracle",
+            "validation/return result",
+            "fresh routed trace plus physicalcursor sameprocess guards"
+          ]
+        },
+        {
+          "kind": "read-only",
+          "checks": [
+            "Screen select",
+            "Error empty",
+            "Trial Ready/Consent/values retained",
+            "scroll0"
+          ]
+        },
+        {
+          "kind": "setup",
+          "candidate": "F7 Dispatch trial",
+          "source": "external APIreopen",
+          "credit": "setup only; does not prove unfinished Selection UI"
+        },
+        {
+          "kind": "read-only",
+          "checks": [
+            "Trial model retained",
+            "Error empty",
+            "H1 focus",
+            "scroll0"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "id": "ko-language",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "actual-pointer",
+          "target": "language",
+          "checks": [
+            "exact opposite language",
+            "model preserved",
+            "focus restored language",
+            "exact footer labels"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "id": "en-disabled",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "actual-pointer",
+          "target": "primary footer (actual reference/geometry; duplicate trial-back IDs must not select quiet back)",
+          "checks": [
+            "new parent state/footer/source oracle",
+            "disabled no action",
+            "fresh routed trace plus physicalcursor sameprocess guards"
+          ]
+        },
+        {
+          "kind": "actual-pointer-extra",
+          "target": "quiet Back to selection",
+          "checks": [
+            "Screen select",
+            "Error cleared",
+            "scroll0"
+          ]
+        },
+        {
+          "kind": "record-extra",
+          "id": "en-quiet-back",
+          "credit": "own new parent wiring; independent snapshot before next seed"
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "id": "en-inputs-priority",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "actual-pointer",
+          "target": "primary footer (actual reference/geometry; duplicate trial-back IDs must not select quiet back)",
+          "checks": [
+            "new parent state/footer/source oracle",
+            "validation/return result",
+            "fresh routed trace plus physicalcursor sameprocess guards"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "id": "en-invalid-empty",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "actual-pointer",
+          "target": "primary footer (actual reference/geometry; duplicate trial-back IDs must not select quiet back)",
+          "checks": [
+            "new parent state/footer/source oracle",
+            "validation/return result",
+            "fresh routed trace plus physicalcursor sameprocess guards"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "id": "en-host-empty",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "actual-pointer",
+          "target": "primary footer (actual reference/geometry; duplicate trial-back IDs must not select quiet back)",
+          "checks": [
+            "new parent state/footer/source oracle",
+            "validation/return result",
+            "fresh routed trace plus physicalcursor sameprocess guards"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "id": "en-db-empty",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "actual-pointer",
+          "target": "primary footer (actual reference/geometry; duplicate trial-back IDs must not select quiet back)",
+          "checks": [
+            "new parent state/footer/source oracle",
+            "validation/return result",
+            "fresh routed trace plus physicalcursor sameprocess guards"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "id": "en-same-source",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "actual-pointer",
+          "target": "primary footer (actual reference/geometry; duplicate trial-back IDs must not select quiet back)",
+          "checks": [
+            "new parent state/footer/source oracle",
+            "validation/return result",
+            "fresh routed trace plus physicalcursor sameprocess guards"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "id": "en-same-target",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "actual-pointer",
+          "target": "primary footer (actual reference/geometry; duplicate trial-back IDs must not select quiet back)",
+          "checks": [
+            "new parent state/footer/source oracle",
+            "validation/return result",
+            "fresh routed trace plus physicalcursor sameprocess guards"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "id": "en-exact-whitespace",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "actual-pointer",
+          "target": "primary footer (actual reference/geometry; duplicate trial-back IDs must not select quiet back)",
+          "checks": [
+            "new parent state/footer/source oracle",
+            "validation/return result",
+            "fresh routed trace plus physicalcursor sameprocess guards"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "id": "en-success",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "actual-pointer",
+          "target": "primary footer (actual reference/geometry; duplicate trial-back IDs must not select quiet back)",
+          "checks": [
+            "new parent state/footer/source oracle",
+            "validation/return result",
+            "fresh routed trace plus physicalcursor sameprocess guards"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "id": "en-stale-success",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "actual-pointer",
+          "target": "primary footer (actual reference/geometry; duplicate trial-back IDs must not select quiet back)",
+          "checks": [
+            "new parent state/footer/source oracle",
+            "validation/return result",
+            "fresh routed trace plus physicalcursor sameprocess guards"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "id": "en-edit-reset",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "setup",
+          "candidate": "fresh trial-validInput BringIntoView/scroll",
+          "source": "external editor-scroll",
+          "credit": "none"
+        },
+        {
+          "kind": "actual-edit",
+          "target": "trial-validInput",
+          "value": "owned-parent-value",
+          "checks": [
+            "same page",
+            "same editor",
+            "same primary footer button",
+            "Ready/Consent false",
+            "stale Error retained",
+            "caret/focus preserved"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "id": "en-consent-reset",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "setup",
+          "candidate": "fresh flag-trial.consent main scroll",
+          "source": "external consent-scroll",
+          "credit": "none"
+        },
+        {
+          "kind": "actual-pointer",
+          "target": "flag-trial.consent",
+          "checks": [
+            "unchecked",
+            "Ready false",
+            "primary trial-check disabled"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "id": "en-return-reopen",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "actual-pointer",
+          "target": "primary footer (actual reference/geometry; duplicate trial-back IDs must not select quiet back)",
+          "checks": [
+            "new parent state/footer/source oracle",
+            "validation/return result",
+            "fresh routed trace plus physicalcursor sameprocess guards"
+          ]
+        },
+        {
+          "kind": "read-only",
+          "checks": [
+            "Screen select",
+            "Error empty",
+            "Trial Ready/Consent/values retained",
+            "scroll0"
+          ]
+        },
+        {
+          "kind": "setup",
+          "candidate": "F7 Dispatch trial",
+          "source": "external APIreopen",
+          "credit": "setup only; does not prove unfinished Selection UI"
+        },
+        {
+          "kind": "read-only",
+          "checks": [
+            "Trial model retained",
+            "Error empty",
+            "H1 focus",
+            "scroll0"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "id": "en-language",
+      "actions": [
+        {
+          "kind": "setup",
+          "candidate": "F8 unless first case",
+          "source": "external Next unless first case",
+          "credit": "none; fresh caseIndex/revision must match"
+        },
+        {
+          "kind": "actual-pointer",
+          "target": "language",
+          "checks": [
+            "exact opposite language",
+            "model preserved",
+            "focus restored language",
+            "exact footer labels"
+          ]
+        }
+      ]
+    }
+  ],
+  "sourceInput": "home-pageintegrationtrial-input.html",
+  "candidateFlag": "--pageintegration-window --trial-only",
+  "guards": "owned path/title/foreground/client frame/fresh physicalpoint samePID before Down; explicit release; no replay on unknown CLI result",
+  "readers": "atomic state reads with FileShare ReadWrite|Delete; passive source timer no observer Invoke",
+  "completion": "save evidence→immediate scoped source/native close→exact0 per OS→release"
+}

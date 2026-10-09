@@ -1,0 +1,237 @@
+[
+  {
+    "dot": {
+      "background": "rgb(181, 186, 193)",
+      "rect": {
+        "bottom": 286.1796875,
+        "height": 6,
+        "left": 1020.234375,
+        "right": 1026.234375,
+        "top": 280.1796875,
+        "width": 6,
+        "x": 1020.234375,
+        "y": 280.1796875
+      }
+    },
+    "html": "<span class=\"pill ok\"><span class=\"dot\"></span>가능</span>",
+    "inCategory": true,
+    "parent": "category-toggle",
+    "rect": {
+      "bottom": 295.78125,
+      "height": 25.1953125,
+      "left": 1012.234375,
+      "right": 1061,
+      "top": 270.5859375,
+      "width": 48.765625,
+      "x": 1012.234375,
+      "y": 270.5859375
+    },
+    "style": {
+      "alignItems": "center",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(181, 186, 193)",
+      "borderRadius": "5px",
+      "color": "rgb(181, 186, 193)",
+      "cursor": "pointer",
+      "display": "flex",
+      "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "gap": "6px",
+      "lineHeight": "19.2px",
+      "padding": "3px 8px",
+      "transitionDuration": "0s",
+      "transitionProperty": "all",
+      "whiteSpace": "nowrap"
+    },
+    "text": "가능"
+  },
+  {
+    "dot": {
+      "background": "rgb(181, 186, 193)",
+      "rect": {
+        "bottom": 364.1796875,
+        "height": 6,
+        "left": 1020.234375,
+        "right": 1026.234375,
+        "top": 358.1796875,
+        "width": 6,
+        "x": 1020.234375,
+        "y": 358.1796875
+      }
+    },
+    "html": "<span class=\"pill ok\"><span class=\"dot\"></span>가능</span>",
+    "inCategory": true,
+    "parent": "category-toggle",
+    "rect": {
+      "bottom": 373.78125,
+      "height": 25.1953125,
+      "left": 1012.234375,
+      "right": 1061,
+      "top": 348.5859375,
+      "width": 48.765625,
+      "x": 1012.234375,
+      "y": 348.5859375
+    },
+    "style": {
+      "alignItems": "center",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(181, 186, 193)",
+      "borderRadius": "5px",
+      "color": "rgb(181, 186, 193)",
+      "cursor": "pointer",
+      "display": "flex",
+      "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "gap": "6px",
+      "lineHeight": "19.2px",
+      "padding": "3px 8px",
+      "transitionDuration": "0s",
+      "transitionProperty": "all",
+      "whiteSpace": "nowrap"
+    },
+    "text": "가능"
+  },
+  {
+    "dot": {
+      "background": "rgb(240, 196, 124)",
+      "rect": {
+        "bottom": 442.1796875,
+        "height": 6,
+        "left": 996.1015625,
+        "right": 1002.1015625,
+        "top": 436.1796875,
+        "width": 6,
+        "x": 996.1015625,
+        "y": 436.1796875
+      }
+    },
+    "html": "<span class=\"pill warn\"><span class=\"dot\"></span>일부 가능</span>",
+    "inCategory": true,
+    "parent": "category-toggle",
+    "rect": {
+      "bottom": 451.78125,
+      "height": 25.1953125,
+      "left": 988.1015625,
+      "right": 1061,
+      "top": 426.5859375,
+      "width": 72.8984375,
+      "x": 988.1015625,
+      "y": 426.5859375
+    },
+    "style": {
+      "alignItems": "center",
+      "backgroundColor": "rgb(59, 52, 42)",
+      "border": "0px none rgb(240, 196, 124)",
+      "borderRadius": "5px",
+      "color": "rgb(240, 196, 124)",
+      "cursor": "pointer",
+      "display": "flex",
+      "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "gap": "6px",
+      "lineHeight": "19.2px",
+      "padding": "3px 8px",
+      "transitionDuration": "0s",
+      "transitionProperty": "all",
+      "whiteSpace": "nowrap"
+    },
+    "text": "일부 가능"
+  },
+  {
+    "dot": {
+      "background": "rgb(181, 186, 193)",
+      "rect": {
+        "bottom": 520.1796875,
+        "height": 6,
+        "left": 1020.234375,
+        "right": 1026.234375,
+        "top": 514.1796875,
+        "width": 6,
+        "x": 1020.234375,
+        "y": 514.1796875
+      }
+    },
+    "html": "<span class=\"pill ok\"><span class=\"dot\"></span>가능</span>",
+    "inCategory": true,
+    "parent": "category-toggle",
+    "rect": {
+      "bottom": 529.78125,
+      "height": 25.1953125,
+      "left": 1012.234375,
+      "right": 1061,
+      "top": 504.5859375,
+      "width": 48.765625,
+      "x": 1012.234375,
+      "y": 504.5859375
+    },
+    "style": {
+      "alignItems": "center",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(181, 186, 193)",
+      "borderRadius": "5px",
+      "color": "rgb(181, 186, 193)",
+      "cursor": "pointer",
+      "display": "flex",
+      "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "gap": "6px",
+      "lineHeight": "19.2px",
+      "padding": "3px 8px",
+      "transitionDuration": "0s",
+      "transitionProperty": "all",
+      "whiteSpace": "nowrap"
+    },
+    "text": "가능"
+  },
+  {
+    "dot": {
+      "background": "rgb(240, 196, 124)",
+      "rect": {
+        "bottom": 598.1796875,
+        "height": 6,
+        "left": 951.984375,
+        "right": 957.984375,
+        "top": 592.1796875,
+        "width": 6,
+        "x": 951.984375,
+        "y": 592.1796875
+      }
+    },
+    "html": "<span class=\"pill warn\"><span class=\"dot\"></span>별도 DB 준비 필요</span>",
+    "inCategory": true,
+    "parent": "category-toggle",
+    "rect": {
+      "bottom": 607.78125,
+      "height": 25.1953125,
+      "left": 943.984375,
+      "right": 1061,
+      "top": 582.5859375,
+      "width": 117.015625,
+      "x": 943.984375,
+      "y": 582.5859375
+    },
+    "style": {
+      "alignItems": "center",
+      "backgroundColor": "rgb(59, 52, 42)",
+      "border": "0px none rgb(240, 196, 124)",
+      "borderRadius": "5px",
+      "color": "rgb(240, 196, 124)",
+      "cursor": "pointer",
+      "display": "flex",
+      "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "gap": "6px",
+      "lineHeight": "19.2px",
+      "padding": "3px 8px",
+      "transitionDuration": "0s",
+      "transitionProperty": "all",
+      "whiteSpace": "nowrap"
+    },
+    "text": "별도 DB 준비 필요"
+  }
+]

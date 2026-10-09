@@ -1,0 +1,7 @@
+{
+  "component": "TrialPage",
+  "contract": "Literal original trial() page with locked children reused. Per OS: KO/EN x 8 viewport widths x 5 states geometry80 and mounted lifecycle3 strict0, inline title baseline16/48 strict0, actual source/native field and consent inputs14, private isolation motion lifecycle2, named headings4/fields4/consent1 and table rows4/cells12 positive bounds, actual normal/reduced row hover/leave/cancel12 plus headless hover16, inspected paint and exact owned native/source cleanup0. Windows primary named DataItem cells/simple children0 and semantic-transparent visual Group parents verified through actual RawView/ControlView. Mac default role mappings and Windows raw-only noncontrol/noncontent visual Groups are explicitly recorded provider boundaries. Footer/preparation validation/navigation/toast/real DB behavior delegated to root App integration; no real DB action.",
+  "files": {
+    "src/Verifier.Desktop/WebTrialPage.cs": "b5efc0d08e750bd3bf252df115d7e55df592eb7a0eda169a3fe63f6837461e1a"
+  }
+}

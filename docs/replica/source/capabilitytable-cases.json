@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ko-478",
+    "english": false,
+    "width": 478
+  },
+  {
+    "id": "ko-610",
+    "english": false,
+    "width": 610
+  },
+  {
+    "id": "ko-656",
+    "english": false,
+    "width": 656
+  },
+  {
+    "id": "ko-858",
+    "english": false,
+    "width": 858
+  },
+  {
+    "id": "ko-904",
+    "english": false,
+    "width": 904
+  },
+  {
+    "id": "ko-1118",
+    "english": false,
+    "width": 1118
+  },
+  {
+    "id": "en-478",
+    "english": true,
+    "width": 478
+  },
+  {
+    "id": "en-610",
+    "english": true,
+    "width": 610
+  },
+  {
+    "id": "en-656",
+    "english": true,
+    "width": 656
+  },
+  {
+    "id": "en-858",
+    "english": true,
+    "width": 858
+  },
+  {
+    "id": "en-904",
+    "english": true,
+    "width": 904
+  },
+  {
+    "id": "en-1118",
+    "english": true,
+    "width": 1118
+  }
+]

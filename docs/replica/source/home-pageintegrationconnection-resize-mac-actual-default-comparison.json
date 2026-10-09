@@ -1,0 +1,78 @@
+{
+  "phase": "ACTUAL_OS_PASSED",
+  "scope": "New connected Connection KOEN resize identity/caret/entry8 only; source handler oracle; candidate actual native external window resize",
+  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/home-pageintegrationconnection-resize-mac-default-root-a.json",
+  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/pageintegration/a67a64c2589d4a96895224331d9d6f92/actual-connection-resize-macos/pageintegration-connection-resize.json",
+  "cases": 8,
+  "geometryChecks": 960,
+  "geometrySource": "Fresh connected source geometry per row",
+  "geometryReuse": "Fresh connected source geometry per row when included; optional legacy Connection80 oracle only where same viewport/client/gutter/intrinsicheight condition is explicitly proven.",
+  "differences": [],
+  "candidateAdditionalPublicFields": {
+    "ko-0": {
+      "fieldRetained": true,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 1,
+        "translateY": 0
+      }
+    },
+    "ko-1": {
+      "fieldRetained": true,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 1,
+        "translateY": 0
+      }
+    },
+    "ko-2": {
+      "fieldRetained": true,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 1,
+        "translateY": 0
+      }
+    },
+    "ko-3": {
+      "fieldRetained": true,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 1,
+        "translateY": 0
+      }
+    },
+    "en-0": {
+      "fieldRetained": true,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 1,
+        "translateY": 0
+      }
+    },
+    "en-1": {
+      "fieldRetained": true,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 1,
+        "translateY": 0
+      }
+    },
+    "en-2": {
+      "fieldRetained": true,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 1,
+        "translateY": 0
+      }
+    },
+    "en-3": {
+      "fieldRetained": true,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 1,
+        "translateY": 0
+      }
+    }
+  },
+  "oldScopes": "Existing Connection geometry/input/state/AX/paint evidence reused; not rerun by this comparison"
+}

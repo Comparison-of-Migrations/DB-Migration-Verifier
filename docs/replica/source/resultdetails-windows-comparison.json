@@ -1,0 +1,266 @@
+{
+  "cases": 40,
+  "rawErrors": [
+    {
+      "path": "ko-960-600-data-completed.x",
+      "source": 162.5,
+      "native": 170
+    },
+    {
+      "path": "ko-960-600-data-completed.y",
+      "source": 91.703125,
+      "native": 99.203125
+    },
+    {
+      "path": "ko-960-600-trial-completed.x",
+      "source": 162.5,
+      "native": 170
+    },
+    {
+      "path": "ko-960-600-trial-completed.y",
+      "source": 34.7109375,
+      "native": 42.2109375
+    },
+    {
+      "path": "ko-1280-600-data-completed.x",
+      "source": 322.5,
+      "native": 330
+    },
+    {
+      "path": "ko-1280-600-trial-completed.x",
+      "source": 322.5,
+      "native": 330
+    },
+    {
+      "path": "en-960-600-data-completed.x",
+      "source": 162.5,
+      "native": 170
+    },
+    {
+      "path": "en-960-600-data-completed.y",
+      "source": 91.703125,
+      "native": 99.203125
+    },
+    {
+      "path": "en-960-600-trial-completed.x",
+      "source": 162.5,
+      "native": 170
+    },
+    {
+      "path": "en-960-600-trial-completed.y",
+      "source": 25.109375,
+      "native": 32.609375
+    },
+    {
+      "path": "en-1280-600-data-completed.x",
+      "source": 322.5,
+      "native": 330
+    },
+    {
+      "path": "en-1280-600-trial-completed.x",
+      "source": 322.5,
+      "native": 330
+    },
+    {
+      "path": "ko-960-400-trial-completed.x",
+      "source": 162.5,
+      "native": 170
+    },
+    {
+      "path": "ko-960-400-trial-completed.y",
+      "source": 16.5,
+      "native": 24
+    },
+    {
+      "path": "ko-1280-400-trial-completed.x",
+      "source": 322.5,
+      "native": 330
+    },
+    {
+      "path": "en-960-400-trial-completed.x",
+      "source": 162.5,
+      "native": 170
+    },
+    {
+      "path": "en-960-400-trial-completed.y",
+      "source": 16.5,
+      "native": 24
+    },
+    {
+      "path": "en-1280-400-trial-completed.x",
+      "source": 322.5,
+      "native": 330
+    }
+  ],
+  "allowedOSOffsets": [
+    {
+      "id": "ko-960-600-data-completed",
+      "environment": {
+        "innerWidth": 960,
+        "innerHeight": 600,
+        "clientWidth": 945,
+        "clientHeight": 585,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 7.5,
+      "yOffset": 7.5,
+      "reason": "Measured default Windows root scrollbar center offsets"
+    },
+    {
+      "id": "ko-960-600-trial-completed",
+      "environment": {
+        "innerWidth": 960,
+        "innerHeight": 600,
+        "clientWidth": 945,
+        "clientHeight": 585,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 7.5,
+      "yOffset": 7.5,
+      "reason": "Measured default Windows root scrollbar center offsets"
+    },
+    {
+      "id": "ko-1280-600-data-completed",
+      "environment": {
+        "innerWidth": 1280,
+        "innerHeight": 600,
+        "clientWidth": 1265,
+        "clientHeight": 600,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 7.5,
+      "yOffset": 0.0,
+      "reason": "Measured default Windows root scrollbar center offsets"
+    },
+    {
+      "id": "ko-1280-600-trial-completed",
+      "environment": {
+        "innerWidth": 1280,
+        "innerHeight": 600,
+        "clientWidth": 1265,
+        "clientHeight": 600,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 7.5,
+      "yOffset": 0.0,
+      "reason": "Measured default Windows root scrollbar center offsets"
+    },
+    {
+      "id": "en-960-600-data-completed",
+      "environment": {
+        "innerWidth": 960,
+        "innerHeight": 600,
+        "clientWidth": 945,
+        "clientHeight": 585,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 7.5,
+      "yOffset": 7.5,
+      "reason": "Measured default Windows root scrollbar center offsets"
+    },
+    {
+      "id": "en-960-600-trial-completed",
+      "environment": {
+        "innerWidth": 960,
+        "innerHeight": 600,
+        "clientWidth": 945,
+        "clientHeight": 585,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 7.5,
+      "yOffset": 7.5,
+      "reason": "Measured default Windows root scrollbar center offsets"
+    },
+    {
+      "id": "en-1280-600-data-completed",
+      "environment": {
+        "innerWidth": 1280,
+        "innerHeight": 600,
+        "clientWidth": 1265,
+        "clientHeight": 600,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 7.5,
+      "yOffset": 0.0,
+      "reason": "Measured default Windows root scrollbar center offsets"
+    },
+    {
+      "id": "en-1280-600-trial-completed",
+      "environment": {
+        "innerWidth": 1280,
+        "innerHeight": 600,
+        "clientWidth": 1265,
+        "clientHeight": 600,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 7.5,
+      "yOffset": 0.0,
+      "reason": "Measured default Windows root scrollbar center offsets"
+    },
+    {
+      "id": "ko-960-400-trial-completed",
+      "environment": {
+        "innerWidth": 960,
+        "innerHeight": 400,
+        "clientWidth": 945,
+        "clientHeight": 385,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 7.5,
+      "yOffset": 7.5,
+      "reason": "Measured default Windows root scrollbar center offsets"
+    },
+    {
+      "id": "ko-1280-400-trial-completed",
+      "environment": {
+        "innerWidth": 1280,
+        "innerHeight": 400,
+        "clientWidth": 1265,
+        "clientHeight": 400,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 7.5,
+      "yOffset": 0.0,
+      "reason": "Measured default Windows root scrollbar center offsets"
+    },
+    {
+      "id": "en-960-400-trial-completed",
+      "environment": {
+        "innerWidth": 960,
+        "innerHeight": 400,
+        "clientWidth": 945,
+        "clientHeight": 385,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 7.5,
+      "yOffset": 7.5,
+      "reason": "Measured default Windows root scrollbar center offsets"
+    },
+    {
+      "id": "en-1280-400-trial-completed",
+      "environment": {
+        "innerWidth": 1280,
+        "innerHeight": 400,
+        "clientWidth": 1265,
+        "clientHeight": 400,
+        "minWidth": "960px",
+        "minHeight": "720px"
+      },
+      "xOffset": 7.5,
+      "yOffset": 0.0,
+      "reason": "Measured default Windows root scrollbar center offsets"
+    }
+  ],
+  "errors": []
+}

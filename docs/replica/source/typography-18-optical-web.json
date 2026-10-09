@@ -1,0 +1,50 @@
+[
+  {
+    "canvasWidth": 87.39031982421875,
+    "height": 27,
+    "id": "auto",
+    "lines": [
+      {
+        "text": "Source DB",
+        "width": 79.3828125
+      }
+    ],
+    "width": 480
+  },
+  {
+    "canvasWidth": 41.200042724609375,
+    "height": 27,
+    "id": "none",
+    "lines": [
+      {
+        "text": "Source DB",
+        "width": 79.3828125
+      }
+    ],
+    "width": 480
+  },
+  {
+    "canvasWidth": 41.200042724609375,
+    "height": 27,
+    "id": "axis18",
+    "lines": [
+      {
+        "text": "Source DB",
+        "width": 87.390625
+      }
+    ],
+    "width": 480
+  },
+  {
+    "canvasWidth": 41.200042724609375,
+    "height": 27,
+    "id": "axis36",
+    "lines": [
+      {
+        "text": "Source DB",
+        "width": 87.390625
+      }
+    ],
+    "width": 480
+  }
+]

@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>Exe</OutputType></PropertyGroup>
+  <ItemGroup><ProjectReference Include="../../src/Verifier.Desktop/Verifier.Desktop.csproj"/></ItemGroup>
+  <ItemGroup><PackageReference Include="Avalonia.Headless" Version="12.1.3"/></ItemGroup>
+</Project>

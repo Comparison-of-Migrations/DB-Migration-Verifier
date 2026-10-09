@@ -1,0 +1,1085 @@
+{
+  "dpr": 2,
+  "rows": [
+    {
+      "id": "ko-1110-656-hidden",
+      "x": 0,
+      "y": 0,
+      "width": 656,
+      "height": 0,
+      "notice": null,
+      "button": null,
+      "card": null,
+      "title": null,
+      "text": null,
+      "buttonText": null,
+      "cardText": null,
+      "kind": null,
+      "buttonEnabled": null
+    },
+    {
+      "id": "ko-1110-656-unprepared",
+      "x": 0,
+      "y": 20,
+      "width": 656,
+      "height": 131.59375,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 87.59375,
+        "width": 140.1171875,
+        "height": 44
+      },
+      "card": null,
+      "title": "\uB3D9\uC791 \uC2DC\uD5D8\uC5D0 \uC0AC\uC6A9\uD560 \uACF5\uAC04\uC744 \uC900\uBE44\uD558\uC138\uC694",
+      "text": "\uC6D0\uBCF8\u00B7\uB300\uC0C1\uACFC \uBD84\uB9AC\uB41C \uC2DC\uD5D8 DB\uC640 \uAC12\u00B7\uAE30\uB300 \uACB0\uACFC\uB97C \uD655\uC778\uD574\uC57C \uD569\uB2C8\uB2E4.",
+      "buttonText": "\uC2DC\uD5D8 DB \uC900\uBE44",
+      "cardText": null,
+      "kind": "notice warn",
+      "buttonEnabled": true
+    },
+    {
+      "id": "ko-1110-656-ready",
+      "x": 0,
+      "y": 20,
+      "width": 656,
+      "height": 163.578125,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 103.5859375,
+        "width": 148.140625,
+        "height": 44
+      },
+      "card": {
+        "x": 395.7421875,
+        "y": 87.59375,
+        "width": 260.2578125,
+        "height": 75.984375
+      },
+      "title": "\uC2DC\uD5D8 DB \uC900\uBE44\uAC00 \uD655\uC778\uB410\uC2B5\uB2C8\uB2E4 \u00B7 \uC608\uC2DC",
+      "text": "\uD655\uC778\uD55C \uC608\uC2DC DB\uC5D0\uC11C\uB9CC \uB3D9\uC791 \uC2DC\uD5D8\uC744 \uC9C4\uD589\uD569\uB2C8\uB2E4. \uC6D0\uBCF8\u00B7\uB300\uC0C1 \uBE44\uAD50\uB294 \uC77D\uAE30 \uC804\uC6A9\uC785\uB2C8\uB2E4.",
+      "buttonText": "\uC2DC\uD5D8 \uC900\uBE44 \uC218\uC815",
+      "cardText": "migration_testSQL Server \u00B7 trial.example.invalid\uC900\uBE44 \uD655\uC778 \uC644\uB8CC \u00B7 \uC608\uC2DC \uC815\uBCF4",
+      "kind": "notice ok",
+      "buttonEnabled": true
+    },
+    {
+      "id": "ko-1110-656-latin",
+      "x": 0,
+      "y": 20,
+      "width": 656,
+      "height": 264.359375,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 153.9765625,
+        "width": 148.140625,
+        "height": 44
+      },
+      "card": {
+        "x": 223.046875,
+        "y": 87.59375,
+        "width": 432.953125,
+        "height": 176.765625
+      },
+      "title": "\uC2DC\uD5D8 DB \uC900\uBE44\uAC00 \uD655\uC778\uB410\uC2B5\uB2C8\uB2E4 \u00B7 \uC608\uC2DC",
+      "text": "\uD655\uC778\uD55C \uC608\uC2DC DB\uC5D0\uC11C\uB9CC \uB3D9\uC791 \uC2DC\uD5D8\uC744 \uC9C4\uD589\uD569\uB2C8\uB2E4. \uC6D0\uBCF8\u00B7\uB300\uC0C1 \uBE44\uAD50\uB294 \uC77D\uAE30 \uC804\uC6A9\uC785\uB2C8\uB2E4.",
+      "buttonText": "\uC2DC\uD5D8 \uC900\uBE44 \uC218\uC815",
+      "cardText": "tenant_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_SQL Server \u00B7 db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-example.invalid\uC900\uBE44 \uD655\uC778 \uC644\uB8CC \u00B7 \uC608\uC2DC \uC815\uBCF4",
+      "kind": "notice ok",
+      "buttonEnabled": true
+    },
+    {
+      "id": "ko-1110-656-korean",
+      "x": 0,
+      "y": 20,
+      "width": 656,
+      "height": 278.75,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 161.171875,
+        "width": 148.140625,
+        "height": 44
+      },
+      "card": {
+        "x": 223.046875,
+        "y": 87.59375,
+        "width": 432.953125,
+        "height": 191.15625
+      },
+      "title": "\uC2DC\uD5D8 DB \uC900\uBE44\uAC00 \uD655\uC778\uB410\uC2B5\uB2C8\uB2E4 \u00B7 \uC608\uC2DC",
+      "text": "\uD655\uC778\uD55C \uC608\uC2DC DB\uC5D0\uC11C\uB9CC \uB3D9\uC791 \uC2DC\uD5D8\uC744 \uC9C4\uD589\uD569\uB2C8\uB2E4. \uC6D0\uBCF8\u00B7\uB300\uC0C1 \uBE44\uAD50\uB294 \uC77D\uAE30 \uC804\uC6A9\uC785\uB2C8\uB2E4.",
+      "buttonText": "\uC2DC\uD5D8 \uC900\uBE44 \uC218\uC815",
+      "cardText": "\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_SQL Server \u00B7 \uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-example.invalid\uC900\uBE44 \uD655\uC778 \uC644\uB8CC \u00B7 \uC608\uC2DC \uC815\uBCF4",
+      "kind": "notice ok",
+      "buttonEnabled": true
+    },
+    {
+      "id": "ko-1110-904-hidden",
+      "x": 0,
+      "y": 0,
+      "width": 904,
+      "height": 0,
+      "notice": null,
+      "button": null,
+      "card": null,
+      "title": null,
+      "text": null,
+      "buttonText": null,
+      "cardText": null,
+      "kind": null,
+      "buttonEnabled": null
+    },
+    {
+      "id": "ko-1110-904-unprepared",
+      "x": 0,
+      "y": 20,
+      "width": 904,
+      "height": 131.59375,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 87.59375,
+        "width": 140.1171875,
+        "height": 44
+      },
+      "card": null,
+      "title": "\uB3D9\uC791 \uC2DC\uD5D8\uC5D0 \uC0AC\uC6A9\uD560 \uACF5\uAC04\uC744 \uC900\uBE44\uD558\uC138\uC694",
+      "text": "\uC6D0\uBCF8\u00B7\uB300\uC0C1\uACFC \uBD84\uB9AC\uB41C \uC2DC\uD5D8 DB\uC640 \uAC12\u00B7\uAE30\uB300 \uACB0\uACFC\uB97C \uD655\uC778\uD574\uC57C \uD569\uB2C8\uB2E4.",
+      "buttonText": "\uC2DC\uD5D8 DB \uC900\uBE44",
+      "cardText": null,
+      "kind": "notice warn",
+      "buttonEnabled": true
+    },
+    {
+      "id": "ko-1110-904-ready",
+      "x": 0,
+      "y": 20,
+      "width": 904,
+      "height": 163.578125,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 103.5859375,
+        "width": 148.140625,
+        "height": 44
+      },
+      "card": {
+        "x": 643.7421875,
+        "y": 87.59375,
+        "width": 260.2578125,
+        "height": 75.984375
+      },
+      "title": "\uC2DC\uD5D8 DB \uC900\uBE44\uAC00 \uD655\uC778\uB410\uC2B5\uB2C8\uB2E4 \u00B7 \uC608\uC2DC",
+      "text": "\uD655\uC778\uD55C \uC608\uC2DC DB\uC5D0\uC11C\uB9CC \uB3D9\uC791 \uC2DC\uD5D8\uC744 \uC9C4\uD589\uD569\uB2C8\uB2E4. \uC6D0\uBCF8\u00B7\uB300\uC0C1 \uBE44\uAD50\uB294 \uC77D\uAE30 \uC804\uC6A9\uC785\uB2C8\uB2E4.",
+      "buttonText": "\uC2DC\uD5D8 \uC900\uBE44 \uC218\uC815",
+      "cardText": "migration_testSQL Server \u00B7 trial.example.invalid\uC900\uBE44 \uD655\uC778 \uC644\uB8CC \u00B7 \uC608\uC2DC \uC815\uBCF4",
+      "kind": "notice ok",
+      "buttonEnabled": true
+    },
+    {
+      "id": "ko-1110-904-latin",
+      "x": 0,
+      "y": 20,
+      "width": 904,
+      "height": 222.765625,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 133.1796875,
+        "width": 148.140625,
+        "height": 44
+      },
+      "card": {
+        "x": 307.3671875,
+        "y": 87.59375,
+        "width": 596.6328125,
+        "height": 135.171875
+      },
+      "title": "\uC2DC\uD5D8 DB \uC900\uBE44\uAC00 \uD655\uC778\uB410\uC2B5\uB2C8\uB2E4 \u00B7 \uC608\uC2DC",
+      "text": "\uD655\uC778\uD55C \uC608\uC2DC DB\uC5D0\uC11C\uB9CC \uB3D9\uC791 \uC2DC\uD5D8\uC744 \uC9C4\uD589\uD569\uB2C8\uB2E4. \uC6D0\uBCF8\u00B7\uB300\uC0C1 \uBE44\uAD50\uB294 \uC77D\uAE30 \uC804\uC6A9\uC785\uB2C8\uB2E4.",
+      "buttonText": "\uC2DC\uD5D8 \uC900\uBE44 \uC218\uC815",
+      "cardText": "tenant_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_SQL Server \u00B7 db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-example.invalid\uC900\uBE44 \uD655\uC778 \uC644\uB8CC \u00B7 \uC608\uC2DC \uC815\uBCF4",
+      "kind": "notice ok",
+      "buttonEnabled": true
+    },
+    {
+      "id": "ko-1110-904-korean",
+      "x": 0,
+      "y": 20,
+      "width": 904,
+      "height": 240.359375,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 141.9765625,
+        "width": 148.140625,
+        "height": 44
+      },
+      "card": {
+        "x": 307.3671875,
+        "y": 87.59375,
+        "width": 596.6328125,
+        "height": 152.765625
+      },
+      "title": "\uC2DC\uD5D8 DB \uC900\uBE44\uAC00 \uD655\uC778\uB410\uC2B5\uB2C8\uB2E4 \u00B7 \uC608\uC2DC",
+      "text": "\uD655\uC778\uD55C \uC608\uC2DC DB\uC5D0\uC11C\uB9CC \uB3D9\uC791 \uC2DC\uD5D8\uC744 \uC9C4\uD589\uD569\uB2C8\uB2E4. \uC6D0\uBCF8\u00B7\uB300\uC0C1 \uBE44\uAD50\uB294 \uC77D\uAE30 \uC804\uC6A9\uC785\uB2C8\uB2E4.",
+      "buttonText": "\uC2DC\uD5D8 \uC900\uBE44 \uC218\uC815",
+      "cardText": "\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_SQL Server \u00B7 \uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-example.invalid\uC900\uBE44 \uD655\uC778 \uC644\uB8CC \u00B7 \uC608\uC2DC \uC815\uBCF4",
+      "kind": "notice ok",
+      "buttonEnabled": true
+    },
+    {
+      "id": "ko-1280-656-hidden",
+      "x": 0,
+      "y": 0,
+      "width": 656,
+      "height": 0,
+      "notice": null,
+      "button": null,
+      "card": null,
+      "title": null,
+      "text": null,
+      "buttonText": null,
+      "cardText": null,
+      "kind": null,
+      "buttonEnabled": null
+    },
+    {
+      "id": "ko-1280-656-unprepared",
+      "x": 0,
+      "y": 20,
+      "width": 656,
+      "height": 131.59375,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 87.59375,
+        "width": 140.1171875,
+        "height": 44
+      },
+      "card": null,
+      "title": "\uB3D9\uC791 \uC2DC\uD5D8\uC5D0 \uC0AC\uC6A9\uD560 \uACF5\uAC04\uC744 \uC900\uBE44\uD558\uC138\uC694",
+      "text": "\uC6D0\uBCF8\u00B7\uB300\uC0C1\uACFC \uBD84\uB9AC\uB41C \uC2DC\uD5D8 DB\uC640 \uAC12\u00B7\uAE30\uB300 \uACB0\uACFC\uB97C \uD655\uC778\uD574\uC57C \uD569\uB2C8\uB2E4.",
+      "buttonText": "\uC2DC\uD5D8 DB \uC900\uBE44",
+      "cardText": null,
+      "kind": "notice warn",
+      "buttonEnabled": true
+    },
+    {
+      "id": "ko-1280-656-ready",
+      "x": 0,
+      "y": 20,
+      "width": 656,
+      "height": 163.578125,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 103.5859375,
+        "width": 148.140625,
+        "height": 44
+      },
+      "card": {
+        "x": 395.7421875,
+        "y": 87.59375,
+        "width": 260.2578125,
+        "height": 75.984375
+      },
+      "title": "\uC2DC\uD5D8 DB \uC900\uBE44\uAC00 \uD655\uC778\uB410\uC2B5\uB2C8\uB2E4 \u00B7 \uC608\uC2DC",
+      "text": "\uD655\uC778\uD55C \uC608\uC2DC DB\uC5D0\uC11C\uB9CC \uB3D9\uC791 \uC2DC\uD5D8\uC744 \uC9C4\uD589\uD569\uB2C8\uB2E4. \uC6D0\uBCF8\u00B7\uB300\uC0C1 \uBE44\uAD50\uB294 \uC77D\uAE30 \uC804\uC6A9\uC785\uB2C8\uB2E4.",
+      "buttonText": "\uC2DC\uD5D8 \uC900\uBE44 \uC218\uC815",
+      "cardText": "migration_testSQL Server \u00B7 trial.example.invalid\uC900\uBE44 \uD655\uC778 \uC644\uB8CC \u00B7 \uC608\uC2DC \uC815\uBCF4",
+      "kind": "notice ok",
+      "buttonEnabled": true
+    },
+    {
+      "id": "ko-1280-656-latin",
+      "x": 0,
+      "y": 20,
+      "width": 656,
+      "height": 243.5625,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 143.578125,
+        "width": 148.140625,
+        "height": 44
+      },
+      "card": {
+        "x": 196.8046875,
+        "y": 87.59375,
+        "width": 459.1953125,
+        "height": 155.96875
+      },
+      "title": "\uC2DC\uD5D8 DB \uC900\uBE44\uAC00 \uD655\uC778\uB410\uC2B5\uB2C8\uB2E4 \u00B7 \uC608\uC2DC",
+      "text": "\uD655\uC778\uD55C \uC608\uC2DC DB\uC5D0\uC11C\uB9CC \uB3D9\uC791 \uC2DC\uD5D8\uC744 \uC9C4\uD589\uD569\uB2C8\uB2E4. \uC6D0\uBCF8\u00B7\uB300\uC0C1 \uBE44\uAD50\uB294 \uC77D\uAE30 \uC804\uC6A9\uC785\uB2C8\uB2E4.",
+      "buttonText": "\uC2DC\uD5D8 \uC900\uBE44 \uC218\uC815",
+      "cardText": "tenant_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_SQL Server \u00B7 db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-example.invalid\uC900\uBE44 \uD655\uC778 \uC644\uB8CC \u00B7 \uC608\uC2DC \uC815\uBCF4",
+      "kind": "notice ok",
+      "buttonEnabled": true
+    },
+    {
+      "id": "ko-1280-656-korean",
+      "x": 0,
+      "y": 20,
+      "width": 656,
+      "height": 278.75,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 161.171875,
+        "width": 148.140625,
+        "height": 44
+      },
+      "card": {
+        "x": 196.8046875,
+        "y": 87.59375,
+        "width": 459.1953125,
+        "height": 191.15625
+      },
+      "title": "\uC2DC\uD5D8 DB \uC900\uBE44\uAC00 \uD655\uC778\uB410\uC2B5\uB2C8\uB2E4 \u00B7 \uC608\uC2DC",
+      "text": "\uD655\uC778\uD55C \uC608\uC2DC DB\uC5D0\uC11C\uB9CC \uB3D9\uC791 \uC2DC\uD5D8\uC744 \uC9C4\uD589\uD569\uB2C8\uB2E4. \uC6D0\uBCF8\u00B7\uB300\uC0C1 \uBE44\uAD50\uB294 \uC77D\uAE30 \uC804\uC6A9\uC785\uB2C8\uB2E4.",
+      "buttonText": "\uC2DC\uD5D8 \uC900\uBE44 \uC218\uC815",
+      "cardText": "\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_SQL Server \u00B7 \uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-example.invalid\uC900\uBE44 \uD655\uC778 \uC644\uB8CC \u00B7 \uC608\uC2DC \uC815\uBCF4",
+      "kind": "notice ok",
+      "buttonEnabled": true
+    },
+    {
+      "id": "ko-1280-904-hidden",
+      "x": 0,
+      "y": 0,
+      "width": 904,
+      "height": 0,
+      "notice": null,
+      "button": null,
+      "card": null,
+      "title": null,
+      "text": null,
+      "buttonText": null,
+      "cardText": null,
+      "kind": null,
+      "buttonEnabled": null
+    },
+    {
+      "id": "ko-1280-904-unprepared",
+      "x": 0,
+      "y": 20,
+      "width": 904,
+      "height": 131.59375,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 87.59375,
+        "width": 140.1171875,
+        "height": 44
+      },
+      "card": null,
+      "title": "\uB3D9\uC791 \uC2DC\uD5D8\uC5D0 \uC0AC\uC6A9\uD560 \uACF5\uAC04\uC744 \uC900\uBE44\uD558\uC138\uC694",
+      "text": "\uC6D0\uBCF8\u00B7\uB300\uC0C1\uACFC \uBD84\uB9AC\uB41C \uC2DC\uD5D8 DB\uC640 \uAC12\u00B7\uAE30\uB300 \uACB0\uACFC\uB97C \uD655\uC778\uD574\uC57C \uD569\uB2C8\uB2E4.",
+      "buttonText": "\uC2DC\uD5D8 DB \uC900\uBE44",
+      "cardText": null,
+      "kind": "notice warn",
+      "buttonEnabled": true
+    },
+    {
+      "id": "ko-1280-904-ready",
+      "x": 0,
+      "y": 20,
+      "width": 904,
+      "height": 163.578125,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 103.5859375,
+        "width": 148.140625,
+        "height": 44
+      },
+      "card": {
+        "x": 643.7421875,
+        "y": 87.59375,
+        "width": 260.2578125,
+        "height": 75.984375
+      },
+      "title": "\uC2DC\uD5D8 DB \uC900\uBE44\uAC00 \uD655\uC778\uB410\uC2B5\uB2C8\uB2E4 \u00B7 \uC608\uC2DC",
+      "text": "\uD655\uC778\uD55C \uC608\uC2DC DB\uC5D0\uC11C\uB9CC \uB3D9\uC791 \uC2DC\uD5D8\uC744 \uC9C4\uD589\uD569\uB2C8\uB2E4. \uC6D0\uBCF8\u00B7\uB300\uC0C1 \uBE44\uAD50\uB294 \uC77D\uAE30 \uC804\uC6A9\uC785\uB2C8\uB2E4.",
+      "buttonText": "\uC2DC\uD5D8 \uC900\uBE44 \uC218\uC815",
+      "cardText": "migration_testSQL Server \u00B7 trial.example.invalid\uC900\uBE44 \uD655\uC778 \uC644\uB8CC \u00B7 \uC608\uC2DC \uC815\uBCF4",
+      "kind": "notice ok",
+      "buttonEnabled": true
+    },
+    {
+      "id": "ko-1280-904-latin",
+      "x": 0,
+      "y": 20,
+      "width": 904,
+      "height": 222.765625,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 133.1796875,
+        "width": 148.140625,
+        "height": 44
+      },
+      "card": {
+        "x": 271.203125,
+        "y": 87.59375,
+        "width": 632.796875,
+        "height": 135.171875
+      },
+      "title": "\uC2DC\uD5D8 DB \uC900\uBE44\uAC00 \uD655\uC778\uB410\uC2B5\uB2C8\uB2E4 \u00B7 \uC608\uC2DC",
+      "text": "\uD655\uC778\uD55C \uC608\uC2DC DB\uC5D0\uC11C\uB9CC \uB3D9\uC791 \uC2DC\uD5D8\uC744 \uC9C4\uD589\uD569\uB2C8\uB2E4. \uC6D0\uBCF8\u00B7\uB300\uC0C1 \uBE44\uAD50\uB294 \uC77D\uAE30 \uC804\uC6A9\uC785\uB2C8\uB2E4.",
+      "buttonText": "\uC2DC\uD5D8 \uC900\uBE44 \uC218\uC815",
+      "cardText": "tenant_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_SQL Server \u00B7 db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-example.invalid\uC900\uBE44 \uD655\uC778 \uC644\uB8CC \u00B7 \uC608\uC2DC \uC815\uBCF4",
+      "kind": "notice ok",
+      "buttonEnabled": true
+    },
+    {
+      "id": "ko-1280-904-korean",
+      "x": 0,
+      "y": 20,
+      "width": 904,
+      "height": 240.359375,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 141.9765625,
+        "width": 148.140625,
+        "height": 44
+      },
+      "card": {
+        "x": 271.203125,
+        "y": 87.59375,
+        "width": 632.796875,
+        "height": 152.765625
+      },
+      "title": "\uC2DC\uD5D8 DB \uC900\uBE44\uAC00 \uD655\uC778\uB410\uC2B5\uB2C8\uB2E4 \u00B7 \uC608\uC2DC",
+      "text": "\uD655\uC778\uD55C \uC608\uC2DC DB\uC5D0\uC11C\uB9CC \uB3D9\uC791 \uC2DC\uD5D8\uC744 \uC9C4\uD589\uD569\uB2C8\uB2E4. \uC6D0\uBCF8\u00B7\uB300\uC0C1 \uBE44\uAD50\uB294 \uC77D\uAE30 \uC804\uC6A9\uC785\uB2C8\uB2E4.",
+      "buttonText": "\uC2DC\uD5D8 \uC900\uBE44 \uC218\uC815",
+      "cardText": "\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_SQL Server \u00B7 \uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-example.invalid\uC900\uBE44 \uD655\uC778 \uC644\uB8CC \u00B7 \uC608\uC2DC \uC815\uBCF4",
+      "kind": "notice ok",
+      "buttonEnabled": true
+    },
+    {
+      "id": "en-1110-656-hidden",
+      "x": 0,
+      "y": 0,
+      "width": 656,
+      "height": 0,
+      "notice": null,
+      "button": null,
+      "card": null,
+      "title": null,
+      "text": null,
+      "buttonText": null,
+      "cardText": null,
+      "kind": null,
+      "buttonEnabled": null
+    },
+    {
+      "id": "en-1110-656-unprepared",
+      "x": 0,
+      "y": 20,
+      "width": 656,
+      "height": 131.59375,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 87.59375,
+        "width": 170.28125,
+        "height": 44
+      },
+      "card": null,
+      "title": "Prepare a space for behavior tests",
+      "text": "Confirm a separate test DB, trial inputs and expected outcomes.",
+      "buttonText": "Prepare a test DB",
+      "cardText": null,
+      "kind": "notice warn",
+      "buttonEnabled": true
+    },
+    {
+      "id": "en-1110-656-ready",
+      "x": 0,
+      "y": 20,
+      "width": 656,
+      "height": 163.578125,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 103.5859375,
+        "width": 151.1328125,
+        "height": 44
+      },
+      "card": {
+        "x": 363.828125,
+        "y": 87.59375,
+        "width": 292.171875,
+        "height": 75.984375
+      },
+      "title": "Test DB preparation confirmed \u00B7 Sample",
+      "text": "Behavior tests use only the confirmed sample test DB. Source and target comparison stays read-only.",
+      "buttonText": "Edit test setup",
+      "cardText": "migration_testSQL Server \u00B7 trial.example.invalidPreparation confirmed \u00B7 Sample details",
+      "kind": "notice ok",
+      "buttonEnabled": true
+    },
+    {
+      "id": "en-1110-656-latin",
+      "x": 0,
+      "y": 20,
+      "width": 656,
+      "height": 264.359375,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 153.9765625,
+        "width": 151.1328125,
+        "height": 44
+      },
+      "card": {
+        "x": 223.046875,
+        "y": 87.59375,
+        "width": 432.953125,
+        "height": 176.765625
+      },
+      "title": "Test DB preparation confirmed \u00B7 Sample",
+      "text": "Behavior tests use only the confirmed sample test DB. Source and target comparison stays read-only.",
+      "buttonText": "Edit test setup",
+      "cardText": "tenant_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_SQL Server \u00B7 db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-example.invalidPreparation confirmed \u00B7 Sample details",
+      "kind": "notice ok",
+      "buttonEnabled": true
+    },
+    {
+      "id": "en-1110-656-korean",
+      "x": 0,
+      "y": 20,
+      "width": 656,
+      "height": 278.75,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 161.171875,
+        "width": 151.1328125,
+        "height": 44
+      },
+      "card": {
+        "x": 223.046875,
+        "y": 87.59375,
+        "width": 432.953125,
+        "height": 191.15625
+      },
+      "title": "Test DB preparation confirmed \u00B7 Sample",
+      "text": "Behavior tests use only the confirmed sample test DB. Source and target comparison stays read-only.",
+      "buttonText": "Edit test setup",
+      "cardText": "\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_SQL Server \u00B7 \uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-example.invalidPreparation confirmed \u00B7 Sample details",
+      "kind": "notice ok",
+      "buttonEnabled": true
+    },
+    {
+      "id": "en-1110-904-hidden",
+      "x": 0,
+      "y": 0,
+      "width": 904,
+      "height": 0,
+      "notice": null,
+      "button": null,
+      "card": null,
+      "title": null,
+      "text": null,
+      "buttonText": null,
+      "cardText": null,
+      "kind": null,
+      "buttonEnabled": null
+    },
+    {
+      "id": "en-1110-904-unprepared",
+      "x": 0,
+      "y": 20,
+      "width": 904,
+      "height": 131.59375,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 87.59375,
+        "width": 170.28125,
+        "height": 44
+      },
+      "card": null,
+      "title": "Prepare a space for behavior tests",
+      "text": "Confirm a separate test DB, trial inputs and expected outcomes.",
+      "buttonText": "Prepare a test DB",
+      "cardText": null,
+      "kind": "notice warn",
+      "buttonEnabled": true
+    },
+    {
+      "id": "en-1110-904-ready",
+      "x": 0,
+      "y": 20,
+      "width": 904,
+      "height": 163.578125,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 103.5859375,
+        "width": 151.1328125,
+        "height": 44
+      },
+      "card": {
+        "x": 611.828125,
+        "y": 87.59375,
+        "width": 292.171875,
+        "height": 75.984375
+      },
+      "title": "Test DB preparation confirmed \u00B7 Sample",
+      "text": "Behavior tests use only the confirmed sample test DB. Source and target comparison stays read-only.",
+      "buttonText": "Edit test setup",
+      "cardText": "migration_testSQL Server \u00B7 trial.example.invalidPreparation confirmed \u00B7 Sample details",
+      "kind": "notice ok",
+      "buttonEnabled": true
+    },
+    {
+      "id": "en-1110-904-latin",
+      "x": 0,
+      "y": 20,
+      "width": 904,
+      "height": 222.765625,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 133.1796875,
+        "width": 151.1328125,
+        "height": 44
+      },
+      "card": {
+        "x": 307.3671875,
+        "y": 87.59375,
+        "width": 596.6328125,
+        "height": 135.171875
+      },
+      "title": "Test DB preparation confirmed \u00B7 Sample",
+      "text": "Behavior tests use only the confirmed sample test DB. Source and target comparison stays read-only.",
+      "buttonText": "Edit test setup",
+      "cardText": "tenant_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_SQL Server \u00B7 db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-example.invalidPreparation confirmed \u00B7 Sample details",
+      "kind": "notice ok",
+      "buttonEnabled": true
+    },
+    {
+      "id": "en-1110-904-korean",
+      "x": 0,
+      "y": 20,
+      "width": 904,
+      "height": 240.359375,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 141.9765625,
+        "width": 151.1328125,
+        "height": 44
+      },
+      "card": {
+        "x": 307.3671875,
+        "y": 87.59375,
+        "width": 596.6328125,
+        "height": 152.765625
+      },
+      "title": "Test DB preparation confirmed \u00B7 Sample",
+      "text": "Behavior tests use only the confirmed sample test DB. Source and target comparison stays read-only.",
+      "buttonText": "Edit test setup",
+      "cardText": "\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_SQL Server \u00B7 \uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-example.invalidPreparation confirmed \u00B7 Sample details",
+      "kind": "notice ok",
+      "buttonEnabled": true
+    },
+    {
+      "id": "en-1280-656-hidden",
+      "x": 0,
+      "y": 0,
+      "width": 656,
+      "height": 0,
+      "notice": null,
+      "button": null,
+      "card": null,
+      "title": null,
+      "text": null,
+      "buttonText": null,
+      "cardText": null,
+      "kind": null,
+      "buttonEnabled": null
+    },
+    {
+      "id": "en-1280-656-unprepared",
+      "x": 0,
+      "y": 20,
+      "width": 656,
+      "height": 131.59375,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 87.59375,
+        "width": 170.28125,
+        "height": 44
+      },
+      "card": null,
+      "title": "Prepare a space for behavior tests",
+      "text": "Confirm a separate test DB, trial inputs and expected outcomes.",
+      "buttonText": "Prepare a test DB",
+      "cardText": null,
+      "kind": "notice warn",
+      "buttonEnabled": true
+    },
+    {
+      "id": "en-1280-656-ready",
+      "x": 0,
+      "y": 20,
+      "width": 656,
+      "height": 163.578125,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 103.5859375,
+        "width": 151.1328125,
+        "height": 44
+      },
+      "card": {
+        "x": 363.828125,
+        "y": 87.59375,
+        "width": 292.171875,
+        "height": 75.984375
+      },
+      "title": "Test DB preparation confirmed \u00B7 Sample",
+      "text": "Behavior tests use only the confirmed sample test DB. Source and target comparison stays read-only.",
+      "buttonText": "Edit test setup",
+      "cardText": "migration_testSQL Server \u00B7 trial.example.invalidPreparation confirmed \u00B7 Sample details",
+      "kind": "notice ok",
+      "buttonEnabled": true
+    },
+    {
+      "id": "en-1280-656-latin",
+      "x": 0,
+      "y": 20,
+      "width": 656,
+      "height": 243.5625,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 143.578125,
+        "width": 151.1328125,
+        "height": 44
+      },
+      "card": {
+        "x": 196.8046875,
+        "y": 87.59375,
+        "width": 459.1953125,
+        "height": 155.96875
+      },
+      "title": "Test DB preparation confirmed \u00B7 Sample",
+      "text": "Behavior tests use only the confirmed sample test DB. Source and target comparison stays read-only.",
+      "buttonText": "Edit test setup",
+      "cardText": "tenant_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_SQL Server \u00B7 db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-example.invalidPreparation confirmed \u00B7 Sample details",
+      "kind": "notice ok",
+      "buttonEnabled": true
+    },
+    {
+      "id": "en-1280-656-korean",
+      "x": 0,
+      "y": 20,
+      "width": 656,
+      "height": 278.75,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 161.171875,
+        "width": 151.1328125,
+        "height": 44
+      },
+      "card": {
+        "x": 196.8046875,
+        "y": 87.59375,
+        "width": 459.1953125,
+        "height": 191.15625
+      },
+      "title": "Test DB preparation confirmed \u00B7 Sample",
+      "text": "Behavior tests use only the confirmed sample test DB. Source and target comparison stays read-only.",
+      "buttonText": "Edit test setup",
+      "cardText": "\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_SQL Server \u00B7 \uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-example.invalidPreparation confirmed \u00B7 Sample details",
+      "kind": "notice ok",
+      "buttonEnabled": true
+    },
+    {
+      "id": "en-1280-904-hidden",
+      "x": 0,
+      "y": 0,
+      "width": 904,
+      "height": 0,
+      "notice": null,
+      "button": null,
+      "card": null,
+      "title": null,
+      "text": null,
+      "buttonText": null,
+      "cardText": null,
+      "kind": null,
+      "buttonEnabled": null
+    },
+    {
+      "id": "en-1280-904-unprepared",
+      "x": 0,
+      "y": 20,
+      "width": 904,
+      "height": 131.59375,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 87.59375,
+        "width": 170.28125,
+        "height": 44
+      },
+      "card": null,
+      "title": "Prepare a space for behavior tests",
+      "text": "Confirm a separate test DB, trial inputs and expected outcomes.",
+      "buttonText": "Prepare a test DB",
+      "cardText": null,
+      "kind": "notice warn",
+      "buttonEnabled": true
+    },
+    {
+      "id": "en-1280-904-ready",
+      "x": 0,
+      "y": 20,
+      "width": 904,
+      "height": 163.578125,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 103.5859375,
+        "width": 151.1328125,
+        "height": 44
+      },
+      "card": {
+        "x": 611.828125,
+        "y": 87.59375,
+        "width": 292.171875,
+        "height": 75.984375
+      },
+      "title": "Test DB preparation confirmed \u00B7 Sample",
+      "text": "Behavior tests use only the confirmed sample test DB. Source and target comparison stays read-only.",
+      "buttonText": "Edit test setup",
+      "cardText": "migration_testSQL Server \u00B7 trial.example.invalidPreparation confirmed \u00B7 Sample details",
+      "kind": "notice ok",
+      "buttonEnabled": true
+    },
+    {
+      "id": "en-1280-904-latin",
+      "x": 0,
+      "y": 20,
+      "width": 904,
+      "height": 222.765625,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 133.1796875,
+        "width": 151.1328125,
+        "height": 44
+      },
+      "card": {
+        "x": 271.203125,
+        "y": 87.59375,
+        "width": 632.796875,
+        "height": 135.171875
+      },
+      "title": "Test DB preparation confirmed \u00B7 Sample",
+      "text": "Behavior tests use only the confirmed sample test DB. Source and target comparison stays read-only.",
+      "buttonText": "Edit test setup",
+      "cardText": "tenant_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_migration_records_v1_SQL Server \u00B7 db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-db-example.invalidPreparation confirmed \u00B7 Sample details",
+      "kind": "notice ok",
+      "buttonEnabled": true
+    },
+    {
+      "id": "en-1280-904-korean",
+      "x": 0,
+      "y": 20,
+      "width": 904,
+      "height": 240.359375,
+      "notice": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 71.59375
+      },
+      "button": {
+        "x": 0,
+        "y": 141.9765625,
+        "width": 151.1328125,
+        "height": 44
+      },
+      "card": {
+        "x": 271.203125,
+        "y": 87.59375,
+        "width": 632.796875,
+        "height": 152.765625
+      },
+      "title": "Test DB preparation confirmed \u00B7 Sample",
+      "text": "Behavior tests use only the confirmed sample test DB. Source and target comparison stays read-only.",
+      "buttonText": "Edit test setup",
+      "cardText": "\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_\uB9C8\uC774\uADF8\uB808\uC774\uC158\uAC80\uC99D\uC2DC\uD5D8\uB370\uC774\uD130\uBCA0\uC774\uC2A4_SQL Server \u00B7 \uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-\uC2DC\uD5D8\uC11C\uBC84-example.invalidPreparation confirmed \u00B7 Sample details",
+      "kind": "notice ok",
+      "buttonEnabled": true
+    }
+  ]
+}

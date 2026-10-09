@@ -1,0 +1,72 @@
+{
+  "component": "CapabilityViewport",
+  "status": "LOCKED",
+  "productHash": "8e0ea4a8f79ff913a1c7891ee532e8d800a24f244b1d4202c6a7d476466cd180",
+  "passedComparisons": [
+    {
+      "path": "docs/replica/source/capabilityviewport-headless-comparison.json",
+      "sha256": "bcbbdfd7378694ba9fd92aa7cc2e36c1f8f94d722ad6893bed8b7d2fd14550ef",
+      "status": "PASSED",
+      "count": 72
+    },
+    {
+      "path": "docs/replica/source/capabilityviewport-mac-native-comparison.json",
+      "sha256": "eb43a3ec4fdcd6a4d2a892c51b3250f04bc2884efe551f7b9b3c23aa52c30705",
+      "status": "PASSED",
+      "count": 72
+    },
+    {
+      "path": "docs/replica/source/capabilityviewport-windows-native-comparison.json",
+      "sha256": "f98f154010bbf574d6863aa0b8cd2417903a306463a18d74a51f5d1ae02f7296",
+      "status": "PASSED",
+      "count": 72
+    },
+    {
+      "path": "docs/replica/source/capabilityviewport-mac-input-comparison.json",
+      "sha256": "b1da7f67b1096ceffa4655f1c17da1316cb3c699b0f29bece81844ffe9e4b884",
+      "status": "PASSED",
+      "count": 19
+    },
+    {
+      "path": "docs/replica/source/capabilityviewport-windows-input-comparison.json",
+      "sha256": "2bcef7e62ecc2b213659fc457c03cf2ba65aec10d3f8cd2c5cc73da6ddf36747",
+      "status": "PASSED",
+      "count": 19
+    },
+    {
+      "path": "docs/replica/source/capabilityviewport-windows-focus-comparison.json",
+      "sha256": "181b2e10ad6b827467f9402a0188d75d90c2f00b37f23170fb4895f032845381",
+      "status": "PASSED",
+      "count": 4
+    },
+    {
+      "path": "docs/replica/source/capabilityviewport-windows-input/focus-peers-comparison.json",
+      "sha256": "75bed421c3ebf22199ee9b01cec4d3ba476f63175599e492e760c72e1e089e66",
+      "status": "PASSED",
+      "count": null
+    },
+    {
+      "path": "docs/replica/source/capabilityviewport-mac-input/bar-boundary-comparison.json",
+      "sha256": "356d90f55caad6bbf3978b1709cd661f8bcffbe19c95e1397a728ad42ab510c3",
+      "status": "PASSED",
+      "count": null
+    },
+    {
+      "path": "docs/replica/source/capabilityviewport-mac-focus-comparison.json",
+      "sha256": "181b2e10ad6b827467f9402a0188d75d90c2f00b37f23170fb4895f032845381",
+      "status": "PASSED",
+      "count": 4
+    }
+  ],
+  "remaining": [],
+  "preservedFailures": [
+    "docs/replica/source/capabilityviewport-mac-input/failed-native-tab-viewport-abc8-predecessor-unverified.json",
+    "docs/replica/source/capabilityviewport-mac-input/failed-native-keyboard-restore-abc8-predecessor-unverified.json"
+  ],
+  "scopePolicy": "Existing passed72/13/19 unchanged product branches reused; new focus/clip affected scope verified independently. Headless alone never LOCK.",
+  "changedScope": "Pointer modality restoration and Windows local FromClip descendants; targeted headless/bothOS actual. Mac final actor predecessor setup correction only, product unchanged.",
+  "rawMacSetupProof": "docs/replica/source/capabilityviewport-mac-input/native-predecessor-focus-verified.json",
+  "allowedPlatformDifferences": [
+    "Native OS window chrome/default scrollbar rendering and text raster only; client geometry/offsets/focus/input not exempted."
+  ]
+}

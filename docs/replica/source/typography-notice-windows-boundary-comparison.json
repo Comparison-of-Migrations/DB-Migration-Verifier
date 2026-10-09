@@ -1,0 +1,465 @@
+{
+  "platform": "windows",
+  "sourceStates": 48,
+  "applicableNumericBoundaryStates": 40,
+  "errors": [],
+  "exploratoryOutsideOriginalContent": [
+    {
+      "source": {
+        "id": "break-32",
+        "height": 38.40625,
+        "lines": [
+          {
+            "y": 1.5,
+            "text": "A‐",
+            "width": 19.8984375
+          },
+          {
+            "y": 20.703125,
+            "text": "001",
+            "width": 19.828125
+          }
+        ]
+      },
+      "native": {
+        "Id": "break-32",
+        "invalidated": true,
+        "x": 10,
+        "y": 10,
+        "width": 10,
+        "height": 38.40625,
+        "lines": [
+          12.697265625,
+          19.828125
+        ],
+        "foreground": "#fff2f3f5",
+        "alignment": "Left",
+        "nativeRuns": [
+          [
+            {
+              "text": "A",
+              "requested": "Malgun Gothic",
+              "requestedWeight": 400,
+              "family": "Malgun Gothic",
+              "weight": 400,
+              "simulations": "None"
+            },
+            {
+              "text": "‐\n",
+              "requested": "Segoe UI",
+              "requestedWeight": 400,
+              "family": "Segoe UI",
+              "weight": 400,
+              "simulations": "None"
+            }
+          ],
+          [
+            {
+              "text": "001",
+              "requested": "Malgun Gothic",
+              "requestedWeight": 400,
+              "family": "Malgun Gothic",
+              "weight": 400,
+              "simulations": "None"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "source": {
+        "id": "break-33",
+        "height": 38.40625,
+        "lines": [
+          {
+            "y": 1.5,
+            "text": "A‐",
+            "width": 19.8984375
+          },
+          {
+            "y": 20.703125,
+            "text": "001",
+            "width": 19.828125
+          }
+        ]
+      },
+      "native": {
+        "Id": "break-33",
+        "invalidated": true,
+        "x": 10,
+        "y": 10,
+        "width": 20,
+        "height": 38.40625,
+        "lines": [
+          12.697265625,
+          19.828125
+        ],
+        "foreground": "#fff2f3f5",
+        "alignment": "Left",
+        "nativeRuns": [
+          [
+            {
+              "text": "A",
+              "requested": "Malgun Gothic",
+              "requestedWeight": 400,
+              "family": "Malgun Gothic",
+              "weight": 400,
+              "simulations": "None"
+            },
+            {
+              "text": "‐\n",
+              "requested": "Segoe UI",
+              "requestedWeight": 400,
+              "family": "Segoe UI",
+              "weight": 400,
+              "simulations": "None"
+            }
+          ],
+          [
+            {
+              "text": "001",
+              "requested": "Malgun Gothic",
+              "requestedWeight": 400,
+              "family": "Malgun Gothic",
+              "weight": 400,
+              "simulations": "None"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "source": {
+        "id": "break-34",
+        "height": 38.40625,
+        "lines": [
+          {
+            "y": 1.5,
+            "text": "A‐",
+            "width": 19.8984375
+          },
+          {
+            "y": 20.703125,
+            "text": "001",
+            "width": 19.828125
+          }
+        ]
+      },
+      "native": {
+        "Id": "break-34",
+        "invalidated": true,
+        "x": 10,
+        "y": 10,
+        "width": 30,
+        "height": 38.40625,
+        "lines": [
+          12.697265625,
+          19.828125
+        ],
+        "foreground": "#fff2f3f5",
+        "alignment": "Left",
+        "nativeRuns": [
+          [
+            {
+              "text": "A",
+              "requested": "Malgun Gothic",
+              "requestedWeight": 400,
+              "family": "Malgun Gothic",
+              "weight": 400,
+              "simulations": "None"
+            },
+            {
+              "text": "‐\n",
+              "requested": "Segoe UI",
+              "requestedWeight": 400,
+              "family": "Segoe UI",
+              "weight": 400,
+              "simulations": "None"
+            }
+          ],
+          [
+            {
+              "text": "001",
+              "requested": "Malgun Gothic",
+              "requestedWeight": 400,
+              "family": "Malgun Gothic",
+              "weight": 400,
+              "simulations": "None"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "source": {
+        "id": "break-35",
+        "height": 19.203125,
+        "lines": [
+          {
+            "y": 1.5,
+            "text": "A‐001",
+            "width": 39.7265625
+          }
+        ]
+      },
+      "native": {
+        "Id": "break-35",
+        "invalidated": true,
+        "x": 10,
+        "y": 10,
+        "width": 45,
+        "height": 19.203125,
+        "lines": [
+          32.525390625
+        ],
+        "foreground": "#fff2f3f5",
+        "alignment": "Left",
+        "nativeRuns": [
+          [
+            {
+              "text": "A",
+              "requested": "Malgun Gothic",
+              "requestedWeight": 400,
+              "family": "Malgun Gothic",
+              "weight": 400,
+              "simulations": "None"
+            },
+            {
+              "text": "‐",
+              "requested": "Segoe UI",
+              "requestedWeight": 400,
+              "family": "Segoe UI",
+              "weight": 400,
+              "simulations": "None"
+            },
+            {
+              "text": "001",
+              "requested": "Malgun Gothic",
+              "requestedWeight": 400,
+              "family": "Malgun Gothic",
+              "weight": 400,
+              "simulations": "None"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "source": {
+        "id": "break-36",
+        "height": 19.203125,
+        "lines": [
+          {
+            "y": 1.5,
+            "text": "A‑001",
+            "width": 31.90625
+          }
+        ]
+      },
+      "native": {
+        "Id": "break-36",
+        "invalidated": true,
+        "x": 10,
+        "y": 10,
+        "width": 10,
+        "height": 19.203125,
+        "lines": [
+          32.525390625
+        ],
+        "foreground": "#fff2f3f5",
+        "alignment": "Left",
+        "nativeRuns": [
+          [
+            {
+              "text": "A",
+              "requested": "Malgun Gothic",
+              "requestedWeight": 400,
+              "family": "Malgun Gothic",
+              "weight": 400,
+              "simulations": "None"
+            },
+            {
+              "text": "‑",
+              "requested": "Segoe UI",
+              "requestedWeight": 400,
+              "family": "Segoe UI",
+              "weight": 400,
+              "simulations": "None"
+            },
+            {
+              "text": "001",
+              "requested": "Malgun Gothic",
+              "requestedWeight": 400,
+              "family": "Malgun Gothic",
+              "weight": 400,
+              "simulations": "None"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "source": {
+        "id": "break-37",
+        "height": 19.203125,
+        "lines": [
+          {
+            "y": 1.5,
+            "text": "A‑001",
+            "width": 31.90625
+          }
+        ]
+      },
+      "native": {
+        "Id": "break-37",
+        "invalidated": true,
+        "x": 10,
+        "y": 10,
+        "width": 20,
+        "height": 19.203125,
+        "lines": [
+          32.525390625
+        ],
+        "foreground": "#fff2f3f5",
+        "alignment": "Left",
+        "nativeRuns": [
+          [
+            {
+              "text": "A",
+              "requested": "Malgun Gothic",
+              "requestedWeight": 400,
+              "family": "Malgun Gothic",
+              "weight": 400,
+              "simulations": "None"
+            },
+            {
+              "text": "‑",
+              "requested": "Segoe UI",
+              "requestedWeight": 400,
+              "family": "Segoe UI",
+              "weight": 400,
+              "simulations": "None"
+            },
+            {
+              "text": "001",
+              "requested": "Malgun Gothic",
+              "requestedWeight": 400,
+              "family": "Malgun Gothic",
+              "weight": 400,
+              "simulations": "None"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "source": {
+        "id": "break-38",
+        "height": 19.203125,
+        "lines": [
+          {
+            "y": 1.5,
+            "text": "A‑001",
+            "width": 31.90625
+          }
+        ]
+      },
+      "native": {
+        "Id": "break-38",
+        "invalidated": true,
+        "x": 10,
+        "y": 10,
+        "width": 30,
+        "height": 19.203125,
+        "lines": [
+          32.525390625
+        ],
+        "foreground": "#fff2f3f5",
+        "alignment": "Left",
+        "nativeRuns": [
+          [
+            {
+              "text": "A",
+              "requested": "Malgun Gothic",
+              "requestedWeight": 400,
+              "family": "Malgun Gothic",
+              "weight": 400,
+              "simulations": "None"
+            },
+            {
+              "text": "‑",
+              "requested": "Segoe UI",
+              "requestedWeight": 400,
+              "family": "Segoe UI",
+              "weight": 400,
+              "simulations": "None"
+            },
+            {
+              "text": "001",
+              "requested": "Malgun Gothic",
+              "requestedWeight": 400,
+              "family": "Malgun Gothic",
+              "weight": 400,
+              "simulations": "None"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "source": {
+        "id": "break-39",
+        "height": 19.203125,
+        "lines": [
+          {
+            "y": 1.5,
+            "text": "A‑001",
+            "width": 31.90625
+          }
+        ]
+      },
+      "native": {
+        "Id": "break-39",
+        "invalidated": true,
+        "x": 10,
+        "y": 10,
+        "width": 45,
+        "height": 19.203125,
+        "lines": [
+          32.525390625
+        ],
+        "foreground": "#fff2f3f5",
+        "alignment": "Left",
+        "nativeRuns": [
+          [
+            {
+              "text": "A",
+              "requested": "Malgun Gothic",
+              "requestedWeight": 400,
+              "family": "Malgun Gothic",
+              "weight": 400,
+              "simulations": "None"
+            },
+            {
+              "text": "‑",
+              "requested": "Segoe UI",
+              "requestedWeight": 400,
+              "family": "Segoe UI",
+              "weight": 400,
+              "simulations": "None"
+            },
+            {
+              "text": "001",
+              "requested": "Malgun Gothic",
+              "requestedWeight": 400,
+              "family": "Malgun Gothic",
+              "weight": 400,
+              "simulations": "None"
+            }
+          ]
+        ]
+      }
+    }
+  ],
+  "outsideScopeReason": "U+2010/U+2011 do not occur in original.js; Windows fallback glyph mismatch preserved, not treated as successful replication."
+}

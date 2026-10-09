@@ -1,0 +1,734 @@
+[
+  {
+    "id": "state-0",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      472.3828125,
+      431.796875,
+      220.546875
+    ],
+    "nativeLines": [
+      472.37548828125,
+      431.7919921875,
+      220.53955078125
+    ]
+  },
+  {
+    "id": "state-1",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      471.9765625,
+      464.765625,
+      63.28125
+    ],
+    "nativeLines": [
+      471.97265625,
+      464.765625,
+      63.28125
+    ]
+  },
+  {
+    "id": "state-2",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      225.8203125,
+      225.8828125,
+      228.3984375,
+      231.09375,
+      83.5546875
+    ],
+    "nativeLines": [
+      225.8203125,
+      225.87890625,
+      228.3984375,
+      231.09375,
+      83.5546875
+    ]
+  },
+  {
+    "id": "state-3",
+    "heightDelta": 0,
+    "sourceLines": [
+      224.6015625,
+      157.1953125,
+      233.5546875,
+      222.328125,
+      232.734375,
+      38.5
+    ],
+    "nativeLines": [
+      224.59716796875,
+      157.1923828125,
+      233.54736328125,
+      222.32666015625,
+      232.72705078125,
+      38.49609375
+    ]
+  },
+  {
+    "id": "state-4",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      137
+    ],
+    "nativeLines": [
+      136.99765625000006
+    ]
+  },
+  {
+    "id": "state-5",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      425.1484375,
+      350.8671875
+    ],
+    "nativeLines": [
+      425.14265625000036,
+      350.86111328125025
+    ]
+  },
+  {
+    "id": "state-6",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      435.28125
+    ],
+    "nativeLines": [
+      435.275390625
+    ]
+  },
+  {
+    "id": "state-7",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      422.15625
+    ],
+    "nativeLines": [
+      422.15625
+    ]
+  },
+  {
+    "id": "state-8",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      472.3828125,
+      431.796875,
+      220.546875
+    ],
+    "nativeLines": [
+      472.37548828125,
+      431.7919921875,
+      220.53955078125
+    ]
+  },
+  {
+    "id": "state-9",
+    "heightDelta": 0,
+    "sourceLines": [],
+    "nativeLines": []
+  },
+  {
+    "id": "english-boundary",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      155.703125
+    ],
+    "nativeLines": [
+      155.7021484375
+    ]
+  },
+  {
+    "id": "english-fit",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      155.703125
+    ],
+    "nativeLines": [
+      155.7021484375
+    ]
+  },
+  {
+    "id": "long-object",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      1002.84375
+    ],
+    "nativeLines": [
+      1002.84375
+    ]
+  },
+  {
+    "id": "ligature",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      99.53125,
+      7.875
+    ],
+    "nativeLines": [
+      99.5244140625,
+      7.875
+    ]
+  },
+  {
+    "id": "cluster",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      137.875,
+      7.4921875
+    ],
+    "nativeLines": [
+      137.8740234375,
+      7.4921875
+    ]
+  },
+  {
+    "id": "fallback-space",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      88.265625,
+      42
+    ],
+    "nativeLines": [
+      88.265625,
+      42
+    ]
+  },
+  {
+    "id": "whitespace",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      154.0546875
+    ],
+    "nativeLines": [
+      154.0546875
+    ]
+  },
+  {
+    "id": "home-edge-0",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      137
+    ],
+    "nativeLines": [
+      136.99765625000006
+    ]
+  },
+  {
+    "id": "home-edge-1",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      404.9375,
+      104.2265625
+    ],
+    "nativeLines": [
+      404.93250000000006,
+      104.22
+    ]
+  },
+  {
+    "id": "home-edge-2",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      307.7265625,
+      45.0625
+    ],
+    "nativeLines": [
+      307.7265625,
+      45.0625
+    ]
+  },
+  {
+    "id": "home-edge-3",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      471.9765625,
+      464.765625,
+      63.28125
+    ],
+    "nativeLines": [
+      471.97265625,
+      464.765625,
+      63.28125
+    ]
+  },
+  {
+    "id": "home-edge-4",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      367.3125,
+      50.625
+    ],
+    "nativeLines": [
+      367.3125,
+      50.625
+    ]
+  },
+  {
+    "id": "home-edge-5",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      99.203125,
+      28
+    ],
+    "nativeLines": [
+      99.203125,
+      28
+    ]
+  },
+  {
+    "id": "home-edge-6",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      296.5625,
+      54.84375
+    ],
+    "nativeLines": [
+      296.5625,
+      54.84375
+    ]
+  },
+  {
+    "id": "home-edge-7",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      425.1484375,
+      350.8671875
+    ],
+    "nativeLines": [
+      425.14265625000036,
+      350.86111328125025
+    ]
+  },
+  {
+    "id": "overflow-left",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      1002.84375
+    ],
+    "nativeLines": [
+      1002.84375
+    ]
+  },
+  {
+    "id": "overflow-center",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      1002.84375
+    ],
+    "nativeLines": [
+      1002.84375
+    ]
+  },
+  {
+    "id": "overflow-right",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      1002.84375
+    ],
+    "nativeLines": [
+      1002.84375
+    ]
+  },
+  {
+    "id": "anywhere-object",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      237.515625,
+      237.515625,
+      237.515625,
+      237.515625,
+      52.78125
+    ],
+    "nativeLines": [
+      237.515625,
+      237.515625,
+      237.515625,
+      237.515625,
+      52.78125
+    ]
+  },
+  {
+    "id": "anywhere-words",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      84.6015625,
+      66.1875
+    ],
+    "nativeLines": [
+      84.5947265625,
+      66.185546875
+    ]
+  },
+  {
+    "id": "anywhere-cluster",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      18.2109375,
+      18.328125,
+      19.90625
+    ],
+    "nativeLines": [
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      18.2109375,
+      18.3271484375,
+      19.90625
+    ]
+  },
+  {
+    "id": "nowrap",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      155.703125
+    ],
+    "nativeLines": [
+      155.7021484375
+    ]
+  },
+  {
+    "id": "nbsp",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      155.703125
+    ],
+    "nativeLines": [
+      155.7021484375
+    ]
+  },
+  {
+    "id": "nbsp-edge",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      64.3984375
+    ],
+    "nativeLines": [
+      59.47265625
+    ]
+  },
+  {
+    "id": "spaces-only",
+    "heightDelta": 0,
+    "sourceLines": [],
+    "nativeLines": []
+  },
+  {
+    "id": "extra-00",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      333.5546875
+    ],
+    "nativeLines": [
+      333.55
+    ]
+  },
+  {
+    "id": "extra-01",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      173.3984375
+    ],
+    "nativeLines": [
+      173.3935546875
+    ]
+  },
+  {
+    "id": "extra-02",
+    "heightDelta": 0,
+    "sourceLines": [
+      73.9296875
+    ],
+    "nativeLines": [
+      73.92578125
+    ]
+  },
+  {
+    "id": "extra-03",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      188.578125
+    ],
+    "nativeLines": [
+      188.576171875
+    ]
+  },
+  {
+    "id": "extra-04",
+    "heightDelta": 0,
+    "sourceLines": [
+      82.9765625
+    ],
+    "nativeLines": [
+      82.9736328125
+    ]
+  },
+  {
+    "id": "extra-05",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      133.5234375
+    ],
+    "nativeLines": [
+      133.51953125
+    ]
+  },
+  {
+    "id": "extra-06",
+    "heightDelta": 0,
+    "sourceLines": [
+      63.3125
+    ],
+    "nativeLines": [
+      63.310546875
+    ]
+  },
+  {
+    "id": "extra-07",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      151.7578125
+    ],
+    "nativeLines": [
+      151.7578125
+    ]
+  },
+  {
+    "id": "extra-08",
+    "heightDelta": 0,
+    "sourceLines": [
+      69.828125
+    ],
+    "nativeLines": [
+      69.82421875
+    ]
+  },
+  {
+    "id": "extra-09",
+    "heightDelta": 0,
+    "sourceLines": [
+      65.875
+    ],
+    "nativeLines": [
+      65.86875
+    ]
+  },
+  {
+    "id": "extra-10",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      52.21875
+    ],
+    "nativeLines": [
+      52.21875
+    ]
+  },
+  {
+    "id": "extra-11",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      24
+    ],
+    "nativeLines": [
+      24
+    ]
+  },
+  {
+    "id": "extra-12",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      72
+    ],
+    "nativeLines": [
+      72
+    ]
+  },
+  {
+    "id": "extra-13",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      52.21875
+    ],
+    "nativeLines": [
+      52.21875
+    ]
+  },
+  {
+    "id": "extra-14",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      48
+    ],
+    "nativeLines": [
+      48
+    ]
+  },
+  {
+    "id": "extra-15",
+    "heightDelta": 0,
+    "sourceLines": [
+      65.875
+    ],
+    "nativeLines": [
+      65.86875
+    ]
+  },
+  {
+    "id": "extra-16",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      87.140625
+    ],
+    "nativeLines": [
+      87.140625
+    ]
+  },
+  {
+    "id": "extra-17",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      26
+    ],
+    "nativeLines": [
+      26
+    ]
+  },
+  {
+    "id": "extra-18",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      74.140625
+    ],
+    "nativeLines": [
+      74.140625
+    ]
+  },
+  {
+    "id": "extra-19",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      436.1640625
+    ],
+    "nativeLines": [
+      436.1634374999998
+    ]
+  },
+  {
+    "id": "extra-20",
+    "heightDelta": 0,
+    "sourceLines": [
+      86.75
+    ],
+    "nativeLines": [
+      86.74382812500002
+    ]
+  },
+  {
+    "id": "extra-21",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      36.2578125
+    ],
+    "nativeLines": [
+      36.2578125
+    ]
+  },
+  {
+    "id": "extra-22",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      24.1171875
+    ],
+    "nativeLines": [
+      24.1171875
+    ]
+  },
+  {
+    "id": "extra-23",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      52.625
+    ],
+    "nativeLines": [
+      52.623046875
+    ]
+  },
+  {
+    "id": "extra-24",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      88.546875
+    ],
+    "nativeLines": [
+      88.541015625
+    ]
+  },
+  {
+    "id": "extra-25",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      53.7421875
+    ],
+    "nativeLines": [
+      53.7421875
+    ]
+  },
+  {
+    "id": "extra-26",
+    "heightDelta": 0,
+    "sourceLines": [
+      82.4296875
+    ],
+    "nativeLines": [
+      82.42839843750002
+    ]
+  },
+  {
+    "id": "extra-27",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      186.7578125
+    ],
+    "nativeLines": [
+      186.75439453125
+    ]
+  },
+  {
+    "id": "extra-28",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      28.8984375
+    ],
+    "nativeLines": [
+      28.89453125
+    ]
+  },
+  {
+    "id": "extra-29",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      149.34375
+    ],
+    "nativeLines": [
+      149.34130859375
+    ]
+  },
+  {
+    "id": "extra-30",
+    "heightDelta": 0.0,
+    "sourceLines": [
+      109.734375
+    ],
+    "nativeLines": [
+      109.73193359375
+    ]
+  }
+]

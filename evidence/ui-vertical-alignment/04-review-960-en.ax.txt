@@ -1,0 +1,98 @@
+Window: "DB-Migration-Verifier", App: DB-Migration-Verifier.
+0 standard window DB-Migration-Verifier, Secondary Actions: Raise
+	1 container WindowChrome, ID: AvaloniaWindowChrome
+	2 container
+		3 container
+			4 container
+				5 text DB-Migration-Verifier
+				6 text Synthetic example · no actual DB
+				7 button 한국어 / EN, ID: language
+			8 container
+				9 text Migration comparison
+				10 button Connect databases
+					11 container
+						12 text Connect databases
+				13 button Preflight
+					14 container
+						15 text Preflight
+				16 button Select checks
+					17 container
+						18 text Select checks
+				19 button Review
+					20 container
+						21 text 4
+						22 text Review
+				23 button (disabled) Progress
+					24 container
+						25 text 5
+						26 text Progress
+				27 button (disabled) Results
+					28 container
+						29 text 6
+						30 text Results
+				31 button (disabled) Save results
+					32 container
+						33 text 7
+						34 text Save results
+				35 text Read-only comparison
+				36 text No source/target writes.
+Behavior tests require a separate test DB.
+				37 checkbox Reduce motion, Value: off, ID: motion
+					38 container RootGrid
+						39 container
+							40 container
+			41 container
+				42 text Synthetic example · separate from actual DB results.
+			43 scroll area
+				44 container
+					45 container
+						46 text Review before comparison
+						47 text Confirm selected, excluded and unverified scope before running.
+						48 container
+							49 container
+								50 text Source / target
+								51 text Synthetic source / target
+							52 container
+								53 text DBMS
+								54 text Synthetic · PostgreSQL
+							55 container
+								56 text Selected categories
+								57 text Data · Schema & constraints · Users & access · Related objects
+							58 container
+								59 text Selected tables
+								60 text demo.entries
+							61 container
+								62 text Excluded scope
+								63 text Separate DB behavior
+							64 container
+								65 text Write boundary
+								66 text Read-only source/target / behavior testing pending
+						67 container
+							68 text Partial column attributes cannot certify full schema equality. Unsupported types, inaccessible/oversized rows and unimplemented checks remain indeterminate or unverified.
+						69 checkbox I confirmed scope/limits and stopped writes on both databases., Value: off, ID: review-confirm
+							70 container RootGrid
+								71 container
+									72 container
+					73 scroll bar (settable, float) Value: 0, ID: PART_VerticalScrollBar
+						74 container
+							75 button Line up, ID: PART_LineUpButton
+							76 button Page up, ID: PART_PageUpButton
+							77 button Page down, ID: PART_PageDownButton
+							78 handle Position
+							79 button Line down, ID: PART_LineDownButton
+			80 container
+				81 button Back
+					82 container
+						83 text Back
+				84 text Confirm scope and stopped writes.
+				85 button (disabled) Start comparison
+					86 container
+						87 text Start comparison
+	88 close button
+	89 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	90 minimize button
+	91 text DB-Migration-Verifier
+92 menu bar
+	93 DB-Migration-Verifier
+
+The focused UI element is 7 button 한국어 / EN, ID: language

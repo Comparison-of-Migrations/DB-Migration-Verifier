@@ -1,0 +1,7 @@
+{
+  "component": "TableMappingRow",
+  "contract": "DPR2 KO/EN48 shared-parent-column layouts and96 CSS timing samples each OS,36 actual input snapshots, independent label/cell/change/keyboard/capture/cancel/reduced/leave. Parent owns table auto-columns and matching modal.",
+  "files": {
+    "src/Verifier.Desktop/WebTableMappingRow.cs": "19d3b1524876b4dcf71a683c787f6b00021abed3d8f4ce164ba0d9f8dcea69d2"
+  }
+}

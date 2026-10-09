@@ -1,0 +1,18 @@
+{
+  "phase": "MAC_OS_RECORDED",
+  "headless": false,
+  "platformDetect": true,
+  "hostOS": "macOS-26.5.1-arm64-arm-64bit-Mach-O",
+  "command": [
+    "/Users/youptebook/.cache/db-migration-verifier/dotnet/dotnet",
+    "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/welcomestep/988f938066a94990a7b962f14cf3e378/build/bin/ReplicaProbe/release_osx-arm64/ReplicaProbe.dll",
+    "--welcomestep",
+    "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/windows-download/welcomestep-cases.json",
+    "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/welcomestep/988f938066a94990a7b962f14cf3e378/outputs/e7833af9969b4b898c8d641390cb7e82/actual-macos/candidate"
+  ],
+  "binarySha256": "f11d68c73bee69d756b1c21a29b7020cfd3b25238c711524d059120fea28428a",
+  "manifest": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/welcomestep/988f938066a94990a7b962f14cf3e378/build.json",
+  "processExitCode": 0,
+  "startUtc": "2026-10-08T03:37:56.208074+00:00",
+  "output": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/welcomestep/988f938066a94990a7b962f14cf3e378/outputs/e7833af9969b4b898c8d641390cb7e82/actual-macos"
+}

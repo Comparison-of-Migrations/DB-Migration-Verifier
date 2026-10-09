@@ -1,0 +1,39 @@
+{
+  "policy": "MASTER_RULES \u00a714",
+  "entries": [
+    {
+      "scope": "Trial parent flow28",
+      "source": "home-pageintegrationtrial-mac-source.json",
+      "evidenceSaved": true,
+      "exactOwnedTitle": "Trial parent flow measurement \u00b7 home",
+      "close": "CUA AXClose exactwindow124",
+      "after": "New Tab; unrelated preserved",
+      "ownSourceWindow": 0
+    },
+    {
+      "scope": "Results integration contexts4",
+      "source": "connection-pageintegrationresults-mac-source.json",
+      "evidenceSaved": true,
+      "exactOwnedTitle": "Results integration \u00b7 original isolation",
+      "close": "CUA AXClose exactwindow124",
+      "after": "New Tab; unrelated preserved",
+      "ownSourceWindow": 0
+    },
+    {
+      "scope": "Preflight parent16",
+      "source": "preflight-preflightpage-mac-source.json",
+      "exactOwnedTitle": "PreflightPage \u00b7 original isolation",
+      "close": "CUA AXClose189",
+      "ownSourceWindow": 0,
+      "after": "NewTab unrelated preserved"
+    },
+    {
+      "scope": "Results corrected wrapper4",
+      "source": "connection-pageintegrationresults-mac-control-ready.json",
+      "exactOwnedTitle": "Results integration \u00b7 original isolation",
+      "close": "CUA AXClose190",
+      "ownSourceWindow": 0,
+      "after": "NewTab unrelated preserved"
+    }
+  ]
+}

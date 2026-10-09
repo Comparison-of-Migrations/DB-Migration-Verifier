@@ -1,0 +1,57 @@
+{
+  "phase": "NO_INPUT_STARTUP_DIAGNOSIS_CLOSED",
+  "launch": {
+    "pid": 4256,
+    "path": "C:\\Users\\youptebook\\AppData\\Local\\Temp\\DBMV-Isolated-connection-pageintegration-c14baa31227d4c4b9a391aba4d1fe4bc\\app\\DBMV-Connection-Flow-7183c1f078ae4a98a072fc9afc73cfa2.exe",
+    "rawExpectedPath": "C:\\Users\\YOUPTE~1\\AppData\\Local\\Temp\\DBMV-Isolated-connection-pageintegration-c14baa31227d4c4b9a391aba4d1fe4bc\\app\\DBMV-Connection-Flow-7183c1f078ae4a98a072fc9afc73cfa2.exe",
+    "output": "C:\\Users\\YOUPTE~1\\AppData\\Local\\Temp\\DBMV-Isolated-connection-pageintegration-c14baa31227d4c4b9a391aba4d1fe4bc\\app\\actual-fullflow-windows\\phase-7183c1f078ae4a98a072fc9afc73cfa2",
+    "english": true,
+    "resumeTrial": false,
+    "startUtc": "2026-10-09T00:52:08.5633973Z",
+    "startupReady": null,
+    "traceRequested": true,
+    "startupDiagnostic": false,
+    "uniqueApphost": true,
+    "apphostSHA256": "9CCE8A1E2674EAD331CB8BE875A2D8799808E841235ADD1E5A8B4AD85F78FB48",
+    "nonce": "7183c1f078ae4a98a072fc9afc73cfa2",
+    "binary": "78c6a3644a5244c9f4abe3fabbd2f15a91f901fb5539de9ca03fcc85f1334b5d"
+  },
+  "diagnostic": {
+    "observedUtc": "2026-10-09T00:53:18.9348457Z",
+    "pid": 4256,
+    "path": "C:\\Users\\youptebook\\AppData\\Local\\Temp\\DBMV-Isolated-connection-pageintegration-c14baa31227d4c4b9a391aba4d1fe4bc\\app\\DBMV-Connection-Flow-7183c1f078ae4a98a072fc9afc73cfa2.exe",
+    "startUtc": "2026-10-09T00:52:08.5633973Z",
+    "mainWindowHandle": 0,
+    "ownedWindowCount": 0,
+    "readyExists": false,
+    "modules": [
+      {
+        "name": "DBMV-Connection-Flow-7183c1f078ae4a98a072fc9afc73cfa2.exe",
+        "path": "C:\\Users\\youptebook\\AppData\\Local\\Temp\\DBMV-Isolated-connection-pageintegration-c14baa31227d4c4b9a391aba4d1fe4bc\\app\\DBMV-Connection-Flow-7183c1f078ae4a98a072fc9afc73cfa2.exe"
+      },
+      {
+        "name": "ntdll.dll",
+        "path": "C:\\WINDOWS\\SYSTEM32\\ntdll.dll"
+      },
+      {
+        "name": "xtajit64se.dll",
+        "path": "C:\\WINDOWS\\System32\\xtajit64se.dll"
+      }
+    ],
+    "moduleError": null,
+    "hostTraceExists": false,
+    "input": 0
+  },
+  "cleanup": {
+    "pid": 4256,
+    "path": "C:\\Users\\youptebook\\AppData\\Local\\Temp\\DBMV-Isolated-connection-pageintegration-c14baa31227d4c4b9a391aba4d1fe4bc\\app\\DBMV-Connection-Flow-7183c1f078ae4a98a072fc9afc73cfa2.exe",
+    "process": 0,
+    "window": 0,
+    "input": 0,
+    "method": "Exact no-window/no-ready project-only StopProcess"
+  },
+  "scope": "Current exact samebytes unique apphost EN launch; no physical input, ready30s absent, pre-managed observed modules only; cause unknown. No OS dialog action or automatic retry.",
+  "physicalEnglishComplete": false,
+  "physicalKoreanProof": "pageintegrationfullflow-windows-ko-comparison.json",
+  "evidence": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/connection/pageintegration/c14baa31227d4c4b9a391aba4d1fe4bc/actual-fullflow-windows/phase-7183c1f078ae4a98a072fc9afc73cfa2"
+}

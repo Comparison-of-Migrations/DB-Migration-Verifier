@@ -1,0 +1,139 @@
+{
+  "capturedAtUtc": "2026-10-07T13:43:06.7165565Z",
+  "dpr": 2,
+  "lang": "en",
+  "screen": "results",
+  "requests": [
+    "results"
+  ],
+  "offset": 0,
+  "snapshot": {
+    "id": "actual",
+    "width": 220,
+    "height": 660,
+    "clientWidth": 205,
+    "clientHeight": 660,
+    "scrollHeight": 663,
+    "scrollWidth": 205,
+    "title": {
+      "x": 14,
+      "y": 30,
+      "width": 177,
+      "height": 18.6953125
+    },
+    "nav": {
+      "x": 14,
+      "y": 80.6953125,
+      "width": 177,
+      "height": 412
+    },
+    "navName": "Verification steps",
+    "note": {
+      "x": 14,
+      "y": 524.6953125,
+      "width": 177,
+      "height": 108.1875
+    },
+    "strong": {
+      "x": 28,
+      "y": 545.6953125,
+      "width": 149,
+      "height": 20.796875
+    },
+    "noteText": "Read-only comparison\nBehavior-test writes belong only in a separate test DB.",
+    "titleText": "Migration result comparison",
+    "items": [
+      {
+        "box": {
+          "x": 14,
+          "y": 80.6953125,
+          "width": 177,
+          "height": 52
+        },
+        "enabled": false,
+        "current": "",
+        "done": false,
+        "name": "1 Connect DBs",
+        "key": "connect"
+      },
+      {
+        "box": {
+          "x": 14,
+          "y": 140.6953125,
+          "width": 177,
+          "height": 52
+        },
+        "enabled": false,
+        "current": "",
+        "done": false,
+        "name": "2 Preflight",
+        "key": "capabilities"
+      },
+      {
+        "box": {
+          "x": 14,
+          "y": 200.6953125,
+          "width": 177,
+          "height": 52
+        },
+        "enabled": false,
+        "current": "",
+        "done": false,
+        "name": "3 Choose checks",
+        "key": "select"
+      },
+      {
+        "box": {
+          "x": 14,
+          "y": 260.6953125,
+          "width": 177,
+          "height": 52
+        },
+        "enabled": false,
+        "current": "",
+        "done": false,
+        "name": "4 Review",
+        "key": "review"
+      },
+      {
+        "box": {
+          "x": 14,
+          "y": 320.6953125,
+          "width": 177,
+          "height": 52
+        },
+        "enabled": false,
+        "current": "",
+        "done": false,
+        "name": "5 Run checks",
+        "key": "running"
+      },
+      {
+        "box": {
+          "x": 14,
+          "y": 380.6953125,
+          "width": 177,
+          "height": 52
+        },
+        "enabled": true,
+        "current": "step",
+        "done": false,
+        "name": "6 Results",
+        "key": "results"
+      },
+      {
+        "box": {
+          "x": 14,
+          "y": 440.6953125,
+          "width": 177,
+          "height": 52
+        },
+        "enabled": false,
+        "current": "",
+        "done": false,
+        "name": "7 Save results",
+        "key": "save"
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "platform": "windows",
+  "cases": 6,
+  "errors": [
+    {
+      "case": "remount",
+      "property": "attached",
+      "source": true,
+      "native": false
+    },
+    {
+      "case": "remount",
+      "property": "width",
+      "source": 596.25,
+      "native": 0
+    },
+    {
+      "case": "remount",
+      "property": "height",
+      "source": 62.890625,
+      "native": 0
+    },
+    {
+      "case": "restore",
+      "property": "attached",
+      "source": true,
+      "native": false
+    },
+    {
+      "case": "restore",
+      "property": "width",
+      "source": 904,
+      "native": 0
+    },
+    {
+      "case": "restore",
+      "property": "height",
+      "source": 62.890625,
+      "native": 0
+    }
+  ],
+  "checks": [
+    "passive",
+    "language",
+    "narrow",
+    "detach",
+    "remount",
+    "restore"
+  ],
+  "scope": "Actual header passive click clears prior utility focus and performs no header action. Language/parent-column widths/display removal+return update named texts and boxes. Test utility AX focus is outside header product scope; compared only when header itself is the pointer target. Detached source display:none maps to state box0, native also records absent box0."
+}

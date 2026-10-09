@@ -1,0 +1,50 @@
+using Avalonia;
+using Avalonia.Automation;
+using Avalonia.Automation.Peers;
+using Avalonia.Controls;
+using Avalonia.Input;
+using Avalonia.Media;
+
+namespace Verifier.Desktop;
+
+/// <summary>Literal heading() block; parent controls page entrance, navigation and scroll restoration.</summary>
+public sealed class WebPageHeading:Panel
+{
+    public WebSystemTextBlock TitleText{get;}=WebTypography.CreateCandidate("",28,37.8,Brush.Parse("#f2f3f5"),700,-.98);
+    public WebSystemTextBlock DescriptionText{get;}=WebTypography.CreateCandidate("",14,25.2,Brush.Parse("#b5bac1"));
+    public Control FocusTarget=>_title;
+    public bool FocusVisible=>_title.FocusVisible;
+    private readonly HeadingFocus _title;
+    public WebPageHeading()
+    {
+        UseLayoutRounding=false;Margin=new(0,0,0,24);
+        _title=new(){Child=TitleText};Children.Add(_title);Children.Add(DescriptionText);
+        AutomationProperties.SetHeadingLevel(_title,1);AutomationProperties.SetAutomationId(_title,"screen-title");
+    }
+    public void SetPresentation(string title,string description){TitleText.Text=title;DescriptionText.Text=description;AutomationProperties.SetName(_title,title);InvalidateMeasure();}
+    public bool FocusTitle(bool keyboard)=>_title.FocusWithModality(keyboard);
+    protected override Size MeasureOverride(Size available)
+    {
+        var units=(TopLevel.GetTopLevel(this)?.RenderScaling??2)*64;TitleText.LineHeight=Math.Floor(37.8*units)/units;DescriptionText.LineHeight=Math.Floor(25.2*units)/units;
+        _title.Measure(new(available.Width,double.PositiveInfinity));DescriptionText.Measure(new(Math.Min(740,available.Width),double.PositiveInfinity));
+        return new(available.Width,_title.DesiredSize.Height+8+DescriptionText.DesiredSize.Height);
+    }
+    protected override Size ArrangeOverride(Size final){_title.Arrange(new(0,0,final.Width,_title.DesiredSize.Height));DescriptionText.Arrange(new(0,_title.DesiredSize.Height+8,Math.Min(740,final.Width),DescriptionText.DesiredSize.Height));return final;}
+    private sealed class HeadingFocus:Decorator
+    {
+        public bool FocusVisible{get;private set;}
+        public HeadingFocus(){Focusable=true;IsTabStop=false;FocusAdorner=null;UseLayoutRounding=false;ClipToBounds=false;}
+        public bool FocusWithModality(bool keyboard){var focused=Focus(keyboard?NavigationMethod.Tab:NavigationMethod.Pointer);FocusVisible=focused&&keyboard;InvalidateVisual();return focused;}
+        protected override void OnGotFocus(FocusChangedEventArgs e){base.OnGotFocus(e);FocusVisible=e.NavigationMethod!=NavigationMethod.Pointer;InvalidateVisual();}
+        protected override void OnLostFocus(FocusChangedEventArgs e){base.OnLostFocus(e);FocusVisible=false;InvalidateVisual();}
+        protected override void OnPointerPressed(PointerPressedEventArgs e){base.OnPointerPressed(e);if(!IsFocused&&e.GetCurrentPoint(this).Properties.IsLeftButtonPressed)FocusWithModality(false);}
+        protected override void OnKeyDown(KeyEventArgs e){base.OnKeyDown(e);if((e.KeyModifiers&(KeyModifiers.Control|KeyModifiers.Alt|KeyModifiers.Meta))==0&&e.Key is not(Key.LeftShift or Key.RightShift or Key.LeftCtrl or Key.RightCtrl or Key.LeftAlt or Key.RightAlt or Key.LWin or Key.RWin)){FocusVisible=true;InvalidateVisual();}}
+        protected override AutomationPeer OnCreateAutomationPeer()=>new HeadingPeer(this);
+        private sealed class HeadingPeer(HeadingFocus owner):ControlAutomationPeer(owner)
+        {
+            protected override AutomationControlType GetAutomationControlTypeCore()=>AutomationControlType.Text;
+            protected override IReadOnlyList<AutomationPeer>? GetChildrenCore()=>Array.Empty<AutomationPeer>();
+        }
+        public override void Render(DrawingContext context){if(FocusVisible)context.DrawRectangle(null,new Pen(Brush.Parse("#5865f2"),3),new Rect(Bounds.Size).Inflate(4.5));}
+    }
+}

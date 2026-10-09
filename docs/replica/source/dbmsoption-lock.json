@@ -1,0 +1,7 @@
+{
+  "component": "DbmsOption",
+  "contract": "Original label card: full/compact geometry and 4 engine labels; selected/hover/focus paint,160ms CSS ease/reversal; whole-label pointer selection/focus and Radio keyboard contract. Parent owns connection support/ports/render state. DPR2 macOS M4 and Windows11 VM; no arbitrary font/DPI or actual DBMS support claim.",
+  "files": {
+    "src/Verifier.Desktop/WebDbmsOption.cs": "c4b0bc8bc4a8dced25fab97e3504179081271230a54dbecde27ced6870929f3a"
+  }
+}

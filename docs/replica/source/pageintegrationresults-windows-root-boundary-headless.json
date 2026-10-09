@@ -1,0 +1,37 @@
+{
+  "status": "FAILED",
+  "checks": 52,
+  "differences": [
+    {
+      "case": "ko-1280",
+      "label": "peer",
+      "key": "node count",
+      "actual": 3,
+      "expected": 2
+    },
+    {
+      "case": "ko-1280",
+      "label": "1",
+      "key": "children",
+      "actual": 1,
+      "expected": 0
+    },
+    {
+      "case": "en-1280",
+      "label": "peer",
+      "key": "node count",
+      "actual": 3,
+      "expected": 2
+    },
+    {
+      "case": "en-1280",
+      "label": "1",
+      "key": "children",
+      "actual": 1,
+      "expected": 0
+    }
+  ],
+  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/pageintegrationresults-windows-root-boundary-source.json",
+  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/connection/pageintegration/1acd8a998bb54432862c58c06d22e278/actual-results-windows/guest/headless-b9571a62bd5c4494af821f1425b56337/pageintegrationresults-root-boundary.json",
+  "scope": "New root marker/modal geometry only; APIsetup not actual callback proof, passed native30/parent4 retained; actual UIA peer separately required"
+}

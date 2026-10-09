@@ -1,0 +1,307 @@
+{
+  "utc": "2026-10-06T04:42:45.388168Z",
+  "reason": "changed",
+  "changes": 3,
+  "rows": [
+    {
+      "name": "\uAC80\uC0AC \uC120\uD0DD",
+      "state": {
+        "checkedState": false,
+        "enabled": true,
+        "focused": false,
+        "focusVisible": false,
+        "hover": false,
+        "pressed": false,
+        "reduced": false,
+        "width": 20,
+        "height": 20,
+        "appearance": {
+          "Background": {
+            "A": 255,
+            "R": 30,
+            "G": 31,
+            "B": 34,
+            "Color": {
+              "A": 255,
+              "R": 30,
+              "G": 31,
+              "B": 34
+            }
+          },
+          "Border": {
+            "A": 255,
+            "R": 124,
+            "G": 131,
+            "B": 140,
+            "Color": {
+              "A": 255,
+              "R": 124,
+              "G": 131,
+              "B": 140
+            }
+          },
+          "Glow": {
+            "Spread": 0,
+            "Color": {
+              "A": 0,
+              "R": 0,
+              "G": 0,
+              "B": 0,
+              "Color": {
+                "A": 0,
+                "R": 0,
+                "G": 0,
+                "B": 0
+              }
+            }
+          },
+          "Scale": 1,
+          "Pose": {
+            "Angle": 45,
+            "Scale": 0
+          }
+        }
+      }
+    },
+    {
+      "name": "Checked input",
+      "state": {
+        "checkedState": true,
+        "enabled": true,
+        "focused": false,
+        "focusVisible": false,
+        "hover": false,
+        "pressed": false,
+        "reduced": false,
+        "width": 20,
+        "height": 20,
+        "appearance": {
+          "Background": {
+            "A": 255,
+            "R": 88,
+            "G": 101,
+            "B": 242,
+            "Color": {
+              "A": 255,
+              "R": 88,
+              "G": 101,
+              "B": 242
+            }
+          },
+          "Border": {
+            "A": 255,
+            "R": 139,
+            "G": 148,
+            "B": 255,
+            "Color": {
+              "A": 255,
+              "R": 139,
+              "G": 148,
+              "B": 255
+            }
+          },
+          "Glow": {
+            "Spread": 0,
+            "Color": {
+              "A": 0,
+              "R": 0,
+              "G": 0,
+              "B": 0,
+              "Color": {
+                "A": 0,
+                "R": 0,
+                "G": 0,
+                "B": 0
+              }
+            }
+          },
+          "Scale": 1,
+          "Pose": {
+            "Angle": 45,
+            "Scale": 1
+          }
+        }
+      }
+    },
+    {
+      "name": "Mixed input",
+      "state": {
+        "checkedState": false,
+        "enabled": true,
+        "focused": false,
+        "focusVisible": false,
+        "hover": false,
+        "pressed": false,
+        "reduced": false,
+        "width": 20,
+        "height": 20,
+        "appearance": {
+          "Background": {
+            "A": 255,
+            "R": 30,
+            "G": 31,
+            "B": 34,
+            "Color": {
+              "A": 255,
+              "R": 30,
+              "G": 31,
+              "B": 34
+            }
+          },
+          "Border": {
+            "A": 255,
+            "R": 124,
+            "G": 131,
+            "B": 140,
+            "Color": {
+              "A": 255,
+              "R": 124,
+              "G": 131,
+              "B": 140
+            }
+          },
+          "Glow": {
+            "Spread": 0,
+            "Color": {
+              "A": 0,
+              "R": 0,
+              "G": 0,
+              "B": 0,
+              "Color": {
+                "A": 0,
+                "R": 0,
+                "G": 0,
+                "B": 0
+              }
+            }
+          },
+          "Scale": 1,
+          "Pose": {
+            "Angle": 45,
+            "Scale": 0
+          }
+        }
+      }
+    },
+    {
+      "name": "Disabled input",
+      "state": {
+        "checkedState": true,
+        "enabled": false,
+        "focused": false,
+        "focusVisible": false,
+        "hover": false,
+        "pressed": false,
+        "reduced": false,
+        "width": 20,
+        "height": 20,
+        "appearance": {
+          "Background": {
+            "A": 255,
+            "R": 46,
+            "G": 48,
+            "B": 53,
+            "Color": {
+              "A": 255,
+              "R": 46,
+              "G": 48,
+              "B": 53
+            }
+          },
+          "Border": {
+            "A": 255,
+            "R": 114,
+            "G": 121,
+            "B": 133,
+            "Color": {
+              "A": 255,
+              "R": 114,
+              "G": 121,
+              "B": 133
+            }
+          },
+          "Glow": {
+            "Spread": 0,
+            "Color": {
+              "A": 0,
+              "R": 0,
+              "G": 0,
+              "B": 0,
+              "Color": {
+                "A": 0,
+                "R": 0,
+                "G": 0,
+                "B": 0
+              }
+            }
+          },
+          "Scale": 1,
+          "Pose": {
+            "Angle": 45,
+            "Scale": 1
+          }
+        }
+      }
+    },
+    {
+      "name": "Reduced input",
+      "state": {
+        "checkedState": true,
+        "enabled": true,
+        "focused": true,
+        "focusVisible": true,
+        "hover": false,
+        "pressed": false,
+        "reduced": true,
+        "width": 20,
+        "height": 20,
+        "appearance": {
+          "Background": {
+            "A": 255,
+            "R": 88,
+            "G": 101,
+            "B": 242,
+            "Color": {
+              "A": 255,
+              "R": 88,
+              "G": 101,
+              "B": 242
+            }
+          },
+          "Border": {
+            "A": 255,
+            "R": 139,
+            "G": 148,
+            "B": 255,
+            "Color": {
+              "A": 255,
+              "R": 139,
+              "G": 148,
+              "B": 255
+            }
+          },
+          "Glow": {
+            "Spread": 0,
+            "Color": {
+              "A": 0,
+              "R": 0,
+              "G": 0,
+              "B": 0,
+              "Color": {
+                "A": 0,
+                "R": 0,
+                "G": 0,
+                "B": 0
+              }
+            }
+          },
+          "Scale": 1,
+          "Pose": {
+            "Angle": 45,
+            "Scale": 1
+          }
+        }
+      }
+    }
+  ]
+}

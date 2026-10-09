@@ -1,0 +1,46 @@
+[
+  {
+    "half": "up",
+    "state": "hover",
+    "physicalBox": [
+      22,
+      44
+    ],
+    "rgbError": 0,
+    "differentPixels": 0,
+    "maxChannelDifference": 0
+  },
+  {
+    "half": "down",
+    "state": "hover",
+    "physicalBox": [
+      22,
+      44
+    ],
+    "rgbError": 0,
+    "differentPixels": 0,
+    "maxChannelDifference": 0
+  },
+  {
+    "half": "up",
+    "state": "pressed",
+    "physicalBox": [
+      22,
+      44
+    ],
+    "rgbError": 0,
+    "differentPixels": 0,
+    "maxChannelDifference": 0
+  },
+  {
+    "half": "down",
+    "state": "pressed",
+    "physicalBox": [
+      22,
+      44
+    ],
+    "rgbError": 0,
+    "differentPixels": 0,
+    "maxChannelDifference": 0
+  }
+]

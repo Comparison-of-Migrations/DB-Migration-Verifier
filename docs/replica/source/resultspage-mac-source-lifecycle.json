@@ -1,0 +1,433 @@
+{
+  "dpr": 2,
+  "rows": [
+    {
+      "label": "settled",
+      "filter": "all",
+      "english": false,
+      "title": "불일치가 발견됐습니다",
+      "articleIds": [
+        "F-001",
+        "F-002",
+        "F-003",
+        "U-001"
+      ],
+      "focusAction": null,
+      "page": {
+        "opacity": 1,
+        "y": 0
+      },
+      "numbers": [
+        {
+          "opacity": 1,
+          "y": 0
+        },
+        {
+          "opacity": 1,
+          "y": 0
+        },
+        {
+          "opacity": 1,
+          "y": 0
+        }
+      ],
+      "bars": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "attached": true,
+      "scroll": 0,
+      "modal": null
+    },
+    {
+      "label": "entry-start",
+      "filter": "all",
+      "english": false,
+      "title": "불일치가 발견됐습니다",
+      "articleIds": [
+        "F-001",
+        "F-002",
+        "F-003",
+        "U-001"
+      ],
+      "focusAction": null,
+      "page": {
+        "opacity": 0.35,
+        "y": 6
+      },
+      "numbers": [
+        {
+          "opacity": 0.6,
+          "y": 5
+        },
+        {
+          "opacity": 0.6,
+          "y": 5
+        },
+        {
+          "opacity": 0.6,
+          "y": 5
+        }
+      ],
+      "bars": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "attached": true,
+      "scroll": 0,
+      "modal": null
+    },
+    {
+      "label": "entry-end",
+      "filter": "all",
+      "english": false,
+      "title": "불일치가 발견됐습니다",
+      "articleIds": [
+        "F-001",
+        "F-002",
+        "F-003",
+        "U-001"
+      ],
+      "focusAction": null,
+      "page": {
+        "opacity": 1,
+        "y": 0
+      },
+      "numbers": [
+        {
+          "opacity": 1,
+          "y": 0
+        },
+        {
+          "opacity": 1,
+          "y": 0
+        },
+        {
+          "opacity": 1,
+          "y": 0
+        }
+      ],
+      "bars": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "attached": true,
+      "scroll": 0,
+      "modal": null
+    },
+    {
+      "label": "filter-unknown",
+      "filter": "unknown",
+      "english": false,
+      "title": "불일치가 발견됐습니다",
+      "articleIds": [
+        "U-001"
+      ],
+      "focusAction": "filter:unknown",
+      "page": {
+        "opacity": 1,
+        "y": 0
+      },
+      "numbers": [
+        {
+          "opacity": 1,
+          "y": 0
+        },
+        {
+          "opacity": 1,
+          "y": 0
+        },
+        {
+          "opacity": 1,
+          "y": 0
+        }
+      ],
+      "bars": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "attached": true,
+      "scroll": 0,
+      "modal": null
+    },
+    {
+      "label": "filter-different",
+      "filter": "different",
+      "english": false,
+      "title": "불일치가 발견됐습니다",
+      "articleIds": [
+        "F-001",
+        "F-002",
+        "F-003"
+      ],
+      "focusAction": "filter:different",
+      "page": {
+        "opacity": 1,
+        "y": 0
+      },
+      "numbers": [
+        {
+          "opacity": 1,
+          "y": 0
+        },
+        {
+          "opacity": 1,
+          "y": 0
+        },
+        {
+          "opacity": 1,
+          "y": 0
+        }
+      ],
+      "bars": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "attached": true,
+      "scroll": 0,
+      "modal": null
+    },
+    {
+      "label": "language",
+      "filter": "different",
+      "english": true,
+      "title": "Differences were found",
+      "articleIds": [
+        "F-001",
+        "F-002",
+        "F-003"
+      ],
+      "focusAction": "filter:different",
+      "page": {
+        "opacity": 1,
+        "y": 0
+      },
+      "numbers": [
+        {
+          "opacity": 1,
+          "y": 0
+        },
+        {
+          "opacity": 1,
+          "y": 0
+        },
+        {
+          "opacity": 1,
+          "y": 0
+        }
+      ],
+      "bars": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "attached": true,
+      "scroll": 0,
+      "modal": null
+    },
+    {
+      "label": "detached",
+      "attached": false
+    },
+    {
+      "label": "reattached-settled",
+      "filter": "different",
+      "english": true,
+      "title": "Differences were found",
+      "articleIds": [
+        "F-001",
+        "F-002",
+        "F-003"
+      ],
+      "focusAction": null,
+      "page": {
+        "opacity": 1,
+        "y": 0
+      },
+      "numbers": [
+        {
+          "opacity": 1,
+          "y": 0
+        },
+        {
+          "opacity": 1,
+          "y": 0
+        },
+        {
+          "opacity": 1,
+          "y": 0
+        }
+      ],
+      "bars": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "attached": true,
+      "scroll": 0,
+      "modal": null
+    },
+    {
+      "label": "reduced",
+      "filter": "different",
+      "english": true,
+      "title": "Differences were found",
+      "articleIds": [
+        "F-001",
+        "F-002",
+        "F-003"
+      ],
+      "focusAction": null,
+      "page": {
+        "opacity": 1,
+        "y": 0
+      },
+      "numbers": [
+        {
+          "opacity": 1,
+          "y": 0
+        },
+        {
+          "opacity": 1,
+          "y": 0
+        },
+        {
+          "opacity": 1,
+          "y": 0
+        }
+      ],
+      "bars": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "attached": true,
+      "scroll": 0,
+      "modal": null
+    },
+    {
+      "label": "trial-update",
+      "filter": "different",
+      "english": true,
+      "title": "Differences were found",
+      "articleIds": [
+        "F-001",
+        "F-002",
+        "F-003"
+      ],
+      "focusAction": null,
+      "page": {
+        "opacity": 1,
+        "y": 0
+      },
+      "numbers": [
+        {
+          "opacity": 1,
+          "y": 0
+        },
+        {
+          "opacity": 1,
+          "y": 0
+        },
+        {
+          "opacity": 1,
+          "y": 0
+        }
+      ],
+      "bars": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "attached": true,
+      "scroll": 0,
+      "modal": null
+    }
+  ]
+}

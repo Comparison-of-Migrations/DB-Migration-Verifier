@@ -1,0 +1,53 @@
+{
+  "rows": [
+    {
+      "phase": "compact",
+      "kind": "pointer",
+      "requests": 1,
+      "focused": true
+    },
+    {
+      "phase": "compact",
+      "kind": "enter",
+      "requests": 2,
+      "focused": true
+    },
+    {
+      "phase": "compact",
+      "kind": "space",
+      "requests": 3,
+      "focused": true
+    },
+    {
+      "phase": "wide",
+      "kind": "pointer",
+      "requests": 4,
+      "focused": true
+    },
+    {
+      "phase": "wide",
+      "kind": "enter",
+      "requests": 5,
+      "focused": true
+    },
+    {
+      "phase": "wide",
+      "kind": "space",
+      "requests": 6,
+      "focused": true
+    },
+    {
+      "phase": "wide",
+      "kind": "passive-body",
+      "requests": 6,
+      "focused": false
+    },
+    {
+      "phase": "wide",
+      "kind": "passive-gap",
+      "requests": 6,
+      "focused": false
+    }
+  ],
+  "errors": []
+}

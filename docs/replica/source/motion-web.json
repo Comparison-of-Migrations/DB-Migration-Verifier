@@ -1,0 +1,1674 @@
+[
+  {
+    "duration": 200,
+    "fill": "none",
+    "infinite": false,
+    "kind": "Page",
+    "samples": [
+      {
+        "fraction": 0,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          6
+        ],
+        "opacity": 0.35
+      },
+      {
+        "fraction": 0.125,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          3.10926
+        ],
+        "opacity": 0.663163
+      },
+      {
+        "fraction": 0.25,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          1.41081
+        ],
+        "opacity": 0.847162
+      },
+      {
+        "fraction": 0.375,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.595632
+        ],
+        "opacity": 0.935473
+      },
+      {
+        "fraction": 0.5,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.231705
+        ],
+        "opacity": 0.974899
+      },
+      {
+        "fraction": 0.625,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.077195
+        ],
+        "opacity": 0.991637
+      },
+      {
+        "fraction": 0.75,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.0186347
+        ],
+        "opacity": 0.997981
+      },
+      {
+        "fraction": 0.875,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.00194484
+        ],
+        "opacity": 0.999789
+      },
+      {
+        "fraction": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.001,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.25,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.5,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "duration": 280,
+    "fill": "none",
+    "infinite": false,
+    "kind": "Modal",
+    "samples": [
+      {
+        "fraction": 0,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          10
+        ],
+        "opacity": 0
+      },
+      {
+        "fraction": 0.125,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          5.1821
+        ],
+        "opacity": 0.48179
+      },
+      {
+        "fraction": 0.25,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          2.35135
+        ],
+        "opacity": 0.764865
+      },
+      {
+        "fraction": 0.375,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.992719
+        ],
+        "opacity": 0.900728
+      },
+      {
+        "fraction": 0.5,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.386175
+        ],
+        "opacity": 0.961383
+      },
+      {
+        "fraction": 0.625,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.128658
+        ],
+        "opacity": 0.987134
+      },
+      {
+        "fraction": 0.75,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.0310578
+        ],
+        "opacity": 0.996894
+      },
+      {
+        "fraction": 0.875,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.0032414
+        ],
+        "opacity": 0.999676
+      },
+      {
+        "fraction": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.001,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.25,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.5,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "duration": 280,
+    "fill": "none",
+    "infinite": false,
+    "kind": "Drawer",
+    "samples": [
+      {
+        "fraction": 0,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          20,
+          0
+        ],
+        "opacity": 0
+      },
+      {
+        "fraction": 0.125,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          10.3642,
+          0
+        ],
+        "opacity": 0.48179
+      },
+      {
+        "fraction": 0.25,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          4.70271,
+          0
+        ],
+        "opacity": 0.764865
+      },
+      {
+        "fraction": 0.375,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          1.98544,
+          0
+        ],
+        "opacity": 0.900728
+      },
+      {
+        "fraction": 0.5,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0.772349,
+          0
+        ],
+        "opacity": 0.961383
+      },
+      {
+        "fraction": 0.625,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0.257317,
+          0
+        ],
+        "opacity": 0.987134
+      },
+      {
+        "fraction": 0.75,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0.0621157,
+          0
+        ],
+        "opacity": 0.996894
+      },
+      {
+        "fraction": 0.875,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0.00648279,
+          0
+        ],
+        "opacity": 0.999676
+      },
+      {
+        "fraction": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.001,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.25,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.5,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "duration": 200,
+    "fill": "none",
+    "infinite": false,
+    "kind": "Toast",
+    "samples": [
+      {
+        "fraction": 0,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          10
+        ],
+        "opacity": 0
+      },
+      {
+        "fraction": 0.125,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          5.1821
+        ],
+        "opacity": 0.48179
+      },
+      {
+        "fraction": 0.25,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          2.35135
+        ],
+        "opacity": 0.764865
+      },
+      {
+        "fraction": 0.375,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.992719
+        ],
+        "opacity": 0.900728
+      },
+      {
+        "fraction": 0.5,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.386175
+        ],
+        "opacity": 0.961383
+      },
+      {
+        "fraction": 0.625,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.128658
+        ],
+        "opacity": 0.987134
+      },
+      {
+        "fraction": 0.75,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.0310578
+        ],
+        "opacity": 0.996894
+      },
+      {
+        "fraction": 0.875,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.0032414
+        ],
+        "opacity": 0.999676
+      },
+      {
+        "fraction": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.001,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.25,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.5,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "duration": 220,
+    "fill": "none",
+    "infinite": false,
+    "kind": "ResultNumber",
+    "samples": [
+      {
+        "fraction": 0,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          5
+        ],
+        "opacity": 0.6
+      },
+      {
+        "fraction": 0.125,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          2.59105
+        ],
+        "opacity": 0.792716
+      },
+      {
+        "fraction": 0.25,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          1.17568
+        ],
+        "opacity": 0.905946
+      },
+      {
+        "fraction": 0.375,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.49636
+        ],
+        "opacity": 0.960291
+      },
+      {
+        "fraction": 0.5,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.193087
+        ],
+        "opacity": 0.984553
+      },
+      {
+        "fraction": 0.625,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.0643292
+        ],
+        "opacity": 0.994854
+      },
+      {
+        "fraction": 0.75,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.0155289
+        ],
+        "opacity": 0.998758
+      },
+      {
+        "fraction": 0.875,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0.0016207
+        ],
+        "opacity": 0.99987
+      },
+      {
+        "fraction": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.001,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.25,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.5,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "duration": 320,
+    "fill": "none",
+    "infinite": false,
+    "kind": "ResultBar",
+    "samples": [
+      {
+        "fraction": 0,
+        "matrix": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 0.125,
+        "matrix": [
+          0.48179,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 0.25,
+        "matrix": [
+          0.764865,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 0.375,
+        "matrix": [
+          0.900728,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 0.5,
+        "matrix": [
+          0.961383,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 0.625,
+        "matrix": [
+          0.987134,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 0.75,
+        "matrix": [
+          0.996894,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 0.875,
+        "matrix": [
+          0.999676,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.001,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.25,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.5,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "duration": 160,
+    "fill": "none",
+    "infinite": false,
+    "kind": "Press",
+    "samples": [
+      {
+        "fraction": 0,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 0.125,
+        "matrix": [
+          0.992057,
+          0,
+          0,
+          0.992057,
+          0,
+          0
+        ],
+        "opacity": 0.944398
+      },
+      {
+        "fraction": 0.25,
+        "matrix": [
+          0.984874,
+          0,
+          0,
+          0.984874,
+          0,
+          0
+        ],
+        "opacity": 0.894121
+      },
+      {
+        "fraction": 0.375,
+        "matrix": [
+          0.981621,
+          0,
+          0,
+          0.981621,
+          0,
+          0
+        ],
+        "opacity": 0.87135
+      },
+      {
+        "fraction": 0.5,
+        "matrix": [
+          0.987386,
+          0,
+          0,
+          0.987386,
+          0,
+          0
+        ],
+        "opacity": 0.9117
+      },
+      {
+        "fraction": 0.625,
+        "matrix": [
+          0.992319,
+          0,
+          0,
+          0.992319,
+          0,
+          0
+        ],
+        "opacity": 0.946234
+      },
+      {
+        "fraction": 0.75,
+        "matrix": [
+          0.996261,
+          0,
+          0,
+          0.996261,
+          0,
+          0
+        ],
+        "opacity": 0.97383
+      },
+      {
+        "fraction": 0.875,
+        "matrix": [
+          0.998961,
+          0,
+          0,
+          0.998961,
+          0,
+          0
+        ],
+        "opacity": 0.992724
+      },
+      {
+        "fraction": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.001,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.25,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.5,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "duration": 160,
+    "fill": "forwards",
+    "infinite": false,
+    "kind": "ModalClose",
+    "samples": [
+      {
+        "fraction": 0,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 0.125,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          1.19148
+        ],
+        "opacity": 0.80142
+      },
+      {
+        "fraction": 0.25,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          2.26883
+        ],
+        "opacity": 0.621862
+      },
+      {
+        "fraction": 0.375,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          3.24321
+        ],
+        "opacity": 0.459465
+      },
+      {
+        "fraction": 0.5,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          4.10786
+        ],
+        "opacity": 0.315357
+      },
+      {
+        "fraction": 0.625,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          4.84787
+        ],
+        "opacity": 0.192022
+      },
+      {
+        "fraction": 0.75,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          5.43921
+        ],
+        "opacity": 0.0934647
+      },
+      {
+        "fraction": 0.875,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          5.84409
+        ],
+        "opacity": 0.0259846
+      },
+      {
+        "fraction": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          6
+        ],
+        "opacity": 0
+      },
+      {
+        "fraction": 1.001,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          6
+        ],
+        "opacity": 0
+      },
+      {
+        "fraction": 1.25,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          6
+        ],
+        "opacity": 0
+      },
+      {
+        "fraction": 1.5,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          6
+        ],
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "duration": 160,
+    "fill": "none",
+    "infinite": false,
+    "kind": "SearchFade",
+    "samples": [
+      {
+        "fraction": 0,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 0.5
+      },
+      {
+        "fraction": 0.125,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 0.59929
+      },
+      {
+        "fraction": 0.25,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 0.689069
+      },
+      {
+        "fraction": 0.375,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 0.770267
+      },
+      {
+        "fraction": 0.5,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 0.842322
+      },
+      {
+        "fraction": 0.625,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 0.903989
+      },
+      {
+        "fraction": 0.75,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 0.953268
+      },
+      {
+        "fraction": 0.875,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 0.987008
+      },
+      {
+        "fraction": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.001,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.25,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.5,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "duration": 1000,
+    "fill": "none",
+    "infinite": true,
+    "kind": "RunningDot",
+    "samples": [
+      {
+        "fraction": 0,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 0.125,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 0.909587
+      },
+      {
+        "fraction": 0.25,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 0.65
+      },
+      {
+        "fraction": 0.375,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 0.390413
+      },
+      {
+        "fraction": 0.5,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 0.3
+      },
+      {
+        "fraction": 0.625,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 0.390413
+      },
+      {
+        "fraction": 0.75,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 0.65
+      },
+      {
+        "fraction": 0.875,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 0.909587
+      },
+      {
+        "fraction": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.001,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 0.999995
+      },
+      {
+        "fraction": 1.25,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 0.65
+      },
+      {
+        "fraction": 1.5,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 0.3
+      }
+    ]
+  },
+  {
+    "duration": 800,
+    "fill": "none",
+    "infinite": true,
+    "kind": "Spinner",
+    "samples": [
+      {
+        "fraction": 0,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 0.125,
+        "matrix": [
+          0.707107,
+          0.707107,
+          -0.707107,
+          0.707107,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 0.25,
+        "matrix": [
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 0.375,
+        "matrix": [
+          -0.707107,
+          0.707107,
+          -0.707107,
+          -0.707107,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 0.5,
+        "matrix": [
+          -1,
+          0,
+          0,
+          -1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 0.625,
+        "matrix": [
+          -0.707107,
+          -0.707107,
+          0.707107,
+          -0.707107,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 0.75,
+        "matrix": [
+          -9.92105e-16,
+          -1,
+          1,
+          -9.92105e-16,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 0.875,
+        "matrix": [
+          0.707107,
+          -0.707107,
+          0.707107,
+          0.707107,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1,
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.001,
+        "matrix": [
+          0.99998,
+          0.00628314,
+          -0.00628314,
+          0.99998,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.25,
+        "matrix": [
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        "opacity": 1
+      },
+      {
+        "fraction": 1.5,
+        "matrix": [
+          -1,
+          1.48816e-15,
+          -1.48816e-15,
+          -1,
+          0,
+          0
+        ],
+        "opacity": 1
+      }
+    ]
+  }
+]

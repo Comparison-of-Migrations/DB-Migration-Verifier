@@ -1,0 +1,506 @@
+{
+  "dpr": 2,
+  "reduced": false,
+  "rows": [
+    {
+      "scenario": "normal-hover",
+      "ms": 0,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "normal-hover",
+      "ms": 8,
+      "bg": "rgba(53, 55, 60, 0.282)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "normal-hover",
+      "ms": 16,
+      "bg": "rgba(53, 55, 60, 0.506)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "normal-hover",
+      "ms": 30,
+      "bg": "rgba(53, 55, 60, 0.765)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "normal-hover",
+      "ms": 40,
+      "bg": "rgba(53, 55, 60, 0.867)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "normal-hover",
+      "ms": 60,
+      "bg": "rgba(53, 55, 60, 0.96)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "normal-hover",
+      "ms": 80,
+      "bg": "rgba(53, 55, 60, 0.992)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "normal-hover",
+      "ms": 100,
+      "bg": "rgba(53, 55, 60, 1)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "normal-hover",
+      "ms": 120,
+      "bg": "rgb(53, 55, 60)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "normal-hover",
+      "ms": 160,
+      "bg": "rgb(53, 55, 60)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "active-hover",
+      "ms": 0,
+      "bg": "rgb(60, 63, 75)",
+      "color": "rgb(242, 243, 245)",
+      "badgeColor": "rgb(255, 255, 255)",
+      "shadow": "rgb(139, 148, 255) 3px 0px 0px 0px inset",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "active-hover",
+      "ms": 8,
+      "bg": "rgb(58, 61, 71)",
+      "color": "rgb(242, 243, 245)",
+      "badgeColor": "rgb(255, 255, 255)",
+      "shadow": "rgba(139, 148, 255, 0.718) 2.15831px 0px 0px 0px inset",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "active-hover",
+      "ms": 16,
+      "bg": "rgb(56, 59, 67)",
+      "color": "rgb(242, 243, 245)",
+      "badgeColor": "rgb(255, 255, 255)",
+      "shadow": "rgba(139, 148, 255, 0.494) 1.47959px 0px 0px 0px inset",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "active-hover",
+      "ms": 30,
+      "bg": "rgb(55, 57, 64)",
+      "color": "rgb(242, 243, 245)",
+      "badgeColor": "rgb(255, 255, 255)",
+      "shadow": "rgba(139, 148, 255, 0.235) 0.705406px 0px 0px 0px inset",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "active-hover",
+      "ms": 40,
+      "bg": "rgb(54, 56, 62)",
+      "color": "rgb(242, 243, 245)",
+      "badgeColor": "rgb(255, 255, 255)",
+      "shadow": "rgba(139, 148, 255, 0.133) 0.399844px 0px 0px 0px inset",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "active-hover",
+      "ms": 60,
+      "bg": "rgb(53, 55, 61)",
+      "color": "rgb(242, 243, 245)",
+      "badgeColor": "rgb(255, 255, 255)",
+      "shadow": "rgba(139, 148, 255, 0.04) 0.115852px 0px 0px 0px inset",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "active-hover",
+      "ms": 80,
+      "bg": "rgb(53, 55, 60)",
+      "color": "rgb(242, 243, 245)",
+      "badgeColor": "rgb(255, 255, 255)",
+      "shadow": "rgba(139, 148, 255, 0.008) 0.02524px 0px 0px 0px inset",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "active-hover",
+      "ms": 100,
+      "bg": "rgb(53, 55, 60)",
+      "color": "rgb(242, 243, 245)",
+      "badgeColor": "rgb(255, 255, 255)",
+      "shadow": "rgba(139, 148, 255, 0) 0.00244204px 0px 0px 0px inset",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "active-hover",
+      "ms": 120,
+      "bg": "rgb(53, 55, 60)",
+      "color": "rgb(242, 243, 245)",
+      "badgeColor": "rgb(255, 255, 255)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "active-hover",
+      "ms": 160,
+      "bg": "rgb(53, 55, 60)",
+      "color": "rgb(242, 243, 245)",
+      "badgeColor": "rgb(255, 255, 255)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "disable-color",
+      "ms": 0,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "disable-color",
+      "ms": 8,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(198, 202, 208)",
+      "badgeColor": "rgb(198, 202, 208)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "disable-color",
+      "ms": 16,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(193, 197, 203)",
+      "badgeColor": "rgb(193, 197, 203)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "disable-color",
+      "ms": 30,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(187, 191, 198)",
+      "badgeColor": "rgb(187, 191, 198)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "disable-color",
+      "ms": 40,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(184, 189, 196)",
+      "badgeColor": "rgb(184, 189, 196)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "disable-color",
+      "ms": 60,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(182, 187, 194)",
+      "badgeColor": "rgb(182, 187, 194)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "disable-color",
+      "ms": 80,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(181, 186, 193)",
+      "badgeColor": "rgb(181, 186, 193)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "disable-color",
+      "ms": 100,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(181, 186, 193)",
+      "badgeColor": "rgb(181, 186, 193)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "disable-color",
+      "ms": 120,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(181, 186, 193)",
+      "badgeColor": "rgb(181, 186, 193)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "disable-color",
+      "ms": 160,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(181, 186, 193)",
+      "badgeColor": "rgb(181, 186, 193)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "pressed-scale",
+      "ms": 0,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "pressed-scale",
+      "ms": 8,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "matrix(0.991978, 0, 0, 0.991978, 0, 0)",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "pressed-scale",
+      "ms": 16,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "matrix(0.98652, 0, 0, 0.98652, 0, 0)",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "pressed-scale",
+      "ms": 30,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "matrix(0.981985, 0, 0, 0.981985, 0, 0)",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "pressed-scale",
+      "ms": 40,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "matrix(0.980772, 0, 0, 0.980772, 0, 0)",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "pressed-scale",
+      "ms": 60,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "matrix(0.980062, 0, 0, 0.980062, 0, 0)",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "pressed-scale",
+      "ms": 80,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "matrix(0.98, 0, 0, 0.98, 0, 0)",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "pressed-scale",
+      "ms": 100,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "matrix(0.98, 0, 0, 0.98, 0, 0)",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "pressed-scale",
+      "ms": 120,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "matrix(0.98, 0, 0, 0.98, 0, 0)",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "pressed-scale",
+      "ms": 160,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "matrix(0.98, 0, 0, 0.98, 0, 0)",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 0,
+      "bg": "rgba(53, 55, 60, 0.765)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": 91.78376628707433
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 8,
+      "bg": "rgba(53, 55, 60, 0.494)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": 91.78376628707433
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 16,
+      "bg": "rgba(53, 55, 60, 0.294)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": 91.78376628707433
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 30,
+      "bg": "rgba(53, 55, 60, 0.106)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": 91.78376628707433
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 40,
+      "bg": "rgba(53, 55, 60, 0.047)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": 91.78376628707433
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 60,
+      "bg": "rgba(53, 55, 60, 0.008)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": 91.78376628707433
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 80,
+      "bg": "rgba(53, 55, 60, 0)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": 91.78376628707433
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 100,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": 91.78376628707433
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 120,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": 91.78376628707433
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 160,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(205, 208, 214)",
+      "badgeColor": "rgb(205, 208, 214)",
+      "shadow": "none",
+      "transform": "none",
+      "reverseDuration": 91.78376628707433
+    }
+  ]
+}

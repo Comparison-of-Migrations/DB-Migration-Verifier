@@ -1,0 +1,7 @@
+{
+  "src/Verifier.Desktop/WebWelcomeStep.cs": "eff830726140ef9adabc4b55dc1ee1d17514c8290cfd1c5323c2d80c2bd606af",
+  "tools/ReplicaProbe/WelcomeStepProbe.cs": "62d9860bb135fb2cc701ea9b922e7ffd34467966d404fbb98ff0be1966417083",
+  "tools/ReplicaProbe/prepare_welcome_step.py": "f7c204965c0c87912e4d8d1f298ee13942a30c138138aa3116bcdd599212c192",
+  "docs/replica/source/welcomestep-mac-source.json": "8f483f4391c502f1804c62c228bb3852a875a1340e0d40b14c8c81c5490d8dd8",
+  "docs/replica/source/welcomestep-windows-source.json": "8b5d12adb9de4c48ad20d9487c2a446c96f13286f5cd1a8c53024f25d9f5e3c5"
+}

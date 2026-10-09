@@ -1,0 +1,22 @@
+{
+  "cases": 12,
+  "lifecycle": 3,
+  "input": [
+    {
+      "state": "pointer",
+      "requests": 1,
+      "focused": true
+    },
+    {
+      "state": "Return",
+      "requests": 2,
+      "focused": true
+    },
+    {
+      "state": "Space",
+      "requests": 3,
+      "focused": true
+    }
+  ],
+  "errors": []
+}

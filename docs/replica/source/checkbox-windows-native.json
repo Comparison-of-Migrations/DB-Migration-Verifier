@@ -1,0 +1,1838 @@
+[
+  {
+    "id": "unchecked-rest",
+    "checkedState": false,
+    "disabled": false,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 30,
+        "G": 31,
+        "B": 34,
+        "Color": {
+          "A": 255,
+          "R": 30,
+          "G": 31,
+          "B": 34
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 124,
+        "G": 131,
+        "B": 140,
+        "Color": {
+          "A": 255,
+          "R": 124,
+          "G": 131,
+          "B": 140
+        }
+      },
+      "Glow": {
+        "Spread": 0,
+        "Color": {
+          "A": 0,
+          "R": 0,
+          "G": 0,
+          "B": 0,
+          "Color": {
+            "A": 0,
+            "R": 0,
+            "G": 0,
+            "B": 0
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 45,
+        "Scale": 0
+      }
+    }
+  },
+  {
+    "id": "unchecked-hover",
+    "checkedState": false,
+    "disabled": false,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 30,
+        "G": 31,
+        "B": 34,
+        "Color": {
+          "A": 255,
+          "R": 30,
+          "G": 31,
+          "B": 34
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 167,
+        "G": 177,
+        "B": 255,
+        "Color": {
+          "A": 255,
+          "R": 167,
+          "G": 177,
+          "B": 255
+        }
+      },
+      "Glow": {
+        "Spread": 3,
+        "Color": {
+          "A": 32,
+          "R": 167,
+          "G": 177,
+          "B": 255,
+          "Color": {
+            "A": 32,
+            "R": 167,
+            "G": 177,
+            "B": 255
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 45,
+        "Scale": 0
+      }
+    }
+  },
+  {
+    "id": "unchecked-pressed",
+    "checkedState": false,
+    "disabled": false,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 30,
+        "G": 31,
+        "B": 34,
+        "Color": {
+          "A": 255,
+          "R": 30,
+          "G": 31,
+          "B": 34
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 167,
+        "G": 177,
+        "B": 255,
+        "Color": {
+          "A": 255,
+          "R": 167,
+          "G": 177,
+          "B": 255
+        }
+      },
+      "Glow": {
+        "Spread": 3,
+        "Color": {
+          "A": 32,
+          "R": 167,
+          "G": 177,
+          "B": 255,
+          "Color": {
+            "A": 32,
+            "R": 167,
+            "G": 177,
+            "B": 255
+          }
+        }
+      },
+      "Scale": 0.94,
+      "Pose": {
+        "Angle": 45,
+        "Scale": 0
+      }
+    }
+  },
+  {
+    "id": "unchecked-pointer-focus",
+    "checkedState": false,
+    "disabled": false,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 30,
+        "G": 31,
+        "B": 34,
+        "Color": {
+          "A": 255,
+          "R": 30,
+          "G": 31,
+          "B": 34
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 124,
+        "G": 131,
+        "B": 140,
+        "Color": {
+          "A": 255,
+          "R": 124,
+          "G": 131,
+          "B": 140
+        }
+      },
+      "Glow": {
+        "Spread": 3,
+        "Color": {
+          "A": 20,
+          "R": 88,
+          "G": 101,
+          "B": 242,
+          "Color": {
+            "A": 20,
+            "R": 88,
+            "G": 101,
+            "B": 242
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 45,
+        "Scale": 0
+      }
+    }
+  },
+  {
+    "id": "unchecked-keyboard-focus",
+    "checkedState": false,
+    "disabled": false,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 30,
+        "G": 31,
+        "B": 34,
+        "Color": {
+          "A": 255,
+          "R": 30,
+          "G": 31,
+          "B": 34
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 124,
+        "G": 131,
+        "B": 140,
+        "Color": {
+          "A": 255,
+          "R": 124,
+          "G": 131,
+          "B": 140
+        }
+      },
+      "Glow": {
+        "Spread": 0,
+        "Color": {
+          "A": 0,
+          "R": 0,
+          "G": 0,
+          "B": 0,
+          "Color": {
+            "A": 0,
+            "R": 0,
+            "G": 0,
+            "B": 0
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 45,
+        "Scale": 0
+      }
+    }
+  },
+  {
+    "id": "unchecked-hover-focus",
+    "checkedState": false,
+    "disabled": false,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 30,
+        "G": 31,
+        "B": 34,
+        "Color": {
+          "A": 255,
+          "R": 30,
+          "G": 31,
+          "B": 34
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 167,
+        "G": 177,
+        "B": 255,
+        "Color": {
+          "A": 255,
+          "R": 167,
+          "G": 177,
+          "B": 255
+        }
+      },
+      "Glow": {
+        "Spread": 3,
+        "Color": {
+          "A": 32,
+          "R": 167,
+          "G": 177,
+          "B": 255,
+          "Color": {
+            "A": 32,
+            "R": 167,
+            "G": 177,
+            "B": 255
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 45,
+        "Scale": 0
+      }
+    }
+  },
+  {
+    "id": "unchecked-hover-pressed-focus",
+    "checkedState": false,
+    "disabled": false,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 30,
+        "G": 31,
+        "B": 34,
+        "Color": {
+          "A": 255,
+          "R": 30,
+          "G": 31,
+          "B": 34
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 167,
+        "G": 177,
+        "B": 255,
+        "Color": {
+          "A": 255,
+          "R": 167,
+          "G": 177,
+          "B": 255
+        }
+      },
+      "Glow": {
+        "Spread": 3,
+        "Color": {
+          "A": 32,
+          "R": 167,
+          "G": 177,
+          "B": 255,
+          "Color": {
+            "A": 32,
+            "R": 167,
+            "G": 177,
+            "B": 255
+          }
+        }
+      },
+      "Scale": 0.94,
+      "Pose": {
+        "Angle": 45,
+        "Scale": 0
+      }
+    }
+  },
+  {
+    "id": "unchecked-disabled",
+    "checkedState": false,
+    "disabled": true,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 46,
+        "G": 48,
+        "B": 53,
+        "Color": {
+          "A": 255,
+          "R": 46,
+          "G": 48,
+          "B": 53
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 114,
+        "G": 121,
+        "B": 133,
+        "Color": {
+          "A": 255,
+          "R": 114,
+          "G": 121,
+          "B": 133
+        }
+      },
+      "Glow": {
+        "Spread": 0,
+        "Color": {
+          "A": 0,
+          "R": 0,
+          "G": 0,
+          "B": 0,
+          "Color": {
+            "A": 0,
+            "R": 0,
+            "G": 0,
+            "B": 0
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 45,
+        "Scale": 0
+      }
+    }
+  },
+  {
+    "id": "unchecked-disabled-hover",
+    "checkedState": false,
+    "disabled": true,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 46,
+        "G": 48,
+        "B": 53,
+        "Color": {
+          "A": 255,
+          "R": 46,
+          "G": 48,
+          "B": 53
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 114,
+        "G": 121,
+        "B": 133,
+        "Color": {
+          "A": 255,
+          "R": 114,
+          "G": 121,
+          "B": 133
+        }
+      },
+      "Glow": {
+        "Spread": 0,
+        "Color": {
+          "A": 0,
+          "R": 0,
+          "G": 0,
+          "B": 0,
+          "Color": {
+            "A": 0,
+            "R": 0,
+            "G": 0,
+            "B": 0
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 45,
+        "Scale": 0
+      }
+    }
+  },
+  {
+    "id": "unchecked-disabled-focus",
+    "checkedState": false,
+    "disabled": true,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 46,
+        "G": 48,
+        "B": 53,
+        "Color": {
+          "A": 255,
+          "R": 46,
+          "G": 48,
+          "B": 53
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 114,
+        "G": 121,
+        "B": 133,
+        "Color": {
+          "A": 255,
+          "R": 114,
+          "G": 121,
+          "B": 133
+        }
+      },
+      "Glow": {
+        "Spread": 0,
+        "Color": {
+          "A": 0,
+          "R": 0,
+          "G": 0,
+          "B": 0,
+          "Color": {
+            "A": 0,
+            "R": 0,
+            "G": 0,
+            "B": 0
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 45,
+        "Scale": 0
+      }
+    }
+  },
+  {
+    "id": "unchecked-disabled-pressed",
+    "checkedState": false,
+    "disabled": true,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 46,
+        "G": 48,
+        "B": 53,
+        "Color": {
+          "A": 255,
+          "R": 46,
+          "G": 48,
+          "B": 53
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 114,
+        "G": 121,
+        "B": 133,
+        "Color": {
+          "A": 255,
+          "R": 114,
+          "G": 121,
+          "B": 133
+        }
+      },
+      "Glow": {
+        "Spread": 0,
+        "Color": {
+          "A": 0,
+          "R": 0,
+          "G": 0,
+          "B": 0,
+          "Color": {
+            "A": 0,
+            "R": 0,
+            "G": 0,
+            "B": 0
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 45,
+        "Scale": 0
+      }
+    }
+  },
+  {
+    "id": "unchecked-reduced",
+    "checkedState": false,
+    "disabled": false,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 30,
+        "G": 31,
+        "B": 34,
+        "Color": {
+          "A": 255,
+          "R": 30,
+          "G": 31,
+          "B": 34
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 124,
+        "G": 131,
+        "B": 140,
+        "Color": {
+          "A": 255,
+          "R": 124,
+          "G": 131,
+          "B": 140
+        }
+      },
+      "Glow": {
+        "Spread": 0,
+        "Color": {
+          "A": 0,
+          "R": 0,
+          "G": 0,
+          "B": 0,
+          "Color": {
+            "A": 0,
+            "R": 0,
+            "G": 0,
+            "B": 0
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 45,
+        "Scale": 0
+      }
+    }
+  },
+  {
+    "id": "checked-rest",
+    "checkedState": true,
+    "disabled": false,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 88,
+        "G": 101,
+        "B": 242,
+        "Color": {
+          "A": 255,
+          "R": 88,
+          "G": 101,
+          "B": 242
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 139,
+        "G": 148,
+        "B": 255,
+        "Color": {
+          "A": 255,
+          "R": 139,
+          "G": 148,
+          "B": 255
+        }
+      },
+      "Glow": {
+        "Spread": 0,
+        "Color": {
+          "A": 0,
+          "R": 0,
+          "G": 0,
+          "B": 0,
+          "Color": {
+            "A": 0,
+            "R": 0,
+            "G": 0,
+            "B": 0
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 45,
+        "Scale": 1
+      }
+    }
+  },
+  {
+    "id": "checked-hover",
+    "checkedState": true,
+    "disabled": false,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 88,
+        "G": 101,
+        "B": 242,
+        "Color": {
+          "A": 255,
+          "R": 88,
+          "G": 101,
+          "B": 242
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 167,
+        "G": 177,
+        "B": 255,
+        "Color": {
+          "A": 255,
+          "R": 167,
+          "G": 177,
+          "B": 255
+        }
+      },
+      "Glow": {
+        "Spread": 3,
+        "Color": {
+          "A": 32,
+          "R": 167,
+          "G": 177,
+          "B": 255,
+          "Color": {
+            "A": 32,
+            "R": 167,
+            "G": 177,
+            "B": 255
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 45,
+        "Scale": 1
+      }
+    }
+  },
+  {
+    "id": "checked-pressed",
+    "checkedState": true,
+    "disabled": false,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 88,
+        "G": 101,
+        "B": 242,
+        "Color": {
+          "A": 255,
+          "R": 88,
+          "G": 101,
+          "B": 242
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 167,
+        "G": 177,
+        "B": 255,
+        "Color": {
+          "A": 255,
+          "R": 167,
+          "G": 177,
+          "B": 255
+        }
+      },
+      "Glow": {
+        "Spread": 3,
+        "Color": {
+          "A": 32,
+          "R": 167,
+          "G": 177,
+          "B": 255,
+          "Color": {
+            "A": 32,
+            "R": 167,
+            "G": 177,
+            "B": 255
+          }
+        }
+      },
+      "Scale": 0.94,
+      "Pose": {
+        "Angle": 45,
+        "Scale": 1
+      }
+    }
+  },
+  {
+    "id": "checked-pointer-focus",
+    "checkedState": true,
+    "disabled": false,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 88,
+        "G": 101,
+        "B": 242,
+        "Color": {
+          "A": 255,
+          "R": 88,
+          "G": 101,
+          "B": 242
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 139,
+        "G": 148,
+        "B": 255,
+        "Color": {
+          "A": 255,
+          "R": 139,
+          "G": 148,
+          "B": 255
+        }
+      },
+      "Glow": {
+        "Spread": 3,
+        "Color": {
+          "A": 20,
+          "R": 88,
+          "G": 101,
+          "B": 242,
+          "Color": {
+            "A": 20,
+            "R": 88,
+            "G": 101,
+            "B": 242
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 45,
+        "Scale": 1
+      }
+    }
+  },
+  {
+    "id": "checked-keyboard-focus",
+    "checkedState": true,
+    "disabled": false,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 88,
+        "G": 101,
+        "B": 242,
+        "Color": {
+          "A": 255,
+          "R": 88,
+          "G": 101,
+          "B": 242
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 139,
+        "G": 148,
+        "B": 255,
+        "Color": {
+          "A": 255,
+          "R": 139,
+          "G": 148,
+          "B": 255
+        }
+      },
+      "Glow": {
+        "Spread": 0,
+        "Color": {
+          "A": 0,
+          "R": 0,
+          "G": 0,
+          "B": 0,
+          "Color": {
+            "A": 0,
+            "R": 0,
+            "G": 0,
+            "B": 0
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 45,
+        "Scale": 1
+      }
+    }
+  },
+  {
+    "id": "checked-hover-focus",
+    "checkedState": true,
+    "disabled": false,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 88,
+        "G": 101,
+        "B": 242,
+        "Color": {
+          "A": 255,
+          "R": 88,
+          "G": 101,
+          "B": 242
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 167,
+        "G": 177,
+        "B": 255,
+        "Color": {
+          "A": 255,
+          "R": 167,
+          "G": 177,
+          "B": 255
+        }
+      },
+      "Glow": {
+        "Spread": 3,
+        "Color": {
+          "A": 32,
+          "R": 167,
+          "G": 177,
+          "B": 255,
+          "Color": {
+            "A": 32,
+            "R": 167,
+            "G": 177,
+            "B": 255
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 45,
+        "Scale": 1
+      }
+    }
+  },
+  {
+    "id": "checked-hover-pressed-focus",
+    "checkedState": true,
+    "disabled": false,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 88,
+        "G": 101,
+        "B": 242,
+        "Color": {
+          "A": 255,
+          "R": 88,
+          "G": 101,
+          "B": 242
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 167,
+        "G": 177,
+        "B": 255,
+        "Color": {
+          "A": 255,
+          "R": 167,
+          "G": 177,
+          "B": 255
+        }
+      },
+      "Glow": {
+        "Spread": 3,
+        "Color": {
+          "A": 32,
+          "R": 167,
+          "G": 177,
+          "B": 255,
+          "Color": {
+            "A": 32,
+            "R": 167,
+            "G": 177,
+            "B": 255
+          }
+        }
+      },
+      "Scale": 0.94,
+      "Pose": {
+        "Angle": 45,
+        "Scale": 1
+      }
+    }
+  },
+  {
+    "id": "checked-disabled",
+    "checkedState": true,
+    "disabled": true,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 46,
+        "G": 48,
+        "B": 53,
+        "Color": {
+          "A": 255,
+          "R": 46,
+          "G": 48,
+          "B": 53
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 114,
+        "G": 121,
+        "B": 133,
+        "Color": {
+          "A": 255,
+          "R": 114,
+          "G": 121,
+          "B": 133
+        }
+      },
+      "Glow": {
+        "Spread": 0,
+        "Color": {
+          "A": 0,
+          "R": 0,
+          "G": 0,
+          "B": 0,
+          "Color": {
+            "A": 0,
+            "R": 0,
+            "G": 0,
+            "B": 0
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 45,
+        "Scale": 1
+      }
+    }
+  },
+  {
+    "id": "checked-disabled-hover",
+    "checkedState": true,
+    "disabled": true,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 46,
+        "G": 48,
+        "B": 53,
+        "Color": {
+          "A": 255,
+          "R": 46,
+          "G": 48,
+          "B": 53
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 114,
+        "G": 121,
+        "B": 133,
+        "Color": {
+          "A": 255,
+          "R": 114,
+          "G": 121,
+          "B": 133
+        }
+      },
+      "Glow": {
+        "Spread": 0,
+        "Color": {
+          "A": 0,
+          "R": 0,
+          "G": 0,
+          "B": 0,
+          "Color": {
+            "A": 0,
+            "R": 0,
+            "G": 0,
+            "B": 0
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 45,
+        "Scale": 1
+      }
+    }
+  },
+  {
+    "id": "checked-disabled-focus",
+    "checkedState": true,
+    "disabled": true,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 46,
+        "G": 48,
+        "B": 53,
+        "Color": {
+          "A": 255,
+          "R": 46,
+          "G": 48,
+          "B": 53
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 114,
+        "G": 121,
+        "B": 133,
+        "Color": {
+          "A": 255,
+          "R": 114,
+          "G": 121,
+          "B": 133
+        }
+      },
+      "Glow": {
+        "Spread": 0,
+        "Color": {
+          "A": 0,
+          "R": 0,
+          "G": 0,
+          "B": 0,
+          "Color": {
+            "A": 0,
+            "R": 0,
+            "G": 0,
+            "B": 0
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 45,
+        "Scale": 1
+      }
+    }
+  },
+  {
+    "id": "checked-disabled-pressed",
+    "checkedState": true,
+    "disabled": true,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 46,
+        "G": 48,
+        "B": 53,
+        "Color": {
+          "A": 255,
+          "R": 46,
+          "G": 48,
+          "B": 53
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 114,
+        "G": 121,
+        "B": 133,
+        "Color": {
+          "A": 255,
+          "R": 114,
+          "G": 121,
+          "B": 133
+        }
+      },
+      "Glow": {
+        "Spread": 0,
+        "Color": {
+          "A": 0,
+          "R": 0,
+          "G": 0,
+          "B": 0,
+          "Color": {
+            "A": 0,
+            "R": 0,
+            "G": 0,
+            "B": 0
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 45,
+        "Scale": 1
+      }
+    }
+  },
+  {
+    "id": "checked-reduced",
+    "checkedState": true,
+    "disabled": false,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 88,
+        "G": 101,
+        "B": 242,
+        "Color": {
+          "A": 255,
+          "R": 88,
+          "G": 101,
+          "B": 242
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 139,
+        "G": 148,
+        "B": 255,
+        "Color": {
+          "A": 255,
+          "R": 139,
+          "G": 148,
+          "B": 255
+        }
+      },
+      "Glow": {
+        "Spread": 0,
+        "Color": {
+          "A": 0,
+          "R": 0,
+          "G": 0,
+          "B": 0,
+          "Color": {
+            "A": 0,
+            "R": 0,
+            "G": 0,
+            "B": 0
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 45,
+        "Scale": 1
+      }
+    }
+  },
+  {
+    "id": "mixed-rest",
+    "checkedState": null,
+    "disabled": false,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 88,
+        "G": 101,
+        "B": 242,
+        "Color": {
+          "A": 255,
+          "R": 88,
+          "G": 101,
+          "B": 242
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 139,
+        "G": 148,
+        "B": 255,
+        "Color": {
+          "A": 255,
+          "R": 139,
+          "G": 148,
+          "B": 255
+        }
+      },
+      "Glow": {
+        "Spread": 0,
+        "Color": {
+          "A": 0,
+          "R": 0,
+          "G": 0,
+          "B": 0,
+          "Color": {
+            "A": 0,
+            "R": 0,
+            "G": 0,
+            "B": 0
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 0,
+        "Scale": 1
+      }
+    }
+  },
+  {
+    "id": "mixed-hover",
+    "checkedState": null,
+    "disabled": false,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 88,
+        "G": 101,
+        "B": 242,
+        "Color": {
+          "A": 255,
+          "R": 88,
+          "G": 101,
+          "B": 242
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 167,
+        "G": 177,
+        "B": 255,
+        "Color": {
+          "A": 255,
+          "R": 167,
+          "G": 177,
+          "B": 255
+        }
+      },
+      "Glow": {
+        "Spread": 3,
+        "Color": {
+          "A": 32,
+          "R": 167,
+          "G": 177,
+          "B": 255,
+          "Color": {
+            "A": 32,
+            "R": 167,
+            "G": 177,
+            "B": 255
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 0,
+        "Scale": 1
+      }
+    }
+  },
+  {
+    "id": "mixed-pressed",
+    "checkedState": null,
+    "disabled": false,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 88,
+        "G": 101,
+        "B": 242,
+        "Color": {
+          "A": 255,
+          "R": 88,
+          "G": 101,
+          "B": 242
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 167,
+        "G": 177,
+        "B": 255,
+        "Color": {
+          "A": 255,
+          "R": 167,
+          "G": 177,
+          "B": 255
+        }
+      },
+      "Glow": {
+        "Spread": 3,
+        "Color": {
+          "A": 32,
+          "R": 167,
+          "G": 177,
+          "B": 255,
+          "Color": {
+            "A": 32,
+            "R": 167,
+            "G": 177,
+            "B": 255
+          }
+        }
+      },
+      "Scale": 0.94,
+      "Pose": {
+        "Angle": 0,
+        "Scale": 1
+      }
+    }
+  },
+  {
+    "id": "mixed-pointer-focus",
+    "checkedState": null,
+    "disabled": false,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 88,
+        "G": 101,
+        "B": 242,
+        "Color": {
+          "A": 255,
+          "R": 88,
+          "G": 101,
+          "B": 242
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 139,
+        "G": 148,
+        "B": 255,
+        "Color": {
+          "A": 255,
+          "R": 139,
+          "G": 148,
+          "B": 255
+        }
+      },
+      "Glow": {
+        "Spread": 3,
+        "Color": {
+          "A": 20,
+          "R": 88,
+          "G": 101,
+          "B": 242,
+          "Color": {
+            "A": 20,
+            "R": 88,
+            "G": 101,
+            "B": 242
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 0,
+        "Scale": 1
+      }
+    }
+  },
+  {
+    "id": "mixed-keyboard-focus",
+    "checkedState": null,
+    "disabled": false,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 88,
+        "G": 101,
+        "B": 242,
+        "Color": {
+          "A": 255,
+          "R": 88,
+          "G": 101,
+          "B": 242
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 139,
+        "G": 148,
+        "B": 255,
+        "Color": {
+          "A": 255,
+          "R": 139,
+          "G": 148,
+          "B": 255
+        }
+      },
+      "Glow": {
+        "Spread": 0,
+        "Color": {
+          "A": 0,
+          "R": 0,
+          "G": 0,
+          "B": 0,
+          "Color": {
+            "A": 0,
+            "R": 0,
+            "G": 0,
+            "B": 0
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 0,
+        "Scale": 1
+      }
+    }
+  },
+  {
+    "id": "mixed-hover-focus",
+    "checkedState": null,
+    "disabled": false,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 88,
+        "G": 101,
+        "B": 242,
+        "Color": {
+          "A": 255,
+          "R": 88,
+          "G": 101,
+          "B": 242
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 167,
+        "G": 177,
+        "B": 255,
+        "Color": {
+          "A": 255,
+          "R": 167,
+          "G": 177,
+          "B": 255
+        }
+      },
+      "Glow": {
+        "Spread": 3,
+        "Color": {
+          "A": 32,
+          "R": 167,
+          "G": 177,
+          "B": 255,
+          "Color": {
+            "A": 32,
+            "R": 167,
+            "G": 177,
+            "B": 255
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 0,
+        "Scale": 1
+      }
+    }
+  },
+  {
+    "id": "mixed-hover-pressed-focus",
+    "checkedState": null,
+    "disabled": false,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 88,
+        "G": 101,
+        "B": 242,
+        "Color": {
+          "A": 255,
+          "R": 88,
+          "G": 101,
+          "B": 242
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 167,
+        "G": 177,
+        "B": 255,
+        "Color": {
+          "A": 255,
+          "R": 167,
+          "G": 177,
+          "B": 255
+        }
+      },
+      "Glow": {
+        "Spread": 3,
+        "Color": {
+          "A": 32,
+          "R": 167,
+          "G": 177,
+          "B": 255,
+          "Color": {
+            "A": 32,
+            "R": 167,
+            "G": 177,
+            "B": 255
+          }
+        }
+      },
+      "Scale": 0.94,
+      "Pose": {
+        "Angle": 0,
+        "Scale": 1
+      }
+    }
+  },
+  {
+    "id": "mixed-disabled",
+    "checkedState": null,
+    "disabled": true,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 46,
+        "G": 48,
+        "B": 53,
+        "Color": {
+          "A": 255,
+          "R": 46,
+          "G": 48,
+          "B": 53
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 114,
+        "G": 121,
+        "B": 133,
+        "Color": {
+          "A": 255,
+          "R": 114,
+          "G": 121,
+          "B": 133
+        }
+      },
+      "Glow": {
+        "Spread": 0,
+        "Color": {
+          "A": 0,
+          "R": 0,
+          "G": 0,
+          "B": 0,
+          "Color": {
+            "A": 0,
+            "R": 0,
+            "G": 0,
+            "B": 0
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 0,
+        "Scale": 1
+      }
+    }
+  },
+  {
+    "id": "mixed-disabled-hover",
+    "checkedState": null,
+    "disabled": true,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 46,
+        "G": 48,
+        "B": 53,
+        "Color": {
+          "A": 255,
+          "R": 46,
+          "G": 48,
+          "B": 53
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 114,
+        "G": 121,
+        "B": 133,
+        "Color": {
+          "A": 255,
+          "R": 114,
+          "G": 121,
+          "B": 133
+        }
+      },
+      "Glow": {
+        "Spread": 0,
+        "Color": {
+          "A": 0,
+          "R": 0,
+          "G": 0,
+          "B": 0,
+          "Color": {
+            "A": 0,
+            "R": 0,
+            "G": 0,
+            "B": 0
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 0,
+        "Scale": 1
+      }
+    }
+  },
+  {
+    "id": "mixed-disabled-focus",
+    "checkedState": null,
+    "disabled": true,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 46,
+        "G": 48,
+        "B": 53,
+        "Color": {
+          "A": 255,
+          "R": 46,
+          "G": 48,
+          "B": 53
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 114,
+        "G": 121,
+        "B": 133,
+        "Color": {
+          "A": 255,
+          "R": 114,
+          "G": 121,
+          "B": 133
+        }
+      },
+      "Glow": {
+        "Spread": 0,
+        "Color": {
+          "A": 0,
+          "R": 0,
+          "G": 0,
+          "B": 0,
+          "Color": {
+            "A": 0,
+            "R": 0,
+            "G": 0,
+            "B": 0
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 0,
+        "Scale": 1
+      }
+    }
+  },
+  {
+    "id": "mixed-disabled-pressed",
+    "checkedState": null,
+    "disabled": true,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 46,
+        "G": 48,
+        "B": 53,
+        "Color": {
+          "A": 255,
+          "R": 46,
+          "G": 48,
+          "B": 53
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 114,
+        "G": 121,
+        "B": 133,
+        "Color": {
+          "A": 255,
+          "R": 114,
+          "G": 121,
+          "B": 133
+        }
+      },
+      "Glow": {
+        "Spread": 0,
+        "Color": {
+          "A": 0,
+          "R": 0,
+          "G": 0,
+          "B": 0,
+          "Color": {
+            "A": 0,
+            "R": 0,
+            "G": 0,
+            "B": 0
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 0,
+        "Scale": 1
+      }
+    }
+  },
+  {
+    "id": "mixed-reduced",
+    "checkedState": null,
+    "disabled": false,
+    "appearance": {
+      "Background": {
+        "A": 255,
+        "R": 88,
+        "G": 101,
+        "B": 242,
+        "Color": {
+          "A": 255,
+          "R": 88,
+          "G": 101,
+          "B": 242
+        }
+      },
+      "Border": {
+        "A": 255,
+        "R": 139,
+        "G": 148,
+        "B": 255,
+        "Color": {
+          "A": 255,
+          "R": 139,
+          "G": 148,
+          "B": 255
+        }
+      },
+      "Glow": {
+        "Spread": 0,
+        "Color": {
+          "A": 0,
+          "R": 0,
+          "G": 0,
+          "B": 0,
+          "Color": {
+            "A": 0,
+            "R": 0,
+            "G": 0,
+            "B": 0
+          }
+        }
+      },
+      "Scale": 1,
+      "Pose": {
+        "Angle": 0,
+        "Scale": 1
+      }
+    }
+  }
+]

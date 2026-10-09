@@ -1,0 +1,292 @@
+{
+  "rows": [
+    {
+      "scenario": "hover",
+      "ms": 0,
+      "value": "#00000000",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "hover",
+      "ms": 0.5,
+      "value": "#003a3c44",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "hover",
+      "ms": 8,
+      "value": "#083a3c44",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "hover",
+      "ms": 16,
+      "value": "#183a3c44",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "hover",
+      "ms": 30,
+      "value": "#443a3c44",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "hover",
+      "ms": 40,
+      "value": "#683a3c44",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "hover",
+      "ms": 60,
+      "value": "#a53a3c44",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "hover",
+      "ms": 80,
+      "value": "#cd3a3c44",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "hover",
+      "ms": 120,
+      "value": "#f53a3c44",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "hover",
+      "ms": 160,
+      "value": "#ff3a3c44",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "hover",
+      "ms": 200,
+      "value": "#ff3a3c44",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "hover",
+      "ms": 240,
+      "value": "#ff3a3c44",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "unhover",
+      "ms": 0,
+      "value": "#ff3a3c44",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "unhover",
+      "ms": 0.5,
+      "value": "#ff3a3c44",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "unhover",
+      "ms": 8,
+      "value": "#f73a3c44",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "unhover",
+      "ms": 16,
+      "value": "#e73a3c44",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "unhover",
+      "ms": 30,
+      "value": "#bb3a3c44",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "unhover",
+      "ms": 40,
+      "value": "#973a3c44",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "unhover",
+      "ms": 60,
+      "value": "#5a3a3c44",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "unhover",
+      "ms": 80,
+      "value": "#323a3c44",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "unhover",
+      "ms": 120,
+      "value": "#0a3a3c44",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "unhover",
+      "ms": 160,
+      "value": "#00000000",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "unhover",
+      "ms": 200,
+      "value": "#00000000",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "unhover",
+      "ms": 240,
+      "value": "#00000000",
+      "reverseDuration": null
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 0,
+      "value": "#443a3c44",
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 0.5,
+      "value": "#443a3c44",
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 8,
+      "value": "#323a3c44",
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 16,
+      "value": "#183a3c44",
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 30,
+      "value": "#043a3c44",
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 40,
+      "value": "#003a3c44",
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 60,
+      "value": "#00000000",
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 80,
+      "value": "#00000000",
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 120,
+      "value": "#00000000",
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 160,
+      "value": "#00000000",
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 200,
+      "value": "#00000000",
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "hover-reverse",
+      "ms": 240,
+      "value": "#00000000",
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "unhover-reverse",
+      "ms": 0,
+      "value": "#bb3a3c44",
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "unhover-reverse",
+      "ms": 0.5,
+      "value": "#bb3a3c44",
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "unhover-reverse",
+      "ms": 8,
+      "value": "#cd3a3c44",
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "unhover-reverse",
+      "ms": 16,
+      "value": "#e73a3c44",
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "unhover-reverse",
+      "ms": 30,
+      "value": "#fb3a3c44",
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "unhover-reverse",
+      "ms": 40,
+      "value": "#ff3a3c44",
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "unhover-reverse",
+      "ms": 60,
+      "value": "#ff3a3c44",
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "unhover-reverse",
+      "ms": 80,
+      "value": "#ff3a3c44",
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "unhover-reverse",
+      "ms": 120,
+      "value": "#ff3a3c44",
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "unhover-reverse",
+      "ms": 160,
+      "value": "#ff3a3c44",
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "unhover-reverse",
+      "ms": 200,
+      "value": "#ff3a3c44",
+      "reverseDuration": 42.6970002688271
+    },
+    {
+      "scenario": "unhover-reverse",
+      "ms": 240,
+      "value": "#ff3a3c44",
+      "reverseDuration": 42.6970002688271
+    }
+  ]
+}

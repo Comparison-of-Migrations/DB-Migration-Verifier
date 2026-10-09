@@ -1,0 +1,516 @@
+{
+  "reason": "CapabilityTable actual primary Windows UIA exposed unnamed Custom candidate cells instead of named DataItem source cells; parent-required Row LOCK exception authorized by root before edit.",
+  "beforeSha256": "ad560ed5b5c7560047c81d1de275df720540ad1080e91955da01f2b523102c29",
+  "sourceFiles": {
+    "ko": {
+      "path": "artifacts/replica/workers/preflight/capabilitytable/f021e0de19e4455d953d37728054df00/actual-windows/input/source-ax-initial.json",
+      "sha256": "3d18fdb587f7d02a04d24bea0ad9fb9007f1bc9d365837682314b177b32a42df"
+    },
+    "en": {
+      "path": "artifacts/replica/workers/preflight/capabilitytable/f021e0de19e4455d953d37728054df00/actual-windows/input/source-ax-remount.json",
+      "sha256": "feccc0dd28998fd5046e2a287fc790d9fee942bf2cc0c770a0ca3a846261761c"
+    }
+  },
+  "rows": [
+    {
+      "id": "ko-data",
+      "key": "data",
+      "english": false,
+      "cells": [
+        {
+          "id": "",
+          "name": "데이터 전체 값·누락·중복·참조 관계",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 329,
+            "width": 548,
+            "height": 137,
+            "x": 70
+          }
+        },
+        {
+          "id": "",
+          "name": "연결 확인",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 329,
+            "width": 260,
+            "height": 137,
+            "x": 617
+          }
+        },
+        {
+          "id": "",
+          "name": "가능",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 329,
+            "width": 260,
+            "height": 137,
+            "x": 876
+          }
+        },
+        {
+          "id": "",
+          "name": "선택 대상의 예시 조회 가능",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 329,
+            "width": 743,
+            "height": 137,
+            "x": 1135
+          }
+        }
+      ]
+    },
+    {
+      "id": "ko-schema",
+      "key": "schema",
+      "english": false,
+      "cells": [
+        {
+          "id": "",
+          "name": "구조·제약 컬럼·자료형·키·제약·인덱스·partition",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 465,
+            "width": 548,
+            "height": 137,
+            "x": 70
+          }
+        },
+        {
+          "id": "",
+          "name": "연결 확인",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 465,
+            "width": 260,
+            "height": 137,
+            "x": 617
+          }
+        },
+        {
+          "id": "",
+          "name": "가능",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 465,
+            "width": 260,
+            "height": 137,
+            "x": 876
+          }
+        },
+        {
+          "id": "",
+          "name": "선택 대상의 예시 조회 가능",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 465,
+            "width": 743,
+            "height": 137,
+            "x": 1135
+          }
+        }
+      ]
+    },
+    {
+      "id": "ko-access",
+      "key": "access",
+      "english": false,
+      "cells": [
+        {
+          "id": "",
+          "name": "사용자·권한 사용자·역할·소유자·권한·행 정책",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 601,
+            "width": 548,
+            "height": 139,
+            "x": 70
+          }
+        },
+        {
+          "id": "",
+          "name": "연결 확인",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 601,
+            "width": 260,
+            "height": 139,
+            "x": 617
+          }
+        },
+        {
+          "id": "",
+          "name": "일부 가능",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 601,
+            "width": 260,
+            "height": 139,
+            "x": 876
+          }
+        },
+        {
+          "id": "",
+          "name": "권한 정의 2개 조회 범위 미확인 필요한 권한 보기",
+          "children": [
+            {
+              "id": "CapabilityRow-permissions",
+              "name": "필요한 권한 보기",
+              "children": [],
+              "focusable": true,
+              "type": "ControlType.Button",
+              "box": {
+                "y": 626,
+                "width": 229,
+                "height": 89,
+                "x": 1613
+              }
+            }
+          ],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 601,
+            "width": 743,
+            "height": 139,
+            "x": 1135
+          }
+        }
+      ]
+    },
+    {
+      "id": "ko-objects",
+      "key": "objects",
+      "english": false,
+      "cells": [
+        {
+          "id": "",
+          "name": "관련 객체 view·함수·trigger·sequence·사용자 타입",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 739,
+            "width": 548,
+            "height": 136,
+            "x": 70
+          }
+        },
+        {
+          "id": "",
+          "name": "연결 확인",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 739,
+            "width": 260,
+            "height": 136,
+            "x": 617
+          }
+        },
+        {
+          "id": "",
+          "name": "가능",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 739,
+            "width": 260,
+            "height": 136,
+            "x": 876
+          }
+        },
+        {
+          "id": "",
+          "name": "선택 대상의 예시 조회 가능",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 739,
+            "width": 743,
+            "height": 136,
+            "x": 1135
+          }
+        }
+      ]
+    },
+    {
+      "id": "en-data",
+      "key": "data",
+      "english": true,
+      "cells": [
+        {
+          "id": "",
+          "name": "Data All values, missing rows, duplicates and relationships",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 367,
+            "width": 545,
+            "height": 176,
+            "x": 70
+          }
+        },
+        {
+          "id": "",
+          "name": "Connected",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 367,
+            "width": 246,
+            "height": 176,
+            "x": 614
+          }
+        },
+        {
+          "id": "",
+          "name": "Available",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 367,
+            "width": 316,
+            "height": 176,
+            "x": 859
+          }
+        },
+        {
+          "id": "",
+          "name": "Sample selected objects are readable",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 367,
+            "width": 704,
+            "height": 176,
+            "x": 1174
+          }
+        }
+      ]
+    },
+    {
+      "id": "en-schema",
+      "key": "schema",
+      "english": true,
+      "cells": [
+        {
+          "id": "",
+          "name": "Schema & constraints Columns, types, keys, constraints, indexes and partitions",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 542,
+            "width": 545,
+            "height": 175,
+            "x": 70
+          }
+        },
+        {
+          "id": "",
+          "name": "Connected",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 542,
+            "width": 246,
+            "height": 175,
+            "x": 614
+          }
+        },
+        {
+          "id": "",
+          "name": "Available",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 542,
+            "width": 316,
+            "height": 175,
+            "x": 859
+          }
+        },
+        {
+          "id": "",
+          "name": "Sample selected objects are readable",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 542,
+            "width": 704,
+            "height": 175,
+            "x": 1174
+          }
+        }
+      ]
+    },
+    {
+      "id": "en-access",
+      "key": "access",
+      "english": true,
+      "cells": [
+        {
+          "id": "",
+          "name": "Users & permissions Users, roles, ownership, grants and row policies",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 716,
+            "width": 545,
+            "height": 175,
+            "x": 70
+          }
+        },
+        {
+          "id": "",
+          "name": "Connected",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 716,
+            "width": 246,
+            "height": 175,
+            "x": 614
+          }
+        },
+        {
+          "id": "",
+          "name": "Partially available",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 716,
+            "width": 316,
+            "height": 175,
+            "x": 859
+          }
+        },
+        {
+          "id": "",
+          "name": "Visibility unconfirmed for 2 grant checks Required permissions",
+          "children": [
+            {
+              "id": "CapabilityRow-permissions",
+              "name": "Required permissions",
+              "children": [],
+              "focusable": true,
+              "type": "ControlType.Button",
+              "box": {
+                "y": 759,
+                "width": 291,
+                "height": 89,
+                "x": 1551
+              }
+            }
+          ],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 716,
+            "width": 704,
+            "height": 175,
+            "x": 1174
+          }
+        }
+      ]
+    },
+    {
+      "id": "en-objects",
+      "key": "objects",
+      "english": true,
+      "cells": [
+        {
+          "id": "",
+          "name": "Related objects Views, routines, triggers, sequences and user types",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 890,
+            "width": 545,
+            "height": 175,
+            "x": 70
+          }
+        },
+        {
+          "id": "",
+          "name": "Connected",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 890,
+            "width": 246,
+            "height": 175,
+            "x": 614
+          }
+        },
+        {
+          "id": "",
+          "name": "Available",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 890,
+            "width": 316,
+            "height": 175,
+            "x": 859
+          }
+        },
+        {
+          "id": "",
+          "name": "Sample selected objects are readable",
+          "children": [],
+          "focusable": false,
+          "type": "ControlType.DataItem",
+          "box": {
+            "y": 890,
+            "width": 704,
+            "height": 175,
+            "x": 1174
+          }
+        }
+      ]
+    }
+  ]
+}

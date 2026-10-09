@@ -1,0 +1,1353 @@
+{
+  "scale": 2,
+  "phases": [
+    {
+      "phase": "mount",
+      "present": true,
+      "attached": true,
+      "requests": [],
+      "status": null,
+      "maximum": 20,
+      "heading": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "rows": [
+        {
+          "key": "data",
+          "counts": [
+            {
+              "count": 1,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 11,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        },
+        {
+          "key": "schema",
+          "counts": [
+            {
+              "count": 1,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 17,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        },
+        {
+          "key": "access",
+          "counts": [
+            {
+              "count": 1,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 2,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 5,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        },
+        {
+          "key": "objects",
+          "counts": [
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 12,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        }
+      ],
+      "old": null
+    },
+    {
+      "phase": "start",
+      "present": true,
+      "attached": true,
+      "requests": [],
+      "status": "WaitingForActivation",
+      "maximum": 20,
+      "heading": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "rows": [
+        {
+          "key": "data",
+          "counts": [
+            {
+              "count": 1,
+              "maximum": 20,
+              "opacity": 0.6,
+              "y": 5,
+              "barScale": 0,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 0.6,
+              "y": 5,
+              "barScale": 0,
+              "attached": true
+            },
+            {
+              "count": 11,
+              "maximum": 20,
+              "opacity": 0.6,
+              "y": 5,
+              "barScale": 0,
+              "attached": true
+            }
+          ]
+        },
+        {
+          "key": "schema",
+          "counts": [
+            {
+              "count": 1,
+              "maximum": 20,
+              "opacity": 0.6,
+              "y": 5,
+              "barScale": 0,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 0.6,
+              "y": 5,
+              "barScale": 0,
+              "attached": true
+            },
+            {
+              "count": 17,
+              "maximum": 20,
+              "opacity": 0.6,
+              "y": 5,
+              "barScale": 0,
+              "attached": true
+            }
+          ]
+        },
+        {
+          "key": "access",
+          "counts": [
+            {
+              "count": 1,
+              "maximum": 20,
+              "opacity": 0.6,
+              "y": 5,
+              "barScale": 0,
+              "attached": true
+            },
+            {
+              "count": 2,
+              "maximum": 20,
+              "opacity": 0.6,
+              "y": 5,
+              "barScale": 0,
+              "attached": true
+            },
+            {
+              "count": 5,
+              "maximum": 20,
+              "opacity": 0.6,
+              "y": 5,
+              "barScale": 0,
+              "attached": true
+            }
+          ]
+        },
+        {
+          "key": "objects",
+          "counts": [
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 0.6,
+              "y": 5,
+              "barScale": 0,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 0.6,
+              "y": 5,
+              "barScale": 0,
+              "attached": true
+            },
+            {
+              "count": 12,
+              "maximum": 20,
+              "opacity": 0.6,
+              "y": 5,
+              "barScale": 0,
+              "attached": true
+            }
+          ]
+        }
+      ],
+      "old": null
+    },
+    {
+      "phase": "running",
+      "present": true,
+      "attached": true,
+      "requests": [],
+      "status": "WaitingForActivation",
+      "maximum": 20,
+      "heading": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "rows": [
+        {
+          "key": "data",
+          "counts": [
+            {
+              "count": 1,
+              "maximum": 20,
+              "opacity": 0.7063254690904495,
+              "y": 3.6709316363693807,
+              "barScale": 0.12266171471078904,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 0.6688029941976409,
+              "y": 4.139962572529488,
+              "barScale": 0.11964181638090336,
+              "attached": true
+            },
+            {
+              "count": 11,
+              "maximum": 20,
+              "opacity": 0.6685206335505803,
+              "y": 4.1434920806177455,
+              "barScale": 0.11926681011193944,
+              "attached": true
+            }
+          ]
+        },
+        {
+          "key": "schema",
+          "counts": [
+            {
+              "count": 1,
+              "maximum": 20,
+              "opacity": 0.6682781839784059,
+              "y": 4.146522700269926,
+              "barScale": 0.11878186226598009,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 0.6680741810992437,
+              "y": 4.149072736259454,
+              "barScale": 0.11853129829370435,
+              "attached": true
+            },
+            {
+              "count": 17,
+              "maximum": 20,
+              "opacity": 0.6679192453017876,
+              "y": 4.151009433727656,
+              "barScale": 0.11828605953946339,
+              "attached": true
+            }
+          ]
+        },
+        {
+          "key": "access",
+          "counts": [
+            {
+              "count": 1,
+              "maximum": 20,
+              "opacity": 0.6677551980535781,
+              "y": 4.153060024330274,
+              "barScale": 0.11795902156113072,
+              "attached": true
+            },
+            {
+              "count": 2,
+              "maximum": 20,
+              "opacity": 0.6676364825490259,
+              "y": 4.154543968137176,
+              "barScale": 0.11768152795859334,
+              "attached": true
+            },
+            {
+              "count": 5,
+              "maximum": 20,
+              "opacity": 0.6674829506401637,
+              "y": 4.156463116997953,
+              "barScale": 0.11748980405027597,
+              "attached": true
+            }
+          ]
+        },
+        {
+          "key": "objects",
+          "counts": [
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 0.667152312862476,
+              "y": 4.16059608921905,
+              "barScale": 0.11687292893711856,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 0.6669433988609431,
+              "y": 4.163207514238211,
+              "barScale": 0.1165670938254473,
+              "attached": true
+            },
+            {
+              "count": 12,
+              "maximum": 20,
+              "opacity": 0.6668404300802174,
+              "y": 4.164494623997282,
+              "barScale": 0.11638464075082185,
+              "attached": true
+            }
+          ]
+        }
+      ],
+      "old": null
+    },
+    {
+      "phase": "completed",
+      "present": true,
+      "attached": true,
+      "requests": [],
+      "status": "RanToCompletion",
+      "maximum": 20,
+      "heading": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "rows": [
+        {
+          "key": "data",
+          "counts": [
+            {
+              "count": 1,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 11,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        },
+        {
+          "key": "schema",
+          "counts": [
+            {
+              "count": 1,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 17,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        },
+        {
+          "key": "access",
+          "counts": [
+            {
+              "count": 1,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 2,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 5,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        },
+        {
+          "key": "objects",
+          "counts": [
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 12,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        }
+      ],
+      "old": null
+    },
+    {
+      "phase": "ordinary-rerender",
+      "present": true,
+      "attached": true,
+      "requests": [],
+      "status": null,
+      "maximum": 20,
+      "heading": "Comparison results by category",
+      "rows": [
+        {
+          "key": "data",
+          "counts": [
+            {
+              "count": 1,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 11,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        },
+        {
+          "key": "schema",
+          "counts": [
+            {
+              "count": 1,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 17,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        },
+        {
+          "key": "access",
+          "counts": [
+            {
+              "count": 1,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 2,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 5,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        },
+        {
+          "key": "objects",
+          "counts": [
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 12,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        }
+      ],
+      "old": null
+    },
+    {
+      "phase": "reduced",
+      "present": true,
+      "attached": true,
+      "requests": [],
+      "status": "RanToCompletion",
+      "maximum": 20,
+      "heading": "Comparison results by category",
+      "rows": [
+        {
+          "key": "data",
+          "counts": [
+            {
+              "count": 1,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 11,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        },
+        {
+          "key": "schema",
+          "counts": [
+            {
+              "count": 1,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 17,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        },
+        {
+          "key": "access",
+          "counts": [
+            {
+              "count": 1,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 2,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 5,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        },
+        {
+          "key": "objects",
+          "counts": [
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 12,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        }
+      ],
+      "old": null
+    },
+    {
+      "phase": "cancelled",
+      "present": true,
+      "attached": true,
+      "requests": [],
+      "status": "Canceled",
+      "maximum": 20,
+      "heading": "Comparison results by category",
+      "rows": [
+        {
+          "key": "data",
+          "counts": [
+            {
+              "count": 1,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 11,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        },
+        {
+          "key": "schema",
+          "counts": [
+            {
+              "count": 1,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 17,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        },
+        {
+          "key": "access",
+          "counts": [
+            {
+              "count": 1,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 2,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 5,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        },
+        {
+          "key": "objects",
+          "counts": [
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 12,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        }
+      ],
+      "old": null
+    },
+    {
+      "phase": "replaced",
+      "present": true,
+      "attached": true,
+      "requests": [],
+      "status": "Canceled",
+      "maximum": 10,
+      "heading": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "rows": [
+        {
+          "key": "data",
+          "counts": [
+            {
+              "count": 7,
+              "maximum": 10,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 5,
+              "maximum": 10,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 10,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        }
+      ],
+      "old": [
+        {
+          "count": 1,
+          "maximum": 20,
+          "opacity": 1,
+          "y": 0,
+          "barScale": 1,
+          "attached": false
+        },
+        {
+          "count": 0,
+          "maximum": 20,
+          "opacity": 1,
+          "y": 0,
+          "barScale": 1,
+          "attached": false
+        },
+        {
+          "count": 11,
+          "maximum": 20,
+          "opacity": 1,
+          "y": 0,
+          "barScale": 1,
+          "attached": false
+        },
+        {
+          "count": 1,
+          "maximum": 20,
+          "opacity": 1,
+          "y": 0,
+          "barScale": 1,
+          "attached": false
+        },
+        {
+          "count": 0,
+          "maximum": 20,
+          "opacity": 1,
+          "y": 0,
+          "barScale": 1,
+          "attached": false
+        },
+        {
+          "count": 17,
+          "maximum": 20,
+          "opacity": 1,
+          "y": 0,
+          "barScale": 1,
+          "attached": false
+        },
+        {
+          "count": 1,
+          "maximum": 20,
+          "opacity": 1,
+          "y": 0,
+          "barScale": 1,
+          "attached": false
+        },
+        {
+          "count": 2,
+          "maximum": 20,
+          "opacity": 1,
+          "y": 0,
+          "barScale": 1,
+          "attached": false
+        },
+        {
+          "count": 5,
+          "maximum": 20,
+          "opacity": 1,
+          "y": 0,
+          "barScale": 1,
+          "attached": false
+        },
+        {
+          "count": 0,
+          "maximum": 20,
+          "opacity": 1,
+          "y": 0,
+          "barScale": 1,
+          "attached": false
+        },
+        {
+          "count": 0,
+          "maximum": 20,
+          "opacity": 1,
+          "y": 0,
+          "barScale": 1,
+          "attached": false
+        },
+        {
+          "count": 12,
+          "maximum": 20,
+          "opacity": 1,
+          "y": 0,
+          "barScale": 1,
+          "attached": false
+        }
+      ]
+    },
+    {
+      "phase": "detached",
+      "present": true,
+      "attached": false,
+      "requests": [],
+      "status": "Canceled",
+      "maximum": 10,
+      "heading": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "rows": [
+        {
+          "key": "data",
+          "counts": [
+            {
+              "count": 7,
+              "maximum": 10,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": false
+            },
+            {
+              "count": 5,
+              "maximum": 10,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": false
+            },
+            {
+              "count": 0,
+              "maximum": 10,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": false
+            }
+          ]
+        }
+      ],
+      "old": null
+    },
+    {
+      "phase": "reattached",
+      "present": true,
+      "attached": true,
+      "requests": [],
+      "status": null,
+      "maximum": 10,
+      "heading": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "rows": [
+        {
+          "key": "data",
+          "counts": [
+            {
+              "count": 7,
+              "maximum": 10,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 5,
+              "maximum": 10,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 10,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        }
+      ],
+      "old": null
+    },
+    {
+      "phase": "replayed",
+      "present": true,
+      "attached": true,
+      "requests": [],
+      "status": "RanToCompletion",
+      "maximum": 10,
+      "heading": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "rows": [
+        {
+          "key": "data",
+          "counts": [
+            {
+              "count": 7,
+              "maximum": 10,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 5,
+              "maximum": 10,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 10,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        }
+      ],
+      "old": null
+    },
+    {
+      "phase": "empty",
+      "present": false,
+      "attached": true,
+      "requests": [],
+      "status": null,
+      "maximum": 5,
+      "heading": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "rows": [],
+      "old": null
+    },
+    {
+      "phase": "trial-only",
+      "present": false,
+      "attached": true,
+      "requests": [],
+      "status": null,
+      "maximum": 5,
+      "heading": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "rows": [],
+      "old": null
+    },
+    {
+      "phase": "trial-excluded",
+      "present": true,
+      "attached": true,
+      "requests": [],
+      "status": null,
+      "maximum": 20,
+      "heading": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "rows": [
+        {
+          "key": "data",
+          "counts": [
+            {
+              "count": 1,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 11,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        },
+        {
+          "key": "schema",
+          "counts": [
+            {
+              "count": 1,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 17,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        },
+        {
+          "key": "access",
+          "counts": [
+            {
+              "count": 1,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 2,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 5,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        },
+        {
+          "key": "objects",
+          "counts": [
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 12,
+              "maximum": 20,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        }
+      ],
+      "old": null
+    },
+    {
+      "phase": "scale-update",
+      "present": true,
+      "attached": true,
+      "requests": [],
+      "status": null,
+      "maximum": 25,
+      "heading": "\uBE44\uAD50 \uACB0\uACFC, \uBD84\uB958\uBCC4\uB85C",
+      "rows": [
+        {
+          "key": "data",
+          "counts": [
+            {
+              "count": 0,
+              "maximum": 25,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 0,
+              "maximum": 25,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            },
+            {
+              "count": 21,
+              "maximum": 25,
+              "opacity": 1,
+              "y": 0,
+              "barScale": 1,
+              "attached": true
+            }
+          ]
+        }
+      ],
+      "old": null
+    }
+  ]
+}

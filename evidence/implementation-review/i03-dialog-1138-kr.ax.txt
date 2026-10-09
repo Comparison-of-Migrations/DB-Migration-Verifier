@@ -1,0 +1,48 @@
+Window: "테이블·컬럼 대응", App: DB-Migration-Verifier.
+0 standard window 테이블·컬럼 대응, Secondary Actions: Raise
+	1 container WindowChrome, ID: AvaloniaWindowChrome
+	2 container
+		3 container
+			4 text 원본을 어느 대상과 비교할까요?
+			5 text demo.entries
+			6 text 값을 변환하지 않습니다. 모든 컬럼을 대응하고 이름·타입·순서의 차이도 결과에 남깁니다.
+			7 scroll area
+				8 container
+					9 container
+						10 button 대상 테이블 선택, ID: mapping-target
+							11 container
+								12 text 대상 테이블 선택
+						13 text 현재 대상: demo.entries · 자동
+						14 container
+							15 container
+								16 text 원본 컬럼 / 타입
+								17 text 대상 컬럼 / 타입
+								18 text
+							19 container
+								20 text id
+								21 text int4
+								22 text id
+								23 text int4
+								24 button 컬럼 대응 선택 · id, ID: mapping-column-id
+							25 container
+								26 text label
+								27 text text
+								28 text label
+								29 text text
+								30 button 컬럼 대응 선택 · label, ID: mapping-column-label
+							31 container
+								32 text amount
+								33 text numeric
+								34 text amount
+								35 text numeric
+								36 button 컬럼 대응 선택 · amount, ID: mapping-column-amount
+			37 text 모든 컬럼 대응됨 · 아직 검사하지 않았습니다.
+			38 button 취소
+			39 button 대응 적용
+	40 close button
+	41 zoom button
+	42 text 테이블·컬럼 대응
+43 menu bar
+	44 DB-Migration-Verifier
+
+The focused UI element is 39 button 대응 적용

@@ -1,0 +1,169 @@
+Window: "DB-Migration-Verifier", App: DB-Migration-Verifier.
+0 standard window DB-Migration-Verifier, Secondary Actions: Raise
+	1 container WindowChrome, ID: AvaloniaWindowChrome
+	2 container
+		3 container
+			4 container
+				5 text DB-Migration-Verifier
+				6 text Synthetic example · no actual DB
+				7 button 한국어 / EN, ID: language
+			8 container
+				9 text Migration comparison
+				10 button Connect databases
+					11 container
+						12 text Connect databases
+				13 button Preflight
+					14 container
+						15 text Preflight
+				16 button Select checks
+					17 container
+						18 text 3
+						19 text Select checks
+				20 button (disabled) Review
+					21 container
+						22 text 4
+						23 text Review
+				24 button (disabled) Progress
+					25 container
+						26 text 5
+						27 text Progress
+				28 button (disabled) Results
+					29 container
+						30 text 6
+						31 text Results
+				32 button (disabled) Save results
+					33 container
+						34 text 7
+						35 text Save results
+				36 text Read-only comparison
+				37 text No source/target writes.
+Behavior tests require a separate test DB.
+				38 checkbox Reduce motion, Value: off, ID: motion
+					39 container RootGrid
+						40 container
+							41 container
+			42 container
+				43 text Synthetic example · separate from actual DB results.
+			44 scroll area
+				45 container
+					46 container
+						47 text Choose what to inspect
+						48 text Read-only categories are selected by default, including their detailed checks.
+						49 text Categories
+						50 text 4 / 5 selected
+						51 container
+							52 checkbox Data selected, Value: on, ID: category-Data
+								53 container RootGrid
+									54 container
+										55 container
+							56 button Data detailed checks
+								57 container
+									58 text Data
+									59 text All values · missing rows · duplicates · references
+									60 text Partially available
+						61 container
+							62 checkbox Schema & constraints selected, Value: on, ID: category-Schema
+								63 container RootGrid
+									64 container
+										65 container
+							66 button Schema & constraints detailed checks
+								67 container
+									68 text Schema & constraints
+									69 text Columns · types · keys · constraints · indexes · partitions
+									70 text Partially available
+						71 container
+							72 checkbox Users & access selected, Value: on, ID: category-Access
+								73 container RootGrid
+									74 container
+										75 container
+							76 button Users & access detailed checks
+								77 container
+									78 text Users & access
+									79 text Users · roles · ownership · grants · row policies
+									80 text Not implemented
+						81 container
+							82 checkbox Related objects selected, Value: on, ID: category-Objects
+								83 container RootGrid
+									84 container
+										85 container
+							86 button Related objects detailed checks
+								87 container
+									88 text Related objects
+									89 text Views · routines · triggers · sequences · custom types
+									90 text Not implemented
+						91 container
+							92 checkbox (disabled) Separate DB behavior selected, Value: off, ID: category-Behavior
+								93 container RootGrid
+									94 container
+										95 container
+							96 button Separate DB behavior detailed checks
+								97 container
+									98 text Separate DB behavior
+									99 text Optional · writes only to a separate test DB
+									100 text Not implemented
+						101 button Test DB preparation guide
+							102 container
+								103 text Test DB preparation guide
+						104 text Preparation/writes pending · only read-only comparison can run.
+						105 text Tables and matching
+						106 text 1 / 1 selected · 1 visible
+						107 container
+							108 text field Search tables, Help: Search table names, ID: table-search
+								109 container
+									110 container
+										111 scroll area PART_ScrollViewer
+											112 container
+												113 container
+													114 text Value: Search table names, ID: PART_Placeholder
+							115 button Clear search
+						116 checkbox Select all visible, Value: on, ID: table-bulk
+							117 container RootGrid
+								118 container
+									119 container
+						120 button Clear selection
+						121 text Searching preserves selection. Bulk actions affect visible results only.
+						122 container
+							123 container
+								124 text Source table
+								125 text Target table
+								126 text Matching
+								127 text
+							128 content list
+								129 scroll area PART_ScrollViewer
+									130 container
+										131 row (selectable) Avalonia.Controls.Border
+											132 container
+												133 checkbox demo.entries, Value: on, ID: table-demo.entries
+													134 container RootGrid
+														135 container
+															136 container
+														137 text demo.entries
+												138 text demo.entries
+												139 text Same name
+												140 button Change matching
+													141 container
+														142 text Change matching
+						143 text Same-name matching · manual table/column mapping is not implemented in the engine yet.
+					144 scroll bar (settable, float) Value: 285, ID: PART_VerticalScrollBar
+						145 container
+							146 button Line up, ID: PART_LineUpButton
+							147 button Page up, ID: PART_PageUpButton
+							148 button Page down, ID: PART_PageDownButton
+							149 handle Position
+							150 button Line down, ID: PART_LineDownButton
+			151 container
+				152 button Back
+					153 container
+						154 text Back
+				155 text Review selected and excluded scope next.
+				156 button Review selection
+					157 container
+						158 text Review selection
+	159 close button
+	160 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	161 minimize button
+	162 text DB-Migration-Verifier
+163 menu bar
+	164 DB-Migration-Verifier
+
+The focused UI element is 7 button 한국어 / EN, ID: language

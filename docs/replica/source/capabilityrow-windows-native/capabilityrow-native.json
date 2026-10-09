@@ -1,0 +1,4630 @@
+{
+  "dpr": 2,
+  "rows": [
+    {
+      "id": "ko-478-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 478,
+        "height": 87.1875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 102.0234375,
+        "height": 38.390625
+      },
+      "connected": {
+        "x": 156.0234375,
+        "y": 30.9921875,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 286.3515625,
+        "y": 30.9921875,
+        "width": 52,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 388.46875,
+        "y": 14.796875,
+        "width": 71.53125,
+        "height": 57.5859375
+      },
+      "detailText": {
+        "x": 388.46875,
+        "y": 14.796875,
+        "width": 71.53125,
+        "height": 57.5859375
+      },
+      "button": null,
+      "columns": [
+        138.0234375,
+        116.21875,
+        116.2265625,
+        107.53125
+      ],
+      "texts": [
+        "\uB370\uC774\uD130",
+        "\uC804\uCCB4 \uAC12\u00B7\uB204\uB77D\u00B7\uC911\uBCF5\u00B7\uCC38\uC870 \uAD00\uACC4",
+        "\uC5F0\uACB0 \uD655\uC778",
+        "\uAC00\uB2A5",
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5",
+        null
+      ]
+    },
+    {
+      "id": "ko-478-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 478,
+        "height": 87.1875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 102.0234375,
+        "height": 38.390625
+      },
+      "connected": {
+        "x": 156.0234375,
+        "y": 30.9921875,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 286.3515625,
+        "y": 30.9921875,
+        "width": 52,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 388.46875,
+        "y": 14.796875,
+        "width": 71.53125,
+        "height": 57.5859375
+      },
+      "detailText": {
+        "x": 388.46875,
+        "y": 14.796875,
+        "width": 71.53125,
+        "height": 57.5859375
+      },
+      "button": null,
+      "columns": [
+        138.0234375,
+        116.21875,
+        116.2265625,
+        107.53125
+      ],
+      "texts": [
+        "\uAD6C\uC870\u00B7\uC81C\uC57D",
+        "\uCEEC\uB7FC\u00B7\uC790\uB8CC\uD615\u00B7\uD0A4\u00B7\uC81C\uC57D\u00B7\uC778\uB371\uC2A4\u00B7partition",
+        "\uC5F0\uACB0 \uD655\uC778",
+        "\uAC00\uB2A5",
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5",
+        null
+      ]
+    },
+    {
+      "id": "ko-478-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 478,
+        "height": 274.5390625
+      },
+      "description": {
+        "x": 18,
+        "y": 129.96875,
+        "width": 102.0234375,
+        "height": 38.390625
+      },
+      "connected": {
+        "x": 156.0234375,
+        "y": 124.671875,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 272.2421875,
+        "y": 124.671875,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 388.46875,
+        "y": 12.5,
+        "width": 71.53125,
+        "height": 249.5390625
+      },
+      "detailText": {
+        "x": 388.46875,
+        "y": 12.5,
+        "width": 0,
+        "height": 249.5390625
+      },
+      "button": {
+        "x": 400.46875,
+        "y": 115.265625,
+        "width": 114.4375,
+        "height": 44
+      },
+      "columns": [
+        138.0234375,
+        116.21875,
+        116.2265625,
+        107.53125
+      ],
+      "texts": [
+        "\uC0AC\uC6A9\uC790\u00B7\uAD8C\uD55C",
+        "\uC0AC\uC6A9\uC790\u00B7\uC5ED\uD560\u00B7\uC18C\uC720\uC790\u00B7\uAD8C\uD55C\u00B7\uD589 \uC815\uCC45",
+        "\uC5F0\uACB0 \uD655\uC778",
+        "\uC77C\uBD80 \uAC00\uB2A5",
+        "\uAD8C\uD55C \uC815\uC758 2\uAC1C \uC870\uD68C \uBC94\uC704 \uBBF8\uD655\uC778",
+        "\uD544\uC694\uD55C \uAD8C\uD55C \uBCF4\uAE30"
+      ]
+    },
+    {
+      "id": "ko-478-3",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 478,
+        "height": 105.8828125
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 102.0234375,
+        "height": 57.5859375
+      },
+      "connected": {
+        "x": 156.0234375,
+        "y": 40.59375,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 286.3515625,
+        "y": 40.59375,
+        "width": 52,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 388.46875,
+        "y": 24.3984375,
+        "width": 71.53125,
+        "height": 57.5859375
+      },
+      "detailText": {
+        "x": 388.46875,
+        "y": 24.3984375,
+        "width": 71.53125,
+        "height": 57.5859375
+      },
+      "button": null,
+      "columns": [
+        138.0234375,
+        116.21875,
+        116.2265625,
+        107.53125
+      ],
+      "texts": [
+        "\uAD00\uB828 \uAC1D\uCCB4",
+        "view\u00B7\uD568\uC218\u00B7trigger\u00B7sequence\u00B7\uC0AC\uC6A9\uC790 \uD0C0\uC785",
+        "\uC5F0\uACB0 \uD655\uC778",
+        "\uAC00\uB2A5",
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5",
+        null
+      ]
+    },
+    {
+      "id": "ko-610-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 87.1875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 144.71875,
+        "height": 38.390625
+      },
+      "connected": {
+        "x": 198.71875,
+        "y": 30.9921875,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 329.0859375,
+        "y": 30.9921875,
+        "width": 52,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 431.2421875,
+        "y": 33.9921875,
+        "width": 160.7578125,
+        "height": 19.1953125
+      },
+      "detailText": {
+        "x": 431.2421875,
+        "y": 33.9921875,
+        "width": 160.7578125,
+        "height": 19.1953125
+      },
+      "button": null,
+      "columns": [
+        180.71875,
+        116.21875,
+        116.3046875,
+        196.7578125
+      ],
+      "texts": [
+        "\uB370\uC774\uD130",
+        "\uC804\uCCB4 \uAC12\u00B7\uB204\uB77D\u00B7\uC911\uBCF5\u00B7\uCC38\uC870 \uAD00\uACC4",
+        "\uC5F0\uACB0 \uD655\uC778",
+        "\uAC00\uB2A5",
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5",
+        null
+      ]
+    },
+    {
+      "id": "ko-610-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 87.1875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 144.71875,
+        "height": 38.390625
+      },
+      "connected": {
+        "x": 198.71875,
+        "y": 30.9921875,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 329.0859375,
+        "y": 30.9921875,
+        "width": 52,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 431.2421875,
+        "y": 33.9921875,
+        "width": 160.7578125,
+        "height": 19.1953125
+      },
+      "detailText": {
+        "x": 431.2421875,
+        "y": 33.9921875,
+        "width": 160.7578125,
+        "height": 19.1953125
+      },
+      "button": null,
+      "columns": [
+        180.71875,
+        116.21875,
+        116.3046875,
+        196.7578125
+      ],
+      "texts": [
+        "\uAD6C\uC870\u00B7\uC81C\uC57D",
+        "\uCEEC\uB7FC\u00B7\uC790\uB8CC\uD615\u00B7\uD0A4\u00B7\uC81C\uC57D\u00B7\uC778\uB371\uC2A4\u00B7partition",
+        "\uC5F0\uACB0 \uD655\uC778",
+        "\uAC00\uB2A5",
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5",
+        null
+      ]
+    },
+    {
+      "id": "ko-610-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 159.3671875
+      },
+      "description": {
+        "x": 18,
+        "y": 72.3828125,
+        "width": 144.71875,
+        "height": 38.390625
+      },
+      "connected": {
+        "x": 198.71875,
+        "y": 67.0859375,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 314.9765625,
+        "y": 67.0859375,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 431.2421875,
+        "y": 12.5,
+        "width": 160.7578125,
+        "height": 134.3671875
+      },
+      "detailText": {
+        "x": 431.2421875,
+        "y": 12.5,
+        "width": 34.3203125,
+        "height": 134.3671875
+      },
+      "button": {
+        "x": 477.5625,
+        "y": 57.6796875,
+        "width": 114.4375,
+        "height": 44
+      },
+      "columns": [
+        180.71875,
+        116.21875,
+        116.3046875,
+        196.7578125
+      ],
+      "texts": [
+        "\uC0AC\uC6A9\uC790\u00B7\uAD8C\uD55C",
+        "\uC0AC\uC6A9\uC790\u00B7\uC5ED\uD560\u00B7\uC18C\uC720\uC790\u00B7\uAD8C\uD55C\u00B7\uD589 \uC815\uCC45",
+        "\uC5F0\uACB0 \uD655\uC778",
+        "\uC77C\uBD80 \uAC00\uB2A5",
+        "\uAD8C\uD55C \uC815\uC758 2\uAC1C \uC870\uD68C \uBC94\uC704 \uBBF8\uD655\uC778",
+        "\uD544\uC694\uD55C \uAD8C\uD55C \uBCF4\uAE30"
+      ]
+    },
+    {
+      "id": "ko-610-3",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 105.8828125
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 144.71875,
+        "height": 57.5859375
+      },
+      "connected": {
+        "x": 198.71875,
+        "y": 40.59375,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 329.0859375,
+        "y": 40.59375,
+        "width": 52,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 431.2421875,
+        "y": 43.59375,
+        "width": 160.7578125,
+        "height": 19.1953125
+      },
+      "detailText": {
+        "x": 431.2421875,
+        "y": 43.59375,
+        "width": 160.7578125,
+        "height": 19.1953125
+      },
+      "button": null,
+      "columns": [
+        180.71875,
+        116.21875,
+        116.3046875,
+        196.7578125
+      ],
+      "texts": [
+        "\uAD00\uB828 \uAC1D\uCCB4",
+        "view\u00B7\uD568\uC218\u00B7trigger\u00B7sequence\u00B7\uC0AC\uC6A9\uC790 \uD0C0\uC785",
+        "\uC5F0\uACB0 \uD655\uC778",
+        "\uAC00\uB2A5",
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5",
+        null
+      ]
+    },
+    {
+      "id": "ko-656-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 67.9921875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 159.59375,
+        "height": 19.1953125
+      },
+      "connected": {
+        "x": 213.59375,
+        "y": 21.3984375,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 343.9765625,
+        "y": 21.3984375,
+        "width": 52,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 446.1484375,
+        "y": 24.3984375,
+        "width": 191.8515625,
+        "height": 19.1953125
+      },
+      "detailText": {
+        "x": 446.1484375,
+        "y": 24.3984375,
+        "width": 191.8515625,
+        "height": 19.1953125
+      },
+      "button": null,
+      "columns": [
+        195.59375,
+        116.21875,
+        116.3359375,
+        227.8515625
+      ],
+      "texts": [
+        "\uB370\uC774\uD130",
+        "\uC804\uCCB4 \uAC12\u00B7\uB204\uB77D\u00B7\uC911\uBCF5\u00B7\uCC38\uC870 \uAD00\uACC4",
+        "\uC5F0\uACB0 \uD655\uC778",
+        "\uAC00\uB2A5",
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5",
+        null
+      ]
+    },
+    {
+      "id": "ko-656-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 87.1875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 159.59375,
+        "height": 38.390625
+      },
+      "connected": {
+        "x": 213.59375,
+        "y": 30.9921875,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 343.9765625,
+        "y": 30.9921875,
+        "width": 52,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 446.1484375,
+        "y": 33.9921875,
+        "width": 191.8515625,
+        "height": 19.1953125
+      },
+      "detailText": {
+        "x": 446.1484375,
+        "y": 33.9921875,
+        "width": 191.8515625,
+        "height": 19.1953125
+      },
+      "button": null,
+      "columns": [
+        195.59375,
+        116.21875,
+        116.3359375,
+        227.8515625
+      ],
+      "texts": [
+        "\uAD6C\uC870\u00B7\uC81C\uC57D",
+        "\uCEEC\uB7FC\u00B7\uC790\uB8CC\uD615\u00B7\uD0A4\u00B7\uC81C\uC57D\u00B7\uC778\uB371\uC2A4\u00B7partition",
+        "\uC5F0\uACB0 \uD655\uC778",
+        "\uAC00\uB2A5",
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5",
+        null
+      ]
+    },
+    {
+      "id": "ko-656-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 87.1875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 159.59375,
+        "height": 38.390625
+      },
+      "connected": {
+        "x": 213.59375,
+        "y": 30.9921875,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 329.8671875,
+        "y": 30.9921875,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 446.1484375,
+        "y": 14.796875,
+        "width": 191.8515625,
+        "height": 57.5859375
+      },
+      "detailText": {
+        "x": 446.1484375,
+        "y": 14.796875,
+        "width": 65.4140625,
+        "height": 57.5859375
+      },
+      "button": {
+        "x": 523.5625,
+        "y": 21.5859375,
+        "width": 114.4375,
+        "height": 44
+      },
+      "columns": [
+        195.59375,
+        116.21875,
+        116.3359375,
+        227.8515625
+      ],
+      "texts": [
+        "\uC0AC\uC6A9\uC790\u00B7\uAD8C\uD55C",
+        "\uC0AC\uC6A9\uC790\u00B7\uC5ED\uD560\u00B7\uC18C\uC720\uC790\u00B7\uAD8C\uD55C\u00B7\uD589 \uC815\uCC45",
+        "\uC5F0\uACB0 \uD655\uC778",
+        "\uC77C\uBD80 \uAC00\uB2A5",
+        "\uAD8C\uD55C \uC815\uC758 2\uAC1C \uC870\uD68C \uBC94\uC704 \uBBF8\uD655\uC778",
+        "\uD544\uC694\uD55C \uAD8C\uD55C \uBCF4\uAE30"
+      ]
+    },
+    {
+      "id": "ko-656-3",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 86.6875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 159.59375,
+        "height": 38.390625
+      },
+      "connected": {
+        "x": 213.59375,
+        "y": 30.9921875,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 343.9765625,
+        "y": 30.9921875,
+        "width": 52,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 446.1484375,
+        "y": 33.9921875,
+        "width": 191.8515625,
+        "height": 19.1953125
+      },
+      "detailText": {
+        "x": 446.1484375,
+        "y": 33.9921875,
+        "width": 191.8515625,
+        "height": 19.1953125
+      },
+      "button": null,
+      "columns": [
+        195.59375,
+        116.21875,
+        116.3359375,
+        227.8515625
+      ],
+      "texts": [
+        "\uAD00\uB828 \uAC1D\uCCB4",
+        "view\u00B7\uD568\uC218\u00B7trigger\u00B7sequence\u00B7\uC0AC\uC6A9\uC790 \uD0C0\uC785",
+        "\uC5F0\uACB0 \uD655\uC778",
+        "\uAC00\uB2A5",
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5",
+        null
+      ]
+    },
+    {
+      "id": "ko-858-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 858,
+        "height": 67.9921875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 224.015625,
+        "height": 19.1953125
+      },
+      "connected": {
+        "x": 281.2109375,
+        "y": 21.3984375,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 418.0390625,
+        "y": 21.3984375,
+        "width": 52,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 523.4609375,
+        "y": 24.3984375,
+        "width": 316.5390625,
+        "height": 19.1953125
+      },
+      "detailText": {
+        "x": 523.4609375,
+        "y": 24.3984375,
+        "width": 316.5390625,
+        "height": 19.1953125
+      },
+      "button": null,
+      "columns": [
+        260.015625,
+        122.609375,
+        122.8359375,
+        352.5390625
+      ],
+      "texts": [
+        "\uB370\uC774\uD130",
+        "\uC804\uCCB4 \uAC12\u00B7\uB204\uB77D\u00B7\uC911\uBCF5\u00B7\uCC38\uC870 \uAD00\uACC4",
+        "\uC5F0\uACB0 \uD655\uC778",
+        "\uAC00\uB2A5",
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5",
+        null
+      ]
+    },
+    {
+      "id": "ko-858-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 858,
+        "height": 67.9921875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 224.015625,
+        "height": 19.1953125
+      },
+      "connected": {
+        "x": 281.2109375,
+        "y": 21.3984375,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 418.0390625,
+        "y": 21.3984375,
+        "width": 52,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 523.4609375,
+        "y": 24.3984375,
+        "width": 316.5390625,
+        "height": 19.1953125
+      },
+      "detailText": {
+        "x": 523.4609375,
+        "y": 24.3984375,
+        "width": 316.5390625,
+        "height": 19.1953125
+      },
+      "button": null,
+      "columns": [
+        260.015625,
+        122.609375,
+        122.8359375,
+        352.5390625
+      ],
+      "texts": [
+        "\uAD6C\uC870\u00B7\uC81C\uC57D",
+        "\uCEEC\uB7FC\u00B7\uC790\uB8CC\uD615\u00B7\uD0A4\u00B7\uC81C\uC57D\u00B7\uC778\uB371\uC2A4\u00B7partition",
+        "\uC5F0\uACB0 \uD655\uC778",
+        "\uAC00\uB2A5",
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5",
+        null
+      ]
+    },
+    {
+      "id": "ko-858-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 858,
+        "height": 69
+      },
+      "description": {
+        "x": 18,
+        "y": 36.796875,
+        "width": 224.015625,
+        "height": 19.1953125
+      },
+      "connected": {
+        "x": 281.2109375,
+        "y": 21.8984375,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 403.9296875,
+        "y": 21.8984375,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 523.4609375,
+        "y": 12.5,
+        "width": 316.5390625,
+        "height": 44
+      },
+      "detailText": {
+        "x": 523.4609375,
+        "y": 24.8984375,
+        "width": 190.1015625,
+        "height": 19.1953125
+      },
+      "button": {
+        "x": 725.5625,
+        "y": 12.5,
+        "width": 114.4375,
+        "height": 44
+      },
+      "columns": [
+        260.015625,
+        122.609375,
+        122.8359375,
+        352.5390625
+      ],
+      "texts": [
+        "\uC0AC\uC6A9\uC790\u00B7\uAD8C\uD55C",
+        "\uC0AC\uC6A9\uC790\u00B7\uC5ED\uD560\u00B7\uC18C\uC720\uC790\u00B7\uAD8C\uD55C\u00B7\uD589 \uC815\uCC45",
+        "\uC5F0\uACB0 \uD655\uC778",
+        "\uC77C\uBD80 \uAC00\uB2A5",
+        "\uAD8C\uD55C \uC815\uC758 2\uAC1C \uC870\uD68C \uBC94\uC704 \uBBF8\uD655\uC778",
+        "\uD544\uC694\uD55C \uAD8C\uD55C \uBCF4\uAE30"
+      ]
+    },
+    {
+      "id": "ko-858-3",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 858,
+        "height": 67.4921875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 224.015625,
+        "height": 19.1953125
+      },
+      "connected": {
+        "x": 281.2109375,
+        "y": 21.3984375,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 418.0390625,
+        "y": 21.3984375,
+        "width": 52,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 523.4609375,
+        "y": 24.3984375,
+        "width": 316.5390625,
+        "height": 19.1953125
+      },
+      "detailText": {
+        "x": 523.4609375,
+        "y": 24.3984375,
+        "width": 316.5390625,
+        "height": 19.1953125
+      },
+      "button": null,
+      "columns": [
+        260.015625,
+        122.609375,
+        122.8359375,
+        352.5390625
+      ],
+      "texts": [
+        "\uAD00\uB828 \uAC1D\uCCB4",
+        "view\u00B7\uD568\uC218\u00B7trigger\u00B7sequence\u00B7\uC0AC\uC6A9\uC790 \uD0C0\uC785",
+        "\uC5F0\uACB0 \uD655\uC778",
+        "\uAC00\uB2A5",
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5",
+        null
+      ]
+    },
+    {
+      "id": "ko-904-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 67.9921875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 237.953125,
+        "height": 19.1953125
+      },
+      "connected": {
+        "x": 298.4296875,
+        "y": 21.3984375,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 441.84375,
+        "y": 21.3984375,
+        "width": 52,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 550.5546875,
+        "y": 24.3984375,
+        "width": 335.4453125,
+        "height": 19.1953125
+      },
+      "detailText": {
+        "x": 550.5546875,
+        "y": 24.3984375,
+        "width": 335.4453125,
+        "height": 19.1953125
+      },
+      "button": null,
+      "columns": [
+        273.953125,
+        129.1796875,
+        129.421875,
+        371.4453125
+      ],
+      "texts": [
+        "\uB370\uC774\uD130",
+        "\uC804\uCCB4 \uAC12\u00B7\uB204\uB77D\u00B7\uC911\uBCF5\u00B7\uCC38\uC870 \uAD00\uACC4",
+        "\uC5F0\uACB0 \uD655\uC778",
+        "\uAC00\uB2A5",
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5",
+        null
+      ]
+    },
+    {
+      "id": "ko-904-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 67.9921875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 237.953125,
+        "height": 19.1953125
+      },
+      "connected": {
+        "x": 298.4296875,
+        "y": 21.3984375,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 441.84375,
+        "y": 21.3984375,
+        "width": 52,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 550.5546875,
+        "y": 24.3984375,
+        "width": 335.4453125,
+        "height": 19.1953125
+      },
+      "detailText": {
+        "x": 550.5546875,
+        "y": 24.3984375,
+        "width": 335.4453125,
+        "height": 19.1953125
+      },
+      "button": null,
+      "columns": [
+        273.953125,
+        129.1796875,
+        129.421875,
+        371.4453125
+      ],
+      "texts": [
+        "\uAD6C\uC870\u00B7\uC81C\uC57D",
+        "\uCEEC\uB7FC\u00B7\uC790\uB8CC\uD615\u00B7\uD0A4\u00B7\uC81C\uC57D\u00B7\uC778\uB371\uC2A4\u00B7partition",
+        "\uC5F0\uACB0 \uD655\uC778",
+        "\uAC00\uB2A5",
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5",
+        null
+      ]
+    },
+    {
+      "id": "ko-904-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 69
+      },
+      "description": {
+        "x": 18,
+        "y": 36.796875,
+        "width": 237.953125,
+        "height": 19.1953125
+      },
+      "connected": {
+        "x": 298.4296875,
+        "y": 21.8984375,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 427.734375,
+        "y": 21.8984375,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 550.5546875,
+        "y": 12.5,
+        "width": 335.4453125,
+        "height": 44
+      },
+      "detailText": {
+        "x": 550.5546875,
+        "y": 24.8984375,
+        "width": 209.0078125,
+        "height": 19.1953125
+      },
+      "button": {
+        "x": 771.5625,
+        "y": 12.5,
+        "width": 114.4375,
+        "height": 44
+      },
+      "columns": [
+        273.953125,
+        129.1796875,
+        129.421875,
+        371.4453125
+      ],
+      "texts": [
+        "\uC0AC\uC6A9\uC790\u00B7\uAD8C\uD55C",
+        "\uC0AC\uC6A9\uC790\u00B7\uC5ED\uD560\u00B7\uC18C\uC720\uC790\u00B7\uAD8C\uD55C\u00B7\uD589 \uC815\uCC45",
+        "\uC5F0\uACB0 \uD655\uC778",
+        "\uC77C\uBD80 \uAC00\uB2A5",
+        "\uAD8C\uD55C \uC815\uC758 2\uAC1C \uC870\uD68C \uBC94\uC704 \uBBF8\uD655\uC778",
+        "\uD544\uC694\uD55C \uAD8C\uD55C \uBCF4\uAE30"
+      ]
+    },
+    {
+      "id": "ko-904-3",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 67.4921875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 237.953125,
+        "height": 19.1953125
+      },
+      "connected": {
+        "x": 298.4296875,
+        "y": 21.3984375,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 441.84375,
+        "y": 21.3984375,
+        "width": 52,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 550.5546875,
+        "y": 24.3984375,
+        "width": 335.4453125,
+        "height": 19.1953125
+      },
+      "detailText": {
+        "x": 550.5546875,
+        "y": 24.3984375,
+        "width": 335.4453125,
+        "height": 19.1953125
+      },
+      "button": null,
+      "columns": [
+        273.953125,
+        129.1796875,
+        129.421875,
+        371.4453125
+      ],
+      "texts": [
+        "\uAD00\uB828 \uAC1D\uCCB4",
+        "view\u00B7\uD568\uC218\u00B7trigger\u00B7sequence\u00B7\uC0AC\uC6A9\uC790 \uD0C0\uC785",
+        "\uC5F0\uACB0 \uD655\uC778",
+        "\uAC00\uB2A5",
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5",
+        null
+      ]
+    },
+    {
+      "id": "ko-1118-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 1118,
+        "height": 67.9921875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 302.8125,
+        "height": 19.1953125
+      },
+      "connected": {
+        "x": 378.5859375,
+        "y": 21.3984375,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 552.609375,
+        "y": 21.3984375,
+        "width": 52,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 676.640625,
+        "y": 24.3984375,
+        "width": 423.359375,
+        "height": 19.1953125
+      },
+      "detailText": {
+        "x": 676.640625,
+        "y": 24.3984375,
+        "width": 423.359375,
+        "height": 19.1953125
+      },
+      "button": null,
+      "columns": [
+        338.8125,
+        159.765625,
+        160.0625,
+        459.359375
+      ],
+      "texts": [
+        "\uB370\uC774\uD130",
+        "\uC804\uCCB4 \uAC12\u00B7\uB204\uB77D\u00B7\uC911\uBCF5\u00B7\uCC38\uC870 \uAD00\uACC4",
+        "\uC5F0\uACB0 \uD655\uC778",
+        "\uAC00\uB2A5",
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5",
+        null
+      ]
+    },
+    {
+      "id": "ko-1118-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 1118,
+        "height": 67.9921875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 302.8125,
+        "height": 19.1953125
+      },
+      "connected": {
+        "x": 378.5859375,
+        "y": 21.3984375,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 552.609375,
+        "y": 21.3984375,
+        "width": 52,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 676.640625,
+        "y": 24.3984375,
+        "width": 423.359375,
+        "height": 19.1953125
+      },
+      "detailText": {
+        "x": 676.640625,
+        "y": 24.3984375,
+        "width": 423.359375,
+        "height": 19.1953125
+      },
+      "button": null,
+      "columns": [
+        338.8125,
+        159.765625,
+        160.0625,
+        459.359375
+      ],
+      "texts": [
+        "\uAD6C\uC870\u00B7\uC81C\uC57D",
+        "\uCEEC\uB7FC\u00B7\uC790\uB8CC\uD615\u00B7\uD0A4\u00B7\uC81C\uC57D\u00B7\uC778\uB371\uC2A4\u00B7partition",
+        "\uC5F0\uACB0 \uD655\uC778",
+        "\uAC00\uB2A5",
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5",
+        null
+      ]
+    },
+    {
+      "id": "ko-1118-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 1118,
+        "height": 69
+      },
+      "description": {
+        "x": 18,
+        "y": 36.796875,
+        "width": 302.8125,
+        "height": 19.1953125
+      },
+      "connected": {
+        "x": 378.5859375,
+        "y": 21.8984375,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 538.5,
+        "y": 21.8984375,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 676.640625,
+        "y": 12.5,
+        "width": 423.359375,
+        "height": 44
+      },
+      "detailText": {
+        "x": 676.640625,
+        "y": 24.8984375,
+        "width": 296.921875,
+        "height": 19.1953125
+      },
+      "button": {
+        "x": 985.5625,
+        "y": 12.5,
+        "width": 114.4375,
+        "height": 44
+      },
+      "columns": [
+        338.8125,
+        159.765625,
+        160.0625,
+        459.359375
+      ],
+      "texts": [
+        "\uC0AC\uC6A9\uC790\u00B7\uAD8C\uD55C",
+        "\uC0AC\uC6A9\uC790\u00B7\uC5ED\uD560\u00B7\uC18C\uC720\uC790\u00B7\uAD8C\uD55C\u00B7\uD589 \uC815\uCC45",
+        "\uC5F0\uACB0 \uD655\uC778",
+        "\uC77C\uBD80 \uAC00\uB2A5",
+        "\uAD8C\uD55C \uC815\uC758 2\uAC1C \uC870\uD68C \uBC94\uC704 \uBBF8\uD655\uC778",
+        "\uD544\uC694\uD55C \uAD8C\uD55C \uBCF4\uAE30"
+      ]
+    },
+    {
+      "id": "ko-1118-3",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 1118,
+        "height": 67.4921875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 302.8125,
+        "height": 19.1953125
+      },
+      "connected": {
+        "x": 378.5859375,
+        "y": 21.3984375,
+        "width": 80.21875,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 552.609375,
+        "y": 21.3984375,
+        "width": 52,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 676.640625,
+        "y": 24.3984375,
+        "width": 423.359375,
+        "height": 19.1953125
+      },
+      "detailText": {
+        "x": 676.640625,
+        "y": 24.3984375,
+        "width": 423.359375,
+        "height": 19.1953125
+      },
+      "button": null,
+      "columns": [
+        338.8125,
+        159.765625,
+        160.0625,
+        459.359375
+      ],
+      "texts": [
+        "\uAD00\uB828 \uAC1D\uCCB4",
+        "view\u00B7\uD568\uC218\u00B7trigger\u00B7sequence\u00B7\uC0AC\uC6A9\uC790 \uD0C0\uC785",
+        "\uC5F0\uACB0 \uD655\uC778",
+        "\uAC00\uB2A5",
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5",
+        null
+      ]
+    },
+    {
+      "id": "en-478-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 596.25,
+        "height": 144.7734375
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 73.5625,
+        "height": 95.9765625
+      },
+      "connected": {
+        "x": 127.5625,
+        "y": 59.7890625,
+        "width": 86.4609375,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 272.65625,
+        "y": 59.7890625,
+        "width": 76.2109375,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 407.5078125,
+        "y": 53.1875,
+        "width": 170.7421875,
+        "height": 38.390625
+      },
+      "detailText": {
+        "x": 407.5078125,
+        "y": 53.1875,
+        "width": 170.7421875,
+        "height": 38.390625
+      },
+      "button": null,
+      "columns": [
+        109.5625,
+        122.4609375,
+        157.484375,
+        206.7421875
+      ],
+      "texts": [
+        "Data",
+        "All values, missing rows, duplicates and relationships",
+        "Connected",
+        "Available",
+        "Sample selected objects are readable",
+        null
+      ]
+    },
+    {
+      "id": "en-478-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 596.25,
+        "height": 165.5703125
+      },
+      "description": {
+        "x": 18,
+        "y": 57.09375,
+        "width": 73.5625,
+        "height": 95.9765625
+      },
+      "connected": {
+        "x": 127.5625,
+        "y": 70.1875,
+        "width": 86.4609375,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 272.65625,
+        "y": 70.1875,
+        "width": 76.2109375,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 407.5078125,
+        "y": 63.5859375,
+        "width": 170.7421875,
+        "height": 38.390625
+      },
+      "detailText": {
+        "x": 407.5078125,
+        "y": 63.5859375,
+        "width": 170.7421875,
+        "height": 38.390625
+      },
+      "button": null,
+      "columns": [
+        109.5625,
+        122.4609375,
+        157.484375,
+        206.7421875
+      ],
+      "texts": [
+        "Schema \u0026 constraints",
+        "Columns, types, keys, constraints, indexes and partitions",
+        "Connected",
+        "Available",
+        "Sample selected objects are readable",
+        null
+      ]
+    },
+    {
+      "id": "en-478-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 596.25,
+        "height": 146.375
+      },
+      "description": {
+        "x": 18,
+        "y": 57.09375,
+        "width": 73.5625,
+        "height": 76.78125
+      },
+      "connected": {
+        "x": 127.5625,
+        "y": 60.5859375,
+        "width": 86.4609375,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 250.0234375,
+        "y": 60.5859375,
+        "width": 121.484375,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 407.5078125,
+        "y": 15.6015625,
+        "width": 170.7421875,
+        "height": 115.171875
+      },
+      "detailText": {
+        "x": 407.5078125,
+        "y": 15.6015625,
+        "width": 13.625,
+        "height": 115.171875
+      },
+      "button": {
+        "x": 433.1328125,
+        "y": 51.1875,
+        "width": 145.1171875,
+        "height": 44
+      },
+      "columns": [
+        109.5625,
+        122.4609375,
+        157.484375,
+        206.7421875
+      ],
+      "texts": [
+        "Users \u0026 permissions",
+        "Users, roles, ownership, grants and row policies",
+        "Connected",
+        "Partially available",
+        "Visibility unconfirmed for 2 grant checks",
+        "Required permissions"
+      ]
+    },
+    {
+      "id": "en-478-3",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 596.25,
+        "height": 184.265625
+      },
+      "description": {
+        "x": 18,
+        "y": 57.09375,
+        "width": 73.5625,
+        "height": 115.171875
+      },
+      "connected": {
+        "x": 127.5625,
+        "y": 79.78125,
+        "width": 86.4609375,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 272.65625,
+        "y": 79.78125,
+        "width": 76.2109375,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 407.5078125,
+        "y": 73.1875,
+        "width": 170.7421875,
+        "height": 38.390625
+      },
+      "detailText": {
+        "x": 407.5078125,
+        "y": 73.1875,
+        "width": 170.7421875,
+        "height": 38.390625
+      },
+      "button": null,
+      "columns": [
+        109.5625,
+        122.4609375,
+        157.484375,
+        206.7421875
+      ],
+      "texts": [
+        "Related objects",
+        "Views, routines, triggers, sequences and user types",
+        "Connected",
+        "Available",
+        "Sample selected objects are readable",
+        null
+      ]
+    },
+    {
+      "id": "en-610-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 125.578125
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 80.8203125,
+        "height": 76.78125
+      },
+      "connected": {
+        "x": 134.8203125,
+        "y": 50.1875,
+        "width": 86.4609375,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 279.921875,
+        "y": 50.1875,
+        "width": 76.2109375,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 414.7734375,
+        "y": 43.59375,
+        "width": 177.2265625,
+        "height": 38.390625
+      },
+      "detailText": {
+        "x": 414.7734375,
+        "y": 43.59375,
+        "width": 177.2265625,
+        "height": 38.390625
+      },
+      "button": null,
+      "columns": [
+        116.8203125,
+        122.46875,
+        157.484375,
+        213.2265625
+      ],
+      "texts": [
+        "Data",
+        "All values, missing rows, duplicates and relationships",
+        "Connected",
+        "Available",
+        "Sample selected objects are readable",
+        null
+      ]
+    },
+    {
+      "id": "en-610-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 165.5703125
+      },
+      "description": {
+        "x": 18,
+        "y": 57.09375,
+        "width": 80.8203125,
+        "height": 95.9765625
+      },
+      "connected": {
+        "x": 134.8203125,
+        "y": 70.1875,
+        "width": 86.4609375,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 279.921875,
+        "y": 70.1875,
+        "width": 76.2109375,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 414.7734375,
+        "y": 63.5859375,
+        "width": 177.2265625,
+        "height": 38.390625
+      },
+      "detailText": {
+        "x": 414.7734375,
+        "y": 63.5859375,
+        "width": 177.2265625,
+        "height": 38.390625
+      },
+      "button": null,
+      "columns": [
+        116.8203125,
+        122.46875,
+        157.484375,
+        213.2265625
+      ],
+      "texts": [
+        "Schema \u0026 constraints",
+        "Columns, types, keys, constraints, indexes and partitions",
+        "Connected",
+        "Available",
+        "Sample selected objects are readable",
+        null
+      ]
+    },
+    {
+      "id": "en-610-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 146.375
+      },
+      "description": {
+        "x": 18,
+        "y": 57.09375,
+        "width": 80.8203125,
+        "height": 76.78125
+      },
+      "connected": {
+        "x": 134.8203125,
+        "y": 60.5859375,
+        "width": 86.4609375,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 257.2890625,
+        "y": 60.5859375,
+        "width": 121.484375,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 414.7734375,
+        "y": 15.6015625,
+        "width": 177.2265625,
+        "height": 115.171875
+      },
+      "detailText": {
+        "x": 414.7734375,
+        "y": 15.6015625,
+        "width": 20.109375,
+        "height": 115.171875
+      },
+      "button": {
+        "x": 446.8828125,
+        "y": 51.1875,
+        "width": 145.1171875,
+        "height": 44
+      },
+      "columns": [
+        116.8203125,
+        122.46875,
+        157.484375,
+        213.2265625
+      ],
+      "texts": [
+        "Users \u0026 permissions",
+        "Users, roles, ownership, grants and row policies",
+        "Connected",
+        "Partially available",
+        "Visibility unconfirmed for 2 grant checks",
+        "Required permissions"
+      ]
+    },
+    {
+      "id": "en-610-3",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 610,
+        "height": 165.0703125
+      },
+      "description": {
+        "x": 18,
+        "y": 57.09375,
+        "width": 80.8203125,
+        "height": 95.9765625
+      },
+      "connected": {
+        "x": 134.8203125,
+        "y": 70.1875,
+        "width": 86.4609375,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 279.921875,
+        "y": 70.1875,
+        "width": 76.2109375,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 414.7734375,
+        "y": 63.5859375,
+        "width": 177.2265625,
+        "height": 38.390625
+      },
+      "detailText": {
+        "x": 414.7734375,
+        "y": 63.5859375,
+        "width": 177.2265625,
+        "height": 38.390625
+      },
+      "button": null,
+      "columns": [
+        116.8203125,
+        122.46875,
+        157.484375,
+        213.2265625
+      ],
+      "texts": [
+        "Related objects",
+        "Views, routines, triggers, sequences and user types",
+        "Connected",
+        "Available",
+        "Sample selected objects are readable",
+        null
+      ]
+    },
+    {
+      "id": "en-656-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 106.3828125
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 105.125,
+        "height": 57.5859375
+      },
+      "connected": {
+        "x": 159.1484375,
+        "y": 40.59375,
+        "width": 86.4609375,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 304.265625,
+        "y": 40.59375,
+        "width": 76.2109375,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 439.1171875,
+        "y": 33.9921875,
+        "width": 198.8828125,
+        "height": 38.390625
+      },
+      "detailText": {
+        "x": 439.1171875,
+        "y": 33.9921875,
+        "width": 198.8828125,
+        "height": 38.390625
+      },
+      "button": null,
+      "columns": [
+        141.125,
+        122.5078125,
+        157.484375,
+        234.8828125
+      ],
+      "texts": [
+        "Data",
+        "All values, missing rows, duplicates and relationships",
+        "Connected",
+        "Available",
+        "Sample selected objects are readable",
+        null
+      ]
+    },
+    {
+      "id": "en-656-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 146.375
+      },
+      "description": {
+        "x": 18,
+        "y": 57.09375,
+        "width": 105.125,
+        "height": 76.78125
+      },
+      "connected": {
+        "x": 159.1484375,
+        "y": 60.5859375,
+        "width": 86.4609375,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 304.265625,
+        "y": 60.5859375,
+        "width": 76.2109375,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 439.1171875,
+        "y": 53.9921875,
+        "width": 198.8828125,
+        "height": 38.390625
+      },
+      "detailText": {
+        "x": 439.1171875,
+        "y": 53.9921875,
+        "width": 198.8828125,
+        "height": 38.390625
+      },
+      "button": null,
+      "columns": [
+        141.125,
+        122.5078125,
+        157.484375,
+        234.8828125
+      ],
+      "texts": [
+        "Schema \u0026 constraints",
+        "Columns, types, keys, constraints, indexes and partitions",
+        "Connected",
+        "Available",
+        "Sample selected objects are readable",
+        null
+      ]
+    },
+    {
+      "id": "en-656-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 127.1796875
+      },
+      "description": {
+        "x": 18,
+        "y": 57.09375,
+        "width": 105.125,
+        "height": 57.5859375
+      },
+      "connected": {
+        "x": 159.1484375,
+        "y": 50.9921875,
+        "width": 86.4609375,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 281.6328125,
+        "y": 50.9921875,
+        "width": 121.484375,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 439.1171875,
+        "y": 15.6015625,
+        "width": 198.8828125,
+        "height": 95.9765625
+      },
+      "detailText": {
+        "x": 439.1171875,
+        "y": 15.6015625,
+        "width": 41.765625,
+        "height": 95.9765625
+      },
+      "button": {
+        "x": 492.8828125,
+        "y": 41.5859375,
+        "width": 145.1171875,
+        "height": 44
+      },
+      "columns": [
+        141.125,
+        122.5078125,
+        157.484375,
+        234.8828125
+      ],
+      "texts": [
+        "Users \u0026 permissions",
+        "Users, roles, ownership, grants and row policies",
+        "Connected",
+        "Partially available",
+        "Visibility unconfirmed for 2 grant checks",
+        "Required permissions"
+      ]
+    },
+    {
+      "id": "en-656-3",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 105.8828125
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 105.125,
+        "height": 57.5859375
+      },
+      "connected": {
+        "x": 159.1484375,
+        "y": 40.59375,
+        "width": 86.4609375,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 304.265625,
+        "y": 40.59375,
+        "width": 76.2109375,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 439.1171875,
+        "y": 33.9921875,
+        "width": 198.8828125,
+        "height": 38.390625
+      },
+      "detailText": {
+        "x": 439.1171875,
+        "y": 33.9921875,
+        "width": 198.8828125,
+        "height": 38.390625
+      },
+      "button": null,
+      "columns": [
+        141.125,
+        122.5078125,
+        157.484375,
+        234.8828125
+      ],
+      "texts": [
+        "Related objects",
+        "Views, routines, triggers, sequences and user types",
+        "Connected",
+        "Available",
+        "Sample selected objects are readable",
+        null
+      ]
+    },
+    {
+      "id": "en-858-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 858,
+        "height": 87.1875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 211.8515625,
+        "height": 38.390625
+      },
+      "connected": {
+        "x": 265.96875,
+        "y": 30.9921875,
+        "width": 86.4609375,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 411.1796875,
+        "y": 30.9921875,
+        "width": 76.2109375,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 546.03125,
+        "y": 33.9921875,
+        "width": 293.96875,
+        "height": 19.1953125
+      },
+      "detailText": {
+        "x": 546.03125,
+        "y": 33.9921875,
+        "width": 293.96875,
+        "height": 19.1953125
+      },
+      "button": null,
+      "columns": [
+        247.8515625,
+        122.6953125,
+        157.484375,
+        329.96875
+      ],
+      "texts": [
+        "Data",
+        "All values, missing rows, duplicates and relationships",
+        "Connected",
+        "Available",
+        "Sample selected objects are readable",
+        null
+      ]
+    },
+    {
+      "id": "en-858-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 858,
+        "height": 87.1875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 211.8515625,
+        "height": 38.390625
+      },
+      "connected": {
+        "x": 265.96875,
+        "y": 30.9921875,
+        "width": 86.4609375,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 411.1796875,
+        "y": 30.9921875,
+        "width": 76.2109375,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 546.03125,
+        "y": 33.9921875,
+        "width": 293.96875,
+        "height": 19.1953125
+      },
+      "detailText": {
+        "x": 546.03125,
+        "y": 33.9921875,
+        "width": 293.96875,
+        "height": 19.1953125
+      },
+      "button": null,
+      "columns": [
+        247.8515625,
+        122.6953125,
+        157.484375,
+        329.96875
+      ],
+      "texts": [
+        "Schema \u0026 constraints",
+        "Columns, types, keys, constraints, indexes and partitions",
+        "Connected",
+        "Available",
+        "Sample selected objects are readable",
+        null
+      ]
+    },
+    {
+      "id": "en-858-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 858,
+        "height": 87.1875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 211.8515625,
+        "height": 38.390625
+      },
+      "connected": {
+        "x": 265.96875,
+        "y": 30.9921875,
+        "width": 86.4609375,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 388.546875,
+        "y": 30.9921875,
+        "width": 121.484375,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 546.03125,
+        "y": 21.59375,
+        "width": 293.96875,
+        "height": 44
+      },
+      "detailText": {
+        "x": 546.03125,
+        "y": 24.3984375,
+        "width": 136.8515625,
+        "height": 38.390625
+      },
+      "button": {
+        "x": 694.8828125,
+        "y": 21.59375,
+        "width": 145.1171875,
+        "height": 44
+      },
+      "columns": [
+        247.8515625,
+        122.6953125,
+        157.484375,
+        329.96875
+      ],
+      "texts": [
+        "Users \u0026 permissions",
+        "Users, roles, ownership, grants and row policies",
+        "Connected",
+        "Partially available",
+        "Visibility unconfirmed for 2 grant checks",
+        "Required permissions"
+      ]
+    },
+    {
+      "id": "en-858-3",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 858,
+        "height": 86.6875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 211.8515625,
+        "height": 38.390625
+      },
+      "connected": {
+        "x": 265.96875,
+        "y": 30.9921875,
+        "width": 86.4609375,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 411.1796875,
+        "y": 30.9921875,
+        "width": 76.2109375,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 546.03125,
+        "y": 33.9921875,
+        "width": 293.96875,
+        "height": 19.1953125
+      },
+      "detailText": {
+        "x": 546.03125,
+        "y": 33.9921875,
+        "width": 293.96875,
+        "height": 19.1953125
+      },
+      "button": null,
+      "columns": [
+        247.8515625,
+        122.6953125,
+        157.484375,
+        329.96875
+      ],
+      "texts": [
+        "Related objects",
+        "Views, routines, triggers, sequences and user types",
+        "Connected",
+        "Available",
+        "Sample selected objects are readable",
+        null
+      ]
+    },
+    {
+      "id": "en-904-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 87.1875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 236.1484375,
+        "height": 38.390625
+      },
+      "connected": {
+        "x": 290.28125,
+        "y": 30.9921875,
+        "width": 86.4609375,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 435.515625,
+        "y": 30.9921875,
+        "width": 76.2109375,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 570.3671875,
+        "y": 33.9921875,
+        "width": 315.6328125,
+        "height": 19.1953125
+      },
+      "detailText": {
+        "x": 570.3671875,
+        "y": 33.9921875,
+        "width": 315.6328125,
+        "height": 19.1953125
+      },
+      "button": null,
+      "columns": [
+        272.1484375,
+        122.734375,
+        157.484375,
+        351.6328125
+      ],
+      "texts": [
+        "Data",
+        "All values, missing rows, duplicates and relationships",
+        "Connected",
+        "Available",
+        "Sample selected objects are readable",
+        null
+      ]
+    },
+    {
+      "id": "en-904-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 87.1875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 236.1484375,
+        "height": 38.390625
+      },
+      "connected": {
+        "x": 290.28125,
+        "y": 30.9921875,
+        "width": 86.4609375,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 435.515625,
+        "y": 30.9921875,
+        "width": 76.2109375,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 570.3671875,
+        "y": 33.9921875,
+        "width": 315.6328125,
+        "height": 19.1953125
+      },
+      "detailText": {
+        "x": 570.3671875,
+        "y": 33.9921875,
+        "width": 315.6328125,
+        "height": 19.1953125
+      },
+      "button": null,
+      "columns": [
+        272.1484375,
+        122.734375,
+        157.484375,
+        351.6328125
+      ],
+      "texts": [
+        "Schema \u0026 constraints",
+        "Columns, types, keys, constraints, indexes and partitions",
+        "Connected",
+        "Available",
+        "Sample selected objects are readable",
+        null
+      ]
+    },
+    {
+      "id": "en-904-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 87.1875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 236.1484375,
+        "height": 38.390625
+      },
+      "connected": {
+        "x": 290.28125,
+        "y": 30.9921875,
+        "width": 86.4609375,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 412.8828125,
+        "y": 30.9921875,
+        "width": 121.484375,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 570.3671875,
+        "y": 21.59375,
+        "width": 315.6328125,
+        "height": 44
+      },
+      "detailText": {
+        "x": 570.3671875,
+        "y": 24.3984375,
+        "width": 158.515625,
+        "height": 38.390625
+      },
+      "button": {
+        "x": 740.8828125,
+        "y": 21.59375,
+        "width": 145.1171875,
+        "height": 44
+      },
+      "columns": [
+        272.1484375,
+        122.734375,
+        157.484375,
+        351.6328125
+      ],
+      "texts": [
+        "Users \u0026 permissions",
+        "Users, roles, ownership, grants and row policies",
+        "Connected",
+        "Partially available",
+        "Visibility unconfirmed for 2 grant checks",
+        "Required permissions"
+      ]
+    },
+    {
+      "id": "en-904-3",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 86.6875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 236.1484375,
+        "height": 38.390625
+      },
+      "connected": {
+        "x": 290.28125,
+        "y": 30.9921875,
+        "width": 86.4609375,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 435.515625,
+        "y": 30.9921875,
+        "width": 76.2109375,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 570.3671875,
+        "y": 33.9921875,
+        "width": 315.6328125,
+        "height": 19.1953125
+      },
+      "detailText": {
+        "x": 570.3671875,
+        "y": 33.9921875,
+        "width": 315.6328125,
+        "height": 19.1953125
+      },
+      "button": null,
+      "columns": [
+        272.1484375,
+        122.734375,
+        157.484375,
+        351.6328125
+      ],
+      "texts": [
+        "Related objects",
+        "Views, routines, triggers, sequences and user types",
+        "Connected",
+        "Available",
+        "Sample selected objects are readable",
+        null
+      ]
+    },
+    {
+      "id": "en-1118-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 1118,
+        "height": 67.9921875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 333.28125,
+        "height": 19.1953125
+      },
+      "connected": {
+        "x": 392.2421875,
+        "y": 21.3984375,
+        "width": 86.4609375,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 548.40625,
+        "y": 21.3984375,
+        "width": 76.2109375,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 689.359375,
+        "y": 24.3984375,
+        "width": 410.640625,
+        "height": 19.1953125
+      },
+      "detailText": {
+        "x": 689.359375,
+        "y": 24.3984375,
+        "width": 410.640625,
+        "height": 19.1953125
+      },
+      "button": null,
+      "columns": [
+        369.28125,
+        132.3828125,
+        169.6953125,
+        446.640625
+      ],
+      "texts": [
+        "Data",
+        "All values, missing rows, duplicates and relationships",
+        "Connected",
+        "Available",
+        "Sample selected objects are readable",
+        null
+      ]
+    },
+    {
+      "id": "en-1118-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 1118,
+        "height": 67.9921875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 333.28125,
+        "height": 19.1953125
+      },
+      "connected": {
+        "x": 392.2421875,
+        "y": 21.3984375,
+        "width": 86.4609375,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 548.40625,
+        "y": 21.3984375,
+        "width": 76.2109375,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 689.359375,
+        "y": 24.3984375,
+        "width": 410.640625,
+        "height": 19.1953125
+      },
+      "detailText": {
+        "x": 689.359375,
+        "y": 24.3984375,
+        "width": 410.640625,
+        "height": 19.1953125
+      },
+      "button": null,
+      "columns": [
+        369.28125,
+        132.3828125,
+        169.6953125,
+        446.640625
+      ],
+      "texts": [
+        "Schema \u0026 constraints",
+        "Columns, types, keys, constraints, indexes and partitions",
+        "Connected",
+        "Available",
+        "Sample selected objects are readable",
+        null
+      ]
+    },
+    {
+      "id": "en-1118-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 1118,
+        "height": 69
+      },
+      "description": {
+        "x": 18,
+        "y": 36.796875,
+        "width": 333.28125,
+        "height": 19.1953125
+      },
+      "connected": {
+        "x": 392.2421875,
+        "y": 21.8984375,
+        "width": 86.4609375,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 525.765625,
+        "y": 21.8984375,
+        "width": 121.484375,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 689.359375,
+        "y": 12.5,
+        "width": 410.640625,
+        "height": 44
+      },
+      "detailText": {
+        "x": 689.359375,
+        "y": 24.8984375,
+        "width": 253.5234375,
+        "height": 19.1953125
+      },
+      "button": {
+        "x": 954.8828125,
+        "y": 12.5,
+        "width": 145.1171875,
+        "height": 44
+      },
+      "columns": [
+        369.28125,
+        132.3828125,
+        169.6953125,
+        446.640625
+      ],
+      "texts": [
+        "Users \u0026 permissions",
+        "Users, roles, ownership, grants and row policies",
+        "Connected",
+        "Partially available",
+        "Visibility unconfirmed for 2 grant checks",
+        "Required permissions"
+      ]
+    },
+    {
+      "id": "en-1118-3",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 1118,
+        "height": 67.4921875
+      },
+      "description": {
+        "x": 18,
+        "y": 36.296875,
+        "width": 333.28125,
+        "height": 19.1953125
+      },
+      "connected": {
+        "x": 392.2421875,
+        "y": 21.3984375,
+        "width": 86.4609375,
+        "height": 25.1953125
+      },
+      "capability": {
+        "x": 548.40625,
+        "y": 21.3984375,
+        "width": 76.2109375,
+        "height": 25.1953125
+      },
+      "details": {
+        "x": 689.359375,
+        "y": 24.3984375,
+        "width": 410.640625,
+        "height": 19.1953125
+      },
+      "detailText": {
+        "x": 689.359375,
+        "y": 24.3984375,
+        "width": 410.640625,
+        "height": 19.1953125
+      },
+      "button": null,
+      "columns": [
+        369.28125,
+        132.3828125,
+        169.6953125,
+        446.640625
+      ],
+      "texts": [
+        "Related objects",
+        "Views, routines, triggers, sequences and user types",
+        "Connected",
+        "Available",
+        "Sample selected objects are readable",
+        null
+      ]
+    }
+  ],
+  "peers": [
+    {
+      "id": "ko-478-0",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 3,
+      "detailLines": [
+        "\uC120\uD0DD \uB300\uC0C1\uC758",
+        "\uC608\uC2DC \uC870\uD68C \uAC00",
+        "\uB2A5"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ko-478-1",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 3,
+      "detailLines": [
+        "\uC120\uD0DD \uB300\uC0C1\uC758",
+        "\uC608\uC2DC \uC870\uD68C \uAC00",
+        "\uB2A5"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ko-478-2",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 13,
+      "detailLines": [
+        "\uAD8C",
+        "\uD55C",
+        "\uC815",
+        "\uC758",
+        "2",
+        "\uAC1C",
+        "\uC870",
+        "\uD68C",
+        "\uBC94",
+        "\uC704",
+        "\uBBF8",
+        "\uD655",
+        "\uC778"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ko-478-3",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 3,
+      "detailLines": [
+        "\uC120\uD0DD \uB300\uC0C1\uC758",
+        "\uC608\uC2DC \uC870\uD68C \uAC00",
+        "\uB2A5"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ko-610-0",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ko-610-1",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ko-610-2",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 7,
+      "detailLines": [
+        "\uAD8C\uD55C",
+        "\uC815\uC758",
+        "2\uAC1C",
+        "\uC870\uD68C",
+        "\uBC94\uC704",
+        "\uBBF8\uD655",
+        "\uC778"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ko-610-3",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ko-656-0",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ko-656-1",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ko-656-2",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 3,
+      "detailLines": [
+        "\uAD8C\uD55C \uC815\uC758 2",
+        "\uAC1C \uC870\uD68C \uBC94",
+        "\uC704 \uBBF8\uD655\uC778"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ko-656-3",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ko-858-0",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ko-858-1",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ko-858-2",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "\uAD8C\uD55C \uC815\uC758 2\uAC1C \uC870\uD68C \uBC94\uC704 \uBBF8\uD655\uC778"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ko-858-3",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ko-904-0",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ko-904-1",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ko-904-2",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "\uAD8C\uD55C \uC815\uC758 2\uAC1C \uC870\uD68C \uBC94\uC704 \uBBF8\uD655\uC778"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ko-904-3",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ko-1118-0",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ko-1118-1",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ko-1118-2",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "\uAD8C\uD55C \uC815\uC758 2\uAC1C \uC870\uD68C \uBC94\uC704 \uBBF8\uD655\uC778"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ko-1118-3",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "\uC120\uD0DD \uB300\uC0C1\uC758 \uC608\uC2DC \uC870\uD68C \uAC00\uB2A5"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en-478-0",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 2,
+      "detailLines": [
+        "Sample selected objects are",
+        "readable"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en-478-1",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 2,
+      "detailLines": [
+        "Sample selected objects are",
+        "readable"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en-478-2",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 6,
+      "detailLines": [
+        "Visibility",
+        "unconfirmed",
+        "for",
+        "2",
+        "grant",
+        "checks"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en-478-3",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 2,
+      "detailLines": [
+        "Sample selected objects are",
+        "readable"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en-610-0",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 2,
+      "detailLines": [
+        "Sample selected objects are",
+        "readable"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en-610-1",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 2,
+      "detailLines": [
+        "Sample selected objects are",
+        "readable"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en-610-2",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 6,
+      "detailLines": [
+        "Visibility",
+        "unconfirmed",
+        "for",
+        "2",
+        "grant",
+        "checks"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en-610-3",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 2,
+      "detailLines": [
+        "Sample selected objects are",
+        "readable"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en-656-0",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 2,
+      "detailLines": [
+        "Sample selected objects are",
+        "readable"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en-656-1",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 2,
+      "detailLines": [
+        "Sample selected objects are",
+        "readable"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en-656-2",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 5,
+      "detailLines": [
+        "Visibility",
+        "unconfirmed",
+        "for 2",
+        "grant",
+        "checks"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en-656-3",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 2,
+      "detailLines": [
+        "Sample selected objects are",
+        "readable"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en-858-0",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "Sample selected objects are readable"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en-858-1",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "Sample selected objects are readable"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en-858-2",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 2,
+      "detailLines": [
+        "Visibility unconfirmed",
+        "for 2 grant checks"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en-858-3",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "Sample selected objects are readable"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en-904-0",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "Sample selected objects are readable"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en-904-1",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "Sample selected objects are readable"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en-904-2",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 2,
+      "detailLines": [
+        "Visibility unconfirmed for 2",
+        "grant checks"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en-904-3",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "Sample selected objects are readable"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en-1118-0",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "Sample selected objects are readable"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en-1118-1",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "Sample selected objects are readable"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en-1118-2",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "Visibility unconfirmed for 2 grant checks"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en-1118-3",
+      "type": "DataItem",
+      "role": "Row",
+      "detailLineCount": 1,
+      "detailLines": [
+        "Sample selected objects are readable"
+      ],
+      "cells": [
+        {
+          "role": "Cell",
+          "children": 2,
+          "contentChildren": [
+            1,
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        },
+        {
+          "role": "Cell",
+          "children": 1,
+          "contentChildren": [
+            1
+          ]
+        }
+      ]
+    }
+  ]
+}

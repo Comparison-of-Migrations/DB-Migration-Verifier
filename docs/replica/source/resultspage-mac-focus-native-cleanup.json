@@ -1,0 +1,10 @@
+{
+  "pid": 36047,
+  "nativeExitCode": 0,
+  "nativeProcessCount": 0,
+  "nativeWindowCount": 0,
+  "sourceTabClosed": true,
+  "sourceReuse": "resultspage-mac-focus-source.json/source-cleanup.json",
+  "time": "2026-10-08T15:59:09.296477+00:00",
+  "build": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/connection/resultspage/4e0d35ca1ebf4b6fb1232592df63797c"
+}

@@ -1,0 +1,49 @@
+Window: "CapabilityViewport Input · original isolation", App: Google Chrome.
+0 표준 윈도우 CapabilityViewport Input · original isolation - Chrome, URL: 10.211.55.2:8768/capabilityviewport-input.html?os=mac, Secondary Actions: Raise
+	1 container CapabilityViewport Input · original isolation - Chrome, URL: 10.211.55.2:8768/capabilityviewport-input.html?os=mac
+		2 container
+			3 도구 막대
+				4 버튼 (disabled) 뒤로
+				5 버튼 (disabled) 앞으로
+				6 버튼 새로고침
+				7 container
+					8 팝업 버튼 주의 요함
+					9 텍스트 필드 (settable) 주소창 및 검색창, Value: 10.211.55.2:8768/capabilityviewport-input.html?os=mac, Placeholder: Google에 물어보거나 URL을 입력하세요.
+					10 버튼 현재 탭을 북마크에 추가
+				11 팝업 버튼 확장 프로그램
+				12 버튼 나
+				13 팝업 버튼 Chrome
+			14 container
+				15 스크롤 영역
+					16 HTML 콘텐츠 CapabilityViewport Input · original isolation, URL: 10.211.55.2:8768/capabilityviewport-input.html?os=mac
+						17 container
+							18 버튼 Required permissions
+							19 버튼 reset
+							20 버튼 middle
+							21 버튼 child
+							22 버튼 focus child
+							23 버튼 fit
+							24 버튼 mount
+							25 버튼 Record Viewport Input
+			26 팝업 버튼 탭 검색
+			27 container
+				28 탭 그룹
+					29 탭 (selected, settable, boolean) CapabilityViewport Input · original isolation - 메모리 사용량 - 32.8MB, Value: on
+						30 버튼 닫기
+			31 버튼 새 탭
+	32 닫기 버튼
+	33 전체 화면 버튼 Help: 이 버튼을 누르면 윈도우를 확대/축소합니다., Secondary Actions: 윈도우 확대/축소
+	34 최소화 버튼
+35 menu bar
+	36 Chrome
+	37 파일
+	38 수정
+	39 보기
+	40 방문 기록
+	41 북마크
+	42 프로필
+	43 탭
+	44 창
+	45 도움말
+
+The focused UI element is 16 HTML 콘텐츠 CapabilityViewport Input · original isolation, URL: 10.211.55.2:8768/capabilityviewport-input.html?os=mac

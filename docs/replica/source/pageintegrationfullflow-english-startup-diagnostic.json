@@ -1,0 +1,57 @@
+{
+  "scope": "Current frozen EN launch12268 startup-only; no physical input and no managed branch failure inferred",
+  "launch": {
+    "pid": 12268,
+    "path": "C:\\Users\\youptebook\\AppData\\Local\\Temp\\DBMV-Isolated-connection-pageintegration-c14baa31227d4c4b9a391aba4d1fe4bc\\app\\ReplicaProbe.exe",
+    "rawExpectedPath": "C:\\Users\\YOUPTE~1\\AppData\\Local\\Temp\\DBMV-Isolated-connection-pageintegration-c14baa31227d4c4b9a391aba4d1fe4bc\\app\\ReplicaProbe.exe",
+    "output": "C:\\Users\\YOUPTE~1\\AppData\\Local\\Temp\\DBMV-Isolated-connection-pageintegration-c14baa31227d4c4b9a391aba4d1fe4bc\\app\\actual-fullflow-windows\\phase-4b777adfddd049ad998a8c0daacc2c8f",
+    "english": true,
+    "resumeTrial": false,
+    "startUtc": "2026-10-09T00:33:28.6755287Z",
+    "startupReady": null,
+    "traceRequested": false,
+    "startupDiagnostic": false,
+    "apphostSHA256": "9CCE8A1E2674EAD331CB8BE875A2D8799808E841235ADD1E5A8B4AD85F78FB48",
+    "nonce": "4b777adfddd049ad998a8c0daacc2c8f",
+    "binary": "78c6a3644a5244c9f4abe3fabbd2f15a91f901fb5539de9ca03fcc85f1334b5d"
+  },
+  "observation": {
+    "scope": "Fresh exact EN startup readonly before cleanup; physical input0",
+    "pid": 12268,
+    "path": "C:\\Users\\youptebook\\AppData\\Local\\Temp\\DBMV-Isolated-connection-pageintegration-c14baa31227d4c4b9a391aba4d1fe4bc\\app\\ReplicaProbe.exe",
+    "startUtc": "2026-10-09T00:33:28.6755287Z",
+    "observedUtc": "2026-10-09T00:35:44.5655973Z",
+    "mainWindowHandle": 0,
+    "mainWindowTitle": "",
+    "windowCount": 0,
+    "readyExists": false,
+    "modules": [
+      {
+        "name": "ReplicaProbe.exe",
+        "path": "C:\\Users\\youptebook\\AppData\\Local\\Temp\\DBMV-Isolated-connection-pageintegration-c14baa31227d4c4b9a391aba4d1fe4bc\\app\\ReplicaProbe.exe"
+      },
+      {
+        "name": "ntdll.dll",
+        "path": "C:\\WINDOWS\\SYSTEM32\\ntdll.dll"
+      },
+      {
+        "name": "xtajit64se.dll",
+        "path": "C:\\WINDOWS\\System32\\xtajit64se.dll"
+      }
+    ],
+    "moduleError": null,
+    "inputCount": 0
+  },
+  "cleanup": {
+    "pid": 12268,
+    "path": "C:\\Users\\youptebook\\AppData\\Local\\Temp\\DBMV-Isolated-connection-pageintegration-c14baa31227d4c4b9a391aba4d1fe4bc\\app\\ReplicaProbe.exe",
+    "created": "2026-10-09T00:33:28.6755287Z",
+    "process": 0,
+    "window": 0,
+    "inputCount": 0,
+    "method": "Fresh exact owned path/creation and PID scoped official EnumWindows; normalClose or noWindow/noReady guarded termination"
+  },
+  "pendingEnglishMilestones": 29,
+  "knownBoundary": "Only3 modules observed, no hostfxr/coreclr/managedwindow/ready. Earlier KO600 samefrozen ordinarybasename succeeded29; Englisharg handling managedcode not shown to run. Startup cause unknown. Broken startup-observe PS parse was helper-only before dispatch, now brace repaired with new parse coverage.",
+  "next": "Root-authorized samebytes current unique Flow apphost + scoped DOTNET_HOST_TRACE, canonical path/PID/creation/hash/title/ready/client guards unchanged; after Preflight finite cleanup. old828 untouched."
+}

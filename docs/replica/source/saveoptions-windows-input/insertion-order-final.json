@@ -1,0 +1,11 @@
+{
+  "selected": [
+    "csv",
+    "json"
+  ],
+  "changes": 5,
+  "focused": "json",
+  "focusVisible": false,
+  "english": false,
+  "downloadEnabled": true
+}

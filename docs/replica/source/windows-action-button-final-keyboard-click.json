@@ -1,0 +1,98 @@
+{
+  "clicked": 1,
+  "reduced": false,
+  "name": "\uB450 \uC5F0\uACB0 \uD655\uC778",
+  "samples": [
+    {
+      "elapsed": 16.8155,
+      "opacity": 0.9331605086806505,
+      "transform": "{ {M11:0.990451501240093 M12:0} {M21:0 M22:0.990451501240093} {M31:0 M32:0} }",
+      "pressed": false,
+      "focused": true
+    },
+    {
+      "elapsed": 37.6055,
+      "opacity": 0.8931823967972432,
+      "transform": "{ {M11:0.9847403423996062 M12:0} {M21:0 M22:0.9847403423996062} {M31:0 M32:0} }",
+      "pressed": false,
+      "focused": true
+    },
+    {
+      "elapsed": 58.003,
+      "opacity": 0.8838999951928422,
+      "transform": "{ {M11:0.9834142850275489 M12:0} {M21:0 M22:0.9834142850275489} {M31:0 M32:0} }",
+      "pressed": false,
+      "focused": true
+    },
+    {
+      "elapsed": 74.9996,
+      "opacity": 0.9158265134869722,
+      "transform": "{ {M11:0.9879752162124246 M12:0} {M21:0 M22:0.9879752162124246} {M31:0 M32:0} }",
+      "pressed": false,
+      "focused": true
+    },
+    {
+      "elapsed": 90.4251,
+      "opacity": 0.942892590380965,
+      "transform": "{ {M11:0.9918417986258521 M12:0} {M21:0 M22:0.9918417986258521} {M31:0 M32:0} }",
+      "pressed": false,
+      "focused": true
+    },
+    {
+      "elapsed": 107.88,
+      "opacity": 0.9689107028288846,
+      "transform": "{ {M11:0.9955586718326978 M12:0} {M21:0 M22:0.9955586718326978} {M31:0 M32:0} }",
+      "pressed": false,
+      "focused": true
+    },
+    {
+      "elapsed": 125.2916,
+      "opacity": 0.9870727222853518,
+      "transform": "{ {M11:0.9981532460407645 M12:0} {M21:0 M22:0.9981532460407645} {M31:0 M32:0} }",
+      "pressed": false,
+      "focused": true
+    },
+    {
+      "elapsed": 143.4948,
+      "opacity": 0.9975965737841317,
+      "transform": "{ {M11:0.9996566533977331 M12:0} {M21:0 M22:0.9996566533977331} {M31:0 M32:0} }",
+      "pressed": false,
+      "focused": true
+    },
+    {
+      "elapsed": 159.5503,
+      "opacity": 1,
+      "transform": "{ {M11:1 M12:0} {M21:0 M22:1} {M31:0 M32:0} }",
+      "pressed": false,
+      "focused": true
+    },
+    {
+      "elapsed": 197.031,
+      "opacity": 1,
+      "transform": "{ {M11:1 M12:0} {M21:0 M22:1} {M31:0 M32:0} }",
+      "pressed": false,
+      "focused": true
+    },
+    {
+      "elapsed": 213.7202,
+      "opacity": 1,
+      "transform": "{ {M11:1 M12:0} {M21:0 M22:1} {M31:0 M32:0} }",
+      "pressed": false,
+      "focused": true
+    },
+    {
+      "elapsed": 230.3316,
+      "opacity": 1,
+      "transform": "{ {M11:1 M12:0} {M21:0 M22:1} {M31:0 M32:0} }",
+      "pressed": false,
+      "focused": true
+    },
+    {
+      "elapsed": 247.108,
+      "opacity": 1,
+      "transform": "{ {M11:1 M12:0} {M21:0 M22:1} {M31:0 M32:0} }",
+      "pressed": false,
+      "focused": true
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "dpr": 2,
+  "rows": [
+    {
+      "id": "ko-438",
+      "root": {
+        "x": 0,
+        "y": 14,
+        "width": 438,
+        "height": 38.390625
+      },
+      "icon": {
+        "box": {
+          "x": 0,
+          "y": 25.6953125,
+          "width": 15,
+          "height": 15
+        },
+        "stroke": "rgb(181, 186, 193)",
+        "strokeWidth": "1.7px"
+      },
+      "text": {
+        "box": {
+          "x": 23,
+          "y": 14,
+          "width": 415,
+          "height": 38.390625
+        },
+        "text": "\uC800\uC7A5\uD55C \uACB0\uACFC JSON\uC740 DB \uC5F0\uACB0\uC774\uB098 \uC0C8 \uAC80\uC0AC \uC5C6\uC774 \uBC14\uB85C \uC5F4\uC5B4 \uD655\uC778\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4.",
+        "color": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-600",
+      "root": {
+        "x": 0,
+        "y": 14,
+        "width": 600,
+        "height": 19.1953125
+      },
+      "icon": {
+        "box": {
+          "x": 0,
+          "y": 16.09375,
+          "width": 15,
+          "height": 15
+        },
+        "stroke": "rgb(181, 186, 193)",
+        "strokeWidth": "1.7px"
+      },
+      "text": {
+        "box": {
+          "x": 23,
+          "y": 14,
+          "width": 422.15625,
+          "height": 19.1953125
+        },
+        "text": "\uC800\uC7A5\uD55C \uACB0\uACFC JSON\uC740 DB \uC5F0\uACB0\uC774\uB098 \uC0C8 \uAC80\uC0AC \uC5C6\uC774 \uBC14\uB85C \uC5F4\uC5B4 \uD655\uC778\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4.",
+        "color": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-744",
+      "root": {
+        "x": 0,
+        "y": 14,
+        "width": 744,
+        "height": 19.1953125
+      },
+      "icon": {
+        "box": {
+          "x": 0,
+          "y": 16.09375,
+          "width": 15,
+          "height": 15
+        },
+        "stroke": "rgb(181, 186, 193)",
+        "strokeWidth": "1.7px"
+      },
+      "text": {
+        "box": {
+          "x": 23,
+          "y": 14,
+          "width": 422.15625,
+          "height": 19.1953125
+        },
+        "text": "\uC800\uC7A5\uD55C \uACB0\uACFC JSON\uC740 DB \uC5F0\uACB0\uC774\uB098 \uC0C8 \uAC80\uC0AC \uC5C6\uC774 \uBC14\uB85C \uC5F4\uC5B4 \uD655\uC778\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4.",
+        "color": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "ko-980",
+      "root": {
+        "x": 0,
+        "y": 14,
+        "width": 980,
+        "height": 19.1953125
+      },
+      "icon": {
+        "box": {
+          "x": 0,
+          "y": 16.09375,
+          "width": 15,
+          "height": 15
+        },
+        "stroke": "rgb(181, 186, 193)",
+        "strokeWidth": "1.7px"
+      },
+      "text": {
+        "box": {
+          "x": 23,
+          "y": 14,
+          "width": 422.15625,
+          "height": 19.1953125
+        },
+        "text": "\uC800\uC7A5\uD55C \uACB0\uACFC JSON\uC740 DB \uC5F0\uACB0\uC774\uB098 \uC0C8 \uAC80\uC0AC \uC5C6\uC774 \uBC14\uB85C \uC5F4\uC5B4 \uD655\uC778\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4.",
+        "color": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-438",
+      "root": {
+        "x": 0,
+        "y": 14,
+        "width": 438,
+        "height": 38.390625
+      },
+      "icon": {
+        "box": {
+          "x": 0,
+          "y": 25.6953125,
+          "width": 15,
+          "height": 15
+        },
+        "stroke": "rgb(181, 186, 193)",
+        "strokeWidth": "1.7px"
+      },
+      "text": {
+        "box": {
+          "x": 23,
+          "y": 14,
+          "width": 415,
+          "height": 38.390625
+        },
+        "text": "Open a saved result JSON without connecting to a DB or running a new check.",
+        "color": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-600",
+      "root": {
+        "x": 0,
+        "y": 14,
+        "width": 600,
+        "height": 19.1953125
+      },
+      "icon": {
+        "box": {
+          "x": 0,
+          "y": 16.09375,
+          "width": 15,
+          "height": 15
+        },
+        "stroke": "rgb(181, 186, 193)",
+        "strokeWidth": "1.7px"
+      },
+      "text": {
+        "box": {
+          "x": 23,
+          "y": 14,
+          "width": 435.28125,
+          "height": 19.1953125
+        },
+        "text": "Open a saved result JSON without connecting to a DB or running a new check.",
+        "color": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-744",
+      "root": {
+        "x": 0,
+        "y": 14,
+        "width": 744,
+        "height": 19.1953125
+      },
+      "icon": {
+        "box": {
+          "x": 0,
+          "y": 16.09375,
+          "width": 15,
+          "height": 15
+        },
+        "stroke": "rgb(181, 186, 193)",
+        "strokeWidth": "1.7px"
+      },
+      "text": {
+        "box": {
+          "x": 23,
+          "y": 14,
+          "width": 435.28125,
+          "height": 19.1953125
+        },
+        "text": "Open a saved result JSON without connecting to a DB or running a new check.",
+        "color": "rgb(181, 186, 193)"
+      }
+    },
+    {
+      "id": "en-980",
+      "root": {
+        "x": 0,
+        "y": 14,
+        "width": 980,
+        "height": 19.1953125
+      },
+      "icon": {
+        "box": {
+          "x": 0,
+          "y": 16.09375,
+          "width": 15,
+          "height": 15
+        },
+        "stroke": "rgb(181, 186, 193)",
+        "strokeWidth": "1.7px"
+      },
+      "text": {
+        "box": {
+          "x": 23,
+          "y": 14,
+          "width": 435.28125,
+          "height": 19.1953125
+        },
+        "text": "Open a saved result JSON without connecting to a DB or running a new check.",
+        "color": "rgb(181, 186, 193)"
+      }
+    }
+  ],
+  "lifecycle": [
+    {
+      "english": false,
+      "attached": true,
+      "children": 2,
+      "row": {
+        "id": "ko-600",
+        "root": {
+          "x": 0,
+          "y": 14,
+          "width": 600,
+          "height": 19.1953125
+        },
+        "icon": {
+          "box": {
+            "x": 0,
+            "y": 16.09375,
+            "width": 15,
+            "height": 15
+          },
+          "stroke": "rgb(181, 186, 193)",
+          "strokeWidth": "1.7px"
+        },
+        "text": {
+          "box": {
+            "x": 23,
+            "y": 14,
+            "width": 422.15625,
+            "height": 19.1953125
+          },
+          "text": "\uC800\uC7A5\uD55C \uACB0\uACFC JSON\uC740 DB \uC5F0\uACB0\uC774\uB098 \uC0C8 \uAC80\uC0AC \uC5C6\uC774 \uBC14\uB85C \uC5F4\uC5B4 \uD655\uC778\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4.",
+          "color": "rgb(181, 186, 193)"
+        }
+      }
+    },
+    {
+      "english": true,
+      "attached": true,
+      "children": 2,
+      "row": {
+        "id": "en-600",
+        "root": {
+          "x": 0,
+          "y": 14,
+          "width": 600,
+          "height": 19.1953125
+        },
+        "icon": {
+          "box": {
+            "x": 0,
+            "y": 16.09375,
+            "width": 15,
+            "height": 15
+          },
+          "stroke": "rgb(181, 186, 193)",
+          "strokeWidth": "1.7px"
+        },
+        "text": {
+          "box": {
+            "x": 23,
+            "y": 14,
+            "width": 435.28125,
+            "height": 19.1953125
+          },
+          "text": "Open a saved result JSON without connecting to a DB or running a new check.",
+          "color": "rgb(181, 186, 193)"
+        }
+      }
+    },
+    {
+      "english": false,
+      "attached": true,
+      "children": 2,
+      "row": {
+        "id": "ko-600",
+        "root": {
+          "x": 0,
+          "y": 14,
+          "width": 600,
+          "height": 19.1953125
+        },
+        "icon": {
+          "box": {
+            "x": 0,
+            "y": 16.09375,
+            "width": 15,
+            "height": 15
+          },
+          "stroke": "rgb(181, 186, 193)",
+          "strokeWidth": "1.7px"
+        },
+        "text": {
+          "box": {
+            "x": 23,
+            "y": 14,
+            "width": 422.15625,
+            "height": 19.1953125
+          },
+          "text": "\uC800\uC7A5\uD55C \uACB0\uACFC JSON\uC740 DB \uC5F0\uACB0\uC774\uB098 \uC0C8 \uAC80\uC0AC \uC5C6\uC774 \uBC14\uB85C \uC5F4\uC5B4 \uD655\uC778\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4.",
+          "color": "rgb(181, 186, 193)"
+        }
+      }
+    }
+  ]
+}

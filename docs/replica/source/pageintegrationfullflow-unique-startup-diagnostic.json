@@ -1,0 +1,46 @@
+{
+  "scope": "Historical59e unique same-bytes apphost startup-only; no physical input, not current product proof",
+  "pid": 6360,
+  "path": "C:\\Users\\YOUPTE~1\\AppData\\Local\\Temp\\DBMV-Isolated-connection-pageintegration-59e66aab27d742c7ab0dcd3fbee4347a\\app\\DBMV-Connection-59e-1b135753dc71428593cf736ce8cc2487.exe",
+  "binarySha256": "4b292ee9efb62f3933dcf1ec206e504d65a8df14e2e202f9e7fed1f5373d81ad",
+  "startUtc": "2026-10-09T00:01:11.8322021Z",
+  "initialBoundedObservation": {
+    "ready": false,
+    "hasExited": false,
+    "mainWindowHandle": 7931162,
+    "exitCode": null,
+    "observedFileWriteUtc": "2026-10-09T00:01:21.7526982Z",
+    "loadedModuleCount": 114,
+    "moduleError": null,
+    "namedUniqueDiagnostics": []
+  },
+  "laterReady": {
+    "fileWriteUtc": "2026-10-09T00:01:25.7969586Z",
+    "secondsAfterProcessStart": 13.964756,
+    "readyState": {
+      "phase": "ACTUAL_OS_READY",
+      "english": false,
+      "resumeTrial": true,
+      "dpr": 2,
+      "headless": false,
+      "scope": "Read-only actual App/MainWindow observer; physical input must come from a guarded external actor"
+    }
+  },
+  "trace": {
+    "path": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/connection/pageintegration/59e66aab27d742c7ab0dcd3fbee4347a/actual-fullflow-windows/phase-1b135753dc71428593cf736ce8cc2487/host-trace.log",
+    "sha256": "14167cf6c26fe4e00beb3a6f56263f03b307a6317b83a1068232b502b69f806d",
+    "hostfxrLoaded": true,
+    "hostpolicyLoaded": true,
+    "coreclrLoaded": true,
+    "managedAssemblyExit0": true
+  },
+  "cleanup": {
+    "pid": 6360,
+    "path": "C:\\Users\\YOUPTE~1\\AppData\\Local\\Temp\\DBMV-Isolated-connection-pageintegration-59e66aab27d742c7ab0dcd3fbee4347a\\app\\DBMV-Connection-59e-1b135753dc71428593cf736ce8cc2487.exe",
+    "process": 0,
+    "window": 0
+  },
+  "inputCount": 0,
+  "diagnosticGuard": "No-window stop guard rejected changed ready/window precondition; no stop emitted. Fresh exact owned App window normal WindowPattern.Close succeeded. Failed guard is observer state progression, not product error. Unknown earlier startup cause remains unproved.",
+  "conclusion": "This launch progressed into managed App and saved ACTUAL_OS_READY after13.9647565s, then exited0 on normal close. A finite30s ready bound is evidence-based for next current actual launch; readiness+exactPID/path/window must precede Fit/input. No loader error/system-dialog attribution from absent initialready."
+}

@@ -1,0 +1,146 @@
+Window: "DB-Migration-Verifier", App: DB-Migration-Verifier.
+0 standard window DB-Migration-Verifier, Secondary Actions: Raise
+	1 container WindowChrome, ID: AvaloniaWindowChrome
+	2 container
+		3 container
+			4 container
+				5 text DB-Migration-Verifier
+				6 text Synthetic example · no actual DB
+				7 button 한국어 / EN, ID: language
+			8 container
+				9 text Migration comparison
+				10 button Connect databases
+					11 container
+						12 text 1
+						13 text Connect databases
+				14 button (disabled) Preflight
+					15 container
+						16 text 2
+						17 text Preflight
+				18 button (disabled) Select checks
+					19 container
+						20 text 3
+						21 text Select checks
+				22 button (disabled) Review
+					23 container
+						24 text 4
+						25 text Review
+				26 button (disabled) Progress
+					27 container
+						28 text 5
+						29 text Progress
+				30 button Results
+					31 container
+						32 text 6
+						33 text Results
+				34 button (disabled) Save results
+					35 container
+						36 text 7
+						37 text Save results
+				38 text Read-only comparison
+				39 text No source/target writes.
+Behavior tests require a separate test DB.
+				40 checkbox Reduce motion, Value: off, ID: motion
+					41 container RootGrid
+						42 container
+							43 container
+			44 container
+				45 text Synthetic example · separate from actual DB results.
+			46 scroll area
+				47 container
+					48 container
+						49 text Differences found
+						50 text Review differences and gaps together. Excluded scope is never marked as verified.
+						51 container
+							52 text Executed synthetic example. Not an actual user database result.
+						53 container
+							54 text Different checks
+							55 text 1
+						56 container
+							57 text Unknown / unverified
+							58 text 9
+						59 container
+							60 text Equal checks
+							61 text 0
+						62 container
+							63 text Run ID
+							64 text ca5af0d111ab
+						65 text Comparison by category
+						66 container
+							67 container
+								68 text Category
+								69 text Different
+								70 text Unknown / unverified
+								71 text Equal
+								72 text
+							73 button Data details
+								74 container
+									75 text Data
+									76 text Executed and unverified scope
+									77 text 1
+									78 text 1
+									79 text 0
+							80 button Schema & constraints details
+								81 container
+									82 text Schema & constraints
+									83 text Executed and unverified scope
+									84 text 0
+									85 text 3
+									86 text 0
+							87 button Users & access details
+								88 container
+									89 text Users & access
+									90 text Not started / unverified
+									91 text 0
+									92 text 2
+									93 text 0
+							94 button Related objects details
+								95 container
+									96 text Related objects
+									97 text Not started / unverified
+									98 text 0
+									99 text 3
+									100 text 0
+						101 text Equal lengths mean equal numbers of check IDs. A check may have both differences and unknown scope. Bars are independent, not a total or DB success rate.
+						102 text Excluded: Separate DB behavior
+						103 container
+							104 text Separate DB behavior test
+							105 text Not selected · pending
+						106 text Value: Differences and visibility limits, ID: result-detail
+						107 button All
+						108 button Different
+						109 button Unverified
+						110 content list
+							111 scroll area PART_ScrollViewer
+								112 container
+									113 row (selectable) Avalonia.Controls.Border
+										114 container
+											115 text DATA-01 · RP-D01
+											116 text Different
+											117 text demo.entries · Source-only row × 2
+											118 text Internal ID: 591182ff80414f5e9365c636fbad6465
+											119 text demo.entries · Target-only row × 2
+											120 text Internal ID: 5a6fb6dd28604dfd80a9eba28316678c
+						121 text Row values, keys and principal names are excluded. Selected tables: demo.entries
+						122 button Research mapping
+					123 scroll bar (settable, float) Value: 0, ID: PART_VerticalScrollBar
+						124 container
+							125 button Line up, ID: PART_LineUpButton
+							126 button Page up, ID: PART_PageUpButton
+							127 button Page down, ID: PART_PageDownButton
+							128 handle Position
+							129 button Line down, ID: PART_LineDownButton
+			130 container
+				131 button Full new check
+					132 container
+						133 text Full new check
+				134 text Keep verified scope and reasons for gaps together.
+				135 button Save results
+					136 container
+						137 text Save results
+	138 close button
+	139 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	140 minimize button
+	141 text DB-Migration-Verifier
+142 menu bar
+	143 DB-Migration-Verifier

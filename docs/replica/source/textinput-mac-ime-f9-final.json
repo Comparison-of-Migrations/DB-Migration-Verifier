@@ -1,0 +1,386 @@
+{
+  "utc": "2026-10-06T06:54:42.062274Z",
+  "keys": [
+    {
+      "key": "F6",
+      "modifiers": "None",
+      "eventType": "KeyDown",
+      "source": "WebTextInput",
+      "handled": false
+    },
+    {
+      "key": "F6",
+      "modifiers": "None",
+      "eventType": "KeyUp",
+      "source": "WebTextInput",
+      "handled": false
+    },
+    {
+      "key": "A",
+      "modifiers": "Meta",
+      "eventType": "KeyDown",
+      "source": "WebTextInput",
+      "handled": true
+    },
+    {
+      "key": "A",
+      "modifiers": "Meta",
+      "eventType": "KeyDown",
+      "source": "WebTextInput",
+      "handled": true
+    },
+    {
+      "key": "A",
+      "modifiers": "Meta",
+      "eventType": "KeyUp",
+      "source": "WebTextInput",
+      "handled": false
+    },
+    {
+      "key": "A",
+      "modifiers": "None",
+      "eventType": "KeyUp",
+      "source": "WebTextInput",
+      "handled": false
+    },
+    {
+      "key": "A",
+      "modifiers": "Meta",
+      "eventType": "KeyDown",
+      "source": "WebTextInput",
+      "handled": true
+    },
+    {
+      "key": "V",
+      "modifiers": "Meta",
+      "eventType": "KeyDown",
+      "source": "WebTextInput",
+      "handled": true
+    },
+    {
+      "key": "V",
+      "modifiers": "Meta",
+      "eventType": "KeyUp",
+      "source": "WebTextInput",
+      "handled": false
+    },
+    {
+      "key": "A",
+      "modifiers": "None",
+      "eventType": "KeyUp",
+      "source": "WebTextInput",
+      "handled": false
+    },
+    {
+      "key": "Tab",
+      "modifiers": "None",
+      "eventType": "KeyDown",
+      "source": "WebTextInput",
+      "handled": true
+    },
+    {
+      "key": "Tab",
+      "modifiers": "None",
+      "eventType": "KeyUp",
+      "source": "WebTextInput",
+      "handled": false
+    },
+    {
+      "key": "A",
+      "modifiers": "Shift",
+      "eventType": "KeyDown",
+      "source": "WebTextInput",
+      "handled": false
+    },
+    {
+      "key": "Tab",
+      "modifiers": "Shift",
+      "eventType": "KeyDown",
+      "source": "WebTextInput",
+      "handled": true
+    },
+    {
+      "key": "Tab",
+      "modifiers": "Shift",
+      "eventType": "KeyUp",
+      "source": "WebTextInput",
+      "handled": false
+    },
+    {
+      "key": "A",
+      "modifiers": "None",
+      "eventType": "KeyUp",
+      "source": "WebTextInput",
+      "handled": false
+    },
+    {
+      "key": "Right",
+      "modifiers": "None",
+      "eventType": "KeyDown",
+      "source": "WebTextInput",
+      "handled": false
+    },
+    {
+      "key": "Right",
+      "modifiers": "None",
+      "eventType": "KeyUp",
+      "source": "WebTextInput",
+      "handled": false
+    },
+    {
+      "key": "F12",
+      "modifiers": "None",
+      "eventType": "KeyDown",
+      "source": "WebTextInput",
+      "handled": false
+    },
+    {
+      "key": "F12",
+      "modifiers": "None",
+      "eventType": "KeyUp",
+      "source": "WebTextInput",
+      "handled": false
+    },
+    {
+      "key": "F9",
+      "modifiers": "None",
+      "eventType": "KeyDown",
+      "source": "WebTextInput",
+      "handled": false
+    },
+    {
+      "key": "F9",
+      "modifiers": "None",
+      "eventType": "KeyUp",
+      "source": "WebTextInput",
+      "handled": false
+    }
+  ],
+  "changes": [
+    {
+      "id": 0,
+      "property": "IsFocused",
+      "start": 0,
+      "end": 0,
+      "caret": 0
+    },
+    {
+      "id": 0,
+      "property": "SelectionStart",
+      "start": 22,
+      "end": 0,
+      "caret": 0
+    },
+    {
+      "id": 0,
+      "property": "CaretIndex",
+      "start": 22,
+      "end": 22,
+      "caret": 22
+    },
+    {
+      "id": 0,
+      "property": "SelectionEnd",
+      "start": 22,
+      "end": 22,
+      "caret": 22
+    },
+    {
+      "id": 0,
+      "property": "SelectionStart",
+      "start": 0,
+      "end": 22,
+      "caret": 22
+    },
+    {
+      "id": 0,
+      "property": "Text",
+      "start": 0,
+      "end": 22,
+      "caret": 22
+    },
+    {
+      "id": 0,
+      "property": "SelectionEnd",
+      "start": 0,
+      "end": 0,
+      "caret": 0
+    },
+    {
+      "id": 0,
+      "property": "CaretIndex",
+      "start": 0,
+      "end": 0,
+      "caret": 0
+    },
+    {
+      "id": 0,
+      "property": "SelectionStart",
+      "start": 105,
+      "end": 0,
+      "caret": 105
+    },
+    {
+      "id": 0,
+      "property": "SelectionEnd",
+      "start": 105,
+      "end": 105,
+      "caret": 105
+    },
+    {
+      "id": 0,
+      "property": "CaretIndex",
+      "start": 105,
+      "end": 105,
+      "caret": 105
+    },
+    {
+      "id": 0,
+      "property": "IsFocused",
+      "start": 105,
+      "end": 105,
+      "caret": 105
+    },
+    {
+      "id": 1,
+      "property": "IsFocused",
+      "start": 0,
+      "end": 0,
+      "caret": 0
+    },
+    {
+      "id": 1,
+      "property": "IsFocused",
+      "start": 0,
+      "end": 0,
+      "caret": 0
+    },
+    {
+      "id": 0,
+      "property": "IsFocused",
+      "start": 105,
+      "end": 105,
+      "caret": 105
+    },
+    {
+      "id": 0,
+      "property": "SelectionStart",
+      "start": 0,
+      "end": 105,
+      "caret": 105
+    },
+    {
+      "id": 0,
+      "property": "SelectionStart",
+      "start": 105,
+      "end": 105,
+      "caret": 105
+    },
+    {
+      "id": 0,
+      "property": "IsFocused",
+      "start": 105,
+      "end": 105,
+      "caret": 105
+    },
+    {
+      "id": 0,
+      "property": "IsFocused",
+      "start": 105,
+      "end": 105,
+      "caret": 105
+    }
+  ],
+  "selectAll": [
+    "Cmd\u002BA"
+  ],
+  "rows": [
+    {
+      "id": 0,
+      "text": "sample.sample.sample.sample.sample.sample.sample.sample.sample.sample.sample.sample.sample.sample.sample.",
+      "enabled": true,
+      "focused": true,
+      "selectionStart": 105,
+      "selectionEnd": 105,
+      "caret": 105,
+      "geometry": {
+        "width": 238,
+        "textWidth": 768.438125,
+        "preedit": "\u3131",
+        "showSelection": true,
+        "caretRect": {
+          "x": 767,
+          "y": 3.5,
+          "width": 1,
+          "height": 16.5
+        },
+        "blinkInterval": 500,
+        "offset": 556.5,
+        "viewport": 212,
+        "extent": 768.5,
+        "border": "#ffa0aaed",
+        "selectionBrush": "#cc3f638b",
+        "reduced": false
+      },
+      "editorAttached": true
+    },
+    {
+      "id": 1,
+      "text": null,
+      "enabled": true,
+      "focused": false,
+      "selectionStart": 0,
+      "selectionEnd": 0,
+      "caret": 0,
+      "geometry": {
+        "width": 380,
+        "textWidth": 0,
+        "preedit": null,
+        "showSelection": false,
+        "caretRect": {
+          "x": 0,
+          "y": 4,
+          "width": 1,
+          "height": 15
+        },
+        "blinkInterval": 500,
+        "offset": 0,
+        "viewport": 294,
+        "extent": 294,
+        "border": "#ff7c838c",
+        "selectionBrush": "#cc3f638b",
+        "reduced": false
+      },
+      "editorAttached": true
+    },
+    {
+      "id": 2,
+      "text": null,
+      "enabled": false,
+      "focused": false,
+      "selectionStart": 0,
+      "selectionEnd": 0,
+      "caret": 0,
+      "geometry": {
+        "width": 366,
+        "textWidth": 0,
+        "preedit": null,
+        "showSelection": false,
+        "caretRect": {
+          "x": 0,
+          "y": 3.5,
+          "width": 1,
+          "height": 16.5
+        },
+        "blinkInterval": 500,
+        "offset": 0,
+        "viewport": 340,
+        "extent": 340,
+        "border": "#ff7c838c",
+        "selectionBrush": "#cc3f638b",
+        "reduced": false
+      },
+      "editorAttached": true
+    }
+  ]
+}

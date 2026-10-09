@@ -1,0 +1,26 @@
+[
+  {
+    "checked": true,
+    "focusVisible": true,
+    "focused": true,
+    "name": "SQL Server"
+  },
+  {
+    "checked": false,
+    "focusVisible": false,
+    "focused": false,
+    "name": "PostgreSQL"
+  },
+  {
+    "checked": false,
+    "focusVisible": false,
+    "focused": false,
+    "name": "MySQL"
+  },
+  {
+    "checked": false,
+    "focusVisible": false,
+    "focused": false,
+    "name": "MariaDB"
+  }
+]

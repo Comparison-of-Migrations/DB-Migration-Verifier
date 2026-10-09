@@ -1,0 +1,10 @@
+{
+  "cases": 80,
+  "lifecycle": 3,
+  "inputs": 10,
+  "deferred": [
+    "inline Notice strong glyph bounds/baseline paint",
+    "actual OS input/accessibility/motion"
+  ],
+  "errors": []
+}

@@ -1,0 +1,17 @@
+{
+  "scope": "completed own source tabs after MASTER_RULES14",
+  "ownHistoricalTabs": [
+    "15",
+    "16",
+    "17",
+    "18"
+  ],
+  "ownHistoricalBrowser": "3",
+  "availableBrowserInventory": "Chrome1 only; no IAB browser listed",
+  "scopedListResult": "Browser is not available: 3",
+  "newTabsCreated": 0,
+  "otherUserTabsClosed": 0,
+  "rootNotified": true,
+  "nativeActualCleanup": "artifacts/replica/workers/preflight/capabilitytable/247e88584c8f4b35b95ab4b7762b94ca/actual-macos/input/cleanup.json",
+  "claim": "Historical IAB tabs are unavailable, not individually closed by this cleanup observation. Native own Window/process0 separately verified."
+}

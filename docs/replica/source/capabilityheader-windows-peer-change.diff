@@ -1,0 +1,19 @@
+--- Mac-verified-c3
++++ Windows-peer-repair-6a
+@@ -26,6 +26,7 @@
+         _surface.IsHitTestVisible=false;AutomationProperties.SetAccessibilityView(_surface,AccessibilityView.Raw);Children.Add(_surface);
+         var labels=Enumerable.Range(0,4).Select(_=>WebTypography.CreateCandidate("",12,19.2,Brush.Parse("#b5bac1"),600)).ToArray();Labels=labels;
+         AddHandler(InputElement.PointerPressedEvent,(_,e)=>{if(e.GetCurrentPoint(this).Properties.IsLeftButtonPressed)TopLevel.GetTopLevel(this)?.FocusManager?.Focus(null,NavigationMethod.Pointer);},RoutingStrategies.Tunnel,true);
++        if(OperatingSystem.IsWindows())foreach(var label in labels)AutomationProperties.SetAccessibilityView(label,AccessibilityView.Raw);
+         Cells=labels.Select((label,index)=>new HeaderCell(label,index)).ToArray();foreach(var cell in Cells)Children.Add(cell);SetEnglish(false);
+     }
+     public void SetEnglish(bool english){English=english;var text=english?new[]{"Category","Source / target","Capability","Details"}:new[]{"검사 분류","원본 / 대상","검사 가능 범위","안내"};for(var i=0;i<4;i++)Labels[i].Text=text[i];InvalidateMeasure();}
+@@ -54,6 +55,8 @@
+         protected override AutomationPeer OnCreateAutomationPeer()=>new HeaderCellPeer(this);
+         private sealed class HeaderCellPeer(HeaderCell cell):ControlAutomationPeer(cell)
+         {
++            protected override string? GetNameCore()=>OperatingSystem.IsWindows()?((WebSystemTextBlock)cell.Children[0]).Text??"":base.GetNameCore();
++            protected override IReadOnlyList<AutomationPeer>? GetChildrenCore()=>OperatingSystem.IsWindows()?Array.Empty<AutomationPeer>():base.GetChildrenCore();
+             protected override AutomationControlType GetAutomationControlTypeCore()=>AutomationControlType.HeaderItem;
+             protected override string GetClassNameCore()=>"ColumnHeader";
+             protected override string GetLocalizedControlTypeCore()=>"column header";

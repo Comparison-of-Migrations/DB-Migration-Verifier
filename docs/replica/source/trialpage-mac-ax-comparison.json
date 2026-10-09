@@ -1,0 +1,35 @@
+{
+  "cases": [
+    {
+      "language": "ko",
+      "rows": 4,
+      "cells": 12,
+      "positiveBounds": true,
+      "namedHeading": 4,
+      "fields": 4,
+      "consent": 1,
+      "sourcePath": "artifacts/replica/workers/home/trialpage/d1b71f23922b441fa669d37e26dd9e0d/actual-macos/source-ko-ax.json",
+      "nativeTableRole": "AXTable",
+      "sourceRowRole": "AXRow",
+      "nativeRowRole": "AXCell",
+      "nativeHeaderRole": "AXButton",
+      "nativeBodyCellRole": "AXUnknown"
+    },
+    {
+      "language": "en",
+      "rows": 4,
+      "cells": 12,
+      "positiveBounds": true,
+      "namedHeading": 4,
+      "fields": 4,
+      "consent": 1,
+      "sourcePath": "artifacts/replica/workers/home/trialpage/ec53805086a04095ab4d7b7605a9c14d/actual-macos/source-en-final-ax.json",
+      "nativeTableRole": "AXTable",
+      "sourceRowRole": "AXRow",
+      "nativeRowRole": "AXCell",
+      "nativeHeaderRole": "AXButton",
+      "nativeBodyCellRole": "AXUnknown"
+    }
+  ],
+  "errors": []
+}

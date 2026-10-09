@@ -1,0 +1,76 @@
+{
+  "phase": "LOCKED",
+  "product": "src/Verifier.Desktop/WebConnectionPage.cs",
+  "productSha256": "1a816a5383b6785fb1792163c15172e638f030b0a29e27a5a58a0a6f631b40f9",
+  "scope": "In-place viewport-only API; new parent defaultKOEN8 + expandedKOEN4 each OS external native window resize. Existing construction/state/input proofs reused under exact diff.",
+  "beforeManifest": "connectionpage-before-viewport-manifest.json",
+  "diff": "home-pageintegrationconnection-resize-product-diff.txt",
+  "directChild": "advancedconnection-lock.json",
+  "reuse": "Old constructor/SetPresentation/state/validation/input/events/entry code unchanged; only new viewport pairgap/compact/dependent Advanced gap path. Typography Mac31 and Advanced actual4 eachOS reLOCK precede parent. Root later unrelated NavigateError/mappingClosed branches outside resize scope do not invalidate frozen proofs.",
+  "os": {
+    "mac": {
+      "build": "artifacts/replica/workers/home/pageintegration/a67a64c2589d4a96895224331d9d6f92/build.json",
+      "checks": {
+        "headless-default": {
+          "comparison": "home-pageintegrationconnection-resize-mac-headless-default-comparison.json",
+          "cases": 8,
+          "geometryChecks": 960
+        },
+        "headless-expanded": {
+          "comparison": "home-pageintegrationconnection-resize-mac-headless-expanded-comparison.json",
+          "cases": 4,
+          "geometryChecks": 608
+        },
+        "actual-default": {
+          "comparison": "home-pageintegrationconnection-resize-mac-actual-default-comparison.json",
+          "cases": 8,
+          "geometryChecks": 960
+        },
+        "actual-expanded": {
+          "comparison": "home-pageintegrationconnection-resize-mac-actual-expanded-comparison.json",
+          "cases": 4,
+          "geometryChecks": 608
+        }
+      },
+      "nativePid": 67184,
+      "cleanup": "artifacts/replica/workers/home/pageintegration/a67a64c2589d4a96895224331d9d6f92/actual-connection-resize-macos/cleanup.json",
+      "nativeProcess": 0,
+      "nativeWindow": 0,
+      "sourceWindow": 0,
+      "visualInspection": "Saved EN1280 native RenderTarget PNG opened and inspected; visible page/inputs/selection/card layout render. Below-viewport expanded geometry measured via public controls; screenshot does not assert whole panel visibility."
+    },
+    "windows": {
+      "build": "artifacts/replica/workers/home/pageintegration/ca4c6a71a0084931b2d94bebf54d4754/build.json",
+      "checks": {
+        "headless-default": {
+          "comparison": "home-pageintegrationconnection-resize-windows-headless-default-comparison.json",
+          "cases": 8,
+          "geometryChecks": 960
+        },
+        "headless-expanded": {
+          "comparison": "home-pageintegrationconnection-resize-windows-headless-expanded-comparison.json",
+          "cases": 4,
+          "geometryChecks": 608
+        },
+        "actual-default": {
+          "comparison": "home-pageintegrationconnection-resize-windows-actual-default-comparison.json",
+          "cases": 8,
+          "geometryChecks": 960
+        },
+        "actual-expanded": {
+          "comparison": "home-pageintegrationconnection-resize-windows-actual-expanded-comparison.json",
+          "cases": 4,
+          "geometryChecks": 608
+        }
+      },
+      "nativePid": 1476,
+      "cleanup": "artifacts/replica/workers/home/pageintegration/ca4c6a71a0084931b2d94bebf54d4754/actual-connection-resize-windows/cleanup.json",
+      "nativeProcess": 0,
+      "nativeWindow": 0,
+      "sourceWindow": 0,
+      "visualInspection": "Saved EN1280 native RenderTarget PNG opened and inspected; visible page/inputs/selection/card layout render. Below-viewport expanded geometry measured via public controls; screenshot does not assert whole panel visibility.",
+      "sourceCleanup": "artifacts/replica/workers/home/pageintegrationconnection-resize-source/22dd0701ccdb41bb95d8a23c060326ac/cleanup.json",
+      "preservedFailures": "Initial source close transport InvalidArgument, inert-loader preparation error then guardedSHAclose0; initial native launch InvalidArgument freshly proven launchRecordfalse/process0/window0 before one bounded launch; no ambiguous input replay."
+    }
+  }
+}

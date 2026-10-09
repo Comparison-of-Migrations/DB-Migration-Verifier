@@ -1,0 +1,7 @@
+{
+  "platform": "windows",
+  "samples": 96,
+  "failed": 0,
+  "scope": "Actual CSS transition timeline seek vs production tracks, 8 scenarios including reversal; channel rounding tolerance1/255, scalar browser matrix tolerance0.0001 degrees, scale tolerance0.000001, cubic solver reversal duration tolerance0.0001ms. Actual click/reduced lifecycle verified separately.",
+  "errors": []
+}

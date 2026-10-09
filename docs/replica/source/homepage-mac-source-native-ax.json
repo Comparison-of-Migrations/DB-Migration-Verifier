@@ -1,0 +1,1542 @@
+[
+  {
+    "box" : {
+      "height" : 1035,
+      "width" : 1000,
+      "x" : 309,
+      "y" : 161
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "HomePage · original isolation - 🏠 Home source 그룹에 속함 - Chrome",
+    "role" : "AXWindow",
+    "title" : "HomePage · original isolation - 🏠 Home source 그룹에 속함 - Chrome",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 1035,
+      "width" : 1000,
+      "x" : 309,
+      "y" : 161
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "HomePage · original isolation - 🏠 Home source 그룹에 속함 - Chrome",
+    "role" : "AXGroup",
+    "title" : "HomePage · original isolation - 🏠 Home source 그룹에 속함 - Chrome",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 1035,
+      "width" : 1000,
+      "x" : 309,
+      "y" : 161
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 1035,
+      "width" : 1000,
+      "x" : 309,
+      "y" : 161
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 1035,
+      "width" : 1000,
+      "x" : 309,
+      "y" : 161
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 47,
+      "width" : 1000,
+      "x" : 309,
+      "y" : 201
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 46,
+      "width" : 1000,
+      "x" : 309,
+      "y" : 201
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXToolbar",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 34,
+      "width" : 34,
+      "x" : 315,
+      "y" : 207
+    },
+    "description" : "뒤로",
+    "id" : "",
+    "name" : "뒤로",
+    "role" : "AXButton",
+    "title" : "뒤로",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 34,
+      "width" : 34,
+      "x" : 351,
+      "y" : 207
+    },
+    "description" : "앞으로",
+    "id" : "",
+    "name" : "앞으로",
+    "role" : "AXButton",
+    "title" : "앞으로",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 34,
+      "width" : 34,
+      "x" : 387,
+      "y" : 207
+    },
+    "description" : "새로고침",
+    "id" : "",
+    "name" : "새로고침",
+    "role" : "AXButton",
+    "title" : "새로고침",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 34,
+      "width" : 740,
+      "x" : 430,
+      "y" : 207
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 24,
+      "width" : 77,
+      "x" : 435,
+      "y" : 212
+    },
+    "description" : "주의 요함",
+    "id" : "",
+    "name" : "주의 요함",
+    "role" : "AXPopUpButton",
+    "title" : "주의 요함",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 24,
+      "width" : 606,
+      "x" : 520,
+      "y" : 212
+    },
+    "description" : "주소창 및 검색창",
+    "id" : "",
+    "name" : "주소창 및 검색창",
+    "role" : "AXTextField",
+    "title" : "주소창 및 검색창",
+    "value" : "10.211.55.2:8768\/homepage.html"
+  },
+  {
+    "box" : {
+      "height" : 24,
+      "width" : 24,
+      "x" : 1134,
+      "y" : 212
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 24,
+      "width" : 24,
+      "x" : 1134,
+      "y" : 212
+    },
+    "description" : "현재 탭을 북마크에 추가",
+    "id" : "",
+    "name" : "현재 탭을 북마크에 추가",
+    "role" : "AXButton",
+    "title" : "현재 탭을 북마크에 추가",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 34,
+      "width" : 34,
+      "x" : 1179,
+      "y" : 207
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 34,
+      "width" : 34,
+      "x" : 1179,
+      "y" : 207
+    },
+    "description" : "확장 프로그램",
+    "id" : "",
+    "name" : "확장 프로그램",
+    "role" : "AXPopUpButton",
+    "title" : "확장 프로그램",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 16,
+      "width" : 2,
+      "x" : 1222,
+      "y" : 216
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 34,
+      "width" : 34,
+      "x" : 1233,
+      "y" : 207
+    },
+    "description" : "나",
+    "id" : "",
+    "name" : "나",
+    "role" : "AXButton",
+    "title" : "나",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 34,
+      "width" : 34,
+      "x" : 1269,
+      "y" : 207
+    },
+    "description" : "Chrome",
+    "id" : "",
+    "name" : "Chrome",
+    "role" : "AXPopUpButton",
+    "title" : "Chrome",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 1,
+      "width" : 1000,
+      "x" : 309,
+      "y" : 247
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 892,
+      "width" : 1000,
+      "x" : 309,
+      "y" : 304
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 892,
+      "width" : 1000,
+      "x" : 309,
+      "y" : 304
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 0,
+      "width" : 1000,
+      "x" : 309,
+      "y" : 304
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 892,
+      "width" : 1000,
+      "x" : 309,
+      "y" : 304
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXScrollArea",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 892,
+      "width" : 1000,
+      "x" : 309,
+      "y" : 304
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "HomePage · original isolation",
+    "role" : "AXWebArea",
+    "title" : "HomePage · original isolation",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 22,
+      "width" : 130,
+      "x" : 317,
+      "y" : 313
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "Record HomePage",
+    "role" : "AXButton",
+    "title" : "Record HomePage",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 24,
+      "width" : 146,
+      "x" : 446,
+      "y" : 312
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "Toggle Home fixture",
+    "role" : "AXButton",
+    "title" : "Toggle Home fixture",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 20,
+      "width" : 146,
+      "x" : 591,
+      "y" : 314
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 20,
+      "width" : 79,
+      "x" : 591,
+      "y" : 314
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "Home case ",
+    "role" : "AXStaticText",
+    "title" : "",
+    "value" : "Home case "
+  },
+  {
+    "box" : {
+      "height" : 20,
+      "width" : 68,
+      "x" : 669,
+      "y" : 314
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "Home case",
+    "role" : "AXPopUpButton",
+    "title" : "Home case",
+    "value" : "en-960"
+  },
+  {
+    "box" : {
+      "height" : 860,
+      "width" : 984,
+      "x" : 317,
+      "y" : 336
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 858,
+      "width" : 960,
+      "x" : 319,
+      "y" : 338
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 858,
+      "width" : 960,
+      "x" : 319,
+      "y" : 338
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "HomePage original iframe",
+    "role" : "AXWebArea",
+    "title" : "HomePage original iframe",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 798,
+      "width" : 220,
+      "x" : 319,
+      "y" : 398
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 762,
+      "width" : 740,
+      "x" : 539,
+      "y" : 434
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 49,
+      "width" : 684,
+      "x" : 567,
+      "y" : 472
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "Verify your migration results",
+    "role" : "AXHeading",
+    "title" : "Verify your migration results",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 43,
+      "width" : 433,
+      "x" : 567,
+      "y" : 475
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "Verify your migration results",
+    "role" : "AXStaticText",
+    "title" : "",
+    "value" : "Verify your migration results"
+  },
+  {
+    "box" : {
+      "height" : 25,
+      "width" : 684,
+      "x" : 567,
+      "y" : 529
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 17,
+      "width" : 439,
+      "x" : 567,
+      "y" : 533
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "Compare the two databases and see exactly what has been verified.",
+    "role" : "AXStaticText",
+    "title" : "",
+    "value" : "Compare the two databases and see exactly what has been verified."
+  },
+  {
+    "box" : {
+      "height" : 57,
+      "width" : 650,
+      "x" : 567,
+      "y" : 584
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 47,
+      "width" : 626,
+      "x" : 567,
+      "y" : 589
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "Helps developers after migration compare data, schema, permissions and objects using the paper’s multi-axis approach, and identify differences and unverified areas.",
+    "role" : "AXStaticText",
+    "title" : "",
+    "value" : "Helps developers after migration compare data, schema, permissions and objects using the paper’s multi-axis approach, and identify differences and unverified areas."
+  },
+  {
+    "box" : {
+      "height" : 110,
+      "width" : 684,
+      "x" : 567,
+      "y" : 669
+    },
+    "description" : "Getting started",
+    "id" : "",
+    "name" : "Getting started",
+    "role" : "AXGroup",
+    "title" : "Getting started",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 52,
+      "width" : 224,
+      "x" : 567,
+      "y" : 669
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "Start a new check",
+    "role" : "AXButton",
+    "title" : "Start a new check",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 52,
+      "width" : 224,
+      "x" : 803,
+      "y" : 669
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "View a result file",
+    "role" : "AXButton",
+    "title" : "View a result file",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 52,
+      "width" : 143,
+      "x" : 1047,
+      "y" : 669
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "See sample results",
+    "role" : "AXButton",
+    "title" : "See sample results",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 19,
+      "width" : 444,
+      "x" : 590,
+      "y" : 735
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 15,
+      "width" : 444,
+      "x" : 590,
+      "y" : 737
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "Open a saved result JSON without connecting to a DB or running a new check.",
+    "role" : "AXStaticText",
+    "title" : "",
+    "value" : "Open a saved result JSON without connecting to a DB or running a new check."
+  },
+  {
+    "box" : {
+      "height" : 125,
+      "width" : 207,
+      "x" : 567,
+      "y" : 803
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 14,
+      "width" : 207,
+      "x" : 567,
+      "y" : 803
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 14,
+      "width" : 15,
+      "x" : 567,
+      "y" : 803
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "01",
+    "role" : "AXStaticText",
+    "title" : "",
+    "value" : "01"
+  },
+  {
+    "box" : {
+      "height" : 23,
+      "width" : 207,
+      "x" : 567,
+      "y" : 825
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "Connect two databases",
+    "role" : "AXHeading",
+    "title" : "Connect two databases",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 17,
+      "width" : 163,
+      "x" : 567,
+      "y" : 827
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "Connect two databases",
+    "role" : "AXStaticText",
+    "title" : "",
+    "value" : "Connect two databases"
+  },
+  {
+    "box" : {
+      "height" : 73,
+      "width" : 207,
+      "x" : 567,
+      "y" : 855
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 63,
+      "width" : 175,
+      "x" : 567,
+      "y" : 860
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "The app checks visibility and explains any additional preparation.",
+    "role" : "AXStaticText",
+    "title" : "",
+    "value" : "The app checks visibility and explains any additional preparation."
+  },
+  {
+    "box" : {
+      "height" : 125,
+      "width" : 207,
+      "x" : 806,
+      "y" : 803
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 14,
+      "width" : 207,
+      "x" : 806,
+      "y" : 803
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 14,
+      "width" : 15,
+      "x" : 806,
+      "y" : 803
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "02",
+    "role" : "AXStaticText",
+    "title" : "",
+    "value" : "02"
+  },
+  {
+    "box" : {
+      "height" : 23,
+      "width" : 207,
+      "x" : 806,
+      "y" : 825
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "Choose what to compare",
+    "role" : "AXHeading",
+    "title" : "Choose what to compare",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 17,
+      "width" : 171,
+      "x" : 806,
+      "y" : 827
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "Choose what to compare",
+    "role" : "AXStaticText",
+    "title" : "",
+    "value" : "Choose what to compare"
+  },
+  {
+    "box" : {
+      "height" : 49,
+      "width" : 207,
+      "x" : 806,
+      "y" : 855
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 39,
+      "width" : 182,
+      "x" : 806,
+      "y" : 860
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "Select categories and confirm how tables are matched.",
+    "role" : "AXStaticText",
+    "title" : "",
+    "value" : "Select categories and confirm how tables are matched."
+  },
+  {
+    "box" : {
+      "height" : 125,
+      "width" : 207,
+      "x" : 1044,
+      "y" : 803
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 14,
+      "width" : 207,
+      "x" : 1044,
+      "y" : 803
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 14,
+      "width" : 15,
+      "x" : 1044,
+      "y" : 803
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "03",
+    "role" : "AXStaticText",
+    "title" : "",
+    "value" : "03"
+  },
+  {
+    "box" : {
+      "height" : 23,
+      "width" : 207,
+      "x" : 1044,
+      "y" : 825
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "Review differences and gaps",
+    "role" : "AXHeading",
+    "title" : "Review differences and gaps",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 17,
+      "width" : 199,
+      "x" : 1044,
+      "y" : 827
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "Review differences and gaps",
+    "role" : "AXStaticText",
+    "title" : "",
+    "value" : "Review differences and gaps"
+  },
+  {
+    "box" : {
+      "height" : 49,
+      "width" : 207,
+      "x" : 1044,
+      "y" : 855
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 39,
+      "width" : 200,
+      "x" : 1044,
+      "y" : 860
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "Review verified outcomes and save a report without row values.",
+    "role" : "AXStaticText",
+    "title" : "",
+    "value" : "Review verified outcomes and save a report without row values."
+  },
+  {
+    "box" : {
+      "height" : 19,
+      "width" : 648,
+      "x" : 603,
+      "y" : 985
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 15,
+      "width" : 144,
+      "x" : 603,
+      "y" : 987
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "Research behind this app",
+    "role" : "AXStaticText",
+    "title" : "",
+    "value" : "Research behind this app"
+  },
+  {
+    "box" : {
+      "height" : 44,
+      "width" : 648,
+      "x" : 603,
+      "y" : 1010
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "Functional Success versus Database-State, Behavioral, and Operational Contracts in AI-Generated PostgreSQL Schema Migrations",
+    "role" : "AXHeading",
+    "title" : "Functional Success versus Database-State, Behavioral, and Operational Contracts in AI-Generated PostgreSQL Schema Migrations",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 38,
+      "width" : 605,
+      "x" : 603,
+      "y" : 1013
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "Functional Success versus Database-State, Behavioral, and Operational Contracts in AI-Generated PostgreSQL Schema Migrations",
+    "role" : "AXStaticText",
+    "title" : "",
+    "value" : "Functional Success versus Database-State, Behavioral, and Operational Contracts in AI-Generated PostgreSQL Schema Migrations"
+  },
+  {
+    "box" : {
+      "height" : 39,
+      "width" : 648,
+      "x" : 603,
+      "y" : 1058
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 34,
+      "width" : 606,
+      "x" : 603,
+      "y" : 1060
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "The research distinction between functional success and wider contracts informs the check categories and unverified states.",
+    "role" : "AXStaticText",
+    "title" : "",
+    "value" : "The research distinction between functional success and wider contracts informs the check categories and unverified states."
+  },
+  {
+    "box" : {
+      "height" : 45,
+      "width" : 152,
+      "x" : 603,
+      "y" : 1110
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "Research mapping",
+    "role" : "AXButton",
+    "title" : "Research mapping",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 0,
+      "width" : 740,
+      "x" : 539,
+      "y" : 1196
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 0,
+      "width" : 1000,
+      "x" : 309,
+      "y" : 1196
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 0,
+      "width" : 1000,
+      "x" : 309,
+      "y" : 1196
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 56,
+      "width" : 1000,
+      "x" : 309,
+      "y" : 248
+    },
+    "description" : "정보 표시줄 컨테이너",
+    "id" : "",
+    "name" : "정보 표시줄 컨테이너",
+    "role" : "AXGroup",
+    "title" : "정보 표시줄 컨테이너",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 56,
+      "width" : 1000,
+      "x" : 309,
+      "y" : 248
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "정보 표시줄",
+    "role" : "AXGroup",
+    "title" : "정보 표시줄",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 1,
+      "width" : 44,
+      "x" : 325,
+      "y" : 275
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 56,
+      "width" : 264,
+      "x" : 369,
+      "y" : 248
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 32,
+      "width" : 353,
+      "x" : 633,
+      "y" : 260
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 20,
+      "width" : 273,
+      "x" : 633,
+      "y" : 266
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "‘ChatGPT’에서 이 브라우저에 대한 디버깅을 시작함",
+    "role" : "AXStaticText",
+    "title" : "",
+    "value" : "‘ChatGPT’에서 이 브라우저에 대한 디버깅을 시작함"
+  },
+  {
+    "box" : {
+      "height" : 32,
+      "width" : 64,
+      "x" : 922,
+      "y" : 260
+    },
+    "description" : "취소",
+    "id" : "",
+    "name" : "취소",
+    "role" : "AXButton",
+    "title" : "취소",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 56,
+      "width" : 263,
+      "x" : 986,
+      "y" : 248
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 28,
+      "width" : 44,
+      "x" : 1249,
+      "y" : 262
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 28,
+      "width" : 28,
+      "x" : 1265,
+      "y" : 262
+    },
+    "description" : "닫기",
+    "id" : "",
+    "name" : "닫기",
+    "role" : "AXButton",
+    "title" : "닫기",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 14,
+      "width" : 1000,
+      "x" : 309,
+      "y" : 304
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 41,
+      "width" : 914,
+      "x" : 395,
+      "y" : 161
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 41,
+      "width" : 28,
+      "x" : 401,
+      "y" : 161
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 28,
+      "width" : 28,
+      "x" : 401,
+      "y" : 167
+    },
+    "description" : "탭 검색",
+    "id" : "",
+    "name" : "탭 검색",
+    "role" : "AXPopUpButton",
+    "title" : "탭 검색",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 41,
+      "width" : 614,
+      "x" : 423,
+      "y" : 161
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 41,
+      "width" : 614,
+      "x" : 423,
+      "y" : 161
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXTabGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 41,
+      "width" : 256,
+      "x" : 423,
+      "y" : 161
+    },
+    "description" : "ActionFooter · original isolation - 메모리 사용량 - 43.3MB",
+    "id" : "",
+    "name" : "ActionFooter · original isolation - 메모리 사용량 - 43.3MB",
+    "role" : "AXRadioButton",
+    "title" : "ActionFooter · original isolation - 메모리 사용량 - 43.3MB",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 28,
+      "width" : 28,
+      "x" : 637,
+      "y" : 167
+    },
+    "description" : "닫기",
+    "id" : "",
+    "name" : "닫기",
+    "role" : "AXButton",
+    "title" : "닫기",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 41,
+      "width" : 138,
+      "x" : 661,
+      "y" : 161
+    },
+    "description" : " 그룹 🏠 Home source - 탭 1개 •  HomePage · original isolation - 펼쳐짐",
+    "id" : "",
+    "name" : " 그룹 🏠 Home source - 탭 1개 •  HomePage · original isolation - 펼쳐짐",
+    "role" : "AXTabGroup",
+    "title" : " 그룹 🏠 Home source - 탭 1개 •  HomePage · original isolation - 펼쳐짐",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 41,
+      "width" : 256,
+      "x" : 781,
+      "y" : 161
+    },
+    "description" : "HomePage · original isolation - 🏠 Home source 그룹에 속함 - 메모리 사용량 - 75.1MB",
+    "id" : "",
+    "name" : "HomePage · original isolation - 🏠 Home source 그룹에 속함 - 메모리 사용량 - 75.1MB",
+    "role" : "AXRadioButton",
+    "title" : "HomePage · original isolation - 🏠 Home source 그룹에 속함 - 메모리 사용량 - 75.1MB",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 28,
+      "width" : 28,
+      "x" : 995,
+      "y" : 167
+    },
+    "description" : "닫기",
+    "id" : "",
+    "name" : "닫기",
+    "role" : "AXButton",
+    "title" : "닫기",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 2,
+      "width" : 360,
+      "x" : 679,
+      "y" : 199
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 41,
+      "width" : 614,
+      "x" : 423,
+      "y" : 161
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 41,
+      "width" : 28,
+      "x" : 1031,
+      "y" : 161
+    },
+    "description" : "새 탭",
+    "id" : "",
+    "name" : "새 탭",
+    "role" : "AXButton",
+    "title" : "새 탭",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 41,
+      "width" : 238,
+      "x" : 1071,
+      "y" : 161
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 0,
+      "width" : 0,
+      "x" : 309,
+      "y" : 161
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 16,
+      "width" : 16,
+      "x" : 321,
+      "y" : 173.5
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXButton",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 16,
+      "width" : 16,
+      "x" : 367,
+      "y" : 173.5
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXButton",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 14,
+      "width" : 14,
+      "x" : 368,
+      "y" : 174.5
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 14,
+      "width" : 14,
+      "x" : 368,
+      "y" : 175
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXGroup",
+    "title" : "",
+    "value" : ""
+  },
+  {
+    "box" : {
+      "height" : 16,
+      "width" : 16,
+      "x" : 344,
+      "y" : 173.5
+    },
+    "description" : "",
+    "id" : "",
+    "name" : "",
+    "role" : "AXButton",
+    "title" : "",
+    "value" : ""
+  }
+]

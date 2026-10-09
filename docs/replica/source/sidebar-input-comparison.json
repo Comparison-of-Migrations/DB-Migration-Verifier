@@ -1,0 +1,77 @@
+{
+  "checks": [
+    {
+      "os": "mac",
+      "case": "allvisits-click",
+      "requests": [
+        "connect",
+        "select",
+        "save"
+      ],
+      "passed": true
+    },
+    {
+      "os": "mac",
+      "case": "reopened-english-click",
+      "requests": [
+        "results"
+      ],
+      "passed": true
+    },
+    {
+      "os": "mac",
+      "case": "running-disabled",
+      "passed": true
+    },
+    {
+      "os": "windows",
+      "case": "allvisits-click",
+      "requests": [
+        "connect",
+        "select",
+        "save"
+      ],
+      "passed": true
+    },
+    {
+      "os": "windows",
+      "case": "reopened-english-click",
+      "requests": [
+        "results"
+      ],
+      "passed": true
+    },
+    {
+      "os": "windows",
+      "case": "actual-blocked-connect",
+      "passed": true
+    },
+    {
+      "os": "mac",
+      "case": "trusted source allvisits-click",
+      "passed": true
+    },
+    {
+      "os": "mac",
+      "case": "trusted source running-disabled",
+      "passed": true
+    },
+    {
+      "os": "mac",
+      "case": "trusted source reopened-click",
+      "passed": true
+    },
+    {
+      "os": "mac",
+      "case": "trusted source reopened-space",
+      "passed": true
+    },
+    {
+      "os": "mac",
+      "case": "trusted source reopened-english-click",
+      "passed": true
+    }
+  ],
+  "failed": 0,
+  "scope": "Component requests, visited/screen lock, pointer/Space/reopened/locale replacement. Application go/heading focus owned by parent."
+}

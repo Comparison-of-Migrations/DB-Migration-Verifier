@@ -1,0 +1,105 @@
+Window: "DB-Migration-Verifier", App: DB-Migration-Verifier.
+0 standard window DB-Migration-Verifier, Secondary Actions: Raise
+	1 container WindowChrome, ID: AvaloniaWindowChrome
+	2 container
+		3 container PART_VisualLayerManager
+			4 container
+				5 container
+					6 text DB-Migration-Verifier
+					7 text 읽기 전용 비교
+					8 button 한국어 / EN, ID: language
+				9 container
+					10 text 마이그레이션 결과 비교
+					11 button DB 연결
+						12 container
+							13 text DB 연결
+					14 button (disabled) 사전 확인
+						15 container
+							16 text 사전 확인
+					17 button (disabled) 검사 선택
+						18 container
+							19 text 검사 선택
+					20 button (disabled) 실행 전 확인
+						21 container
+							22 text 실행 전 확인
+					23 button (disabled) 검사 진행
+						24 container
+							25 text 5
+							26 text 검사 진행
+					27 button 결과 확인
+						28 container
+							29 text 결과 확인
+					30 button 결과 저장
+						31 container
+							32 text 7
+							33 text 결과 저장
+					34 text 비교는 읽기 전용
+					35 text 원본·대상에는 쓰지 않습니다.
+동작 시험은 별도 시험 DB에서만 합니다.
+					36 checkbox 동작 줄이기, Value: off, ID: motion
+						37 container RootGrid
+							38 container
+								39 container
+				40 container
+					41 text 원본과 대상을 읽어 비교합니다. 확인하지 못한 부분은 일치로 표시하지 않습니다.
+				42 scroll area
+					43 container
+						44 container
+							45 container
+								46 text 선택 형식 저장·다시 읽기 검증 완료: JSON · CSV · HTML
+							47 text 확인한 결과를 저장합니다
+							48 text 검사 범위·판정·미검증 이유를 보관합니다. 실제 값·키·접속 정보는 넣지 않습니다.
+							49 container
+								50 container
+									51 text 검사 ID
+									52 text 24ea342b-1797-428c-a064-c640ffff978d
+								53 container
+									54 text 포함 항목
+									55 text 선택 범위·실행 상태·판정·이유·위치·내부 번호
+								56 container
+									57 text 제외 항목
+									58 text 실제 값·행 키·비밀번호·연결 문자열
+							59 text 저장할 형식
+							60 checkbox JSON 저장 형식, Value: on, ID: format-JSON
+								61 container RootGrid
+									62 container
+										63 container
+									64 container
+										65 text JSON
+										66 text 앱에서 다시 열기
+							67 checkbox CSV 저장 형식, Value: on, ID: format-CSV
+								68 container RootGrid
+									69 container
+										70 container
+									71 container
+										72 text CSV
+										73 text 스프레드시트로 읽기
+							74 checkbox HTML 저장 형식, Value: on, ID: format-HTML
+								75 container RootGrid
+									76 container
+										77 container
+									78 container
+										79 text HTML
+										80 text 브라우저로 읽기
+							81 text 선택한 형식마다 저장 위치를 확인합니다. CSV·HTML에도 필터와 관계없이 모든 검사·차이·미검증·선택 제외를 담습니다. 앱에서 다시 열기는 JSON만 가능합니다.
+							82 text JSON checksum은 우발적 손상 확인용이며 작성자 인증 서명이 아닙니다. CSV의 수식처럼 보이는 이름은 작은따옴표로 보호하며, 원래 이름은 JSON에 보존합니다.
+							83 button 검사 결과 파일로 보기
+								84 container
+									85 text 검사 결과 파일로 보기
+							86 button 새 검사 시작
+								87 container
+									88 text 새 검사 시작
+				89 container
+					90 button 결과로 돌아가기
+						91 container
+							92 text 결과로 돌아가기
+					93 text 확인한 범위와 확인하지 못한 이유를 함께 보관합니다.
+					94 button 선택 형식 저장
+						95 container
+							96 text 선택 형식 저장
+	97 close button
+	98 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	99 minimize button
+	100 text DB-Migration-Verifier
+101 menu bar
+	102 DB-Migration-Verifier

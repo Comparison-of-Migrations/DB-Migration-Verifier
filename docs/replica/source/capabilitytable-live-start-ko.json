@@ -1,0 +1,594 @@
+{
+  "clientWidth": 978,
+  "columns": [
+    {
+      "box": {
+        "height": 43.6953125,
+        "width": 314.8203125,
+        "x": 1,
+        "y": 1
+      },
+      "css": {
+        "backgroundColor": "rgb(35, 36, 40)",
+        "border": "",
+        "borderCollapse": "collapse",
+        "borderRadius": "0px",
+        "display": "table-cell",
+        "fontSize": "12px",
+        "fontWeight": "600",
+        "lineHeight": "19.2px",
+        "minWidth": "0px",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "padding": "12px 18px",
+        "tableLayout": "auto",
+        "width": "314.82px"
+      },
+      "text": "검사 분류"
+    },
+    {
+      "box": {
+        "height": 43.6953125,
+        "width": 140.0859375,
+        "x": 315.8203125,
+        "y": 1
+      },
+      "css": {
+        "backgroundColor": "rgb(35, 36, 40)",
+        "border": "",
+        "borderCollapse": "collapse",
+        "borderRadius": "0px",
+        "display": "table-cell",
+        "fontSize": "12px",
+        "fontWeight": "600",
+        "lineHeight": "19.2px",
+        "minWidth": "0px",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "padding": "12px 18px",
+        "tableLayout": "auto",
+        "width": "140.086px"
+      },
+      "text": "원본 / 대상"
+    },
+    {
+      "box": {
+        "height": 43.6953125,
+        "width": 140.0859375,
+        "x": 455.90625,
+        "y": 1
+      },
+      "css": {
+        "backgroundColor": "rgb(35, 36, 40)",
+        "border": "",
+        "borderCollapse": "collapse",
+        "borderRadius": "0px",
+        "display": "table-cell",
+        "fontSize": "12px",
+        "fontWeight": "600",
+        "lineHeight": "19.2px",
+        "minWidth": "0px",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "padding": "12px 18px",
+        "tableLayout": "auto",
+        "width": "140.086px"
+      },
+      "text": "검사 가능 범위"
+    },
+    {
+      "box": {
+        "height": 43.6953125,
+        "width": 383.0078125,
+        "x": 595.9921875,
+        "y": 1
+      },
+      "css": {
+        "backgroundColor": "rgb(35, 36, 40)",
+        "border": "",
+        "borderCollapse": "collapse",
+        "borderRadius": "0px",
+        "display": "table-cell",
+        "fontSize": "12px",
+        "fontWeight": "600",
+        "lineHeight": "19.2px",
+        "minWidth": "0px",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "padding": "12px 18px",
+        "tableLayout": "auto",
+        "width": "383.008px"
+      },
+      "text": "안내"
+    }
+  ],
+  "dpr": 2,
+  "lang": "ko",
+  "rows": [
+    {
+      "box": {
+        "height": 67.9921875,
+        "width": 978,
+        "x": 1,
+        "y": 44.6953125
+      },
+      "cells": [
+        {
+          "box": {
+            "height": 67.9921875,
+            "width": 314.8203125,
+            "x": 1,
+            "y": 44.6953125
+          },
+          "css": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "border": "",
+            "borderCollapse": "collapse",
+            "borderRadius": "0px",
+            "display": "table-cell",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "lineHeight": "20.8px",
+            "minWidth": "0px",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": "12px 18px",
+            "tableLayout": "auto",
+            "width": "314.82px"
+          },
+          "text": "데이터전체 값·누락·중복·참조 관계"
+        },
+        {
+          "box": {
+            "height": 67.9921875,
+            "width": 140.0859375,
+            "x": 315.8203125,
+            "y": 44.6953125
+          },
+          "css": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "border": "",
+            "borderCollapse": "collapse",
+            "borderRadius": "0px",
+            "display": "table-cell",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "lineHeight": "20.8px",
+            "minWidth": "0px",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": "12px 18px",
+            "tableLayout": "auto",
+            "width": "140.086px"
+          },
+          "text": "연결 확인"
+        },
+        {
+          "box": {
+            "height": 67.9921875,
+            "width": 140.0859375,
+            "x": 455.90625,
+            "y": 44.6953125
+          },
+          "css": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "border": "",
+            "borderCollapse": "collapse",
+            "borderRadius": "0px",
+            "display": "table-cell",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "lineHeight": "20.8px",
+            "minWidth": "0px",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": "12px 18px",
+            "tableLayout": "auto",
+            "width": "140.086px"
+          },
+          "text": "가능"
+        },
+        {
+          "box": {
+            "height": 67.9921875,
+            "width": 383.0078125,
+            "x": 595.9921875,
+            "y": 44.6953125
+          },
+          "css": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "border": "",
+            "borderCollapse": "collapse",
+            "borderRadius": "0px",
+            "display": "table-cell",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "lineHeight": "20.8px",
+            "minWidth": "0px",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": "12px 18px",
+            "tableLayout": "auto",
+            "width": "383.008px"
+          },
+          "text": "선택 대상의 예시 조회 가능"
+        }
+      ]
+    },
+    {
+      "box": {
+        "height": 67.9921875,
+        "width": 978,
+        "x": 1,
+        "y": 112.6875
+      },
+      "cells": [
+        {
+          "box": {
+            "height": 67.9921875,
+            "width": 314.8203125,
+            "x": 1,
+            "y": 112.6875
+          },
+          "css": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "border": "",
+            "borderCollapse": "collapse",
+            "borderRadius": "0px",
+            "display": "table-cell",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "lineHeight": "20.8px",
+            "minWidth": "0px",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": "12px 18px",
+            "tableLayout": "auto",
+            "width": "314.82px"
+          },
+          "text": "구조·제약컬럼·자료형·키·제약·인덱스·partition"
+        },
+        {
+          "box": {
+            "height": 67.9921875,
+            "width": 140.0859375,
+            "x": 315.8203125,
+            "y": 112.6875
+          },
+          "css": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "border": "",
+            "borderCollapse": "collapse",
+            "borderRadius": "0px",
+            "display": "table-cell",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "lineHeight": "20.8px",
+            "minWidth": "0px",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": "12px 18px",
+            "tableLayout": "auto",
+            "width": "140.086px"
+          },
+          "text": "연결 확인"
+        },
+        {
+          "box": {
+            "height": 67.9921875,
+            "width": 140.0859375,
+            "x": 455.90625,
+            "y": 112.6875
+          },
+          "css": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "border": "",
+            "borderCollapse": "collapse",
+            "borderRadius": "0px",
+            "display": "table-cell",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "lineHeight": "20.8px",
+            "minWidth": "0px",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": "12px 18px",
+            "tableLayout": "auto",
+            "width": "140.086px"
+          },
+          "text": "가능"
+        },
+        {
+          "box": {
+            "height": 67.9921875,
+            "width": 383.0078125,
+            "x": 595.9921875,
+            "y": 112.6875
+          },
+          "css": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "border": "",
+            "borderCollapse": "collapse",
+            "borderRadius": "0px",
+            "display": "table-cell",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "lineHeight": "20.8px",
+            "minWidth": "0px",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": "12px 18px",
+            "tableLayout": "auto",
+            "width": "383.008px"
+          },
+          "text": "선택 대상의 예시 조회 가능"
+        }
+      ]
+    },
+    {
+      "box": {
+        "height": 69,
+        "width": 978,
+        "x": 1,
+        "y": 180.6796875
+      },
+      "cells": [
+        {
+          "box": {
+            "height": 69,
+            "width": 314.8203125,
+            "x": 1,
+            "y": 180.6796875
+          },
+          "css": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "border": "",
+            "borderCollapse": "collapse",
+            "borderRadius": "0px",
+            "display": "table-cell",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "lineHeight": "20.8px",
+            "minWidth": "0px",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": "12px 18px",
+            "tableLayout": "auto",
+            "width": "314.82px"
+          },
+          "text": "사용자·권한사용자·역할·소유자·권한·행 정책"
+        },
+        {
+          "box": {
+            "height": 69,
+            "width": 140.0859375,
+            "x": 315.8203125,
+            "y": 180.6796875
+          },
+          "css": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "border": "",
+            "borderCollapse": "collapse",
+            "borderRadius": "0px",
+            "display": "table-cell",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "lineHeight": "20.8px",
+            "minWidth": "0px",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": "12px 18px",
+            "tableLayout": "auto",
+            "width": "140.086px"
+          },
+          "text": "연결 확인"
+        },
+        {
+          "box": {
+            "height": 69,
+            "width": 140.0859375,
+            "x": 455.90625,
+            "y": 180.6796875
+          },
+          "css": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "border": "",
+            "borderCollapse": "collapse",
+            "borderRadius": "0px",
+            "display": "table-cell",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "lineHeight": "20.8px",
+            "minWidth": "0px",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": "12px 18px",
+            "tableLayout": "auto",
+            "width": "140.086px"
+          },
+          "text": "일부 가능"
+        },
+        {
+          "box": {
+            "height": 69,
+            "width": 383.0078125,
+            "x": 595.9921875,
+            "y": 180.6796875
+          },
+          "css": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "border": "",
+            "borderCollapse": "collapse",
+            "borderRadius": "0px",
+            "display": "table-cell",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "lineHeight": "20.8px",
+            "minWidth": "0px",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": "12px 18px",
+            "tableLayout": "auto",
+            "width": "383.008px"
+          },
+          "text": "권한 정의 2개 조회 범위 미확인필요한 권한 보기"
+        }
+      ]
+    },
+    {
+      "box": {
+        "height": 67.4921875,
+        "width": 978,
+        "x": 1,
+        "y": 249.6796875
+      },
+      "cells": [
+        {
+          "box": {
+            "height": 67.4921875,
+            "width": 314.8203125,
+            "x": 1,
+            "y": 249.6796875
+          },
+          "css": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "border": "",
+            "borderCollapse": "collapse",
+            "borderRadius": "0px",
+            "display": "table-cell",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "lineHeight": "20.8px",
+            "minWidth": "0px",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": "12px 18px",
+            "tableLayout": "auto",
+            "width": "314.82px"
+          },
+          "text": "관련 객체view·함수·trigger·sequence·사용자 타입"
+        },
+        {
+          "box": {
+            "height": 67.4921875,
+            "width": 140.0859375,
+            "x": 315.8203125,
+            "y": 249.6796875
+          },
+          "css": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "border": "",
+            "borderCollapse": "collapse",
+            "borderRadius": "0px",
+            "display": "table-cell",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "lineHeight": "20.8px",
+            "minWidth": "0px",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": "12px 18px",
+            "tableLayout": "auto",
+            "width": "140.086px"
+          },
+          "text": "연결 확인"
+        },
+        {
+          "box": {
+            "height": 67.4921875,
+            "width": 140.0859375,
+            "x": 455.90625,
+            "y": 249.6796875
+          },
+          "css": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "border": "",
+            "borderCollapse": "collapse",
+            "borderRadius": "0px",
+            "display": "table-cell",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "lineHeight": "20.8px",
+            "minWidth": "0px",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": "12px 18px",
+            "tableLayout": "auto",
+            "width": "140.086px"
+          },
+          "text": "가능"
+        },
+        {
+          "box": {
+            "height": 67.4921875,
+            "width": 383.0078125,
+            "x": 595.9921875,
+            "y": 249.6796875
+          },
+          "css": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "border": "",
+            "borderCollapse": "collapse",
+            "borderRadius": "0px",
+            "display": "table-cell",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "lineHeight": "20.8px",
+            "minWidth": "0px",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": "12px 18px",
+            "tableLayout": "auto",
+            "width": "383.008px"
+          },
+          "text": "선택 대상의 예시 조회 가능"
+        }
+      ]
+    }
+  ],
+  "scrollWidth": 978,
+  "shell": {
+    "height": 318.171875,
+    "width": 980,
+    "x": 0,
+    "y": 0
+  },
+  "shellCSS": {
+    "backgroundColor": "rgb(43, 45, 49)",
+    "border": "1px solid rgb(65, 67, 74)",
+    "borderCollapse": "separate",
+    "borderRadius": "10px",
+    "display": "block",
+    "fontSize": "14px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "minWidth": "0px",
+    "overflowX": "auto",
+    "overflowY": "auto",
+    "padding": "0px",
+    "tableLayout": "auto",
+    "width": "980px"
+  },
+  "table": {
+    "height": 316.171875,
+    "width": 978,
+    "x": 1,
+    "y": 1
+  },
+  "tableCSS": {
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "border": "0px none rgb(219, 222, 225)",
+    "borderCollapse": "collapse",
+    "borderRadius": "0px",
+    "display": "table",
+    "fontSize": "14px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "minWidth": "0px",
+    "overflowX": "visible",
+    "overflowY": "visible",
+    "padding": "0px",
+    "tableLayout": "auto",
+    "width": "978px"
+  }
+}

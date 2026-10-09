@@ -1,0 +1,10 @@
+{
+  "product": "src/Verifier.Desktop/WebResultsPage.cs",
+  "currentSHA256": "d13ed2505eb6a57479dd1fa84a6f1b1df4e9fd55eb269e66502e1ae3792726fb",
+  "geometryBuild": "91dbd8aa60ea4f74bd522f98720a4e05",
+  "geometryRun": "a7f53bb9508747e4b528e1819d82155d",
+  "finiteBuild": "d099945aaa7b4ef285cd13ed631cdab7",
+  "finiteRun": "4b2d396655a44343b375a940121fae0f",
+  "unchangedGeometryProof": "Products byte-equal after removing only page-specific scalar CSS transition Track class; initial/hover-free geometry144 unchanged",
+  "change": "Trial hover/pressed reversal shortening matches original CSS transitions; actual pointer/held verification pending"
+}

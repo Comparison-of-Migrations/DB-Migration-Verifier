@@ -1,0 +1,44 @@
+# Assigned source paths only; settled 1280 baseline is not a native resize input.
+function Current {return ((ReadShared (Join-Path $out 'pageintegrationviewporthistory-actual-state.json'))|ConvertFrom-Json)}
+function SaveTransport {ConvertTo-Json -InputObject @($transport.ToArray()) -Depth 15|Set-Content -Encoding UTF8(Join-Path $out 'resize-transport.json')}
+function Signature($snapshot) {return (@($snapshot.state.width,$snapshot.state.height,$snapshot.state.main.clientWidth,$snapshot.state.main.clientHeight,$snapshot.state.main.gutter,$snapshot.state.main.scrollHeight,$snapshot.state.page.width,$snapshot.state.page.height,$snapshot.state.summary.width,$snapshot.state.summary.height)-join '|')}
+function Valid($snapshot,$index,$width) {return $snapshot.ready-and$snapshot.index-eq$index-and$snapshot.state.width-eq$width-and$snapshot.state.height-eq900-and$snapshot.state.pageSame-and$snapshot.state.headingSame-and$snapshot.state.summarySame-and$snapshot.state.noEntry-and$snapshot.state.pageOpacity-eq1-and$snapshot.state.publicState.screen-eq'review'-and$snapshot.state.publicState.connected-and$null-eq$snapshot.state.publicState.run}
+$histories=(ReadShared (Join-Path $out 'oracle.json')|ConvertFrom-Json).rows
+$records=[Collections.Generic.List[object]]::new();$transport=[Collections.Generic.List[object]]::new()
+try {
+ for($context=$historyStart;$context-lt6;$context++) {
+  if($context-gt$historyStart){[OwnedResultsIntegrationInput]::Run($exe,$false,'current','next','','')}
+  $end=[DateTime]::UtcNow.AddSeconds(5)
+  do {Start-Sleep -Milliseconds 50;$baseline=Current} while((!(Valid $baseline $context 1280)-or$baseline.id-ne$histories[$context].id)-and[DateTime]::UtcNow-lt$end)
+  if(!(Valid $baseline $context 1280)-or$baseline.id-ne$histories[$context].id){throw 'Exact settled source baseline missing; no replay'}
+  $native=[ParentNativeResize]::ReadClient($baseline.state.dpr)|ConvertFrom-Json
+  if($native.clientWidth-ne1280-or$native.clientHeight-ne900-or([DateTime]::UtcNow-([DateTimeOffset]::Parse($baseline.observedUtc).UtcDateTime)).TotalSeconds-gt2){throw 'Fresh guarded actual frame/client/baseline required'}
+  $states=[Collections.Generic.List[object]]::new();$states.Add($baseline.state)
+  $transport.Add([pscustomobject]@{context=$context;phase='settled-public-seed-baseline';snapshot=$baseline.snapshot;snapshotUtc=$baseline.observedUtc;native=$native;inputEmitted=$false});SaveTransport
+  foreach($width in @($histories[$context].widths|Select-Object -Skip 1)) {
+   $before=Current;$started=[DateTime]::UtcNow
+   $transport.Add([pscustomobject]@{context=$context;phase='before-resize';requestedWidth=$width;beforeSnapshot=$before.snapshot;beforeSnapshotUtc=$before.observedUtc;beforeWidth=$before.state.width;startedUtc=$started.ToString('O')});SaveTransport
+   $detail=[ParentNativeResize]::Resize($width,900,$before.state.dpr)|ConvertFrom-Json
+   $transport.Add([pscustomobject]@{context=$context;phase='resize-returned';requestedWidth=$width;detail=$detail;returnedUtc=[DateTime]::UtcNow.ToString('O')});SaveTransport
+   $end=[DateTime]::UtcNow.AddSeconds(5);$previous=$null;$stable=$false
+   do {
+    Start-Sleep -Milliseconds 70;$fresh=Current
+    if((Valid $fresh $context $width)-and$fresh.snapshot-gt$before.snapshot-and([DateTimeOffset]::Parse($fresh.observedUtc).UtcDateTime)-ge$started) {
+     if($null-ne$previous-and$fresh.snapshot-gt$previous.snapshot-and(Signature $fresh)-eq(Signature $previous)){$stable=$true;break}
+     $previous=$fresh
+    }
+   } while([DateTime]::UtcNow-lt$end)
+   if(!$stable) {
+    [pscustomobject]@{context=$context;requestedWidth=$width;before=$before;startedUtc=$started.ToString('O');fresh=$fresh;previous=$previous;freshNative=([ParentNativeResize]::ReadClient($before.state.dpr)|ConvertFrom-Json)}|ConvertTo-Json -Depth 35|Set-Content -Encoding UTF8(Join-Path $out 'failed-boundary.json')
+    throw 'Changed width fresh sequence/UTC/stable layout missing; no replay'
+   }
+   $native=[ParentNativeResize]::ReadClient($fresh.state.dpr)|ConvertFrom-Json
+   if($native.clientWidth-ne$width-or$native.clientHeight-ne900){throw 'Observed native client differs from requested source step'}
+   $transport.Add([pscustomobject]@{context=$context;phase='settled-after-resize';requestedWidth=$width;beforeSnapshot=$before.snapshot;afterSnapshot=$fresh.snapshot;snapshotUtc=$fresh.observedUtc;native=$native});SaveTransport
+   $states.Add($fresh.state)
+  }
+  $current=@{id=$baseline.id;widths=$histories[$context].widths;states=@($states.ToArray())};$records.Add($current)
+  @{scope='parent-resize-history6';phase='ACTUAL_OS_RECORDED';startingIndex=$historyStart;rows=@($records.ToArray())}|ConvertTo-Json -Depth 35|Set-Content -Encoding UTF8(Join-Path $out 'pageintegrationviewporthistory-records.json')
+ }
+} catch {$_.Exception.ToString()|Set-Content -Encoding UTF8(Join-Path $out 'primary-failure.txt');throw} finally {CloseOwned}
+'Assigned actual history states saved and immediateclose0; strict comparison pending'

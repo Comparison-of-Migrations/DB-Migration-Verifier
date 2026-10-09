@@ -1,0 +1,945 @@
+{
+  "status": "READ_ONLY_CLOSURE_AUDIT_COMPLETE",
+  "generatedUtc": "2026-10-08T23:39:37.869744+00:00",
+  "operation": "Existing repository evidence and recorded tool provenance only. No guest/GUI process, input, capture, browser, cleanup action, product edit, or repeated verification launched by this audit.",
+  "policy": "MASTER_RULES §14; exact-owned completed scope only",
+  "checkedCompletedRecords": [
+    {
+      "scope": "SelectionCallbacks mac ko PID86978",
+      "evidence": {
+        "path": "artifacts/replica/workers/preflight/pageintegration/985e8c45f6a34b4bb07fabced17ff578/actual-selectioncallbacks-ko/cleanup.json",
+        "sha256": "14bec94a7d6ed54659e9e5adb668e6346d571448822de6a7e2a3378942b48bb5"
+      },
+      "closureFields": [
+        "nativeProcess",
+        "nativeWindow"
+      ],
+      "observed": [
+        {
+          "pid": 86978,
+          "nativeProcess": 0,
+          "nativeWindow": 0
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "SelectionCallbacks mac ko PID99882",
+      "evidence": {
+        "path": "artifacts/replica/workers/preflight/pageintegration/321a12c2b1f24a879a375954753c3d59/actual-selectioncallbacks-ko-resume-corrected-parent/cleanup.json",
+        "sha256": "71e2b1fed46b33280572fc3b678ddc899c1297efd2db0b454e3556eccc833252"
+      },
+      "closureFields": [
+        "nativeProcess",
+        "nativeWindow"
+      ],
+      "observed": [
+        {
+          "pid": 99882,
+          "nativeProcess": 0,
+          "nativeWindow": 0
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "SelectionCallbacks mac ko PID4687",
+      "evidence": {
+        "path": "artifacts/replica/workers/preflight/pageintegration/e713a7ee7c7d4127a8e0b15a5db02b3a/actual-selectioncallbacks-ko-resume-initial-guard-corrected/cleanup.json",
+        "sha256": "48fe1a24df3c6af6faad4a6f6df8f8b56e2b22fa85e8d7fcb42de1ddeae04ff4"
+      },
+      "closureFields": [
+        "nativeProcess",
+        "nativeWindow"
+      ],
+      "observed": [
+        {
+          "pid": 4687,
+          "nativeProcess": 0,
+          "nativeWindow": 0
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "SelectionCallbacks mac en PID6719",
+      "evidence": {
+        "path": "artifacts/replica/workers/preflight/pageintegration/e713a7ee7c7d4127a8e0b15a5db02b3a/actual-selectioncallbacks-en/cleanup.json",
+        "sha256": "31dee372a5e7e23934a1f1b6cd1dbd6f4d4d681771bc314ca476bfbcab6ddafa"
+      },
+      "closureFields": [
+        "nativeProcess",
+        "nativeWindow"
+      ],
+      "observed": [
+        {
+          "pid": 6719,
+          "nativeProcess": 0,
+          "nativeWindow": 0
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "SelectionCallbacks windows ko PID9364",
+      "evidence": {
+        "path": "artifacts/replica/workers/preflight/pageintegration/3365b87908f04491bb0554be7b104013/actual-selectioncallbacks-windows/cleanup-0dda9c261d2e415cbb094b156d65579e.json",
+        "sha256": "0084ca8d578cbb54c382cdfa6404a24e3e6d2a6af39c3d7b0e57d21f83dd802e"
+      },
+      "closureFields": [
+        "nativeProcess",
+        "nativeWindow"
+      ],
+      "observed": [
+        {
+          "nativeWindow": 0,
+          "path": "C:\\Users\\YOUPTE~1\\AppData\\Local\\Temp\\DBMV-Isolated-preflight-pageintegration-3365b87908f04491bb0554be7b104013\\app\\ReplicaProbe.exe",
+          "pid": 9364,
+          "nativeProcess": 0
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "SelectionCallbacks windows ko PID1204",
+      "evidence": {
+        "path": "artifacts/replica/workers/preflight/pageintegration/3365b87908f04491bb0554be7b104013/actual-selectioncallbacks-windows/cleanup-fbeb22b8f00a48a793fd3f270fa4771d.json",
+        "sha256": "2a81b8b9dbf7f246dac96f46e692aca58f42de2c94384deb2a7a3e6f06e25038"
+      },
+      "closureFields": [
+        "nativeProcess",
+        "nativeWindow"
+      ],
+      "observed": [
+        {
+          "nativeWindow": 0,
+          "path": "C:\\Users\\YOUPTE~1\\AppData\\Local\\Temp\\DBMV-Isolated-preflight-pageintegration-3365b87908f04491bb0554be7b104013\\app\\ReplicaProbe.exe",
+          "pid": 1204,
+          "nativeProcess": 0
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "SelectionCallbacks windows ko PID672",
+      "evidence": {
+        "path": "artifacts/replica/workers/preflight/pageintegration/10c8854076b342aa8d6ef1c6c8bce8bb/actual-selectioncallbacks-windows/cleanup-13284d99ac4742a3b15ce037e5c03157.json",
+        "sha256": "9bd8d8fe0ac8c470f34f9c6b7c47a77beef245cecc8143353d3c52786296202e"
+      },
+      "closureFields": [
+        "nativeProcess",
+        "nativeWindow"
+      ],
+      "observed": [
+        {
+          "nativeWindow": 0,
+          "path": "C:\\Users\\YOUPTE~1\\AppData\\Local\\Temp\\DBMV-Isolated-preflight-pageintegration-10c8854076b342aa8d6ef1c6c8bce8bb\\app\\ReplicaProbe.exe",
+          "pid": 672,
+          "nativeProcess": 0
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "SelectionCallbacks windows en PID9200",
+      "evidence": {
+        "path": "artifacts/replica/workers/preflight/pageintegration/10c8854076b342aa8d6ef1c6c8bce8bb/actual-selectioncallbacks-windows/cleanup-f317643b83aa4bc99074041fdcd717f9.json",
+        "sha256": "c95e716ba6a68b0fdb7e48a80d6acd8314805f7b5c31dbbb96eb5d6cd6dbd9fc"
+      },
+      "closureFields": [
+        "nativeProcess",
+        "nativeWindow"
+      ],
+      "observed": [
+        {
+          "nativeWindow": 0,
+          "path": "C:\\Users\\YOUPTE~1\\AppData\\Local\\Temp\\DBMV-Isolated-preflight-pageintegration-10c8854076b342aa8d6ef1c6c8bce8bb\\app\\ReplicaProbe.exe",
+          "pid": 9200,
+          "nativeProcess": 0
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "SelectionCallbacks windows en PID8948",
+      "evidence": {
+        "path": "artifacts/replica/workers/preflight/pageintegration/10c8854076b342aa8d6ef1c6c8bce8bb/actual-selectioncallbacks-windows/cleanup-d9bcfc53b9c746b18be3801429ba8fa8.json",
+        "sha256": "ef601e5b2da1efff245b8f767fdc012ff6db4b00aa6c5abc226e479c6380ffd9"
+      },
+      "closureFields": [
+        "nativeProcess",
+        "nativeWindow"
+      ],
+      "observed": [
+        {
+          "nativeWindow": 0,
+          "path": "C:\\Users\\YOUPTE~1\\AppData\\Local\\Temp\\DBMV-Isolated-preflight-pageintegration-10c8854076b342aa8d6ef1c6c8bce8bb\\app\\ReplicaProbe.exe",
+          "pid": 8948,
+          "nativeProcess": 0
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "SelectionCallbacks windows en PID12452",
+      "evidence": {
+        "path": "artifacts/replica/workers/preflight/pageintegration/fc32ced341f6499bb002a44abf8d44f3/actual-selectioncallbacks-windows/cleanup-c87d053ddcb348c9abf7ba054b652662.json",
+        "sha256": "1baa8d72c6d1b6d014770c34e3b0f625550215fe00c0ba10b173ae09b7952a7c"
+      },
+      "closureFields": [
+        "nativeProcess",
+        "nativeWindow"
+      ],
+      "observed": [
+        {
+          "nativeWindow": 0,
+          "path": "C:\\Users\\YOUPTE~1\\AppData\\Local\\Temp\\DBMV-Isolated-preflight-pageintegration-fc32ced341f6499bb002a44abf8d44f3\\app\\ReplicaProbe.exe",
+          "pid": 12452,
+          "nativeProcess": 0
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "SelectionCallbacks Windows original50",
+      "evidence": {
+        "path": "artifacts/replica/workers/preflight/selectioncallbacks/source/bcb156a1156d4681b0f59ee9741f5f4c/windows/cleanup.json",
+        "sha256": "9f23b41faf697cb6703e648517275f35e260c1678dbaf5e0d83be8148ab45be7"
+      },
+      "closureFields": [
+        "sourceWindowCount"
+      ],
+      "observed": [
+        {
+          "sourceWindowCount": 0
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "SelectionCallbacks Mac rendered headless",
+      "evidence": {
+        "path": "artifacts/replica/workers/preflight/pageintegration/865608124588471fb6b1c8814b8f50ff/outputs/91cd753a88c3434eb348321e61158410/environment.json",
+        "sha256": "5c0e07ef3040f5d3f904356a03a29dfb9c12e63ef165ae90da5a123946f82889"
+      },
+      "closureFields": [
+        "processExitCode"
+      ],
+      "observed": [
+        {
+          "phase": "HEADLESS_RECORDED",
+          "owner": "preflight",
+          "component": "pageintegration",
+          "buildManifest": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/preflight/pageintegration/865608124588471fb6b1c8814b8f50ff/build.json",
+          "binarySha256": "aae34b46d5b8505338969e89fbccc08f374718aa33ee5005555cad16004ed9c1",
+          "hostOS": "macOS-26.5.1-arm64-arm-64bit-Mach-O",
+          "renderer": "Skia",
+          "headlessDrawing": false,
+          "scale": 2,
+          "command": [
+            "/Users/youptebook/.cache/db-migration-verifier/dotnet/dotnet",
+            "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/preflight/pageintegration/865608124588471fb6b1c8814b8f50ff/build/bin/ReplicaProbe/release_osx-arm64/ReplicaProbe.dll",
+            "--pageintegration",
+            "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/preflight/pageintegration/865608124588471fb6b1c8814b8f50ff/outputs/91cd753a88c3434eb348321e61158410/preflight-selectioncallbacks-cases.json",
+            "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/preflight/pageintegration/865608124588471fb6b1c8814b8f50ff/outputs/91cd753a88c3434eb348321e61158410/candidate",
+            "artifacts/replica/workers/preflight/selectioncallbacks/source/bcb156a1156d4681b0f59ee9741f5f4c/original-mac.json",
+            "--selection-callbacks-only"
+          ],
+          "casesSha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+          "startUtc": "2026-10-08T21:57:36.152622+00:00",
+          "processExitCode": 0,
+          "note": "Recorded is not passed. Compare original geometry/paint/input before HEADLESS_PASSED; OS checks remain."
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "SelectionCallbacks Windows headless",
+      "evidence": {
+        "path": "artifacts/replica/workers/preflight/pageintegration/3365b87908f04491bb0554be7b104013/headless-selectioncallbacks-windows/baa1fc3fc9f040bf85464f8d8ba32e4b/cleanup.json",
+        "sha256": "8f748f82a38677b2339cccc9853fdad750446aab2e26b65e27c98ef04f02ac05"
+      },
+      "closureFields": [
+        "processCount"
+      ],
+      "observed": [
+        {
+          "processCount": 0
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "Home Summary Mac30",
+      "evidence": {
+        "path": "artifacts/replica/workers/home/pageintegration/fcfe5b61fb964599a5fdae13c36320f7/actual-summary-content-macos/cleanup.json",
+        "sha256": "30ca59f24d484599ec2244c842afd40e3ac7ea3b836007c20262e5902140b78e"
+      },
+      "closureFields": [
+        "ownedNativeProcess",
+        "ownedWindow"
+      ],
+      "observed": [
+        {
+          "ownedNativeProcess": 0,
+          "ownedWindow": 0,
+          "path": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/pageintegration/fcfe5b61fb964599a5fdae13c36320f7/PageIntegrationSummaryContentCheck.app"
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "Home Summary Windows30",
+      "evidence": {
+        "path": "artifacts/replica/workers/home/pageintegration/2b8c3571a91c4306b787bb2c5d865e7f/actual-summary-content-windows/cleanup.json",
+        "sha256": "e768684b0d7246c85af3d6596efbe94ffa4eaa82210e28056483f98fc1ed1ded"
+      },
+      "closureFields": [
+        "ownedNativeProcess",
+        "ownedWindow"
+      ],
+      "observed": [
+        {
+          "ownedNativeProcess": 0,
+          "ownedWindow": 0,
+          "pid": 4464,
+          "cases": 30
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "Inline Mac4",
+      "evidence": {
+        "path": "artifacts/replica/workers/home/pageintegration/2e3b374bebc74d80a74a9db001d48221/actual-summary-peer-macos/cleanup.json",
+        "sha256": "5efadf28d2c27ff17c11690feba166f50f936813fe83bd2b0c0a6283b2b66fd4"
+      },
+      "closureFields": [
+        "ownedNativeProcess",
+        "ownedWindow"
+      ],
+      "observed": [
+        {
+          "ownedNativeProcess": 0,
+          "ownedWindow": 0,
+          "path": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/pageintegration/2e3b374bebc74d80a74a9db001d48221/PageIntegrationSummaryContentCheck.app"
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "Typography Windows4",
+      "evidence": {
+        "path": "artifacts/replica/workers/home/pageintegration/3e024d7b022a4f7ca5fbea8c3c758626/actual-summary-content-windows/cleanup.json",
+        "sha256": "e421a3304772778dc3d8db9f17f5f49a652ad769f94ee069daa673c2b271c160"
+      },
+      "closureFields": [
+        "ownedNativeProcess",
+        "ownedWindow"
+      ],
+      "observed": [
+        {
+          "ownedNativeProcess": 0,
+          "ownedWindow": 0,
+          "pid": 11316,
+          "cases": 4
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "Inline Windows4",
+      "evidence": {
+        "path": "artifacts/replica/workers/home/pageintegration/cc4cf79446a442fdaed9f0755e61a3bd/actual-summary-content-windows/cleanup.json",
+        "sha256": "4e1e0590f142ff8530099f598acc8b1e9e0b36b637a87c7161de4ed48216e3e8"
+      },
+      "closureFields": [
+        "ownedNativeProcess",
+        "ownedWindow"
+      ],
+      "observed": [
+        {
+          "ownedNativeProcess": 0,
+          "ownedWindow": 0,
+          "pid": 12588,
+          "cases": 4
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "ParentResize Mac48",
+      "evidence": {
+        "path": "artifacts/replica/workers/connection/pageintegration/e92337ed7ce2481e969741e283893e09/actual-parent-resize-macos/cleanup.json",
+        "sha256": "3d389983ab9d37417c5a960f197518269ac98ead9faaaa183ffc9ea128bd55ed"
+      },
+      "closureFields": [
+        "ownedNativeProcess",
+        "ownedWindow"
+      ],
+      "observed": [
+        {
+          "ownedNativeProcess": 0,
+          "ownedWindow": 0,
+          "path": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/connection/pageintegration/e92337ed7ce2481e969741e283893e09/PageIntegrationParentResizeCheck.app"
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "ParentResize Windows48",
+      "evidence": {
+        "path": "artifacts/replica/workers/connection/pageintegration/e144fb94edf542d1827a07acc421f091/actual-parent-resize-windows/cleanup.json",
+        "sha256": "c418bbcb1eff706ebd1930c80b468dca3acb77e9d15d354455cfd642de75ff98"
+      },
+      "closureFields": [
+        "ownedNativeProcess",
+        "ownedWindow"
+      ],
+      "observed": [
+        {
+          "pid": 6196,
+          "path": "C:\\Users\\YOUPTE~1\\AppData\\Local\\Temp\\DBMV-Isolated-connection-pageintegration-e144fb94edf542d1827a07acc421f091\\app\\ReplicaProbe.exe",
+          "ownedNativeProcess": 0,
+          "ownedWindow": 0
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "ParentHistory Windows first8",
+      "evidence": {
+        "path": "artifacts/replica/workers/connection/pageintegration/93d77c67b0424d5699b97ee6d13b70d7/actual-viewport-history-windows/cleanup.json",
+        "sha256": "4523d1e4596554efd671243264af751a929a5643b99805fe59541b318cd7cdbc"
+      },
+      "closureFields": [
+        "ownedNativeProcess",
+        "ownedWindow"
+      ],
+      "observed": [
+        {
+          "pid": 4924,
+          "path": "C:\\Users\\YOUPTE~1\\AppData\\Local\\Temp\\DBMV-Isolated-connection-pageintegration-93d77c67b0424d5699b97ee6d13b70d7\\app\\ReplicaProbe.exe",
+          "ownedNativeProcess": 0,
+          "ownedWindow": 0
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "ParentHistory Windows remaining10",
+      "evidence": {
+        "path": "artifacts/replica/workers/connection/pageintegration/b3e31c55b0f140ce8f0970e4e864d24e/actual-viewport-history-windows/cleanup.json",
+        "sha256": "89f91ba3bd2d9e1073066d7f56ad09fb5c2537c8f87bb8678bc0ab92442cfd84"
+      },
+      "closureFields": [
+        "ownedNativeProcess",
+        "ownedWindow"
+      ],
+      "observed": [
+        {
+          "pid": 8984,
+          "path": "C:\\Users\\YOUPTE~1\\AppData\\Local\\Temp\\DBMV-Isolated-connection-pageintegration-b3e31c55b0f140ce8f0970e4e864d24e\\app\\ReplicaProbe.exe",
+          "ownedNativeProcess": 0,
+          "ownedWindow": 0
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "Home Summary originalWindows30",
+      "evidence": {
+        "path": "artifacts/replica/workers/home/pageintegrationsummarycontent-source/c296457ac0d342bda4b20bb844037747/cleanup.json",
+        "sha256": "8f2c2b1e2e297068eb7fc0b61529da4ed5d59223e2cdd61b84fbf6ecca33add3"
+      },
+      "closureFields": [
+        "ownedSourceWindow"
+      ],
+      "observed": [
+        {
+          "ownedSourceWindow": 0,
+          "pid": 10056,
+          "hwnd": 15205388,
+          "titlePrefix": "Summary content oracle - home c296457ac0d342bda4b20bb844037747",
+          "url": "http://10.211.55.2:8768/home-pageintegrationsummarycontent-c296457ac0d342bda4b20bb844037747.html?recording=c296457ac0d342bda4b20bb844037747&os=windows"
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "Home Summary originalWindows failedtarget1",
+      "evidence": {
+        "path": "artifacts/replica/workers/home/pageintegrationsummarycontent-source/fda231d217344567bf50e7707f0a8429/cleanup.json",
+        "sha256": "25b59bc1e8fff1b4592cff5cdff407f577058267f96414250f0828a3480f2baa"
+      },
+      "closureFields": [
+        "ownedSourceWindow"
+      ],
+      "observed": [
+        {
+          "ownedSourceWindow": 0,
+          "pid": 10056,
+          "hwnd": 13566728,
+          "titlePrefix": "Summary content oracle - home fda231d217344567bf50e7707f0a8429",
+          "url": "http://10.211.55.2:8768/home-pageintegrationsummarycontent-fda231d217344567bf50e7707f0a8429.html?recording=fda231d217344567bf50e7707f0a8429&os=windows&target=review-default-ko-960"
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "Home Typography/Inline originalWindows ControlView4",
+      "evidence": {
+        "path": "artifacts/replica/workers/home/pageintegrationsummarycontent-ax-source/5edbbb975a094a60972f08f41bbb3a96/cleanup.json",
+        "sha256": "be83e2a9cc835305081b3c6b4dca4321d568bb6d477a5fcb020c0b5a6b9473c6"
+      },
+      "closureFields": [
+        "ownedSourceWindow"
+      ],
+      "observed": [
+        {
+          "kind": "cleanup",
+          "id": "ko-960",
+          "pid": 10056,
+          "hwnd": 11732122,
+          "ownedSourceWindow": 0,
+          "pointerKeyInput": 0
+        },
+        {
+          "kind": "cleanup",
+          "id": "ko-1280",
+          "pid": 10056,
+          "hwnd": 17630214,
+          "ownedSourceWindow": 0,
+          "pointerKeyInput": 0
+        },
+        {
+          "kind": "cleanup",
+          "id": "en-960",
+          "pid": 10056,
+          "hwnd": 11994266,
+          "ownedSourceWindow": 0,
+          "pointerKeyInput": 0
+        },
+        {
+          "kind": "cleanup",
+          "id": "en-1280",
+          "pid": 10056,
+          "hwnd": 17892358,
+          "ownedSourceWindow": 0,
+          "pointerKeyInput": 0
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "ParentHistory Windows original nonced98d118014d94f158278c0ceb2603b9e",
+      "evidence": {
+        "path": "artifacts/replica/workers/connection/pageintegration/viewport-history/d98d118014d94f158278c0ceb2603b9e/cleanup.json",
+        "sha256": "bc65b7377a87c867588b29186f722b337ceacdeecce9df964958edf5cec78045"
+      },
+      "closureFields": [
+        "sourceWindow"
+      ],
+      "observed": [
+        {
+          "scope": "Original viewport history6; no candidate/input",
+          "recording": "d98d118014d94f158278c0ceb2603b9e",
+          "sourceWindow": 0,
+          "sourcePid": 10056,
+          "sourceHwnd": 17498928,
+          "sourcePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+          "candidateProcess": 0,
+          "candidateWindow": 0
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "ParentHistory Windows original nonce28ef26db74814b958887bce37162eedb",
+      "evidence": {
+        "path": "artifacts/replica/workers/connection/pageintegration/viewport-history/28ef26db74814b958887bce37162eedb/cleanup.json",
+        "sha256": "6145bd0e573779c41edef72bc99655699f8fb8c8517f6eb1347585230bbb4e02"
+      },
+      "closureFields": [
+        "sourceWindow"
+      ],
+      "observed": [
+        {
+          "scope": "Original viewport history6; no candidate/input",
+          "recording": "28ef26db74814b958887bce37162eedb",
+          "sourceWindow": 0,
+          "sourcePid": 10056,
+          "sourceHwnd": 15598344,
+          "sourcePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+          "candidateProcess": 0,
+          "candidateWindow": 0
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "Mac fullflow ko29",
+      "evidence": {
+        "path": "artifacts/replica/workers/root/pageintegration/39fb734232dd43679f8b9dd31df2a8e6/actual-fullflow-ko-primaryLabel3/cleanup.json",
+        "sha256": "97c6a6f4e249d2fb42143e993670ed169556b3400717248eb3ab20890bd94eea"
+      },
+      "closureFields": [
+        "nativeProcess",
+        "nativeWindow"
+      ],
+      "observed": [
+        {
+          "pid": 75758,
+          "nativeProcess": 0,
+          "nativeWindow": 0
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "Mac fullflow en29",
+      "evidence": {
+        "path": "artifacts/replica/workers/root/pageintegration/39fb734232dd43679f8b9dd31df2a8e6/actual-fullflow-en-primaryLabel3/cleanup.json",
+        "sha256": "bc00e85077ff6bd86c2ddd0d3997c3e649b2a6bf57e82fa98cbbafe0643dba45"
+      },
+      "closureFields": [
+        "nativeProcess",
+        "nativeWindow"
+      ],
+      "observed": [
+        {
+          "pid": 76325,
+          "nativeProcess": 0,
+          "nativeWindow": 0
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "Mac realfile scope PID36789",
+      "evidence": {
+        "path": "artifacts/replica/workers/root/pageintegration/09bdd8e2f63040478306d27e83099563/actual-macos-file/2be67372ccb44012a0539b338cfee7b3/cleanup.json",
+        "sha256": "a21574c5bde104d599973a6040e650eba8ec096ac8e056efe23f5431dbea4c84"
+      },
+      "closureFields": [
+        "processCount"
+      ],
+      "observed": [
+        {
+          "pid": 36789,
+          "closedVia": "fresh owned native AX close button201",
+          "processCount": 0,
+          "psExit": 1,
+          "timestamp": "2026-10-08T18:43:39.847642+00:00"
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "Windows realfile scope PID2364",
+      "evidence": {
+        "path": "artifacts/replica/workers/root/pageintegration/1c5eff1106e3464182052835bb27e179/actual-file-windows/guest-output/d/cleanup.json",
+        "sha256": "342a53fd9f44236674cdafcee39c439989b1d54e8edf134f89b81b7b0a349606"
+      },
+      "closureFields": [
+        "processCount"
+      ],
+      "observed": [
+        {
+          "pid": 2364,
+          "processCount": 0,
+          "closedVia": "Fresh owned WindowPattern.Close",
+          "scope": "root sample files only"
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "Mac smallmodal native128",
+      "evidence": {
+        "path": "artifacts/replica/workers/root/pageintegration/ace8319099ee47bdb3fa8cd4a106ee4a/actual-modal-bounds-macos/cleanup.json",
+        "sha256": "628dd9b54516b4820dcc23796b9bb0aedf72a98dbc04e296a2126bb30492b226"
+      },
+      "closureFields": [
+        "ownedProcessCount"
+      ],
+      "observed": [
+        {
+          "ownedProcessCount": 0,
+          "scope": "exact frozen root modal native App/MainWindow process; probe closes window immediately after result save",
+          "binary": "artifacts/replica/workers/root/pageintegration/ace8319099ee47bdb3fa8cd4a106ee4a/build/bin/ReplicaProbe/release_osx-arm64/ReplicaProbe.dll"
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "Windows smallmodal native128",
+      "evidence": {
+        "path": "artifacts/replica/workers/root/pageintegration/698cae0726b14fe586c1e81921e785f1/modal-bounds-native-auto/70d0678a4c4a4b888d816d37d520aedc/cleanup.json",
+        "sha256": "f055f600d055943b7a75cf517add80fac46c3e9df4725aed5d32627cb016666a"
+      },
+      "closureFields": [
+        "processCount",
+        "exitCode"
+      ],
+      "observed": [
+        {
+          "scope": "New connected parent only",
+          "exitCode": 0,
+          "processCount": 0
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "Windows smallmodal headless128",
+      "evidence": {
+        "path": "artifacts/replica/workers/root/pageintegration/698cae0726b14fe586c1e81921e785f1/modal-bounds-headless-windows/4f0d5d7ae2e84deeb6653dc58965eefd/cleanup.json",
+        "sha256": "f055f600d055943b7a75cf517add80fac46c3e9df4725aed5d32627cb016666a"
+      },
+      "closureFields": [
+        "processCount",
+        "exitCode"
+      ],
+      "observed": [
+        {
+          "scope": "New connected parent only",
+          "exitCode": 0,
+          "processCount": 0
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "Results Mac final callbacks",
+      "evidence": {
+        "path": "artifacts/replica/workers/connection/pageintegration/e3ecd8ef1d174a55adb171daea9ac140/actual-results-macos/native-cleanup.json",
+        "sha256": "cd13d9e0992be02e15ffee681419bbb39e3ed7ee58d075f2e4c66b925855893d"
+      },
+      "closureFields": [
+        "ownedNativeProcess",
+        "ownedWindow"
+      ],
+      "observed": [
+        {
+          "ownedNativeProcess": 0,
+          "ownedWindow": 0,
+          "path": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/connection/pageintegration/e3ecd8ef1d174a55adb171daea9ac140/PageIntegrationResultsCheck.app",
+          "source": false
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "Results Windows PID1464",
+      "evidence": {
+        "path": "artifacts/replica/workers/connection/pageintegration/e57cf5b7f6ad479592eb6ef9c53ae9ae/actual-results-windows/guest/native-cleanup.json",
+        "sha256": "0ef43d2004789783158fd200b04ebb3b600619a81e1b1872948d7992a3b03f94"
+      },
+      "closureFields": [
+        "ownedNativeProcess",
+        "ownedWindow"
+      ],
+      "observed": [
+        {
+          "source": false,
+          "ownedWindow": 0,
+          "ownedNativeProcess": 0,
+          "closedPid": 1464
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "Results Windows PID8520",
+      "evidence": {
+        "path": "artifacts/replica/workers/connection/pageintegration/c7aa326049f7440891883fd4ef022cc8/actual-results-windows/guest/native-cleanup.json",
+        "sha256": "1b1a84d910adb3098fce094f91a1a13785ddcca28c361a8ab322d5eb09da37ee"
+      },
+      "closureFields": [
+        "ownedNativeProcess",
+        "ownedWindow"
+      ],
+      "observed": [
+        {
+          "source": false,
+          "ownedWindow": 0,
+          "ownedNativeProcess": 0,
+          "closedPid": 8520
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "Results Windows PID4256",
+      "evidence": {
+        "path": "artifacts/replica/workers/connection/pageintegration/3e6bab0fd555469db21e426137ea865d/actual-results-windows/guest/native-cleanup.json",
+        "sha256": "d299b90dafd47ba5243c86fca731475f1599e73997dbafdb51f6aaeb71dcc7ec"
+      },
+      "closureFields": [
+        "ownedNativeProcess",
+        "ownedWindow"
+      ],
+      "observed": [
+        {
+          "source": false,
+          "ownedWindow": 0,
+          "ownedNativeProcess": 0,
+          "closedPid": 4256
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    },
+    {
+      "scope": "Results Windows PID4920",
+      "evidence": {
+        "path": "artifacts/replica/workers/connection/pageintegration/928561703c224f70a66df399a6be74ad/actual-results-windows/guest/native-cleanup.json",
+        "sha256": "ae462e2d7271665947ab7838316ab4847d6b949aa07cc8a1b249575a571110b4"
+      },
+      "closureFields": [
+        "ownedNativeProcess",
+        "ownedWindow"
+      ],
+      "observed": [
+        {
+          "source": false,
+          "ownedWindow": 0,
+          "ownedNativeProcess": 0,
+          "closedPid": 4920
+        }
+      ],
+      "finding": "Explicit exact-owned closure0; no global process/tab/window0 inference"
+    }
+  ],
+  "completedNativeClosureMissing": [],
+  "documentationLinkFindings": [
+    {
+      "scope": "Results Mac final callback proof",
+      "finding": "Canonical pageintegrationresults-mac-proof.json evidence map references old03823 cleanup while final native-checks are e3ecd8. Final e3ecd8 native-cleanup exists and says ownprocess/window0; this is a missing link in summary, not missing actual closure or a live process claim.",
+      "summary": {
+        "path": "docs/replica/source/pageintegrationresults-mac-proof.json",
+        "sha256": "0abfd490c27643a8de02e78f481e3dbc85acfc89877d9ecc65202418262ad5cb"
+      },
+      "existingCorrectClosure": {
+        "path": "artifacts/replica/workers/connection/pageintegration/e3ecd8ef1d174a55adb171daea9ac140/actual-results-macos/native-cleanup.json",
+        "sha256": "cd13d9e0992be02e15ffee681419bbb39e3ed7ee58d075f2e4c66b925855893d"
+      },
+      "rootOnlyAction": "Link existing final-snapshot cleanup in canonical proof if root requires exact interval provenance; no new OS inspection/retest needed."
+    }
+  ],
+  "sourceToolOnlyBoundaries": [
+    {
+      "scope": "SelectionCallbacks originalMac50",
+      "identity": "owned IAB78",
+      "provenance": "Root contemporaneous tool close/listabsence, recorded in callback verification and integration history; no separate cleanupJSON. User original tab preserved."
+    },
+    {
+      "scope": "Original root handler52",
+      "identity": "owned IAB63",
+      "provenance": "PageIntegration history explicitly immediateclose/listabsent. Own blocked error62 is separate/unconfirmed and not counted."
+    },
+    {
+      "scope": "Preflight connected original8",
+      "identity": "owned IAB65",
+      "provenance": "PageIntegration history explicitly immediateclose/listabsent; not alltab0."
+    },
+    {
+      "scope": "Home Summary original30 and Inline Mac source2",
+      "identity": "owned IAB80/81/82",
+      "provenance": "PageIntegrationSummaryContent and InlineText specs explicitly immediateclose/listabsent. Separate source cleanupJSON not asserted."
+    },
+    {
+      "scope": "Smallmodal original source4",
+      "identity": "owned IAB68/69",
+      "provenance": "root-modal-bounds-mac-comparison sourceOwnedTab69Closed=true + integrationhistory immediateclose68/69; tool provenance, not native process proof."
+    },
+    {
+      "scope": "Trial/Results/Preflight source finite records",
+      "provenance": {
+        "policy": "MASTER_RULES §14",
+        "entries": [
+          {
+            "scope": "Trial parent flow28",
+            "source": "home-pageintegrationtrial-mac-source.json",
+            "evidenceSaved": true,
+            "exactOwnedTitle": "Trial parent flow measurement · home",
+            "close": "CUA AXClose exactwindow124",
+            "after": "New Tab; unrelated preserved",
+            "ownSourceWindow": 0
+          },
+          {
+            "scope": "Results integration contexts4",
+            "source": "connection-pageintegrationresults-mac-source.json",
+            "evidenceSaved": true,
+            "exactOwnedTitle": "Results integration · original isolation",
+            "close": "CUA AXClose exactwindow124",
+            "after": "New Tab; unrelated preserved",
+            "ownSourceWindow": 0
+          },
+          {
+            "scope": "Preflight parent16",
+            "source": "preflight-preflightpage-mac-source.json",
+            "exactOwnedTitle": "PreflightPage · original isolation",
+            "close": "CUA AXClose189",
+            "ownSourceWindow": 0,
+            "after": "NewTab unrelated preserved"
+          },
+          {
+            "scope": "Results corrected wrapper4",
+            "source": "connection-pageintegrationresults-mac-control-ready.json",
+            "exactOwnedTitle": "Results integration · original isolation",
+            "close": "CUA AXClose190",
+            "ownSourceWindow": 0,
+            "after": "NewTab unrelated preserved"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/replica/source/root-completed-source-cleanup.json",
+        "sha256": "3e4fbcd2f96c017ca294107a655c7b3d44a6d9bb71f663a4fce6d8b3c26ac116"
+      }
+    }
+  ],
+  "interpretation": [
+    "File/native-auto records with exact binary/path/scope and processCount0 plus close/exit demonstrate process-owned windows destroyed; explicit separate windowCount not present there, no global window0 inferred.",
+    "Most cleanup JSON records do not alone timestamp result-save→close ordering. Existing finally/closedVia/probe-close descriptions and contemporaneous worker/history evidence establish sequence; no retroactive timing precision invented.",
+    "Mac AX cleanup path-only counts are tied to same-folder launch/bundle identity; Windows cleanup records retain PID/path/HWND/nonce where applicable.",
+    "Source browser process may remain shared; sourceWindow0 is exact nonce/title/HWND window0, not browser process0.",
+    "This file audits only identified completed reused gates, not every historical unsuccessful experiment or all OS surfaces."
+  ],
+  "excludedOngoing": [
+    {
+      "owner": "connection",
+      "scope": "Windows PageIntegrationFullFlow remaining KO/EN physical routes",
+      "status": "In progress at read; no finished judgement or live-process inventory",
+      "statusEvidence": {
+        "path": "docs/replica/workers/connection/STATUS.md",
+        "sha256": "54d36ff394cbd3b0c53443a8906c46b098d612a338ac3c8d93b7f737847d5f97"
+      }
+    },
+    {
+      "owner": "home",
+      "scope": "New Toast parent placement/replacement/removal proof",
+      "status": "Root reports newly active; not part of completed Summary30 or this finished-window audit",
+      "statusEvidence": {
+        "path": "docs/replica/workers/root/STATUS.md",
+        "sha256": "382c06fe73fadea86fa7dbea2dd491fbeec6d8ebaf154a72fc438033b5be05c4"
+      }
+    }
+  ],
+  "excludedNonOwnedOrUnconfirmed": [
+    {
+      "identity": "user original tabs1/51",
+      "reason": "User-owned tabs preserved, never summed as component windows or closed by this audit"
+    },
+    {
+      "identity": "root earlier blocked blank/error IAB62",
+      "reason": "Cleanup remains unconfirmed in root records; not a completed component fixture and not converted into source0."
+    },
+    {
+      "identity": "HWND8586366/PID828 csrss.exe ReplicaProbe.exe application-error0xc0000142",
+      "reason": "Origin not tied to a specific failed snapshot, untouched system diagnostic; excluded from owned component cleanup. No false global0 claim."
+    }
+  ],
+  "next": "Root manages canonical links/status and ongoing final flow/Toast gates. Existing completed owned closures need no new OS actions."
+}

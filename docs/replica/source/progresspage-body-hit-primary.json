@@ -1,0 +1,13 @@
+{
+  "source": "Own hidden IAB60 progresspage-inner.html?index=3 unchanged original JS/CSS read-only actualDOM",
+  "point": {
+    "x": 527.41015625,
+    "y": 478.77734375
+  },
+  "hit": "TD",
+  "hitInRow": true,
+  "pointerEvents": "auto",
+  "background": "rgba(0, 0, 0, 0)",
+  "finalHoverRule": "tbody tr:hover { background: rgb(58, 60, 68); }",
+  "candidateDiagnostic": "7f92/windows-new-headless/1be21: centre hit WebSurfaceBox/noRowPointer, label hit TableRow/rowPointer/background#ff3a3c44"
+}

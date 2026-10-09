@@ -1,0 +1,8 @@
+{
+  "platform": "windows",
+  "case": "detach during pending wheel then reattach",
+  "sourceOffset": 0,
+  "nativeOffset": 0,
+  "nativeCapturedAtUtc": "2026-10-07T10:18:17.2346367Z",
+  "passed": true
+}

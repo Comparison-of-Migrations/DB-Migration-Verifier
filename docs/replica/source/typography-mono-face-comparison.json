@@ -1,0 +1,35 @@
+{
+  "method": "same browser,size,weight,line-height,tnum,color;128px row offsets align JPEG8px blocks; exact screenshot sample comparison",
+  "cases": [
+    {
+      "face": "menlo",
+      "diffBBox": null,
+      "absoluteChannelDifference": 0
+    },
+    {
+      "face": "sfmono",
+      "diffBBox": [
+        0,
+        0,
+        80,
+        24
+      ],
+      "absoluteChannelDifference": 117338
+    },
+    {
+      "face": "systemmono",
+      "diffBBox": [
+        0,
+        0,
+        80,
+        24
+      ],
+      "absoluteChannelDifference": 117338
+    },
+    {
+      "face": "generic",
+      "diffBBox": null,
+      "absoluteChannelDifference": 0
+    }
+  ]
+}

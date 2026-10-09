@@ -1,0 +1,22 @@
+{
+  "content": {
+    "differentPixels": 0,
+    "maxChannelError": 0,
+    "scope": "actual source window versus candidate RenderTargetBitmap, AA differences included"
+  },
+  "thumb": {
+    "differentPixels": 67,
+    "maxChannelError": 33,
+    "scope": "actual source window versus candidate RenderTargetBitmap, AA differences included"
+  },
+  "up-arrow": {
+    "differentPixels": 40,
+    "maxChannelError": 2,
+    "scope": "actual source window versus candidate RenderTargetBitmap, AA differences included"
+  },
+  "down-arrow": {
+    "differentPixels": 43,
+    "maxChannelError": 2,
+    "scope": "actual source window versus candidate RenderTargetBitmap, AA differences included"
+  }
+}

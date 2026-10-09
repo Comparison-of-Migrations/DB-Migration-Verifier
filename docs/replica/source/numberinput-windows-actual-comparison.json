@@ -1,0 +1,55 @@
+{
+  "scope": "Windows actual UIA focus + official keys; numeric state/box; not full paint/clipboard acceptance",
+  "checks": 8,
+  "passed": true,
+  "rows": [
+    {
+      "native": "numberinput-windows-native-step-0-down.json",
+      "source": "numberinput-windows-step-0-down.json",
+      "value": "0",
+      "differences": []
+    },
+    {
+      "native": "numberinput-windows-native-step-0001-down.json",
+      "source": "numberinput-windows-step-0001-down.json",
+      "value": "0001",
+      "differences": []
+    },
+    {
+      "native": "numberinput-windows-native-step-1dot5-up.json",
+      "source": "numberinput-windows-step-1dot5-up.json",
+      "value": "2",
+      "differences": []
+    },
+    {
+      "native": "numberinput-windows-native-step-1e3-down.json",
+      "source": "numberinput-windows-step-1e3-down.json",
+      "value": "999",
+      "differences": []
+    },
+    {
+      "native": "numberinput-windows-native-step-3306-up.json",
+      "source": "numberinput-windows-step-3306-up.json",
+      "value": "3307",
+      "differences": []
+    },
+    {
+      "native": "numberinput-windows-native-step-65535-up.json",
+      "source": "numberinput-windows-step-65535-up.json",
+      "value": "65535",
+      "differences": []
+    },
+    {
+      "native": "numberinput-windows-native-step-65536-down.json",
+      "source": "numberinput-windows-step-65536-down.json",
+      "value": "65535",
+      "differences": []
+    },
+    {
+      "native": "numberinput-windows-native-step-empty-down.json",
+      "source": "numberinput-windows-step-empty-down.json",
+      "value": "1",
+      "differences": []
+    }
+  ]
+}

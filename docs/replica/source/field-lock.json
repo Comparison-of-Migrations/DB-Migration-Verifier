@@ -1,0 +1,7 @@
+{
+  "component": "Field",
+  "contract": "Original label/input/help geometry, KO/EN widths and input-slot replacements; whole-label pointer focus including disabled blur and port; DPR2 macOS M4/Windows11. Parent owns columns, connection/trial invalidation and actual credential policy.",
+  "files": {
+    "src/Verifier.Desktop/WebField.cs": "fff49dd18aa6c43c3c1a20fce9f1929ef82c90e46cf6af181c3f72db13c74ad2"
+  }
+}

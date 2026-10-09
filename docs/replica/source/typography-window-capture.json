@@ -1,0 +1,17 @@
+{
+  "nativeWindowClient": [
+    1000,
+    1040
+  ],
+  "nativeRenderScale": 2,
+  "capturedPixels": [
+    2000,
+    2136
+  ],
+  "titleBarCropPixels": 56,
+  "analysisResizedTo": [
+    1000,
+    1040
+  ],
+  "scope": "qualitative actual window/AX comparison; glyph metrics are measured independently; original capture is JPEG at logical1x"
+}

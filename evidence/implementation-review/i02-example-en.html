@@ -1,0 +1,37 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; base-uri 'none'; form-action 'none'"><title>DB-Migration-Verifier · ca5af0d1-11ab-4111-b4d2-1bcb0c2c434b</title>
+<style>body{margin:0;background:#313338;color:#dbdee1;font:14px/1.6 system-ui,sans-serif}main{max-width:1100px;margin:auto;padding:40px}h1{color:#f2f3f5;font-size:30px;margin:0}h2{font-size:18px;color:#f2f3f5}small,.muted{color:#b5bac1}header,section{margin-bottom:24px}section{border:1px solid #41434a;border-radius:10px;padding:24px;background:#2b2d31}.metrics{display:flex;gap:40px;margin:24px 0}.number{font-size:32px;font-weight:600;font-variant-numeric:tabular-nums}.bad{color:#ff959d}.warn{color:#f0c47c}.good{color:#6bdda3}table{border-collapse:collapse;width:100%;table-layout:fixed}th,td{text-align:left;vertical-align:top;padding:12px;border-bottom:1px solid #41434a;overflow-wrap:anywhere;white-space:pre-wrap}th{color:#b5bac1;font-weight:500}code{overflow-wrap:anywhere;white-space:pre-wrap}ul{padding-left:20px}.scope{overflow-wrap:anywhere;white-space:pre-wrap}@media print{body{background:white;color:#111}main{padding:0}section{background:white;break-inside:avoid}.muted,small,th{color:#333}}</style><main>
+<header><small>DB-Migration-Verifier</small><h1>Migration comparison report</h1><p>Differences and unverified areas of the selected scope are preserved together.</p><p class="warn">Synthetic example · not an actual user database verification.</p></header>
+<section><h2>Run summary</h2><p>Run ID: <code>ca5af0d1-11ab-4111-b4d2-1bcb0c2c434b</code><br>Started / finished: 2026-10-02T05:10:09.6126240+00:00 / 2026-10-02T05:10:09.6410790+00:00<br>Adapter: Synthetic-v1 · Format: 1</p>
+<div class="metrics"><div class="bad">Different checks<div class="number">1</div></div><div class="warn">Unknown / unverified<div class="number">9</div></div><div class="good">Equal checks<div class="number">0</div></div></div>
+<p>Differences and unknown scope may coexist in a check. Numbers count check IDs, not a whole-database success rate.</p><p>HasDifferences: true · HasUnknown: true · AllEqual: false</p><h2>Selected tables</h2><ul class="scope">
+<li>demo.entries</li>
+</ul></section>
+<section><h2>DATA-01 · RP-D01</h2><p>Data · Selected · Completed · <strong class="bad">Different</strong> · None</p>
+<h2>Locations and kinds of differences</h2><table><tr><th>Table / column</th><th>Kind / count</th><th>Internal ID</th></tr>
+<tr><td>demo.entries<br>—</td><td>SourceOnlyRow · 2</td><td><code>591182ff80414f5e9365c636fbad6465</code></td></tr>
+<tr><td>demo.entries<br>—</td><td>TargetOnlyRow · 2</td><td><code>5a6fb6dd28604dfd80a9eba28316678c</code></td></tr>
+</table>
+</section>
+<section><h2>DATA-02 · RP-D01</h2><p>Data · Selected · Pending · <strong class="warn">Unverified</strong> · NotImplemented</p>
+</section>
+<section><h2>SCHEMA-01 · RP-C01</h2><p>Schema · Selected · Completed · <strong class="warn">Indeterminate</strong> · NotImplemented</p>
+</section>
+<section><h2>SCHEMA-02 · RP-C01</h2><p>Schema · Selected · Pending · <strong class="warn">Unverified</strong> · NotImplemented</p>
+</section>
+<section><h2>SCHEMA-03 · RP-C02</h2><p>Schema · Selected · Pending · <strong class="warn">Unverified</strong> · NotImplemented</p>
+</section>
+<section><h2>ACCESS-01 · RP-A01</h2><p>Access · Selected · Pending · <strong class="warn">Unverified</strong> · NotImplemented</p>
+</section>
+<section><h2>ACCESS-02 · RP-A02</h2><p>Access · Selected · Pending · <strong class="warn">Unverified</strong> · NotImplemented</p>
+</section>
+<section><h2>OBJECT-01 · RP-O01</h2><p>Objects · Selected · Pending · <strong class="warn">Unverified</strong> · NotImplemented</p>
+</section>
+<section><h2>OBJECT-02 · RP-O01</h2><p>Objects · Selected · Pending · <strong class="warn">Unverified</strong> · NotImplemented</p>
+</section>
+<section><h2>OBJECT-03 · RP-O01</h2><p>Objects · Selected · Pending · <strong class="warn">Unverified</strong> · NotImplemented</p>
+</section>
+<section><h2>BEHAVIOR-01 · RP-B01</h2><p>Behavior · Excluded · Pending · <strong class="warn">Unverified</strong> · NotImplemented</p>
+</section>
+<section><h2>BEHAVIOR-02 · RP-A02</h2><p>Behavior · Excluded · Pending · <strong class="warn">Unverified</strong> · NotImplemented</p>
+</section>
+<footer><p>Values, row keys, connection details, principal names and SQL definitions are excluded. Use JSON to reopen in the app.</p><small>Functional Success versus Database-State, Behavioral, and Operational Contracts in AI-Generated PostgreSQL Schema Migrations</small></footer></main></html>

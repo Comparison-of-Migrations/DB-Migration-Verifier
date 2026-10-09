@@ -1,0 +1,29 @@
+{
+  "stage": "artifacts/replica/workers/preflight/capabilityviewport/8dcf1480b47b49eba71d3e5610f48e33/windows-stage.json",
+  "scope": "first three assertions passed; following clip assertion failed; no full-pass claim",
+  "result": {
+    "states": [
+      {
+        "id": "pointer-restore",
+        "offset": 0,
+        "visible": false,
+        "focused": true,
+        "tabStop": true
+      },
+      {
+        "id": "tab-viewport",
+        "offset": 0,
+        "visible": true,
+        "focused": true,
+        "tabStop": true
+      },
+      {
+        "id": "keyboard-restore",
+        "offset": 0,
+        "visible": true,
+        "focused": true,
+        "tabStop": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,1406 @@
+[
+  {
+    "Id": "break-0",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 33.0703125,
+        "trimmedWidth": 33.0703125,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "T-001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-1",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 33.0703125,
+        "trimmedWidth": 33.0703125,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "T-001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-2",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 33.0703125,
+        "trimmedWidth": 33.0703125,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "T-001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-3",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 33.0703125,
+        "trimmedWidth": 33.0703125,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "T-001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-4",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 34.25390625,
+        "trimmedWidth": 34.25390625,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A-001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-5",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 34.25390625,
+        "trimmedWidth": 34.25390625,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A-001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-6",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 34.25390625,
+        "trimmedWidth": 34.25390625,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A-001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-7",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 34.25390625,
+        "trimmedWidth": 34.25390625,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A-001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-8",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 4,
+        "width": 30.046875,
+        "trimmedWidth": 30.046875,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A-BC",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      2,
+      4
+    ]
+  },
+  {
+    "Id": "break-9",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 4,
+        "width": 30.046875,
+        "trimmedWidth": 30.046875,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A-BC",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      2,
+      4
+    ]
+  },
+  {
+    "Id": "break-10",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 4,
+        "width": 30.046875,
+        "trimmedWidth": 30.046875,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A-BC",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      2,
+      4
+    ]
+  },
+  {
+    "Id": "break-11",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 4,
+        "width": 30.046875,
+        "trimmedWidth": 30.046875,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A-BC",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      2,
+      4
+    ]
+  },
+  {
+    "Id": "break-12",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 4,
+        "width": 26.34375,
+        "trimmedWidth": 26.34375,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "-001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      4
+    ]
+  },
+  {
+    "Id": "break-13",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 4,
+        "width": 26.34375,
+        "trimmedWidth": 26.34375,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "-001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      4
+    ]
+  },
+  {
+    "Id": "break-14",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 4,
+        "width": 26.34375,
+        "trimmedWidth": 26.34375,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "-001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      4
+    ]
+  },
+  {
+    "Id": "break-15",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 4,
+        "width": 26.34375,
+        "trimmedWidth": 26.34375,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "-001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      4
+    ]
+  },
+  {
+    "Id": "break-16",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 31.91015625,
+        "trimmedWidth": 31.91015625,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "1-001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-17",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 31.91015625,
+        "trimmedWidth": 31.91015625,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "1-001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-18",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 31.91015625,
+        "trimmedWidth": 31.91015625,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "1-001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-19",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 31.91015625,
+        "trimmedWidth": 31.91015625,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "1-001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-20",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 32.42578125,
+        "trimmedWidth": 32.42578125,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A/001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      2,
+      5
+    ]
+  },
+  {
+    "Id": "break-21",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 32.42578125,
+        "trimmedWidth": 32.42578125,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A/001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      2,
+      5
+    ]
+  },
+  {
+    "Id": "break-22",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 32.42578125,
+        "trimmedWidth": 32.42578125,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A/001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      2,
+      5
+    ]
+  },
+  {
+    "Id": "break-23",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 32.42578125,
+        "trimmedWidth": 32.42578125,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A/001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      2,
+      5
+    ]
+  },
+  {
+    "Id": "break-24",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 31.86328125,
+        "trimmedWidth": 31.86328125,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A.001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-25",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 31.86328125,
+        "trimmedWidth": 31.86328125,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A.001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-26",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 31.86328125,
+        "trimmedWidth": 31.86328125,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A.001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-27",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 31.86328125,
+        "trimmedWidth": 31.86328125,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A.001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-28",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 35.185546875,
+        "trimmedWidth": 35.185546875,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A_001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-29",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 35.185546875,
+        "trimmedWidth": 35.185546875,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A_001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-30",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 35.185546875,
+        "trimmedWidth": 35.185546875,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A_001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-31",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 35.185546875,
+        "trimmedWidth": 35.185546875,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A_001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-32",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 34.25390625,
+        "trimmedWidth": 34.25390625,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A\u2010001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      2,
+      5
+    ]
+  },
+  {
+    "Id": "break-33",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 34.25390625,
+        "trimmedWidth": 34.25390625,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A\u2010001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      2,
+      5
+    ]
+  },
+  {
+    "Id": "break-34",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 34.25390625,
+        "trimmedWidth": 34.25390625,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A\u2010001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      2,
+      5
+    ]
+  },
+  {
+    "Id": "break-35",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 34.25390625,
+        "trimmedWidth": 34.25390625,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A\u2010001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      2,
+      5
+    ]
+  },
+  {
+    "Id": "break-36",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 34.25390625,
+        "trimmedWidth": 34.25390625,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A\u2011001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-37",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 34.25390625,
+        "trimmedWidth": 34.25390625,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A\u2011001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-38",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 34.25390625,
+        "trimmedWidth": 34.25390625,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A\u2011001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-39",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 34.25390625,
+        "trimmedWidth": 34.25390625,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A\u2011001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-40",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 32.14453125,
+        "trimmedWidth": 32.14453125,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A\u00A0001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-41",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 32.14453125,
+        "trimmedWidth": 32.14453125,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A\u00A0001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-42",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 32.14453125,
+        "trimmedWidth": 32.14453125,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A\u00A0001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-43",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 32.14453125,
+        "trimmedWidth": 32.14453125,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0,
+        "text": "A\u00A0001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-44",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 36.72375,
+        "trimmedWidth": 36.72375,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0.36000072956085205,
+        "text": "\uD55C-001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-45",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 36.72375,
+        "trimmedWidth": 36.72375,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0.36000072956085205,
+        "text": "\uD55C-001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-46",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 36.72375,
+        "trimmedWidth": 36.72375,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0.36000072956085205,
+        "text": "\uD55C-001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  },
+  {
+    "Id": "break-47",
+    "Weight": 400,
+    "Size": 12,
+    "Family": "system",
+    "Tabular": false,
+    "postscript": ".SFNS-Regular",
+    "primaryAscent": 11.6015625,
+    "primaryDescent": 2.53125,
+    "axes": {
+      "opsz": 17
+    },
+    "lines": [
+      {
+        "start": 0,
+        "length": 5,
+        "width": 36.72375,
+        "trimmedWidth": 36.72375,
+        "ascent": 11.6015625,
+        "descent": 2.53125,
+        "leading": 0.36000072956085205,
+        "text": "\uD55C-001",
+        "tableShape": null
+      }
+    ],
+    "lineBreaks": [
+      5
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "status": "PRODUCT126_SOURCE_MATCH_CURRENT_ROOT129_MATCH",
+  "rootBuild": "artifacts/replica/workers/root/productbuild/44ac42ef031a464081e06113fdcea310/build.json",
+  "nativeFrozen": "artifacts/replica/workers/connection/pageintegration/b3e31c55b0f140ce8f0970e4e864d24e/build.json",
+  "sourceFilesCompared": 126,
+  "currentRootFilesCompared": 129,
+  "differences": [],
+  "currentDifferences": [],
+  "explicitIsolatedExclusions": [
+    "src/Verifier.Core/packages.lock.json",
+    "src/Verifier.Data/packages.lock.json",
+    "src/Verifier.Desktop/packages.lock.json"
+  ],
+  "exclusionReason": "Central isolated.py copytree ignore_patterns packages.lock.json and RestorePackagesWithLockFile=false; not captured in own sourceHashes. All three canonical lockfiles still match root44ac hashes. No own product edits; do not claim excluded snapshot files were compared."
+}

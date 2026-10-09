@@ -1,0 +1,10 @@
+{
+  "component": "NumberInput",
+  "lockedAt": "2026-10-07",
+  "scope": "Verified source port numeric editor; current macOS/Windows DPR2 UI/input contract. See specs/NumberInput.md for raster and browser-provider boundary.",
+  "files": {
+    "src/Verifier.Desktop/WebNumberInput.cs": "a94e90eecaba17318554240ddffaf4c47583894b6192c7275bff973a00a86efb",
+    "src/Verifier.Desktop/WebNumberRules.cs": "aa01d11fcde5ac18caab1acde5c392b9dcb01d2be0dba039c5fd52543b3d5241",
+    "src/Verifier.Desktop/NumberSpinTiming.cs": "5142a5a573f9f4b12bd8c0b7e22c7a0b59bf6962397f1ca74977b24dbc1a4d6f"
+  }
+}

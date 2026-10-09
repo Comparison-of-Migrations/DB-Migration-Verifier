@@ -1,0 +1,7 @@
+{
+  "component": "Save",
+  "contract": "Literal save() body: protected child assembly, section/action spacing, saved notice, format insertion order and identity/modality restoration; application owns I/O and shell focus/scroll.",
+  "files": {
+    "src/Verifier.Desktop/WebSavePage.cs": "f0ade1743c85d7db28dc16ede9a435dc6454befd887c234cb097ed11bdedb311"
+  }
+}

@@ -1,0 +1,179 @@
+Window: "DB-Migration-Verifier", App: DB-Migration-Verifier.
+0 standard window DB-Migration-Verifier, Secondary Actions: Raise
+	1 container WindowChrome, ID: AvaloniaWindowChrome
+	2 container
+		3 container PART_VisualLayerManager
+			4 container
+				5 container
+					6 text DB-Migration-Verifier
+					7 text 읽기 전용 비교
+					8 button 한국어 / EN, ID: language
+				9 container
+					10 text 마이그레이션 결과 비교
+					11 button DB 연결
+						12 container
+							13 text DB 연결
+					14 button 사전 확인
+						15 container
+							16 text 사전 확인
+					17 button 검사 선택
+						18 container
+							19 text 3
+							20 text 검사 선택
+					21 button (disabled) 실행 전 확인
+						22 container
+							23 text 4
+							24 text 실행 전 확인
+					25 button (disabled) 검사 진행
+						26 container
+							27 text 5
+							28 text 검사 진행
+					29 button (disabled) 결과 확인
+						30 container
+							31 text 6
+							32 text 결과 확인
+					33 button (disabled) 결과 저장
+						34 container
+							35 text 7
+							36 text 결과 저장
+					37 text 비교는 읽기 전용
+					38 text 원본·대상에는 쓰지 않습니다.
+동작 시험은 별도 시험 DB에서만 합니다.
+					39 checkbox 동작 줄이기, Value: off, ID: motion
+						40 container RootGrid
+							41 container
+								42 container
+				43 container
+					44 text 원본과 대상을 읽어 비교합니다. 확인하지 못한 부분은 일치로 표시하지 않습니다.
+				45 scroll area
+					46 container
+						47 container
+							48 text 무엇을 검사할지 선택하세요
+							49 text 읽기 비교 분류는 기본 선택입니다. 분류 안의 세부 항목도 검사 대상으로 유지합니다.
+							50 text 검사 분류
+							51 text 4 / 5 선택
+							52 container
+								53 checkbox 데이터 검사 선택, Value: on, ID: category-Data
+									54 container RootGrid
+										55 container
+											56 container
+								57 button 데이터 세부 검사 펼침
+									58 container
+										59 text 데이터
+										60 text 전체 값·누락·중복·참조 관계
+										61 text 일부 가능
+								62 text DATA-01 · RP-D01 · 지원 조건에서 전체 행 비교
+								63 text DATA-02 · RP-D01 · 상세 구현·관측 제한은 미검증으로 표시
+							64 container
+								65 checkbox 구조·제약 검사 선택, Value: on, ID: category-Schema
+									66 container RootGrid
+										67 container
+											68 container
+								69 button 구조·제약 세부 검사 펼침
+									70 container
+										71 text 구조·제약
+										72 text 컬럼·자료형·키·제약·인덱스·partition
+										73 text 일부 가능
+							74 container
+								75 checkbox 사용자·권한 검사 선택, Value: on, ID: category-Access
+									76 container RootGrid
+										77 container
+											78 container
+								79 button 사용자·권한 세부 검사 펼침
+									80 container
+										81 text 사용자·권한
+										82 text 사용자·역할·소유자·권한·행 정책
+										83 text 미구현
+							84 container
+								85 checkbox 관련 객체 검사 선택, Value: on, ID: category-Objects
+									86 container RootGrid
+										87 container
+											88 container
+								89 button 관련 객체 세부 검사 펼침
+									90 container
+										91 text 관련 객체
+										92 text view·함수·trigger·sequence·사용자 타입
+										93 text 미구현
+							94 container
+								95 checkbox (disabled) 별도 DB 동작 시험 검사 선택, Value: off, ID: category-Behavior
+									96 container RootGrid
+										97 container
+											98 container
+								99 button 별도 DB 동작 시험 세부 검사 펼침
+									100 container
+										101 text 별도 DB 동작 시험
+										102 text 선택 기능 · 시험 DB에만 입력·수정·삭제
+										103 text 미구현
+							104 button 시험 DB 준비 안내
+								105 container
+									106 text 시험 DB 준비 안내
+							107 text 준비·쓰기 기능 미구현 · 읽기 비교만 실행할 수 있습니다.
+							108 text 검사할 테이블과 대응
+							109 text 8 / 8개 선택 · 8개 표시
+							110 container
+								111 text field 테이블 검색, Help: 테이블 이름으로 검색, ID: table-search
+									112 container
+										113 container
+											114 scroll area PART_ScrollViewer
+												115 container
+													116 container
+														117 text Value: 테이블 이름으로 검색, ID: PART_Placeholder
+								118 button 검색 지우기
+							119 checkbox 검색 결과 전체 선택, Value: on, ID: table-bulk
+								120 container RootGrid
+									121 container
+										122 container
+							123 button 선택 해제
+							124 text 검색은 선택 범위를 바꾸지 않습니다. 일괄 조작은 검색 결과에만 적용합니다.
+							125 container
+								126 container
+									127 text 원본 테이블
+									128 text 대상 테이블
+									129 text 대응 방식
+									130 text
+								131 content list
+									132 scroll area PART_ScrollViewer
+										133 container
+											134 row (selectable) Avalonia.Controls.Border
+												135 container
+													136 checkbox demo.changed, Value: on, ID: table-demo.changed
+														137 container RootGrid
+															138 container
+																139 container
+															140 text demo.changed
+													141 text demo.changed
+													142 text 동일 이름
+													143 button 대응 변경
+														144 container
+															145 text 대응 변경
+											146 scroll bar (settable, float) Value: 0, ID: PART_VerticalScrollBar
+												147 container
+													148 button Line up, ID: PART_LineUpButton
+													149 button Page up, ID: PART_PageUpButton
+													150 button Page down, ID: PART_PageDownButton
+													151 handle Position
+													152 button Line down, ID: PART_LineDownButton
+							153 text 동일 이름 자동 대응 · 수동 테이블/컬럼 대응은 아직 엔진에 구현되지 않았습니다.
+						154 scroll bar (settable, float) Value: 0, ID: PART_VerticalScrollBar
+							155 container
+								156 button Line up, ID: PART_LineUpButton
+								157 button Page up, ID: PART_PageUpButton
+								158 button Page down, ID: PART_PageDownButton
+								159 handle Position
+								160 button Line down, ID: PART_LineDownButton
+				161 container
+					162 button 뒤로
+						163 container
+							164 text 뒤로
+					165 text 선택 범위와 제외 범위를 다음 화면에서 확인합니다.
+					166 button 실행 전 확인
+						167 container
+							168 text 실행 전 확인
+	169 close button
+	170 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	171 minimize button
+	172 text DB-Migration-Verifier
+173 menu bar
+	174 DB-Migration-Verifier
+
+The focused UI element is 57 button 데이터 세부 검사 펼침

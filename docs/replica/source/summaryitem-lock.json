@@ -1,0 +1,7 @@
+{
+  "component": "SummaryItem",
+  "contract": "Actual .summary-item 170/130 viewport columns, 20 gap, 16 padding, final border, plain/bold/inline/BR values and CSS min-content boundary. Parent supplies media and last-child identity.",
+  "files": {
+    "src/Verifier.Desktop/WebSummaryItem.cs": "e92ca2e35f299ce2f590f7fb1370d0fa66526fe88bf9fd29354dea15b6d13c77"
+  }
+}

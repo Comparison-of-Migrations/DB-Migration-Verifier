@@ -1,0 +1,64 @@
+using System.Text.Json;
+using Avalonia;
+using Avalonia.Automation;
+using Avalonia.Controls;
+using Avalonia.Controls.ApplicationLifetimes;
+using Avalonia.Input;
+using Avalonia.Headless;
+using Avalonia.Interactivity;
+using Avalonia.Media;
+using Avalonia.Media.Imaging;
+using Avalonia.Threading;
+using Verifier.Desktop;
+internal sealed class ConnectionPageProbeApplication:Application
+{
+ private sealed record Case(string Id,double Width,double Viewport,bool English,string Dbms,WebConnectionEndpoint Source,WebConnectionEndpoint Target,bool Connected,bool Advanced,bool Busy,string Error);
+ private sealed record Validation(string Id,WebConnectionView View,string Error);
+ private sealed record SourceEvidence(Case[] Cases,Validation[] Validation);
+ private sealed record InputState(WebConnectionView View,bool ReducedMotion=false);
+ public override void OnFrameworkInitializationCompleted()
+ {
+  var life=(IClassicDesktopStyleApplicationLifetime)ApplicationLifetime!;var args=life.Args!;var opts=new JsonSerializerOptions{PropertyNameCaseInsensitive=true};var source=JsonSerializer.Deserialize<SourceEvidence>(File.ReadAllText(args[1]),opts)!;var cases=source.Cases;var output=args[2];Directory.CreateDirectory(output);
+  var n=new WebConnectionPage{Width=904,ReducedMotion=true};var canvas=new Canvas{Width=1150,Height=1400,Background=Brush.Parse("#313338"),UseLayoutRounding=false};canvas.Children.Add(n);Canvas.SetLeft(n,30);Canvas.SetTop(n,40);var footer=new WebActionFooter{Width=1050};Canvas.SetLeft(footer,0);Canvas.SetTop(footer,1250);canvas.Children.Add(footer);var w=new Window{Title="Replica ConnectionPage verification",Width=1180,Height=1120,Content=canvas,UseLayoutRounding=false};life.MainWindow=w;
+  object Box(Control c){var p=c.TranslatePoint(default,n)??default;return new{x=p.X,y=p.Y,width=c.Bounds.Width,height=c.Bounds.Height};}
+  object Fields(WebConnectionPanel p,string side)=>new Control[]{p.HostInput,p.PortInput,p.DatabaseInput,p.UserInput,p.PasswordInput}.Select((x,i)=>new{id=side+"-"+new[]{"host","port","db","user","pass"}[i],box=Box(x),value=i==1?p.PortInput.Value:((WebTextInput)x).Text??"",disabled=!x.IsEnabled}).ToArray();
+  if(args[0] is "--connectionpage-window" or "--connectionpage-input-headless") {
+   if(args[0]=="--connectionpage-input-headless"&&!ReplicaPlatform.IsHeadless)throw new InvalidOperationException("Finite input mode requires the isolated headless environment");
+   var opening=args.Length>3&&args[3]=="--resume"?JsonSerializer.Deserialize<InputState>(File.ReadAllText(Path.Combine(output,"connectionpage-input.json")),opts):null;n.ReducedMotion=opening?.ReducedMotion??false;n.SetPresentation(opening?.View??n.View,1280);n.SetFooter(footer);var changes=new List<string>();var requests=new List<string>();var history=new List<object>();var clock=System.Diagnostics.Stopwatch.StartNew();WebConnectionPage? priorPage=null;WebTextInput? priorSource=null;WebAdvancedConnection? priorAdvanced=null;WebActionButton? priorFooter=null;bool keyboard=false,restoreCheckFocus=false;var text=new TextBlock{Width=1050,TextWrapping=TextWrapping.Wrap};Canvas.SetLeft(text,30);Canvas.SetTop(text,1100);canvas.Children.Add(text);Canvas.SetTop(footer,900);
+   object? focus()=>TopLevel.GetTopLevel(n)?.FocusManager?.GetFocusedElement() is Control c?new{id=AutomationProperties.GetAutomationId(c),type=c.GetType().Name}:null;
+   void State(string eventName="state"){w.UpdateLayout();var same=new{page=ReferenceEquals(priorPage,n),source=ReferenceEquals(priorSource,n.Source.HostInput),advanced=ReferenceEquals(priorAdvanced,n.Advanced),footer=ReferenceEquals(priorFooter,footer.ActionButtons[0])};priorPage=n;priorSource=n.Source.HostInput;priorAdvanced=n.Advanced;priorFooter=footer.ActionButtons[0];history.Add(new{eventName,time=clock.Elapsed.TotalMilliseconds,view=n.View,focus=focus(),same,attached=canvas.Children.Contains(n),status=new[]{n.Source.Status.Text,n.Target.Status.Text},success=n.ConnectedNotice is not null,opacity=n.Opacity,advancedOpacity=n.Advanced.Explanation?.Opacity,advancedFocusVisible=n.Advanced.ToggleButton.FocusVisible,radioFocus=n.Picker.Options.Select(x=>new{x.EngineName,focused=x.Radio.IsFocused,visible=x.Radio.FocusVisible}).ToArray(),footer=new{action=n.ResolveFooterAction(AutomationProperties.GetAutomationId(footer.ActionButtons[0])?.Replace("Footer-","")??""),enabled=footer.ActionButtons[0].IsEnabled,label=footer.ActionButtons[0].Content,loading=footer.ActionButtons[0].IsLoading}});var json=JsonSerializer.Serialize(new{history=history.ToArray(),reducedMotion=n.ReducedMotion,view=n.View,changes=changes.ToArray(),requests=requests.ToArray(),focus=focus(),status=new[]{n.Source.Status.Text,n.Target.Status.Text},success=n.ConnectedNotice is not null,footer=new{action=n.ResolveFooterAction(AutomationProperties.GetAutomationId(footer.ActionButtons[0])?.Replace("Footer-","")??""),enabled=footer.ActionButtons[0].IsEnabled,label=footer.ActionButtons[0].Content,loading=footer.ActionButtons[0].IsLoading},opacity=n.Opacity,advancedOpacity=n.Advanced.Explanation?.Opacity,attached=canvas.Children.Contains(n)});text.Text=$"{eventName}: {n.View.Dbms}; busy={n.View.Busy}; connected={n.View.Connected}";File.WriteAllText(Path.Combine(output,"connectionpage-input.json"),json);}
+   n.StateChanged+=(_,change)=>{changes.Add(change.Reason);n.SetFooter(footer,change.Reason=="input");if(change.Reason=="validation"&&restoreCheckFocus)Dispatcher.UIThread.Post(()=>{footer.ActionButtons[0].Focus(keyboard?NavigationMethod.Tab:NavigationMethod.Pointer);State("validationfocus");},DispatcherPriority.Loaded);if(change.Reason=="connected")Dispatcher.UIThread.Post(()=>{footer.ActionButtons[0].Focus(keyboard?NavigationMethod.Tab:NavigationMethod.Pointer);State("finalfocus");},DispatcherPriority.Loaded);State(change.Reason);};
+   footer.ActionRequested+=async(_,action)=>{restoreCheckFocus=footer.ActionButtons[0].IsFocused;action=n.ResolveFooterAction(action);requests.Add(action);if(action=="connect")await n.CheckSampleConnectionsAsync();State();};
+   var diagnosticActions=new Dictionary<string,Action>();
+   void Button(string id,Action action,double x){var b=new Button{Content=id};AutomationProperties.SetAutomationId(b,"ConnectionPage-"+id);diagnosticActions.Add(id,action);b.Click+=(_,_)=>{action();Dispatcher.UIThread.Post(()=>State(),DispatcherPriority.Background);};Canvas.SetLeft(b,x);canvas.Children.Add(b);}
+   Button("language",()=>{n.SetPresentation(n.View with{English=!n.View.English},1280);n.SetFooter(footer);},400);Button("reduced",()=>{n.ReducedMotion=!n.ReducedMotion;n.SetPresentation(n.View,1280);n.SetFooter(footer);},530);Button("mount",()=>{if(canvas.Children.Contains(n)){canvas.Children.Remove(n);State("unmount");}else{canvas.Children.Insert(0,n);State("mount");}},660);
+   Button("connected",()=>{n.SetPresentation(n.View with{Connected=true},1280);n.SetFooter(footer);},770);Button("record",()=>{},900);
+   w.AddHandler(InputElement.KeyDownEvent,(_,e)=>{if(e.KeyModifiers==KeyModifiers.None)keyboard=true;},RoutingStrategies.Tunnel,true);w.AddHandler(InputElement.PointerPressedEvent,(_,_)=>keyboard=false,RoutingStrategies.Tunnel,true);
+   w.AddHandler(InputElement.GotFocusEvent,(_,_)=>Dispatcher.UIThread.Post(()=>State()),RoutingStrategies.Bubble,true);w.AddHandler(InputElement.KeyUpEvent,(_,_)=>Dispatcher.UIThread.Post(()=>State()),RoutingStrategies.Bubble,true);w.Opened+=(_,_)=>Dispatcher.UIThread.Post(()=>State());
+   if(args[0]=="--connectionpage-input-headless")w.Opened+=(_,_)=>Dispatcher.UIThread.Post(async()=>{
+    void Click(Control control){w.UpdateLayout();var point=control.TranslatePoint(new(control.Bounds.Width/2,control.Bounds.Height/2),w)??throw new InvalidOperationException("Detached pointer target");w.MouseMove(point);w.MouseDown(point,MouseButton.Left);w.MouseUp(point,MouseButton.Left);}
+    void SendKey(Key key,RawInputModifiers modifiers=RawInputModifiers.None){w.KeyPress(key,modifiers,PhysicalKey.None,"");w.KeyRelease(key,modifiers,PhysicalKey.None,"");}
+    void Replace(WebTextInput field,string value){Click(field);SendKey(Key.A,RawInputModifiers.Control);SendKey(Key.Back);if(value.Length>0)w.KeyTextInput(value);}
+    void Diagnostic(string id){diagnosticActions[id]();State("diagnostic-"+id);}
+    void TypeDuringBusy(string value){var field=n.Source.HostInput;Click(field);field.SelectAll();w.KeyTextInput(value);}
+    async Task Settle(int milliseconds=250){await Task.Delay(milliseconds);AvaloniaHeadlessPlatform.ForceRenderTimerTick();w.UpdateLayout();}
+    void Save(string label){State("headless-record");File.Copy(Path.Combine(output,"connectionpage-input.json"),Path.Combine(output,label+".json"),true);}
+    try{
+     await Settle();Click(n.Picker.Options[1]);await Settle();Save("engine");
+     Click(n.Advanced.ToggleButton);await Settle();SendKey(Key.Space);await Settle();SendKey(Key.Enter);await Settle();Save("advanced-key");
+     Replace(n.Source.HostInput,"");Click(footer.ActionButtons[0]);await Settle();Save("required");
+     Replace(n.Source.HostInput,"source.example.invalid");await Settle(30);Save("error-recovery");
+     Click(footer.ActionButtons[0]);await Task.Delay(20);if(!n.View.Busy)throw new InvalidOperationException("Busy check missing before headless input");TypeDuringBusy("source-busy.example.invalid");await Settle(700);Save("busy-input");
+     Replace(n.Source.DatabaseInput,"migration_changed");await Settle(30);Save("connected-input");
+     Diagnostic("language");await Settle();Save("language");
+     Diagnostic("mount");await Settle(30);Diagnostic("mount");await Settle();Save("lifecycle-normal");
+     Diagnostic("reduced");await Settle();Diagnostic("mount");await Settle(30);Diagnostic("mount");await Settle();Save("lifecycle-reduced");
+     Diagnostic("language");await Settle();Click(footer.ActionButtons[0]);await Task.Delay(20);if(!n.View.Busy)throw new InvalidOperationException("Busy check missing before invalid input");TypeDuringBusy("bad.example.invalid");await Settle(700);Save("busy-invalid");
+     using var frame=w.CaptureRenderedFrame();if(frame is null)throw new InvalidOperationException("No Skia headless frame");frame.Save(Path.Combine(output,"connectionpage-headless-input.png"),new PngBitmapEncoderOptions());
+     File.WriteAllText(Path.Combine(output,"connectionpage-headless-input-run.json"),JsonSerializer.Serialize(new{phase="HEADLESS_RECORDED",labels=10,dpr=w.RenderScaling,actualOSChecksPending=true}));Console.WriteLine("Recorded finite headless Connection pointer/key/lifecycle sequence");w.Close();
+    }catch(Exception error){File.WriteAllText(Path.Combine(output,"connectionpage-headless-input-failed.txt"),error.ToString());Console.Error.WriteLine(error);life.Shutdown(1);Environment.ExitCode=1;}
+   },DispatcherPriority.Background);
+  } else w.Opened+=(_,_)=>Dispatcher.UIThread.Post(async()=>{var rows=new List<object>();foreach(var c in cases){n.Width=c.Width;n.SetPresentation(new(c.English,c.Dbms,c.Source,c.Target,c.Connected,c.Advanced,c.Busy,c.Error),c.Viewport);n.SetFooter(footer);await Dispatcher.UIThread.InvokeAsync(()=>{},DispatcherPriority.Background);w.UpdateLayout();rows.Add(new{id=c.Id,root=Box(n),heading=Box(n.Heading),picker=Box(n.Picker),panels=Box(n.Panels),source=Box(n.Source),target=Box(n.Target),advanced=Box(n.Advanced),error=n.ErrorNotice is{}error?Box(error):null,success=n.ConnectedNotice is{}success?Box(success):null,title=n.Heading.TitleText.Text,description=n.Heading.DescriptionText.Text,selected=n.View.Dbms,expanded=n.View.Advanced,fields=((IEnumerable<object>)Fields(n.Source,"source")).Concat((IEnumerable<object>)Fields(n.Target,"target")).ToArray(),status=new[]{n.Source.Status.Text,n.Target.Status.Text},errorText=n.ErrorNotice?.Text??"",successText=n.ConnectedNotice?.Text??"",footer=new{hint=footer.Hint.Text,action=n.View.Connected?"preflight":"connect",enabled=footer.ActionButtons[0].IsEnabled,label=footer.ActionButtons[0].Content,loading=footer.ActionButtons[0].IsLoading}});if(c.Id is "compact-ko-904-advanced" or "wide-en-904-connected"){using var sample=new RenderTargetBitmap(new PixelSize(2300,2800),new Vector(192,192));sample.Render(canvas);sample.Save(Path.Combine(output,"connectionpage-"+c.Id+".png"),new PngBitmapEncoderOptions());}}using var bmp=new RenderTargetBitmap(new PixelSize(2300,2800),new Vector(192,192));bmp.Render(canvas);bmp.Save(Path.Combine(output,"connectionpage.png"),new PngBitmapEncoderOptions());File.WriteAllText(Path.Combine(output,"connectionpage-native.json"),JsonSerializer.Serialize(new{dpr=w.RenderScaling,rows,validation=source.Validation.Select(x=>new{id=x.Id,error=WebConnectionPage.Validate(x.View)}).ToArray()},new JsonSerializerOptions{WriteIndented=true}));w.Close();Console.WriteLine("Recorded "+rows.Count+" Connection page cases");},DispatcherPriority.Background);
+  base.OnFrameworkInitializationCompleted();
+ }
+}

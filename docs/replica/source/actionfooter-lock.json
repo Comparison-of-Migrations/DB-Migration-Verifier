@@ -1,0 +1,7 @@
+{
+  "component": "ActionFooter",
+  "contract": "132 exact presentation layout/update/descriptor/icon cases per OS; actual action/disabled/locale checks; existing locked child contracts. Native default renderer differences recorded in spec under user OS exception. Page branch decisions belong to parent.",
+  "files": {
+    "src/Verifier.Desktop/WebActionFooter.cs": "ea9359a08207889daf3096a78b282da574137f2a0f7f628c342db0a2a35916bc"
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "capturedAt": 13620.10000000149,
+  "epoch": 3,
+  "attached": true,
+  "child": true,
+  "fit": false,
+  "dpr": 2,
+  "offset": 322,
+  "top": 0,
+  "width": 478,
+  "height": 135,
+  "content": {
+    "x": -322,
+    "y": 0,
+    "width": 800,
+    "height": 120
+  },
+  "clientWidth": 478,
+  "clientHeight": 120,
+  "scrollWidth": 800,
+  "scrollHeight": 120,
+  "active": "CapabilityViewport-child",
+  "focusVisible": false,
+  "outline": "rgb(219, 222, 225) none 3px",
+  "lastInput": {
+    "type": "key",
+    "key": "Tab",
+    "shift": false,
+    "trusted": true
+  },
+  "frames": [
+    {
+      "t": 13003.5,
+      "offset": 0,
+      "top": 0
+    },
+    {
+      "t": 13011.60000000149,
+      "offset": 0,
+      "top": 0
+    },
+    {
+      "t": 13029,
+      "offset": 0,
+      "top": 0
+    },
+    {
+      "t": 13043.90000000596,
+      "offset": 0,
+      "top": 0
+    },
+    {
+      "t": 13059.5,
+      "offset": 0,
+      "top": 0
+    },
+    {
+      "t": 13076.30000000447,
+      "offset": 0,
+      "top": 0
+    },
+    {
+      "t": 13091.40000000596,
+      "offset": 0,
+      "top": 0
+    },
+    {
+      "t": 13108.10000000149,
+      "offset": 0,
+      "top": 0
+    },
+    {
+      "t": 13124.30000000447,
+      "offset": 0,
+      "top": 0
+    },
+    {
+      "t": 13139.5,
+      "offset": 0,
+      "top": 0
+    },
+    {
+      "t": 13155.60000000149,
+      "offset": 0,
+      "top": 0
+    },
+    {
+      "t": 13171.70000000298,
+      "offset": 0,
+      "top": 0
+    },
+    {
+      "t": 13292,
+      "offset": 0,
+      "top": 0
+    },
+    {
+      "t": 13300.30000000447,
+      "offset": 0,
+      "top": 0
+    },
+    {
+      "t": 13317.10000000149,
+      "offset": 0,
+      "top": 0
+    },
+    {
+      "t": 13331.5,
+      "offset": 0,
+      "top": 0
+    },
+    {
+      "t": 13348.20000000298,
+      "offset": 0,
+      "top": 0
+    },
+    {
+      "t": 13363.80000000447,
+      "offset": 0,
+      "top": 0
+    },
+    {
+      "t": 13380.30000000447,
+      "offset": 0,
+      "top": 0
+    },
+    {
+      "t": 13395.70000000298,
+      "offset": 0,
+      "top": 0
+    },
+    {
+      "t": 13412.40000000596,
+      "offset": 0,
+      "top": 0
+    },
+    {
+      "t": 13427.60000000149,
+      "offset": 0,
+      "top": 0
+    },
+    {
+      "t": 13444.30000000447,
+      "offset": 0,
+      "top": 0
+    },
+    {
+      "t": 13459.80000000447,
+      "offset": 0,
+      "top": 0
+    },
+    {
+      "t": 13475.40000000596,
+      "offset": 0,
+      "top": 0
+    },
+    {
+      "t": 13492.40000000596,
+      "offset": 0,
+      "top": 0
+    },
+    {
+      "t": 13507.5,
+      "offset": 0,
+      "top": 0
+    },
+    {
+      "t": 13524.20000000298,
+      "offset": 322,
+      "top": 0
+    },
+    {
+      "t": 13540.20000000298,
+      "offset": 322,
+      "top": 0
+    },
+    {
+      "t": 13556.30000000447,
+      "offset": 322,
+      "top": 0
+    },
+    {
+      "t": 13571.40000000596,
+      "offset": 322,
+      "top": 0
+    },
+    {
+      "t": 13587.60000000149,
+      "offset": 322,
+      "top": 0
+    },
+    {
+      "t": 13603.90000000596,
+      "offset": 322,
+      "top": 0
+    },
+    {
+      "t": 13620,
+      "offset": 322,
+      "top": 0
+    }
+  ],
+  "changes": [
+    {
+      "t": 13518.20000000298,
+      "offset": 322,
+      "top": 0
+    }
+  ],
+  "keys": [
+    {
+      "key": "Tab",
+      "shift": false,
+      "trusted": true,
+      "active": "CapabilityViewport-before"
+    }
+  ]
+}

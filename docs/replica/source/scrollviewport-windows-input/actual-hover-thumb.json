@@ -1,0 +1,20 @@
+{
+  "capturedAtUtc": "2026-10-07T10:57:15.7188557Z",
+  "dpr": 2,
+  "offset": 0,
+  "maximum": 800,
+  "clientWidth": 205,
+  "thumb": {
+    "x": 208,
+    "y": 18,
+    "width": 9,
+    "height": 121.5
+  },
+  "activeControl": "ScrollReset",
+  "focused": false,
+  "focusVisible": false,
+  "tabStop": true,
+  "events": [],
+  "frames": [],
+  "changes": []
+}

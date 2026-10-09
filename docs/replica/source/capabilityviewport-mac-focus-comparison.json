@@ -1,0 +1,36 @@
+{
+  "count": 4,
+  "differences": [],
+  "checks": [
+    {
+      "label": "pointer-restore",
+      "offset": 0,
+      "activeSource": "BODY",
+      "activeNative": "CapabilityViewport-box",
+      "attached": true
+    },
+    {
+      "label": "tab-viewport",
+      "offset": 0,
+      "activeSource": "CapabilityViewport-box",
+      "activeNative": "CapabilityViewport-box",
+      "attached": true
+    },
+    {
+      "label": "keyboard-restore",
+      "offset": 0,
+      "activeSource": "CapabilityViewport-box",
+      "activeNative": "CapabilityViewport-box",
+      "attached": true
+    },
+    {
+      "label": "tab-child",
+      "offset": 322,
+      "activeSource": "CapabilityViewport-child",
+      "activeNative": "CapabilityViewport-child",
+      "attached": true
+    }
+  ],
+  "detachedBounds": "DOM zero vs cached native Bounds not rendered; both detached/offset0/no named focus",
+  "scope": "actual endpoint/state/focus; timing path and held behavior separate"
+}

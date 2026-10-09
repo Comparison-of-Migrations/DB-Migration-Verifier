@@ -1,0 +1,191 @@
+Window: "DB-Migration-Verifier", App: DB-Migration-Verifier.
+0 standard window DB-Migration-Verifier, Secondary Actions: Raise
+	1 container WindowChrome, ID: AvaloniaWindowChrome
+	2 container
+		3 container
+			4 container
+				5 text DB-Migration-Verifier
+				6 text Read-only comparison
+				7 button 한국어 / EN, ID: language
+			8 container
+				9 text Migration comparison
+				10 button Connect databases
+					11 container
+						12 text 1
+						13 text Connect databases
+				14 button (disabled) Preflight
+					15 container
+						16 text 2
+						17 text Preflight
+				18 button (disabled) Select checks
+					19 container
+						20 text 3
+						21 text Select checks
+				22 button (disabled) Review
+					23 container
+						24 text 4
+						25 text Review
+				26 button (disabled) Progress
+					27 container
+						28 text 5
+						29 text Progress
+				30 button (disabled) Results
+					31 container
+						32 text 6
+						33 text Results
+				34 button (disabled) Save results
+					35 container
+						36 text 7
+						37 text Save results
+				38 text Read-only comparison
+				39 text No source/target writes.
+Behavior tests require a separate test DB.
+				40 checkbox Reduce motion, Value: off, ID: motion
+					41 container RootGrid
+						42 container
+							43 container
+			44 container
+				45 text Read-only source/target comparison. Unverified is never equal.
+			46 scroll area
+				47 container
+					48 container
+						49 text Connect the two databases
+						50 text Choose source and target on the same DBMS. Credentials stay out of reports.
+						51 text Database type
+						52 radio button (selectable) SQL Server, ID: dbms-0, Value: SQL Server
+Microsoft · 1433
+						53 radio button (selected) PostgreSQL, ID: dbms-1, Value: PostgreSQL
+PostgreSQL · 5432
+						54 radio button (selectable, disabled) MySQL · pending, ID: dbms-2, Value: MySQL
+Pending · 3306
+						55 radio button (selectable, disabled) MariaDB · pending, ID: dbms-3, Value: MariaDB
+Pending · 3306
+						56 text Both sides use the same type. MySQL/MariaDB connections are not implemented yet.
+						57 container
+							58 container
+								59 text Source DB
+								60 text Before migration
+							61 text Not checked
+							62 container
+								63 text Host
+								64 text field (settable) Source Host, Value: localhost, ID: input-0-0
+									65 container
+										66 container
+											67 scroll area PART_ScrollViewer
+												68 container
+							69 container
+								70 text Port
+								71 text field (settable) Source Port, Value: 5432, ID: input-0-1
+									72 container
+										73 container
+											74 scroll area PART_ScrollViewer
+												75 container
+							76 text Database
+							77 text field Source Database, ID: input-0-2
+								78 container
+									79 container
+										80 scroll area PART_ScrollViewer
+											81 container
+												82 container
+													83 text PART_Placeholder
+							84 text Reader account
+							85 text field Source Reader account, ID: input-0-3
+								86 container
+									87 container
+										88 scroll area PART_ScrollViewer
+											89 container
+												90 container
+													91 text PART_Placeholder
+							92 text Password
+							93 text field Source Password, ID: input-0-4
+							94 text Passwords are not saved. OS credential storage is pending.
+							95 text CA certificate path (optional)
+							96 text field Source CA certificate path (optional), ID: input-0-5
+								97 container
+									98 container
+										99 scroll area PART_ScrollViewer
+											100 container
+												101 container
+													102 text PART_Placeholder
+						103 container
+							104 container
+								105 text Target DB
+								106 text After migration
+							107 text Not checked
+							108 container
+								109 text Host
+								110 text field (settable) Target Host, Value: localhost, ID: input-1-0
+									111 container
+										112 container
+											113 scroll area PART_ScrollViewer
+												114 container
+							115 container
+								116 text Port
+								117 text field (settable) Target Port, Value: 5432, ID: input-1-1
+									118 container
+										119 container
+											120 scroll area PART_ScrollViewer
+												121 container
+							122 text Database
+							123 text field Target Database, ID: input-1-2
+								124 container
+									125 container
+										126 scroll area PART_ScrollViewer
+											127 container
+												128 container
+													129 text PART_Placeholder
+							130 text Reader account
+							131 text field Target Reader account, ID: input-1-3
+								132 container
+									133 container
+										134 scroll area PART_ScrollViewer
+											135 container
+												136 container
+													137 text PART_Placeholder
+							138 text Password
+							139 text field Target Password, ID: input-1-4
+							140 text Passwords are not saved. OS credential storage is pending.
+							141 text CA certificate path (optional)
+							142 text field Target CA certificate path (optional), ID: input-1-5
+								143 container
+									144 container
+										145 scroll area PART_ScrollViewer
+											146 container
+												147 container
+													148 text PART_Placeholder
+						149 button Advanced connection settings, ID: advanced-settings
+							150 container
+								151 text Advanced connection settings
+						152 container
+							153 text TLS · certificate verification
+							154 text Certificates and host names are verified. No automatic security downgrade.
+							155 text Authentication · timeouts
+							156 text DB-account authentication with connection/command limits. SQL Server validation and other auth modes remain pending.
+						157 checkbox Writes are stopped on both databases., Value: off, ID: writes-stopped
+							158 container RootGrid
+								159 container
+									160 container
+						161 button Explore a synthetic flow without a DB
+					162 scroll bar (settable, float) Value: 568.5, ID: PART_VerticalScrollBar
+						163 container
+							164 button Line up, ID: PART_LineUpButton
+							165 button Page up, ID: PART_PageUpButton
+							166 button Page down, ID: PART_PageDownButton
+							167 handle Position
+							168 button Line down, ID: PART_LineDownButton
+			169 container
+				170 button Back
+					171 container
+						172 text Back
+				173 text Changed connections must be checked again.
+				174 button Check both connections
+					175 container
+						176 text Check both connections
+	177 close button
+	178 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	179 minimize button
+	180 text DB-Migration-Verifier
+181 menu bar
+	182 DB-Migration-Verifier
+
+The focused UI element is 7 button 한국어 / EN, ID: language

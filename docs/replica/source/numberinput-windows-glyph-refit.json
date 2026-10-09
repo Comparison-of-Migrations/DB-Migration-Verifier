@@ -1,0 +1,38 @@
+[
+  {
+    "name": "up-hover",
+    "error": 4,
+    "size": 5.995,
+    "x": 4.3774999999999995,
+    "baseline": 8.375,
+    "hint": "None",
+    "subpixel": false
+  },
+  {
+    "name": "down-normal",
+    "error": 60,
+    "size": 5.995,
+    "x": 4.3774999999999995,
+    "baseline": 8.375,
+    "hint": "None",
+    "subpixel": false
+  },
+  {
+    "name": "up-pressed",
+    "error": 16,
+    "size": 5.495,
+    "x": 4.6899999999999995,
+    "baseline": 8.375,
+    "hint": "None",
+    "subpixel": true
+  },
+  {
+    "name": "down-pressed",
+    "error": 16,
+    "size": 5.495,
+    "x": 4.6899999999999995,
+    "baseline": 8.375,
+    "hint": "None",
+    "subpixel": true
+  }
+]

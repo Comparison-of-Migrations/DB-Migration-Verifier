@@ -1,0 +1,28 @@
+{
+  "phase": "PREPARED_NOT_EXECUTED",
+  "scope": "Remaining AdvancedMac4 then child reLOCK, next Connection default8 only after root caller; no protected Typography edits/no new source or native launch",
+  "currentProductSha256": "5e0f41c26bf83f6a058d99419c9e21b5066becc705bf866b15d9a32d4169e2a1",
+  "macSource": "docs/replica/source/home-pageintegrationconnection-advanced-resize-mac-child-source.json",
+  "existingMacPass": "49fb three unchanged conditions; EN1280 six diffs pending protected root repair",
+  "macCommandsAfterRootHashAndGrant": [
+    "python3 tools/ReplicaProbe/isolated.py build home pageintegration",
+    "DBMV_ADVANCED_RESIZE_ONLY=1 DBMV_ADVANCED_RESIZE_DIAGNOSTIC_ONLY=1 DBMV_ADVANCED_RESIZE_SOURCE=<frozen Mac child source absolute> python3 tools/ReplicaProbe/isolated.py run <fresh build.json> -- --pageintegration docs/replica/source/home-pageintegrationtrial-cases.json unused --trial-only",
+    "python3 tools/MacControl/page_integration_connection_advanced_resize_bundle.py <fresh build.json>",
+    "python3 tools/MacControl/page_integration_connection_advanced_resize.py <fresh build.json> launch",
+    "python3 tools/MacControl/page_integration_connection_advanced_resize.py <fresh build.json> batch",
+    "compare fresh actual child4 source/candidate, preserve cleanup0 and inspect PNG before reLOCK"
+  ],
+  "macActorSafety": "Full output unique immutable bundle; fresh binary/oracle SHA guard, exact NSWorkspace PID/bundle/title/foreground; AXSize external1280/1100; F8 EN seed only; immutable observer and finally exactclose0. No logical viewport bypass.",
+  "nextConnection": "Existing default source8 immutable and literal fixture available. Parent helper/generic dispatcher prepared but inactive/rootcaller held until Advanced child reLOCK. Fresh Win default8 source needed under its next lease; old96/input10 reuse by exact diff. No parent scope executed yet.",
+  "files": {
+    "tools/MacControl/page_integration_connection_advanced_resize.swift": "43d702dce7304a4a57e8a8de05a0cd6d85403a96ab2360e3de8435a01e1569b8",
+    "tools/MacControl/page_integration_connection_advanced_resize.py": "dfbf86dabe4a1fb1e93e378312177e5446126f7206ae02aee0e539a21248607e",
+    "tools/MacControl/page_integration_connection_advanced_resize_bundle.py": "1951a9b18757ab430e35d4f1a47c6f8f97a6bc3ebe152e6434ce1a4a1493038e",
+    "tools/ReplicaProbe/PageIntegrationConnectionAdvancedResizeProbe.cs": "a08a06f36a81aa49c795946e1e1ff82d3eb13cb4423e91a3f3773fb61bc5fe38",
+    "tools/ReplicaProbe/prepare_connection_advanced_resize_cases.py": "b772e170ff3c26ca528314f4ebca4c238d7c56286ace6edb116f1113f61ee7a1",
+    "tools/ReplicaProbe/prepare_page_integration_connection_resize.py": "0b0cf37bcda0a1b5414c29df318faa04bb9f228eb1f1cfb1a47639f866b1ea63",
+    "tools/ReplicaProbe/PageIntegrationConnectionResizeProbe.cs": "3a4a98102dee3195245a917342f25a579bd6e4376244dc6a0b7b08c98111881c",
+    "tools/WindowsControl/page_integration_connection_resize_source.py": "76cd31b1419422b902fdad017a0437f17e8613cb004e2a9a3ee379e025db2ba4"
+  },
+  "windowsRetained": "575ac0 source4/headless4/actual4 strict0, native11712/window0/process0, source10056/window0; no repeat without root change impact"
+}

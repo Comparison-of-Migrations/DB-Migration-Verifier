@@ -1,0 +1,15 @@
+{
+  "phase": "HEADLESS_PASSED",
+  "scope": "Affected parent width allocation geometry16 only;349 checks. This run has geometryOnly=true and executed no lifetimes.",
+  "source": "docs/replica/source/home-pageintegrationtoast-mac-composed-source.json",
+  "candidate": "artifacts/replica/workers/home/pageintegration/bde03fb27ea04364b0a43b7ad3c5ec1d/outputs/c845e334b08848febdd6ae5dc237a31e/candidate/pageintegration-toast.json",
+  "checks": 349,
+  "differences": [],
+  "normalization": "CSS rgba/ARGB and thickness order/omitted shadow spread normalized; numeric geometry tolerance0.001; no font/geometry waiver; actual/native noninteractive presentation seeds, not pointer input",
+  "reusedLifecycle": {
+    "candidate": "artifacts/replica/workers/home/pageintegration/d6766142f11c4c7b8f7a8c202ca95e80/outputs/b3846f117dd7441c99f53e32e9122de0/candidate/pageintegration-toast.json",
+    "scope": "prior actual-render headless4 realtimers/Dispose passed; root width/anchor independent from lifecycle",
+    "source": "docs/replica/source/home-pageintegrationtoast-mac-composed-source.json",
+    "remaining": "actual native eachOS geometry16/timer4/Dispose not yetexecuted"
+  }
+}

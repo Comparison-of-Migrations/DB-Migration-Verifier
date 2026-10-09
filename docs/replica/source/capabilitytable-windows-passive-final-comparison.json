@@ -1,0 +1,9 @@
+{
+  "affectedCoordinates": 55,
+  "bodyCells": 32,
+  "languages": 2,
+  "scope": "passive1/affected translated coordinates/assembled KOEN UIA tree",
+  "headerProviderBoundary": "Protected HeaderItem versus Chromium DataItem; exact names/nochildren retained",
+  "errors": [],
+  "passed": true
+}

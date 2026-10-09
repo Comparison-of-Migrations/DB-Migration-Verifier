@@ -1,0 +1,10 @@
+{
+  "currentProductSha256": "db1ad6cd02479e0e2c9644ea0dde986cf6789a6cbd0a6586e932ebefadbbc111",
+  "frozenProductHashes": {
+    "5c3f1208a80e4cb6a7e7411d80c7765a": "db1ad6cd02479e0e2c9644ea0dde986cf6789a6cbd0a6586e932ebefadbbc111",
+    "e205553979c44241bffca1cf90689812": "db1ad6cd02479e0e2c9644ea0dde986cf6789a6cbd0a6586e932ebefadbbc111",
+    "3a233708190b4bc997abecf4a07d0ce3": "db1ad6cd02479e0e2c9644ea0dde986cf6789a6cbd0a6586e932ebefadbbc111",
+    "b8c03fccc3854e5da2a9a093fb8f6211": "db1ad6cd02479e0e2c9644ea0dde986cf6789a6cbd0a6586e932ebefadbbc111"
+  },
+  "probeOnlyChange": "passive native pointer/key timing recorder and diagnostic viewport position; product unchanged"
+}

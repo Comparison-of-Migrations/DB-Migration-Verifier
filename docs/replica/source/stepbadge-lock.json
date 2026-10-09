@@ -1,0 +1,8 @@
+{
+  "component": "StepBadge",
+  "lockedAt": "2026-10-07",
+  "scope": "Passive step-index plus source normal inherited parent color, documented SidebarItem exception; 78 states and78updates two OS",
+  "files": {
+    "src/Verifier.Desktop/WebStepBadge.cs": "129b59bc839eb4f52805f0f8355f794851f04d5b41dc0346636a67a9650533da"
+  }
+}

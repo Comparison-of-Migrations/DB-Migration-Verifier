@@ -1,0 +1,11 @@
+{
+  "platform": "mac",
+  "case": "held thumb detach then reinsert",
+  "sourceOffset": 0,
+  "nativeOffset": 0,
+  "nativeClientWidth": 220,
+  "nativePressed": true,
+  "sourceStreamFrames": 110,
+  "nativeStreamFrames": 109,
+  "passed": true
+}

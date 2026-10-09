@@ -1,0 +1,16 @@
+{
+  "capturedAtUtc": "2026-10-08T01:06:12.704481Z",
+  "dpr": 2,
+  "visible": false,
+  "closing": true,
+  "reduced": false,
+  "backgroundEnabled": true,
+  "backgroundBlur": null,
+  "focus": "ResultDetails-open",
+  "focusVisible": true,
+  "opacity": 0,
+  "events": [
+    "close"
+  ],
+  "row": null
+}

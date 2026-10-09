@@ -1,0 +1,32 @@
+{
+  "utc": "2026-10-06T05:29:30.671585Z",
+  "rows": [
+    {
+      "id": 0,
+      "text": "\uC608\uC2DC",
+      "enabled": true,
+      "focused": true,
+      "selectionStart": 0,
+      "selectionEnd": 0,
+      "caret": 0
+    },
+    {
+      "id": 1,
+      "text": null,
+      "enabled": true,
+      "focused": false,
+      "selectionStart": 0,
+      "selectionEnd": 0,
+      "caret": 0
+    },
+    {
+      "id": 2,
+      "text": null,
+      "enabled": false,
+      "focused": false,
+      "selectionStart": 0,
+      "selectionEnd": 0,
+      "caret": 0
+    }
+  ]
+}

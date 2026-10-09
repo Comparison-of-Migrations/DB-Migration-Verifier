@@ -1,0 +1,93 @@
+[
+    {
+        "patterns":  [
+                         "InvokePatternIdentifiers.Pattern",
+                         "ScrollItemPatternIdentifiers.Pattern"
+                     ],
+        "id":  "CapabilityViewport-reset",
+        "rect":  "8,160,90,53",
+        "name":  "reset",
+        "control":  true,
+        "type":  "ControlType.Button",
+        "content":  true,
+        "focusable":  true
+    },
+    {
+        "patterns":  [
+                         "InvokePatternIdentifiers.Pattern",
+                         "ScrollItemPatternIdentifiers.Pattern"
+                     ],
+        "id":  "CapabilityViewport-middle",
+        "rect":  "97,160,116,53",
+        "name":  "middle",
+        "control":  true,
+        "type":  "ControlType.Button",
+        "content":  true,
+        "focusable":  true
+    },
+    {
+        "patterns":  [
+                         "InvokePatternIdentifiers.Pattern",
+                         "ScrollItemPatternIdentifiers.Pattern"
+                     ],
+        "id":  "CapabilityViewport-child-toggle",
+        "rect":  "212,160,89,53",
+        "name":  "child",
+        "control":  true,
+        "type":  "ControlType.Button",
+        "content":  true,
+        "focusable":  true
+    },
+    {
+        "patterns":  [
+                         "InvokePatternIdentifiers.Pattern",
+                         "ScrollItemPatternIdentifiers.Pattern"
+                     ],
+        "id":  "CapabilityViewport-child-focus",
+        "rect":  "300,160,166,53",
+        "name":  "focus child",
+        "control":  true,
+        "type":  "ControlType.Button",
+        "content":  true,
+        "focusable":  true
+    },
+    {
+        "patterns":  [
+                         "InvokePatternIdentifiers.Pattern",
+                         "ScrollItemPatternIdentifiers.Pattern"
+                     ],
+        "id":  "CapabilityViewport-fit",
+        "rect":  "465,160,54,53",
+        "name":  "fit",
+        "control":  true,
+        "type":  "ControlType.Button",
+        "content":  true,
+        "focusable":  true
+    },
+    {
+        "patterns":  [
+                         "InvokePatternIdentifiers.Pattern",
+                         "ScrollItemPatternIdentifiers.Pattern"
+                     ],
+        "id":  "CapabilityViewport-mount",
+        "rect":  "518,160,113,53",
+        "name":  "mount",
+        "control":  true,
+        "type":  "ControlType.Button",
+        "content":  true,
+        "focusable":  true
+    },
+    {
+        "patterns":  [
+                         "InvokePatternIdentifiers.Pattern",
+                         "ScrollItemPatternIdentifiers.Pattern"
+                     ],
+        "id":  "CapabilityViewport-record",
+        "rect":  "630,160,317,53",
+        "name":  "Record Viewport Input",
+        "control":  true,
+        "type":  "ControlType.Button",
+        "content":  true,
+        "focusable":  true
+    }
+]

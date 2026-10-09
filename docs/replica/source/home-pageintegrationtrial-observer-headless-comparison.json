@@ -1,0 +1,18 @@
+{
+  "phase": "HEADLESS_INSTRUMENTATION_PASSED",
+  "scope": "New observer only, separate Windows headless processes; actual remaining scopes pending",
+  "checks": [
+    {
+      "path": "artifacts/replica/workers/home/pageintegration/05e47305ac7b4a33b5f0db40e16a77e0/headless-windows/b7acd014872846b388855a362bee84d8/pageintegration-trial-observer-smoke.json",
+      "phase": "HEADLESS_INSTRUMENTATION_PASSED",
+      "validation": true,
+      "snapshot": 6
+    },
+    {
+      "path": "artifacts/replica/workers/home/pageintegration/05e47305ac7b4a33b5f0db40e16a77e0/headless-windows/46c9635e8fcc47f0a5f8de6ec089300e/pageintegration-trial-observer-smoke.json",
+      "phase": "HEADLESS_INSTRUMENTATION_PASSED",
+      "validation": false,
+      "snapshot": 6
+    }
+  ]
+}

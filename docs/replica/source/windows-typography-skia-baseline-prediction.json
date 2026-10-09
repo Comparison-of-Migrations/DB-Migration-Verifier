@@ -1,0 +1,394 @@
+[
+  {
+    "id": "kr-0",
+    "ascent": 15.0,
+    "descent": 3.5,
+    "predictedBaseline": 16.5,
+    "sourceBaseline": 16.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "kr-1",
+    "ascent": 39.0,
+    "descent": 8.5,
+    "predictedBaseline": 39.5,
+    "sourceBaseline": 39.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "kr-2",
+    "ascent": 15.0,
+    "descent": 3.5,
+    "predictedBaseline": 18.0,
+    "sourceBaseline": 18,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "kr-3",
+    "ascent": 16.5,
+    "descent": 3.5,
+    "predictedBaseline": 20.5,
+    "sourceBaseline": 20.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "kr-4",
+    "ascent": 13.0,
+    "descent": 3.0,
+    "predictedBaseline": 14.5,
+    "sourceBaseline": 14.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "kr-5",
+    "ascent": 15.0,
+    "descent": 3.5,
+    "predictedBaseline": 16.5,
+    "sourceBaseline": 16.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "kr-6",
+    "ascent": 14.0,
+    "descent": 3.0,
+    "predictedBaseline": 17.5,
+    "sourceBaseline": 17.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "kr-7",
+    "ascent": 14.0,
+    "descent": 3.0,
+    "predictedBaseline": 16.5,
+    "sourceBaseline": 16.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "en-0",
+    "ascent": 15.0,
+    "descent": 3.5,
+    "predictedBaseline": 16.5,
+    "sourceBaseline": 16.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "en-1",
+    "ascent": 39.0,
+    "descent": 8.5,
+    "predictedBaseline": 39.5,
+    "sourceBaseline": 39.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "en-2",
+    "ascent": 15.0,
+    "descent": 3.5,
+    "predictedBaseline": 18.0,
+    "sourceBaseline": 18,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "en-3",
+    "ascent": 16.5,
+    "descent": 3.5,
+    "predictedBaseline": 20.5,
+    "sourceBaseline": 20.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "en-4",
+    "ascent": 13.0,
+    "descent": 3.0,
+    "predictedBaseline": 14.5,
+    "sourceBaseline": 14.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "en-5",
+    "ascent": 15.0,
+    "descent": 3.5,
+    "predictedBaseline": 16.5,
+    "sourceBaseline": 16.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "en-6",
+    "ascent": 14.0,
+    "descent": 3.0,
+    "predictedBaseline": 17.5,
+    "sourceBaseline": 17.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "en-7",
+    "ascent": 14.0,
+    "descent": 3.0,
+    "predictedBaseline": 16.5,
+    "sourceBaseline": 16.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-00",
+    "ascent": 12.0,
+    "descent": 2.5,
+    "predictedBaseline": 13.5,
+    "sourceBaseline": 13.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-01",
+    "ascent": 48.0,
+    "descent": 10.5,
+    "predictedBaseline": 46.0,
+    "sourceBaseline": 46,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-02",
+    "ascent": 12.0,
+    "descent": 2.5,
+    "predictedBaseline": 13.5,
+    "sourceBaseline": 13.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-03",
+    "ascent": 48.0,
+    "descent": 10.5,
+    "predictedBaseline": 46.0,
+    "sourceBaseline": 46,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-04",
+    "ascent": 12.0,
+    "descent": 2.5,
+    "predictedBaseline": 13.5,
+    "sourceBaseline": 13.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-05",
+    "ascent": 48.0,
+    "descent": 10.5,
+    "predictedBaseline": 46.0,
+    "sourceBaseline": 46,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-06",
+    "ascent": 12.0,
+    "descent": 2.5,
+    "predictedBaseline": 13.5,
+    "sourceBaseline": 13.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-07",
+    "ascent": 10.0,
+    "descent": 3.0,
+    "predictedBaseline": 12.0,
+    "sourceBaseline": 12,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-08",
+    "ascent": 14.0,
+    "descent": 3.0,
+    "predictedBaseline": 15.5,
+    "sourceBaseline": 15.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-09",
+    "ascent": 11.0,
+    "descent": 2.5,
+    "predictedBaseline": 12.5,
+    "sourceBaseline": 12.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-10",
+    "ascent": 28.5,
+    "descent": 6.5,
+    "predictedBaseline": 26.5,
+    "sourceBaseline": 26.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-11",
+    "ascent": 28.5,
+    "descent": 6.5,
+    "predictedBaseline": 26.5,
+    "sourceBaseline": 26.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-12",
+    "ascent": 28.5,
+    "descent": 6.5,
+    "predictedBaseline": 26.5,
+    "sourceBaseline": 26.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-13",
+    "ascent": 14.0,
+    "descent": 3.0,
+    "predictedBaseline": 15.5,
+    "sourceBaseline": 15.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-14",
+    "ascent": 11.0,
+    "descent": 2.5,
+    "predictedBaseline": 12.5,
+    "sourceBaseline": 12.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-15",
+    "ascent": 28.5,
+    "descent": 6.5,
+    "predictedBaseline": 26.5,
+    "sourceBaseline": 26.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-16",
+    "ascent": 14.0,
+    "descent": 3.0,
+    "predictedBaseline": 15.5,
+    "sourceBaseline": 15.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-17",
+    "ascent": 11.0,
+    "descent": 2.5,
+    "predictedBaseline": 12.5,
+    "sourceBaseline": 12.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-18",
+    "ascent": 28.5,
+    "descent": 6.5,
+    "predictedBaseline": 26.5,
+    "sourceBaseline": 26.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-19",
+    "ascent": 28.5,
+    "descent": 6.5,
+    "predictedBaseline": 26.5,
+    "sourceBaseline": 26.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-20",
+    "ascent": 14.0,
+    "descent": 3.0,
+    "predictedBaseline": 15.5,
+    "sourceBaseline": 15.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-21",
+    "ascent": 28.5,
+    "descent": 6.5,
+    "predictedBaseline": 26.5,
+    "sourceBaseline": 26.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-22",
+    "ascent": 15.0,
+    "descent": 3.5,
+    "predictedBaseline": 16.5,
+    "sourceBaseline": 16.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-23",
+    "ascent": 11.0,
+    "descent": 3.0,
+    "predictedBaseline": 13.5,
+    "sourceBaseline": 13.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-24",
+    "ascent": 11.0,
+    "descent": 3.0,
+    "predictedBaseline": 13.5,
+    "sourceBaseline": 13.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-25",
+    "ascent": 15.0,
+    "descent": 3.5,
+    "predictedBaseline": 16.5,
+    "sourceBaseline": 16.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-26",
+    "ascent": 11.0,
+    "descent": 3.0,
+    "predictedBaseline": 13.5,
+    "sourceBaseline": 13.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-27",
+    "ascent": 11.0,
+    "descent": 3.0,
+    "predictedBaseline": 13.5,
+    "sourceBaseline": 13.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-28",
+    "ascent": 15.0,
+    "descent": 3.5,
+    "predictedBaseline": 16.5,
+    "sourceBaseline": 16.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-29",
+    "ascent": 11.0,
+    "descent": 3.0,
+    "predictedBaseline": 13.5,
+    "sourceBaseline": 13.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-30",
+    "ascent": 11.0,
+    "descent": 3.0,
+    "predictedBaseline": 13.5,
+    "sourceBaseline": 13.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-31",
+    "ascent": 15.0,
+    "descent": 3.5,
+    "predictedBaseline": 16.5,
+    "sourceBaseline": 16.5,
+    "deltaBaseline": 0.0
+  },
+  {
+    "id": "role-32",
+    "ascent": 11.0,
+    "descent": 3.0,
+    "predictedBaseline": 13.5,
+    "sourceBaseline": 13.5,
+    "deltaBaseline": 0.0
+  }
+]

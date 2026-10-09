@@ -1,0 +1,12 @@
+{
+  "tab": 63,
+  "url": "http://10.211.55.2:8768/root-appflow.html",
+  "states": 52,
+  "evidence": "docs/replica/source/root-appflow-mac-source.json",
+  "sha256": "5bdb6e1914ae18290ab2278fa97bc14c9f886f216f06a8a7f49b901334391c91",
+  "close": "await rootAppflowGoodTab.close()",
+  "listedAfterClose": false,
+  "scope": "programmatic original handler oracle only",
+  "failedOwnedTab62Cleanup": "Pending: browser get blocked error dataURL; native Codex app access safety rejection, no bypass",
+  "preflightSourceTab65Close": true
+}

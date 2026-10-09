@@ -1,0 +1,144 @@
+[
+  {
+    "Id": "overflow-left",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 240,
+    "height": 19.203125,
+    "lines": [
+      1098.140625
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left"
+  },
+  {
+    "Id": "overflow-center",
+    "invalidated": false,
+    "x": 10,
+    "y": 10,
+    "width": 240,
+    "height": 19.203125,
+    "lines": [
+      1098.140625
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Center"
+  },
+  {
+    "Id": "overflow-right",
+    "invalidated": false,
+    "x": 10,
+    "y": 10,
+    "width": 240,
+    "height": 19.203125,
+    "lines": [
+      1098.140625
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Right"
+  },
+  {
+    "Id": "anywhere-object",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 240,
+    "height": 96.015625,
+    "lines": [
+      238.412109375,
+      238.412109375,
+      238.412109375,
+      238.412109375,
+      144.4921875
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left"
+  },
+  {
+    "Id": "anywhere-words",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 120,
+    "height": 44.796875,
+    "lines": [
+      87.0625,
+      71.708984375
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left"
+  },
+  {
+    "Id": "anywhere-cluster",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 20,
+    "height": 223.984375,
+    "lines": [
+      12.110000610351562,
+      12.110000610351562,
+      12.110000610351562,
+      12.110000610351562,
+      12.110000610351562,
+      12.110000610351562,
+      19.072265625,
+      15.2578125,
+      12.455078125,
+      7.84765625
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left"
+  },
+  {
+    "Id": "nowrap",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 70,
+    "height": 22.3984375,
+    "lines": [
+      162.23046875
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left"
+  },
+  {
+    "Id": "nbsp",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 70,
+    "height": 22.3984375,
+    "lines": [
+      162.23046875
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left"
+  },
+  {
+    "Id": "nbsp-edge",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 240,
+    "height": 22.3984375,
+    "lines": [
+      64.96875
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left"
+  },
+  {
+    "Id": "spaces-only",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 240,
+    "height": 0,
+    "lines": [],
+    "foreground": "#fff2f3f5",
+    "alignment": "Left"
+  }
+]

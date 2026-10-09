@@ -1,0 +1,239 @@
+{
+  "phase": "SOURCE_VERIFIED",
+  "scope": "Actual original Edge ControlView reading grouping only; geometry history not claimed same as Summary30",
+  "source": "artifacts/replica/workers/home/pageintegrationsummarycontent-ax-source/5edbbb975a094a60972f08f41bbb3a96/source-controlview.json",
+  "fixtureManifest": "artifacts/replica/workers/home/pageintegrationsummarycontent-ax-source/5edbbb975a094a60972f08f41bbb3a96/manifest.json",
+  "rows": [
+    {
+      "id": "ko-960",
+      "prefix": "migration_sample → migration_sample",
+      "suffix": "원본과 대상은 서로 다른 예시 서버입니다.",
+      "fullCombinedTextCount": 0,
+      "prefixTextCount": 1,
+      "suffixTextCount": 1,
+      "siblingParent": 56,
+      "nodes": [
+        {
+          "id": 62,
+          "parent": 56,
+          "depth": 14,
+          "name": "migration_sample → migration_sample",
+          "type": "ControlType.Text",
+          "localizedType": "텍스트",
+          "class": "",
+          "automationId": "",
+          "control": true,
+          "content": true,
+          "offscreen": false,
+          "box": {
+            "x": 874,
+            "y": 911,
+            "width": 462,
+            "height": 29
+          }
+        },
+        {
+          "id": 63,
+          "parent": 56,
+          "depth": 14,
+          "name": "원본과 대상은 서로 다른 예시 서버입니다.",
+          "type": "ControlType.Text",
+          "localizedType": "텍스트",
+          "class": "",
+          "automationId": "",
+          "control": true,
+          "content": true,
+          "offscreen": false,
+          "box": {
+            "x": 1335,
+            "y": 911,
+            "width": 489,
+            "height": 29
+          }
+        }
+      ]
+    },
+    {
+      "id": "ko-1280",
+      "prefix": "migration_sample → migration_sample",
+      "suffix": "원본과 대상은 서로 다른 예시 서버입니다.",
+      "fullCombinedTextCount": 0,
+      "prefixTextCount": 1,
+      "suffixTextCount": 1,
+      "siblingParent": 56,
+      "nodes": [
+        {
+          "id": 62,
+          "parent": 56,
+          "depth": 14,
+          "name": "migration_sample → migration_sample",
+          "type": "ControlType.Text",
+          "localizedType": "텍스트",
+          "class": "",
+          "automationId": "",
+          "control": true,
+          "content": true,
+          "offscreen": false,
+          "box": {
+            "x": 978,
+            "y": 927,
+            "width": 462,
+            "height": 29
+          }
+        },
+        {
+          "id": 63,
+          "parent": 56,
+          "depth": 14,
+          "name": "원본과 대상은 서로 다른 예시 서버입니다.",
+          "type": "ControlType.Text",
+          "localizedType": "텍스트",
+          "class": "",
+          "automationId": "",
+          "control": true,
+          "content": true,
+          "offscreen": false,
+          "box": {
+            "x": 1439,
+            "y": 927,
+            "width": 489,
+            "height": 29
+          }
+        }
+      ]
+    },
+    {
+      "id": "en-960",
+      "prefix": "migration_sample → migration_sample",
+      "suffix": "Source and target are separate sample servers.",
+      "fullCombinedTextCount": 0,
+      "prefixTextCount": 1,
+      "suffixTextCount": 1,
+      "siblingParent": 56,
+      "nodes": [
+        {
+          "id": 62,
+          "parent": 56,
+          "depth": 14,
+          "name": "migration_sample → migration_sample",
+          "type": "ControlType.Text",
+          "localizedType": "텍스트",
+          "class": "",
+          "automationId": "",
+          "control": true,
+          "content": true,
+          "offscreen": false,
+          "box": {
+            "x": 874,
+            "y": 911,
+            "width": 462,
+            "height": 29
+          }
+        },
+        {
+          "id": 63,
+          "parent": 56,
+          "depth": 14,
+          "name": "Source and target are separate sample servers.",
+          "type": "ControlType.Text",
+          "localizedType": "텍스트",
+          "class": "",
+          "automationId": "",
+          "control": true,
+          "content": true,
+          "offscreen": false,
+          "box": {
+            "x": 874,
+            "y": 911,
+            "width": 858,
+            "height": 73
+          }
+        }
+      ]
+    },
+    {
+      "id": "en-1280",
+      "prefix": "migration_sample → migration_sample",
+      "suffix": "Source and target are separate sample servers.",
+      "fullCombinedTextCount": 0,
+      "prefixTextCount": 1,
+      "suffixTextCount": 1,
+      "siblingParent": 56,
+      "nodes": [
+        {
+          "id": 62,
+          "parent": 56,
+          "depth": 14,
+          "name": "migration_sample → migration_sample",
+          "type": "ControlType.Text",
+          "localizedType": "텍스트",
+          "class": "",
+          "automationId": "",
+          "control": true,
+          "content": true,
+          "offscreen": false,
+          "box": {
+            "x": 978,
+            "y": 927,
+            "width": 462,
+            "height": 29
+          }
+        },
+        {
+          "id": 63,
+          "parent": 56,
+          "depth": 14,
+          "name": "Source and target are separate sample servers.",
+          "type": "ControlType.Text",
+          "localizedType": "텍스트",
+          "class": "",
+          "automationId": "",
+          "control": true,
+          "content": true,
+          "offscreen": false,
+          "box": {
+            "x": 1439,
+            "y": 927,
+            "width": 608,
+            "height": 29
+          }
+        }
+      ]
+    }
+  ],
+  "cleanup": [
+    {
+      "kind": "cleanup",
+      "id": "ko-960",
+      "pid": 10056,
+      "hwnd": 11732122,
+      "ownedSourceWindow": 0,
+      "pointerKeyInput": 0
+    },
+    {
+      "kind": "cleanup",
+      "id": "ko-1280",
+      "pid": 10056,
+      "hwnd": 17630214,
+      "ownedSourceWindow": 0,
+      "pointerKeyInput": 0
+    },
+    {
+      "kind": "cleanup",
+      "id": "en-960",
+      "pid": 10056,
+      "hwnd": 11994266,
+      "ownedSourceWindow": 0,
+      "pointerKeyInput": 0
+    },
+    {
+      "kind": "cleanup",
+      "id": "en-1280",
+      "pid": 10056,
+      "hwnd": 17892358,
+      "ownedSourceWindow": 0,
+      "pointerKeyInput": 0
+    }
+  ],
+  "candidateConcern": "Native Review Text nodes3 eachfullcombined vs sourceprefix/suffix siblings once. Root protected peer decision pending."
+}

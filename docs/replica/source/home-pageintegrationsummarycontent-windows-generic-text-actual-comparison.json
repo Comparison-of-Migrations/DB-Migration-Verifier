@@ -1,0 +1,1331 @@
+{
+  "phase": "ACTUAL_OS_PASSED",
+  "scope": "Windows generic SystemText primitive affected4 publicname/type/children0/IsControlContent/exact ControlVieweachnameonce/positivebbox/no invisibleM; Inline combined grouping pending separately",
+  "checks": 48,
+  "contexts": [
+    {
+      "id": "review-default-ko-960",
+      "checks": [
+        {
+          "expected": "DBMS",
+          "publicPeer": {
+            "name": "DBMS",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "275, 261.9921875, 130, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 45,
+              "parent": 8,
+              "depth": 2,
+              "name": "DBMS",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1102,
+              "y": 1120,
+              "width": 260,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "SQL Server · 예시 연결",
+          "publicPeer": {
+            "name": "SQL Server · 예시 연결",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "425, 261.9921875, 465, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 46,
+              "parent": 8,
+              "depth": 2,
+              "name": "SQL Server · 예시 연결",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1402,
+              "y": 1120,
+              "width": 930,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "원본 → 대상",
+          "publicPeer": {
+            "name": "원본 → 대상",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "275, 316.9921875, 130, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 47,
+              "parent": 8,
+              "depth": 2,
+              "name": "원본 → 대상",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1102,
+              "y": 1230,
+              "width": 260,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "선택 분류",
+          "publicPeer": {
+            "name": "선택 분류",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "275, 393.9921875, 130, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 49,
+              "parent": 8,
+              "depth": 2,
+              "name": "선택 분류",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1102,
+              "y": 1384,
+              "width": 260,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "데이터 · 구조·제약 · 사용자·권한 · 관련 객체",
+          "publicPeer": {
+            "name": "데이터 · 구조·제약 · 사용자·권한 · 관련 객체",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "425, 393.9921875, 465, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 50,
+              "parent": 8,
+              "depth": 2,
+              "name": "데이터 · 구조·제약 · 사용자·권한 · 관련 객체",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1402,
+              "y": 1384,
+              "width": 930,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "검사 테이블",
+          "publicPeer": {
+            "name": "검사 테이블",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "275, 448.9921875, 130, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 51,
+              "parent": 8,
+              "depth": 2,
+              "name": "검사 테이블",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1102,
+              "y": 1494,
+              "width": 260,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "3 개 · 대응 확인",
+          "publicPeer": {
+            "name": "3 개 · 대응 확인",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "425, 448.9921875, 465, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 52,
+              "parent": 8,
+              "depth": 2,
+              "name": "3 개 · 대응 확인",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1402,
+              "y": 1494,
+              "width": 930,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "선택하지 않은 분류",
+          "publicPeer": {
+            "name": "선택하지 않은 분류",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "275, 503.9921875, 130, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 53,
+              "parent": 8,
+              "depth": 2,
+              "name": "선택하지 않은 분류",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1102,
+              "y": 1604,
+              "width": 260,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "별도 DB 동작 시험",
+          "publicPeer": {
+            "name": "별도 DB 동작 시험",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "425, 503.9921875, 465, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 54,
+              "parent": 8,
+              "depth": 2,
+              "name": "별도 DB 동작 시험",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1402,
+              "y": 1604,
+              "width": 930,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "변경 경계",
+          "publicPeer": {
+            "name": "변경 경계",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "275, 558.9921875, 130, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 55,
+              "parent": 8,
+              "depth": 2,
+              "name": "변경 경계",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1102,
+              "y": 1714,
+              "width": 260,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "원본·대상 읽기 전용",
+          "publicPeer": {
+            "name": "원본·대상 읽기 전용",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "425, 558.9921875, 465, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 56,
+              "parent": 8,
+              "depth": 2,
+              "name": "원본·대상 읽기 전용",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1402,
+              "y": 1714,
+              "width": 930,
+              "height": 44
+            }
+          ]
+        }
+      ],
+      "invisibleMCount": 0,
+      "inlinePending": {
+        "fullcombinedTextCount": 1,
+        "note": "Not part of genericprimitive pass; sourceWindowsprefix/suffix2 expected, root Inline next"
+      }
+    },
+    {
+      "id": "review-default-ko-1280",
+      "checks": [
+        {
+          "expected": "DBMS",
+          "publicPeer": {
+            "name": "DBMS",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "287, 269.9921875, 170, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 45,
+              "parent": 8,
+              "depth": 2,
+              "name": "DBMS",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1126,
+              "y": 1136,
+              "width": 340,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "SQL Server · 예시 연결",
+          "publicPeer": {
+            "name": "SQL Server · 예시 연결",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "477, 269.9921875, 706, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 46,
+              "parent": 8,
+              "depth": 2,
+              "name": "SQL Server · 예시 연결",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1506,
+              "y": 1136,
+              "width": 1412,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "원본 → 대상",
+          "publicPeer": {
+            "name": "원본 → 대상",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "287, 324.9921875, 170, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 47,
+              "parent": 8,
+              "depth": 2,
+              "name": "원본 → 대상",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1126,
+              "y": 1246,
+              "width": 340,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "선택 분류",
+          "publicPeer": {
+            "name": "선택 분류",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "287, 379.9921875, 170, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 49,
+              "parent": 8,
+              "depth": 2,
+              "name": "선택 분류",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1126,
+              "y": 1356,
+              "width": 340,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "데이터 · 구조·제약 · 사용자·권한 · 관련 객체",
+          "publicPeer": {
+            "name": "데이터 · 구조·제약 · 사용자·권한 · 관련 객체",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "477, 379.9921875, 706, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 50,
+              "parent": 8,
+              "depth": 2,
+              "name": "데이터 · 구조·제약 · 사용자·권한 · 관련 객체",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1506,
+              "y": 1356,
+              "width": 1412,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "검사 테이블",
+          "publicPeer": {
+            "name": "검사 테이블",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "287, 434.9921875, 170, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 51,
+              "parent": 8,
+              "depth": 2,
+              "name": "검사 테이블",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1126,
+              "y": 1466,
+              "width": 340,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "3 개 · 대응 확인",
+          "publicPeer": {
+            "name": "3 개 · 대응 확인",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "477, 434.9921875, 706, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 52,
+              "parent": 8,
+              "depth": 2,
+              "name": "3 개 · 대응 확인",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1506,
+              "y": 1466,
+              "width": 1412,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "선택하지 않은 분류",
+          "publicPeer": {
+            "name": "선택하지 않은 분류",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "287, 489.9921875, 170, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 53,
+              "parent": 8,
+              "depth": 2,
+              "name": "선택하지 않은 분류",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1126,
+              "y": 1576,
+              "width": 340,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "별도 DB 동작 시험",
+          "publicPeer": {
+            "name": "별도 DB 동작 시험",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "477, 489.9921875, 706, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 54,
+              "parent": 8,
+              "depth": 2,
+              "name": "별도 DB 동작 시험",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1506,
+              "y": 1576,
+              "width": 1412,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "변경 경계",
+          "publicPeer": {
+            "name": "변경 경계",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "287, 544.9921875, 170, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 55,
+              "parent": 8,
+              "depth": 2,
+              "name": "변경 경계",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1126,
+              "y": 1686,
+              "width": 340,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "원본·대상 읽기 전용",
+          "publicPeer": {
+            "name": "원본·대상 읽기 전용",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "477, 544.9921875, 706, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 56,
+              "parent": 8,
+              "depth": 2,
+              "name": "원본·대상 읽기 전용",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1506,
+              "y": 1686,
+              "width": 1412,
+              "height": 44
+            }
+          ]
+        }
+      ],
+      "invisibleMCount": 0,
+      "inlinePending": {
+        "fullcombinedTextCount": 1,
+        "note": "Not part of genericprimitive pass; sourceWindowsprefix/suffix2 expected, root Inline next"
+      }
+    },
+    {
+      "id": "review-default-en-960",
+      "checks": [
+        {
+          "expected": "DBMS",
+          "publicPeer": {
+            "name": "DBMS",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "275, 261.9921875, 130, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 45,
+              "parent": 8,
+              "depth": 2,
+              "name": "DBMS",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1102,
+              "y": 1120,
+              "width": 260,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "SQL Server · Sample connections",
+          "publicPeer": {
+            "name": "SQL Server · Sample connections",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "425, 261.9921875, 465, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 46,
+              "parent": 8,
+              "depth": 2,
+              "name": "SQL Server · Sample connections",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1402,
+              "y": 1120,
+              "width": 930,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "Source → target",
+          "publicPeer": {
+            "name": "Source → target",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "275, 316.9921875, 130, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 47,
+              "parent": 8,
+              "depth": 2,
+              "name": "Source → target",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1102,
+              "y": 1230,
+              "width": 260,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "Selected categories",
+          "publicPeer": {
+            "name": "Selected categories",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "275, 393.9921875, 130, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 49,
+              "parent": 8,
+              "depth": 2,
+              "name": "Selected categories",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1102,
+              "y": 1384,
+              "width": 260,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "Data · Schema & constraints · Users & permissions · Related objects",
+          "publicPeer": {
+            "name": "Data · Schema & constraints · Users & permissions · Related objects",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "425, 393.9921875, 465, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 50,
+              "parent": 8,
+              "depth": 2,
+              "name": "Data · Schema & constraints · Users & permissions · Related objects",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1402,
+              "y": 1384,
+              "width": 930,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "Selected tables",
+          "publicPeer": {
+            "name": "Selected tables",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "275, 448.9921875, 130, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 51,
+              "parent": 8,
+              "depth": 2,
+              "name": "Selected tables",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1102,
+              "y": 1494,
+              "width": 260,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "3 tables · Matching reviewed",
+          "publicPeer": {
+            "name": "3 tables · Matching reviewed",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "425, 448.9921875, 465, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 52,
+              "parent": 8,
+              "depth": 2,
+              "name": "3 tables · Matching reviewed",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1402,
+              "y": 1494,
+              "width": 930,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "Excluded categories",
+          "publicPeer": {
+            "name": "Excluded categories",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "275, 503.9921875, 130, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 53,
+              "parent": 8,
+              "depth": 2,
+              "name": "Excluded categories",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1102,
+              "y": 1604,
+              "width": 260,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "Behavior tests in a separate DB",
+          "publicPeer": {
+            "name": "Behavior tests in a separate DB",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "425, 503.9921875, 465, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 54,
+              "parent": 8,
+              "depth": 2,
+              "name": "Behavior tests in a separate DB",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1402,
+              "y": 1604,
+              "width": 930,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "Write boundary",
+          "publicPeer": {
+            "name": "Write boundary",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "275, 558.9921875, 130, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 55,
+              "parent": 8,
+              "depth": 2,
+              "name": "Write boundary",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1102,
+              "y": 1714,
+              "width": 260,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "Source and target: read-only",
+          "publicPeer": {
+            "name": "Source and target: read-only",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "425, 558.9921875, 465, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 56,
+              "parent": 8,
+              "depth": 2,
+              "name": "Source and target: read-only",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1402,
+              "y": 1714,
+              "width": 930,
+              "height": 44
+            }
+          ]
+        }
+      ],
+      "invisibleMCount": 0,
+      "inlinePending": {
+        "fullcombinedTextCount": 1,
+        "note": "Not part of genericprimitive pass; sourceWindowsprefix/suffix2 expected, root Inline next"
+      }
+    },
+    {
+      "id": "review-default-en-1280",
+      "checks": [
+        {
+          "expected": "DBMS",
+          "publicPeer": {
+            "name": "DBMS",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "287, 269.9921875, 170, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 45,
+              "parent": 8,
+              "depth": 2,
+              "name": "DBMS",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1126,
+              "y": 1136,
+              "width": 340,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "SQL Server · Sample connections",
+          "publicPeer": {
+            "name": "SQL Server · Sample connections",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "477, 269.9921875, 706, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 46,
+              "parent": 8,
+              "depth": 2,
+              "name": "SQL Server · Sample connections",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1506,
+              "y": 1136,
+              "width": 1412,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "Source → target",
+          "publicPeer": {
+            "name": "Source → target",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "287, 324.9921875, 170, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 47,
+              "parent": 8,
+              "depth": 2,
+              "name": "Source → target",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1126,
+              "y": 1246,
+              "width": 340,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "Selected categories",
+          "publicPeer": {
+            "name": "Selected categories",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "287, 379.9921875, 170, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 49,
+              "parent": 8,
+              "depth": 2,
+              "name": "Selected categories",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1126,
+              "y": 1356,
+              "width": 340,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "Data · Schema & constraints · Users & permissions · Related objects",
+          "publicPeer": {
+            "name": "Data · Schema & constraints · Users & permissions · Related objects",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "477, 379.9921875, 706, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 50,
+              "parent": 8,
+              "depth": 2,
+              "name": "Data · Schema & constraints · Users & permissions · Related objects",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1506,
+              "y": 1356,
+              "width": 1412,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "Selected tables",
+          "publicPeer": {
+            "name": "Selected tables",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "287, 434.9921875, 170, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 51,
+              "parent": 8,
+              "depth": 2,
+              "name": "Selected tables",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1126,
+              "y": 1466,
+              "width": 340,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "3 tables · Matching reviewed",
+          "publicPeer": {
+            "name": "3 tables · Matching reviewed",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "477, 434.9921875, 706, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 52,
+              "parent": 8,
+              "depth": 2,
+              "name": "3 tables · Matching reviewed",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1506,
+              "y": 1466,
+              "width": 1412,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "Excluded categories",
+          "publicPeer": {
+            "name": "Excluded categories",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "287, 489.9921875, 170, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 53,
+              "parent": 8,
+              "depth": 2,
+              "name": "Excluded categories",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1126,
+              "y": 1576,
+              "width": 340,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "Behavior tests in a separate DB",
+          "publicPeer": {
+            "name": "Behavior tests in a separate DB",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "477, 489.9921875, 706, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 54,
+              "parent": 8,
+              "depth": 2,
+              "name": "Behavior tests in a separate DB",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1506,
+              "y": 1576,
+              "width": 1412,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "Write boundary",
+          "publicPeer": {
+            "name": "Write boundary",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "287, 544.9921875, 170, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 55,
+              "parent": 8,
+              "depth": 2,
+              "name": "Write boundary",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1126,
+              "y": 1686,
+              "width": 340,
+              "height": 44
+            }
+          ]
+        },
+        {
+          "expected": "Source and target: read-only",
+          "publicPeer": {
+            "name": "Source and target: read-only",
+            "type": "Text",
+            "children": 0,
+            "control": true,
+            "content": true,
+            "box": "477, 544.9921875, 706, 22"
+          },
+          "actualTextOccurrences": 1,
+          "actual": [
+            {
+              "id": 56,
+              "parent": 8,
+              "depth": 2,
+              "name": "Source and target: read-only",
+              "type": "ControlType.Text",
+              "class": "WebSystemTextBlock",
+              "control": true,
+              "content": true,
+              "offscreen": false,
+              "x": 1506,
+              "y": 1686,
+              "width": 1412,
+              "height": 44
+            }
+          ]
+        }
+      ],
+      "invisibleMCount": 0,
+      "inlinePending": {
+        "fullcombinedTextCount": 1,
+        "note": "Not part of genericprimitive pass; sourceWindowsprefix/suffix2 expected, root Inline next"
+      }
+    }
+  ],
+  "differences": [],
+  "source": "artifacts/replica/workers/home/pageintegrationsummarycontent-ax-source/5edbbb975a094a60972f08f41bbb3a96/source-controlview.json",
+  "cleanup": {
+    "ownedNativeProcess": 0,
+    "ownedWindow": 0,
+    "pid": 11316,
+    "cases": 4
+  }
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "color": "rgb(181, 186, 193)",
+    "family": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "lineHeight": 20.8,
+    "size": 13,
+    "spacing": 0,
+    "tabular": false,
+    "text": "See sample results",
+    "weight": 500
+  }
+]

@@ -1,0 +1,85 @@
+{
+  "platform": "windows",
+  "cases": 11,
+  "errors": [],
+  "checks": [
+    {
+      "source": "source-key-space-permissions.json",
+      "native": "key-space-permissions.json",
+      "sourceRequests": 1,
+      "nativeRequests": 2,
+      "requestOffset": 1
+    },
+    {
+      "source": "source-key-enter-permissions.json",
+      "native": "key-enter-permissions.json",
+      "sourceRequests": 2,
+      "nativeRequests": 3,
+      "requestOffset": 1
+    },
+    {
+      "source": "source-invoke-language-language.json",
+      "native": "read-language.json",
+      "sourceRequests": 2,
+      "nativeRequests": 3,
+      "requestOffset": 1
+    },
+    {
+      "source": "source-invoke-data-hide.json",
+      "native": "read-hide.json",
+      "sourceRequests": 2,
+      "nativeRequests": 3,
+      "requestOffset": 1
+    },
+    {
+      "source": "source-invoke-data-restore.json",
+      "native": "read-restore.json",
+      "sourceRequests": 2,
+      "nativeRequests": 3,
+      "requestOffset": 1
+    },
+    {
+      "source": "source-invoke-permissions-reduced.json",
+      "native": "read-reduced.json",
+      "sourceRequests": 3,
+      "nativeRequests": 4,
+      "requestOffset": 1
+    },
+    {
+      "source": "source-invoke-mount-detach.json",
+      "native": "read-detach.json",
+      "sourceRequests": 3,
+      "nativeRequests": 4,
+      "requestOffset": 1
+    },
+    {
+      "source": "source-invoke-mount-remount.json",
+      "native": "read-remount.json",
+      "sourceRequests": 3,
+      "nativeRequests": 4,
+      "requestOffset": 1
+    },
+    {
+      "source": "source-pointer-0-cancel-False.json",
+      "native": "native-initial-ko-pointer.json",
+      "sourceRequests": 1,
+      "nativeRequests": 1,
+      "requestOffset": 0
+    },
+    {
+      "source": "source-pointer-1-cancel-False.json",
+      "native": "pointer-1-cancel-False.json",
+      "sourceRequests": 1,
+      "nativeRequests": 1,
+      "requestOffset": 0
+    },
+    {
+      "source": "source-pointer-0-cancel-True.json",
+      "native": "pointer-0-cancel-True.json",
+      "sourceRequests": 1,
+      "nativeRequests": 1,
+      "requestOffset": 0
+    }
+  ],
+  "scope": "Actual original/native states. Explicit sequence offsets: native prior calibration pointer adds1; Mac language pointer correction occurred after reduced adds2. Initial Mac pointer after cursor restoration has offset0 and intentionally different hover position (documented per check). All other fields exact; zero-alpha colors normalized. Windows source raw pointer trio and fresh unique initial native KO pointer are strict. Native initial re-capture resets its independent request count; offsets0 reflect the actual captured sequence."
+}

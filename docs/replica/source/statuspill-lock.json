@@ -1,0 +1,8 @@
+{
+  "component": "StatusPill",
+  "lockedAt": "2026-10-07",
+  "scope": "Passive source .pill; macOS/Windows DPR2 layout, palette, dot, context and attached updates. See specs/StatusPill.md.",
+  "files": {
+    "src/Verifier.Desktop/WebStatusPill.cs": "041c58b0a0c28c1d92d46d75b8b06a734cc6f98f4400dd40bed73523ee34c5d0"
+  }
+}

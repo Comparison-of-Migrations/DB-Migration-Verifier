@@ -1,0 +1,17 @@
+{
+  "capturedAt": "2026-10-02T07:09:26.064619+00:00",
+  "url": "http://127.0.0.1:8765/",
+  "viewport": {
+    "dpr": 2,
+    "height": 1097,
+    "width": 1138
+  },
+  "sourceFile": "examples/ui-prototype/index.html",
+  "liveInlineStyleSha256": "656a04f03636788a8029d53cb4a9cddddabb07d7f8e0fee20945bfcf31c5319c",
+  "liveInlineScriptSha256": "53c8af8c8225c87d25173a82b4ea00ea5349b6c98077ef7b59d8d62f89a68050",
+  "originalFileSha256": "b02b24135732868c86e83a56a72970107025689bef182b0681b8229002caa7fb",
+  "unapprovedCandidateSha256": "ba99a813fa0bd296cfea22b414a63a0928dc2d61621200c01e2cf7615e87b6ee",
+  "baselineScreenshot": "screenshots/baseline.jpg",
+  "baselineDom": "screenshots/baseline-dom.txt",
+  "note": "현재 실행 중인 웹의 inline style/script를 보존. W01 미검증 수정은 원본 기준에서 제외. 화면은 연결 페이지 PostgreSQL 선택 상태."
+}

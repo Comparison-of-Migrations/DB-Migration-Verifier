@@ -1,0 +1,25 @@
+{
+  "history": [
+    {
+      "label": "interactive-ready",
+      "filter": "all",
+      "english": false,
+      "title": "\uBD88\uC77C\uCE58\uAC00 \uBC1C\uACAC\uB410\uC2B5\uB2C8\uB2E4",
+      "articleIds": [
+        "F-001",
+        "F-002",
+        "F-003",
+        "U-001"
+      ],
+      "focusId": null,
+      "focusName": null,
+      "keyboard": false,
+      "trialFocused": false,
+      "trialFocusVisible": false,
+      "trialOpacity": 1,
+      "trialScale": 1,
+      "attached": true
+    }
+  ],
+  "requests": []
+}

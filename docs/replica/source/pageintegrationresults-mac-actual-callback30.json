@@ -1,0 +1,80 @@
+{
+  "status": "PASSED",
+  "checks": 471,
+  "differences": [],
+  "unobserved": [
+    {
+      "label": "ko-filter-unknown",
+      "property": "focus-visible",
+      "reason": "Generic locked ActionButton lacks public getter; new caller-ring paint must be inspected, no private reflection"
+    },
+    {
+      "label": "ko-language-filtered",
+      "property": "focus-visible",
+      "reason": "Generic locked ActionButton lacks public getter; new caller-ring paint must be inspected, no private reflection"
+    },
+    {
+      "label": "ko-setup-data",
+      "property": "focus-visible",
+      "reason": "Generic locked ActionButton lacks public getter; new caller-ring paint must be inspected, no private reflection"
+    },
+    {
+      "label": "ko-detail-data-open",
+      "property": "focus-visible",
+      "reason": "Generic locked ActionButton lacks public getter; new caller-ring paint must be inspected, no private reflection"
+    },
+    {
+      "label": "ko-detail-trial-open",
+      "property": "focus-visible",
+      "reason": "Generic locked ActionButton lacks public getter; new caller-ring paint must be inspected, no private reflection"
+    },
+    {
+      "label": "ko-research-open",
+      "property": "focus-visible",
+      "reason": "Generic locked ActionButton lacks public getter; new caller-ring paint must be inspected, no private reflection"
+    },
+    {
+      "label": "ko-research-close",
+      "property": "focus-visible",
+      "reason": "Generic locked ActionButton lacks public getter; new caller-ring paint must be inspected, no private reflection"
+    },
+    {
+      "label": "en-filter-unknown",
+      "property": "focus-visible",
+      "reason": "Generic locked ActionButton lacks public getter; new caller-ring paint must be inspected, no private reflection"
+    },
+    {
+      "label": "en-language-filtered",
+      "property": "focus-visible",
+      "reason": "Generic locked ActionButton lacks public getter; new caller-ring paint must be inspected, no private reflection"
+    },
+    {
+      "label": "en-setup-data",
+      "property": "focus-visible",
+      "reason": "Generic locked ActionButton lacks public getter; new caller-ring paint must be inspected, no private reflection"
+    },
+    {
+      "label": "en-detail-data-open",
+      "property": "focus-visible",
+      "reason": "Generic locked ActionButton lacks public getter; new caller-ring paint must be inspected, no private reflection"
+    },
+    {
+      "label": "en-detail-trial-open",
+      "property": "focus-visible",
+      "reason": "Generic locked ActionButton lacks public getter; new caller-ring paint must be inspected, no private reflection"
+    },
+    {
+      "label": "en-research-open",
+      "property": "focus-visible",
+      "reason": "Generic locked ActionButton lacks public getter; new caller-ring paint must be inspected, no private reflection"
+    },
+    {
+      "label": "en-research-close",
+      "property": "focus-visible",
+      "reason": "Generic locked ActionButton lacks public getter; new caller-ring paint must be inspected, no private reflection"
+    }
+  ],
+  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/connection/pageintegration/098cf7070dc94534afeb0ae666dd7817/actual-results-macos/source-checks.json",
+  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/connection/pageintegration/e3ecd8ef1d174a55adb171daea9ac140/actual-results-macos/native-checks.json",
+  "scope": "New trustedOS realApp parent callbacks/safe findings/modalscope/focus/scroll; offset keys setup only; actual caller-ring paint and exactcleanup evidence separate"
+}

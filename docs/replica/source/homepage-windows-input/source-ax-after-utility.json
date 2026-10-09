@@ -1,0 +1,731 @@
+[
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Pane",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "0,0,3802,2290"
+    },
+    {
+        "id":  "",
+        "name":  "HomePage · original isolation - Microsoft Edge",
+        "type":  "ControlType.Pane",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "0,0,3802,2290"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Pane",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "0,0,3802,2290"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Pane",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "0,0,3802,2290"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Pane",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "3526,0,276,80"
+    },
+    {
+        "id":  "view_2",
+        "name":  "최소화",
+        "type":  "ControlType.Button",
+        "focusable":  true,
+        "control":  true,
+        "content":  true,
+        "box":  "3526,0,92,80"
+    },
+    {
+        "id":  "view_4",
+        "name":  "복원",
+        "type":  "ControlType.Button",
+        "focusable":  true,
+        "control":  true,
+        "content":  true,
+        "box":  "3618,0,92,80"
+    },
+    {
+        "id":  "view_7",
+        "name":  "닫기",
+        "type":  "ControlType.Button",
+        "focusable":  true,
+        "control":  true,
+        "content":  true,
+        "box":  "3710,0,92,80"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Pane",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "0,0,3802,2290"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Pane",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "0,0,3802,160"
+    },
+    {
+        "id":  "view_1000",
+        "name":  "앱 바",
+        "type":  "ControlType.ToolBar",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "0,80,3802,80"
+    },
+    {
+        "id":  "view_1001",
+        "name":  "뒤로",
+        "type":  "ControlType.Button",
+        "focusable":  true,
+        "control":  true,
+        "content":  true,
+        "box":  "0,88,72,64"
+    },
+    {
+        "id":  "view_1003",
+        "name":  "새로 고침",
+        "type":  "ControlType.Button",
+        "focusable":  true,
+        "control":  true,
+        "content":  true,
+        "box":  "80,88,64,64"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Group",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "152,88,3196,64"
+    },
+    {
+        "id":  "view_1015",
+        "name":  "안전하지 않음",
+        "type":  "ControlType.Button",
+        "focusable":  true,
+        "control":  true,
+        "content":  true,
+        "box":  "160,96,216,48"
+    },
+    {
+        "id":  "view_1017",
+        "name":  "주소 표시줄 및 검색 창",
+        "type":  "ControlType.Edit",
+        "focusable":  true,
+        "control":  true,
+        "content":  true,
+        "box":  "376,96,2908,48"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Pane",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "Empty"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Pane",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "3292,96,48,48"
+    },
+    {
+        "id":  "view_1006",
+        "name":  "이 페이지를 즐겨찾기에 추가(Ctrl+D)",
+        "type":  "ControlType.Button",
+        "focusable":  true,
+        "control":  true,
+        "content":  true,
+        "box":  "3292,96,48,48"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Pane",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "3356,80,74,80"
+    },
+    {
+        "id":  "view_1010",
+        "name":  "확장",
+        "type":  "ControlType.Button",
+        "focusable":  true,
+        "control":  true,
+        "content":  true,
+        "box":  "3356,88,64,64"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Pane",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "3428,104,2,32"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Pane",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "3438,80,64,80"
+    },
+    {
+        "id":  "view_1007",
+        "name":  "즐겨찾기",
+        "type":  "ControlType.Button",
+        "focusable":  true,
+        "control":  true,
+        "content":  true,
+        "box":  "3438,88,64,64"
+    },
+    {
+        "id":  "view_1009",
+        "name":  "프로필 1 프로필, 로그인하세요.",
+        "type":  "ControlType.Button",
+        "focusable":  true,
+        "control":  true,
+        "content":  true,
+        "box":  "3510,88,64,64"
+    },
+    {
+        "id":  "view_1011",
+        "name":  "설정 및 기타 (Alt+F)",
+        "type":  "ControlType.Button",
+        "focusable":  true,
+        "control":  true,
+        "content":  true,
+        "box":  "3582,88,72,64"
+    },
+    {
+        "id":  "view_1078",
+        "name":  "채팅",
+        "type":  "ControlType.Button",
+        "focusable":  true,
+        "control":  true,
+        "content":  true,
+        "box":  "3654,88,140,64"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Pane",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "0,160,3802,2130"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Pane",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "0,160,3802,2130"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Pane",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "0,160,3802,2130"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Pane",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "0,160,3802,2130"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Pane",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "0,160,3802,2130"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Pane",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "Empty"
+    },
+    {
+        "id":  "RootWebArea",
+        "name":  "HomePage · original isolation",
+        "type":  "ControlType.Document",
+        "focusable":  true,
+        "control":  true,
+        "content":  true,
+        "box":  "8,160,3786,2122"
+    },
+    {
+        "id":  "homepage-record",
+        "name":  "Record HomePage",
+        "type":  "ControlType.Button",
+        "focusable":  true,
+        "control":  true,
+        "content":  true,
+        "box":  "24,183,259,43"
+    },
+    {
+        "id":  "HomePage-toggle",
+        "name":  "Toggle Home fixture",
+        "type":  "ControlType.Button",
+        "focusable":  true,
+        "control":  true,
+        "content":  true,
+        "box":  "282,180,291,49"
+    },
+    {
+        "id":  "",
+        "name":  "Home case ",
+        "type":  "ControlType.Text",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "572,176,176,46"
+    },
+    {
+        "id":  "homepage-case",
+        "name":  "Home case",
+        "type":  "ControlType.ComboBox",
+        "focusable":  true,
+        "control":  true,
+        "content":  true,
+        "box":  "747,185,143,38"
+    },
+    {
+        "id":  "RootWebArea",
+        "name":  "HomePage original iframe",
+        "type":  "ControlType.Document",
+        "focusable":  true,
+        "control":  true,
+        "content":  true,
+        "box":  "28,232,1920,3601"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Group",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "28,352,440,3481"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Group",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "468,424,1480,3241"
+    },
+    {
+        "id":  "HomePage-title",
+        "name":  "Verify your migration results",
+        "type":  "ControlType.Text",
+        "focusable":  true,
+        "control":  true,
+        "content":  true,
+        "box":  "524,500,1368,98"
+    },
+    {
+        "id":  "",
+        "name":  "Compare the two databases and see exactly what has been verified.",
+        "type":  "ControlType.Text",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "524,619,869,38"
+    },
+    {
+        "id":  "",
+        "name":  "Helps developers after migration compare data, schema, permissions and objects using the paper’s multi-axis approach, and identify differences and unverified areas.",
+        "type":  "ControlType.Text",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "524,732,1252,98"
+    },
+    {
+        "id":  "",
+        "name":  "Getting started",
+        "type":  "ControlType.Group",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "524,894,1368,221"
+    },
+    {
+        "id":  "start",
+        "name":  "Start a new check",
+        "type":  "ControlType.Button",
+        "focusable":  true,
+        "control":  true,
+        "content":  true,
+        "box":  "524,894,448,105"
+    },
+    {
+        "id":  "open",
+        "name":  "View a result file",
+        "type":  "ControlType.Button",
+        "focusable":  true,
+        "control":  true,
+        "content":  true,
+        "box":  "996,894,448,105"
+    },
+    {
+        "id":  "sample",
+        "name":  "See sample results",
+        "type":  "ControlType.Button",
+        "focusable":  true,
+        "control":  true,
+        "content":  true,
+        "box":  "1484,894,272,105"
+    },
+    {
+        "id":  "",
+        "name":  "Open a saved result JSON without connecting to a DB or running a new check.",
+        "type":  "ControlType.Text",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "570,1029,871,33"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Group",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "524,1162,414,250"
+    },
+    {
+        "id":  "",
+        "name":  "01",
+        "type":  "ControlType.Text",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "524,1164,24,25"
+    },
+    {
+        "id":  "",
+        "name":  "Connect two databases",
+        "type":  "ControlType.Text",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "524,1206,414,46"
+    },
+    {
+        "id":  "",
+        "name":  "The app checks visibility and explains any additional preparation.",
+        "type":  "ControlType.Text",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "524,1274,340,131"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Group",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "1001,1162,414,250"
+    },
+    {
+        "id":  "",
+        "name":  "02",
+        "type":  "ControlType.Text",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "1001,1164,25,25"
+    },
+    {
+        "id":  "",
+        "name":  "Choose what to compare",
+        "type":  "ControlType.Text",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "1001,1206,414,46"
+    },
+    {
+        "id":  "",
+        "name":  "Select categories and confirm how tables are matched.",
+        "type":  "ControlType.Text",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "1001,1274,411,83"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Group",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "1478,1162,414,250"
+    },
+    {
+        "id":  "",
+        "name":  "03",
+        "type":  "ControlType.Text",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "1478,1164,25,25"
+    },
+    {
+        "id":  "",
+        "name":  "Review differences and gaps",
+        "type":  "ControlType.Text",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "1478,1206,414,46"
+    },
+    {
+        "id":  "",
+        "name":  "Review verified outcomes and save a report without row values.",
+        "type":  "ControlType.Text",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "1478,1274,395,83"
+    },
+    {
+        "id":  "",
+        "name":  "Research behind this app",
+        "type":  "ControlType.Text",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "596,1528,277,33"
+    },
+    {
+        "id":  "",
+        "name":  "Functional Success versus Database-State, Behavioral, and Operational Contracts in AI-Generated PostgreSQL Schema Migrations",
+        "type":  "ControlType.Text",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "596,1575,1296,90"
+    },
+    {
+        "id":  "",
+        "name":  "The research distinction between functional success and wider contracts informs the check categories and unverified states.",
+        "type":  "ControlType.Text",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "596,1675,1278,71"
+    },
+    {
+        "id":  "research",
+        "name":  "Research mapping",
+        "type":  "ControlType.Button",
+        "focusable":  true,
+        "control":  true,
+        "content":  true,
+        "box":  "596,1777,297,89"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Group",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "468,3664,1480,169"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Edit",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "Empty"
+    },
+    {
+        "id":  "",
+        "name":  "탭 표시줄",
+        "type":  "ControlType.Tab",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "4,0,3522,82"
+    },
+    {
+        "id":  "view_1052",
+        "name":  "검색 탭",
+        "type":  "ControlType.Button",
+        "focusable":  true,
+        "control":  true,
+        "content":  true,
+        "box":  "8,0,64,72"
+    },
+    {
+        "id":  "view_25",
+        "name":  "",
+        "type":  "ControlType.Pane",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "64,0,512,82"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Tab",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "64,0,512,82"
+    },
+    {
+        "id":  "view_24",
+        "name":  "HomePage · original isolation - 메모리 사용량 - 66.3 MB",
+        "type":  "ControlType.TabItem",
+        "focusable":  true,
+        "control":  true,
+        "content":  true,
+        "box":  "64,0,512,82"
+    },
+    {
+        "id":  "view_27",
+        "name":  "탭 닫기",
+        "type":  "ControlType.Button",
+        "focusable":  true,
+        "control":  true,
+        "content":  true,
+        "box":  "512,24,32,32"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Pane",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "Empty"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Pane",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "Empty"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Pane",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "Empty"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Pane",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "Empty"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Pane",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "64,0,512,82"
+    },
+    {
+        "id":  "view_28",
+        "name":  "새 탭",
+        "type":  "ControlType.Button",
+        "focusable":  true,
+        "control":  true,
+        "content":  true,
+        "box":  "568,0,64,82"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Pane",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "632,0,2894,82"
+    },
+    {
+        "id":  "",
+        "name":  "",
+        "type":  "ControlType.Pane",
+        "focusable":  false,
+        "control":  true,
+        "content":  true,
+        "box":  "0,0,3802,2290"
+    }
+]

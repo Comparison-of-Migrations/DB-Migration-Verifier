@@ -1,0 +1,220 @@
+{
+  "dpr": 2,
+  "events": [
+    {
+      "data": null,
+      "event": "keydown",
+      "id": "number-default",
+      "inputType": null,
+      "key": "Meta",
+      "paste": null,
+      "trusted": true,
+      "value": "3306"
+    },
+    {
+      "data": null,
+      "event": "keydown",
+      "id": "number-default",
+      "inputType": null,
+      "key": "A",
+      "paste": null,
+      "trusted": true,
+      "value": "3306"
+    },
+    {
+      "data": null,
+      "event": "keyup",
+      "id": "number-default",
+      "inputType": null,
+      "key": "A",
+      "paste": null,
+      "trusted": true,
+      "value": "3306"
+    },
+    {
+      "data": null,
+      "event": "keyup",
+      "id": "number-default",
+      "inputType": null,
+      "key": "Meta",
+      "paste": null,
+      "trusted": true,
+      "value": "3306"
+    },
+    {
+      "data": null,
+      "event": "paste",
+      "id": "number-default",
+      "inputType": null,
+      "key": null,
+      "paste": "1e",
+      "trusted": false,
+      "value": "3306"
+    },
+    {
+      "data": null,
+      "event": "input",
+      "id": "number-default",
+      "inputType": "",
+      "key": null,
+      "paste": null,
+      "trusted": false,
+      "value": ""
+    },
+    {
+      "data": null,
+      "event": "keydown",
+      "id": "number-default",
+      "inputType": null,
+      "key": "ArrowRight",
+      "paste": null,
+      "trusted": true,
+      "value": ""
+    },
+    {
+      "data": null,
+      "event": "keyup",
+      "id": "number-default",
+      "inputType": null,
+      "key": "ArrowRight",
+      "paste": null,
+      "trusted": true,
+      "value": ""
+    }
+  ],
+  "rows": [
+    {
+      "background": "rgb(30, 31, 34)",
+      "badInput": false,
+      "border": "rgb(126, 134, 147)",
+      "color": "rgb(219, 222, 225)",
+      "focused": true,
+      "font": "14px / 22.4px system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "id": "number-default",
+      "number": null,
+      "padding": "9px 12px",
+      "rangeOverflow": false,
+      "rangeUnderflow": false,
+      "rect": {
+        "height": 44,
+        "width": 112,
+        "x": 30,
+        "y": 20
+      },
+      "stepMismatch": false,
+      "valid": true,
+      "value": ""
+    },
+    {
+      "background": "rgb(30, 31, 34)",
+      "badInput": false,
+      "border": "rgb(124, 131, 140)",
+      "color": "rgb(219, 222, 225)",
+      "focused": false,
+      "font": "14px / 22.4px system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "id": "number-empty",
+      "number": null,
+      "padding": "9px 12px",
+      "rangeOverflow": false,
+      "rangeUnderflow": false,
+      "rect": {
+        "height": 44,
+        "width": 112,
+        "x": 30,
+        "y": 88
+      },
+      "stepMismatch": false,
+      "valid": true,
+      "value": ""
+    },
+    {
+      "background": "rgb(30, 31, 34)",
+      "badInput": false,
+      "border": "rgb(124, 131, 140)",
+      "color": "rgb(219, 222, 225)",
+      "focused": false,
+      "font": "14px / 22.4px system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "id": "number-min",
+      "number": 1,
+      "padding": "9px 12px",
+      "rangeOverflow": false,
+      "rangeUnderflow": false,
+      "rect": {
+        "height": 44,
+        "width": 112,
+        "x": 30,
+        "y": 156
+      },
+      "stepMismatch": false,
+      "valid": true,
+      "value": "1"
+    },
+    {
+      "background": "rgb(30, 31, 34)",
+      "badInput": false,
+      "border": "rgb(124, 131, 140)",
+      "color": "rgb(219, 222, 225)",
+      "focused": false,
+      "font": "14px / 22.4px system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "id": "number-max",
+      "number": 65535,
+      "padding": "9px 12px",
+      "rangeOverflow": false,
+      "rangeUnderflow": false,
+      "rect": {
+        "height": 44,
+        "width": 112,
+        "x": 30,
+        "y": 224
+      },
+      "stepMismatch": false,
+      "valid": true,
+      "value": "65535"
+    },
+    {
+      "background": "rgb(30, 31, 34)",
+      "badInput": false,
+      "border": "rgb(124, 131, 140)",
+      "color": "rgb(219, 222, 225)",
+      "focused": false,
+      "font": "14px / 22.4px system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "id": "number-fraction",
+      "number": 1.5,
+      "padding": "9px 12px",
+      "rangeOverflow": false,
+      "rangeUnderflow": false,
+      "rect": {
+        "height": 44,
+        "width": 112,
+        "x": 30,
+        "y": 292
+      },
+      "stepMismatch": true,
+      "valid": false,
+      "value": "1.5"
+    },
+    {
+      "background": "rgb(30, 31, 34)",
+      "badInput": false,
+      "border": "rgb(124, 131, 140)",
+      "color": "rgb(219, 222, 225)",
+      "focused": false,
+      "font": "14px / 22.4px system-ui, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+      "id": "number-exponent",
+      "number": 1000,
+      "padding": "9px 12px",
+      "rangeOverflow": false,
+      "rangeUnderflow": false,
+      "rect": {
+        "height": 44,
+        "width": 112,
+        "x": 30,
+        "y": 360
+      },
+      "stepMismatch": false,
+      "valid": true,
+      "value": "1e3"
+    }
+  ],
+  "scope": "IAB paste wrapper path"
+}

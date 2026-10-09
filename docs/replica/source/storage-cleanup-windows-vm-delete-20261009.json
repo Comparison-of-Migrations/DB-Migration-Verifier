@@ -1,0 +1,57 @@
+{
+  "scope": "User explicitly authorized deleting Windows 11 VM on2026-10-09; exact UUID/name/home guarded. Existing Rocky Linux preserved.",
+  "beforeFreeBytes": 317030641664,
+  "commands": [
+    {
+      "args": [
+        "list",
+        "--info",
+        "{6854db3d-97fd-4848-a87b-c9d128e09e01}"
+      ],
+      "exit": 0,
+      "stdout": "INFO\nID: {6854db3d-97fd-4848-a87b-c9d128e09e01}\nName: Windows 11\nDescription: \nType: VM\nState: running\nOS: win-11\nTemplate: no\nUptime: 20 days 09:54:04 (since 2026-08-15 21:05:21)\nHome path: /Users/youptebook/Parallels/Windows 11.pvm/config.pvs\nHome: /Users/youptebook/Parallels/Windows 11.pvm/\nRestore Image: \nGuestTools: state=installed version=27.0.1-58670\nMouse and Keyboard:\n  Smart mouse optimized for games: auto\n  Sticky mouse: off\n  Smooth scrolling: on\n  Keyboard optimization mode: auto\nPrint Management:\n  Synchronize with host printers: on\n  Synchronize default printer: on\n  Show host printer UI: off\nUSB and Bluetooth:\n  Automatic sharing cameras: on\n  Automatic sharing bluetooth: off\n  Automatic sharing smart cards: off\n  Automatic sharing gamepads: on\n  Support USB 3.0: on\nStartup and Shutdown:\n  Autostart: off\n  Autostart delay: 0\n  Autostop: suspend\n  Startup view: same\n  On shutdown: close\n  On window close: suspend\n  Pause idle: off\n  Undo disks: off\nOptimization:\n  Faster virtual machine: on\n  Hypervisor type: apple\n  Adaptive hypervisor: on\n  Disabled Windows logo: on\n  Auto compress virtual disks: off\n  Nested virtualization: off\n  PMU virtualization: off\n  Longer battery life: off\n  Show battery status: on\nSecurity:\n  Encrypted: no\n  TPM enabled: yes\n  TPM type: crb\n  Protected: no\n  Archived: no\n  Packed: no\nSmart Guard: (-)\nModality:\n  Opacity (percentage): 50\n  Stay on top: on\n  Show on all spaces : on\n  Capture mouse clicks: on\nFullscreen:\n  Use all displays: off\n  Activate spaces on click: on\n  Optimize for games: off\n  Gamma control: on\n  Scale view mode: auto\nCoherence:\n  Show Windows systray in Mac menu: off\n  Auto-switch to full screen: on\nTime Synchronization: (+)\n  Smart mode: off\n  Interval (in seconds): 60\n  Timezone synchronization disabled: off\nExpiration: (-)\nBoot order: hdd0 cdrom0 usb \nBIOS type: efi-arm64\nEFI Secure boot: on\nAllow select boot device: off\nExternal boot device: \nSMBIOS settings:\n  BIOS Version: \n  System serial number: \n  Board Manufacturer: \nHardware:\n  cpu cpus=4 auto=on VT-x accl=high mode=64 type=arm\n  memory size=12288Mb auto=on\n  video adapter-type=parallels size=0Mb 3d-acceleration=highest vertical-sync=on high-resolution=on high-resolution-in-guest=on native-scaling-in-guest=off automatic-video-memory=on\n  memory_quota auto=yes\n  hdd0 (+) sata:0 image='/Users/youptebook/Parallels/Windows 11.pvm/harddisk.hdd' type='expanded' 262144Mb online-compact=on\n  cdrom0 (+) sata:1 image='/Users/youptebook/Downloads/26200.9168.260809-0632.25h2_ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_ko-kr.iso' state=disconnected\n  usb (+)\n  net0 (+) type=shared mac=001C42341AFB card=virtio\n  sound0 (+) output='Default' mixer='Default'\nHost Shared Folders: (-)\nHost defined sharing: Off\nGuest Shared Folders: (+)\n  Automount: on\nShared Profile: (+)\n  Use desktop: on\n  Use documents: on\n  Use pictures: off\n  Use music: off\n  Use movies: off\n  Use downloads: on\nShared Applications: (+)\n  Host-to-guest apps sharing: on\n  Guest-to-host apps sharing: on\n  Show guest apps folder in Dock: off\n  Bounce dock icon when app flashes: on\nSmartMount: (+)\n  Removable drives: on\n  CD/DVD drives: on\n  Network shares: on\nNetwork:\n  Conditioned: off\n  IP Addresses: 10.211.55.5,fdb2:2c26:f4e4:0:b7d1:afd4:c902:ca8d,fe80::cb6a:901e:3060:8607\nMiscellaneous Sharing:\n  Shared clipboard mode: on\n  Shared cloud: on\nAdvanced:\n  VM hostname synchronization: off\n  Public SSH keys synchronization: off\n  Show developer tools: off\n  Swipe from edges: off\n  Share host location: on\n  Rosetta Linux: off\n\n",
+      "stderr": ""
+    },
+    {
+      "args": [
+        "stop",
+        "{6854db3d-97fd-4848-a87b-c9d128e09e01}",
+        "--noforce"
+      ],
+      "exit": 0,
+      "stdout": "Stopping the VM...\nThe VM has been successfully stopped.\n",
+      "stderr": ""
+    },
+    {
+      "args": [
+        "status",
+        "{6854db3d-97fd-4848-a87b-c9d128e09e01}"
+      ],
+      "exit": 0,
+      "stdout": "VM {6854db3d-97fd-4848-a87b-c9d128e09e01} exist stopped\n",
+      "stderr": ""
+    },
+    {
+      "args": [
+        "delete",
+        "{6854db3d-97fd-4848-a87b-c9d128e09e01}"
+      ],
+      "exit": 0,
+      "stdout": "Removing the VM...\nThe VM has been successfully removed.\n",
+      "stderr": ""
+    },
+    {
+      "args": [
+        "list",
+        "-a"
+      ],
+      "exit": 0,
+      "stdout": "UUID                                    STATUS       IP_ADDR         NAME\n{6de8a322-8ebd-490a-9e78-c5d6f301f80d}  suspended    -               rocky linux 9\n",
+      "stderr": ""
+    }
+  ],
+  "phase": "WINDOWS_VM_DELETED",
+  "windowsBundleExists": false,
+  "rockyPreserved": true,
+  "afterFreeBytes": 318167306240
+}

@@ -1,0 +1,1134 @@
+{
+  "phase": "READ_ONLY_SOURCE_BOUNDARY_REVIEW",
+  "scope": "Existing original 52-state handler oracle plus read-only current Trial parent source; not additional actualOS verification and not a wholeflow pass",
+  "checks": [
+    {
+      "id": "ko-mapping-retains-unprepared-trial",
+      "passed": true,
+      "observed": {
+        "maps": {
+          "demo.customers": "demo.customers",
+          "demo.orders": "archive.orders",
+          "demo.line_items": "demo.line_items"
+        },
+        "trial": {
+          "host": "trial.example.invalid",
+          "db": "migration_test",
+          "validInput": "1",
+          "invalidInput": "-1",
+          "ready": false,
+          "consent": false
+        }
+      }
+    },
+    {
+      "id": "ko-category-requires-preparation",
+      "passed": true,
+      "observed": {
+        "trial": {
+          "host": "trial.example.invalid",
+          "db": "migration_test",
+          "validInput": "1",
+          "invalidInput": "-1",
+          "ready": false,
+          "consent": false
+        },
+        "footer": [
+          {
+            "action": "back",
+            "label": "뒤로",
+            "enabled": true
+          },
+          {
+            "action": "review",
+            "label": "실행 전 확인",
+            "enabled": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "ko-trial-check-ready-consent",
+      "passed": true,
+      "observed": {
+        "host": "trial.example.invalid",
+        "db": "migration_test",
+        "validInput": "1",
+        "invalidInput": "-1",
+        "ready": true,
+        "consent": true
+      }
+    },
+    {
+      "id": "ko-return-retains-ready-consent-and-maps",
+      "passed": true,
+      "observed": {
+        "trial": {
+          "host": "trial.example.invalid",
+          "db": "migration_test",
+          "validInput": "1",
+          "invalidInput": "-1",
+          "ready": true,
+          "consent": true
+        },
+        "maps": {
+          "demo.customers": "demo.customers",
+          "demo.orders": "archive.orders",
+          "demo.line_items": "demo.line_items"
+        },
+        "footer": [
+          {
+            "action": "back",
+            "label": "뒤로",
+            "enabled": true
+          },
+          {
+            "action": "review",
+            "label": "실행 전 확인",
+            "enabled": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "ko-restart-ready-only",
+      "passed": true,
+      "observed": {
+        "host": "trial.example.invalid",
+        "db": "migration_test",
+        "validInput": "1",
+        "invalidInput": "-1",
+        "ready": false,
+        "consent": true
+      }
+    },
+    {
+      "id": "ko-restart-retains-user-scope",
+      "passed": true,
+      "observed": {
+        "categories": [
+          "data",
+          "schema",
+          "access",
+          "objects",
+          "trial"
+        ],
+        "tables": [
+          "demo.customers",
+          "demo.orders",
+          "demo.line_items"
+        ],
+        "maps": {
+          "demo.customers": "demo.customers",
+          "demo.orders": "archive.orders",
+          "demo.line_items": "demo.line_items"
+        },
+        "filter": "unknown",
+        "formats": [
+          "json",
+          "csv",
+          "html"
+        ]
+      }
+    },
+    {
+      "id": "ko-restart-clears-runtime-and-query",
+      "passed": true,
+      "observed": {
+        "screen": "connect",
+        "run": null,
+        "connected": false,
+        "saved": false,
+        "stopped": false,
+        "visited": [
+          "connect"
+        ],
+        "query": ""
+      }
+    },
+    {
+      "id": "en-mapping-retains-unprepared-trial",
+      "passed": true,
+      "observed": {
+        "maps": {
+          "demo.customers": "demo.customers",
+          "demo.orders": "archive.orders",
+          "demo.line_items": "demo.line_items"
+        },
+        "trial": {
+          "host": "trial.example.invalid",
+          "db": "migration_test",
+          "validInput": "1",
+          "invalidInput": "-1",
+          "ready": false,
+          "consent": false
+        }
+      }
+    },
+    {
+      "id": "en-category-requires-preparation",
+      "passed": true,
+      "observed": {
+        "trial": {
+          "host": "trial.example.invalid",
+          "db": "migration_test",
+          "validInput": "1",
+          "invalidInput": "-1",
+          "ready": false,
+          "consent": false
+        },
+        "footer": [
+          {
+            "action": "back",
+            "label": "Back",
+            "enabled": true
+          },
+          {
+            "action": "review",
+            "label": "Review before running",
+            "enabled": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "en-trial-check-ready-consent",
+      "passed": true,
+      "observed": {
+        "host": "trial.example.invalid",
+        "db": "migration_test",
+        "validInput": "1",
+        "invalidInput": "-1",
+        "ready": true,
+        "consent": true
+      }
+    },
+    {
+      "id": "en-return-retains-ready-consent-and-maps",
+      "passed": true,
+      "observed": {
+        "trial": {
+          "host": "trial.example.invalid",
+          "db": "migration_test",
+          "validInput": "1",
+          "invalidInput": "-1",
+          "ready": true,
+          "consent": true
+        },
+        "maps": {
+          "demo.customers": "demo.customers",
+          "demo.orders": "archive.orders",
+          "demo.line_items": "demo.line_items"
+        },
+        "footer": [
+          {
+            "action": "back",
+            "label": "Back",
+            "enabled": true
+          },
+          {
+            "action": "review",
+            "label": "Review before running",
+            "enabled": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "en-restart-ready-only",
+      "passed": true,
+      "observed": {
+        "host": "trial.example.invalid",
+        "db": "migration_test",
+        "validInput": "1",
+        "invalidInput": "-1",
+        "ready": false,
+        "consent": true
+      }
+    },
+    {
+      "id": "en-restart-retains-user-scope",
+      "passed": true,
+      "observed": {
+        "categories": [
+          "data",
+          "schema",
+          "access",
+          "objects",
+          "trial"
+        ],
+        "tables": [
+          "demo.customers",
+          "demo.orders",
+          "demo.line_items"
+        ],
+        "maps": {
+          "demo.customers": "demo.customers",
+          "demo.orders": "archive.orders",
+          "demo.line_items": "demo.line_items"
+        },
+        "filter": "unknown",
+        "formats": [
+          "json",
+          "csv",
+          "html"
+        ]
+      }
+    },
+    {
+      "id": "en-restart-clears-runtime-and-query",
+      "passed": true,
+      "observed": {
+        "screen": "connect",
+        "run": null,
+        "connected": false,
+        "saved": false,
+        "stopped": false,
+        "visited": [
+          "connect"
+        ],
+        "query": ""
+      }
+    }
+  ],
+  "sourceRows": {
+    "ko-mapped": {
+      "id": "ko-mapped",
+      "screen": "select",
+      "english": false,
+      "connected": true,
+      "busy": false,
+      "error": "",
+      "categories": [
+        "data",
+        "schema",
+        "access",
+        "objects"
+      ],
+      "tables": [
+        "demo.customers",
+        "demo.orders",
+        "demo.line_items"
+      ],
+      "maps": {
+        "demo.customers": "demo.customers",
+        "demo.orders": "archive.orders",
+        "demo.line_items": "demo.line_items"
+      },
+      "expanded": [],
+      "trial": {
+        "host": "trial.example.invalid",
+        "db": "migration_test",
+        "validInput": "1",
+        "invalidInput": "-1",
+        "ready": false,
+        "consent": false
+      },
+      "stopped": false,
+      "visited": [
+        "connect",
+        "capabilities",
+        "select"
+      ],
+      "filter": "all",
+      "formats": [
+        "json"
+      ],
+      "saved": false,
+      "run": null,
+      "modal": null,
+      "query": "",
+      "title": "무엇을 검사할지 선택하세요",
+      "focus": "mapping:demo.orders",
+      "announcement": "검색 결과의 선택을 변경했습니다.",
+      "offset": 0,
+      "footer": [
+        {
+          "action": "back",
+          "label": "뒤로",
+          "enabled": true
+        },
+        {
+          "action": "review",
+          "label": "실행 전 확인",
+          "enabled": true
+        }
+      ]
+    },
+    "ko-trial-required": {
+      "id": "ko-trial-required",
+      "screen": "select",
+      "english": false,
+      "connected": true,
+      "busy": false,
+      "error": "",
+      "categories": [
+        "data",
+        "schema",
+        "access",
+        "objects",
+        "trial"
+      ],
+      "tables": [
+        "demo.customers",
+        "demo.orders",
+        "demo.line_items"
+      ],
+      "maps": {
+        "demo.customers": "demo.customers",
+        "demo.orders": "archive.orders",
+        "demo.line_items": "demo.line_items"
+      },
+      "expanded": [],
+      "trial": {
+        "host": "trial.example.invalid",
+        "db": "migration_test",
+        "validInput": "1",
+        "invalidInput": "-1",
+        "ready": false,
+        "consent": false
+      },
+      "stopped": false,
+      "visited": [
+        "connect",
+        "capabilities",
+        "select"
+      ],
+      "filter": "all",
+      "formats": [
+        "json"
+      ],
+      "saved": false,
+      "run": null,
+      "modal": null,
+      "query": "",
+      "title": "무엇을 검사할지 선택하세요",
+      "focus": "INPUT",
+      "announcement": "5 개 분류 선택",
+      "offset": 0,
+      "footer": [
+        {
+          "action": "back",
+          "label": "뒤로",
+          "enabled": true
+        },
+        {
+          "action": "review",
+          "label": "실행 전 확인",
+          "enabled": false
+        }
+      ]
+    },
+    "ko-trial": {
+      "id": "ko-trial",
+      "screen": "trial",
+      "english": false,
+      "connected": true,
+      "busy": false,
+      "error": "",
+      "categories": [
+        "data",
+        "schema",
+        "access",
+        "objects",
+        "trial"
+      ],
+      "tables": [
+        "demo.customers",
+        "demo.orders",
+        "demo.line_items"
+      ],
+      "maps": {
+        "demo.customers": "demo.customers",
+        "demo.orders": "archive.orders",
+        "demo.line_items": "demo.line_items"
+      },
+      "expanded": [],
+      "trial": {
+        "host": "trial.example.invalid",
+        "db": "migration_test",
+        "validInput": "1",
+        "invalidInput": "-1",
+        "ready": false,
+        "consent": false
+      },
+      "stopped": false,
+      "visited": [
+        "connect",
+        "capabilities",
+        "select"
+      ],
+      "filter": "all",
+      "formats": [
+        "json"
+      ],
+      "saved": false,
+      "run": null,
+      "modal": null,
+      "query": "",
+      "title": "동작 시험은 별도 DB에서 합니다",
+      "focus": "screen-title",
+      "announcement": "동작 시험은 별도 DB에서 합니다",
+      "offset": 0,
+      "footer": [
+        {
+          "action": "trial-back",
+          "label": "검사 선택으로",
+          "enabled": true
+        },
+        {
+          "action": "trial-check",
+          "label": "시험 준비 확인",
+          "enabled": false
+        }
+      ]
+    },
+    "ko-trial-ready": {
+      "id": "ko-trial-ready",
+      "screen": "trial",
+      "english": false,
+      "connected": true,
+      "busy": false,
+      "error": "",
+      "categories": [
+        "data",
+        "schema",
+        "access",
+        "objects",
+        "trial"
+      ],
+      "tables": [
+        "demo.customers",
+        "demo.orders",
+        "demo.line_items"
+      ],
+      "maps": {
+        "demo.customers": "demo.customers",
+        "demo.orders": "archive.orders",
+        "demo.line_items": "demo.line_items"
+      },
+      "expanded": [],
+      "trial": {
+        "host": "trial.example.invalid",
+        "db": "migration_test",
+        "validInput": "1",
+        "invalidInput": "-1",
+        "ready": true,
+        "consent": true
+      },
+      "stopped": false,
+      "visited": [
+        "connect",
+        "capabilities",
+        "select"
+      ],
+      "filter": "all",
+      "formats": [
+        "json"
+      ],
+      "saved": false,
+      "run": null,
+      "modal": null,
+      "query": "",
+      "title": "동작 시험은 별도 DB에서 합니다",
+      "focus": "BODY",
+      "announcement": "동작 시험은 별도 DB에서 합니다",
+      "offset": 0,
+      "footer": [
+        {
+          "action": "trial-back",
+          "label": "검사 선택으로",
+          "enabled": true
+        },
+        {
+          "action": "trial-back",
+          "label": "준비 확인 · 돌아가기",
+          "enabled": true
+        }
+      ]
+    },
+    "ko-trial-return": {
+      "id": "ko-trial-return",
+      "screen": "select",
+      "english": false,
+      "connected": true,
+      "busy": false,
+      "error": "",
+      "categories": [
+        "data",
+        "schema",
+        "access",
+        "objects",
+        "trial"
+      ],
+      "tables": [
+        "demo.customers",
+        "demo.orders",
+        "demo.line_items"
+      ],
+      "maps": {
+        "demo.customers": "demo.customers",
+        "demo.orders": "archive.orders",
+        "demo.line_items": "demo.line_items"
+      },
+      "expanded": [],
+      "trial": {
+        "host": "trial.example.invalid",
+        "db": "migration_test",
+        "validInput": "1",
+        "invalidInput": "-1",
+        "ready": true,
+        "consent": true
+      },
+      "stopped": false,
+      "visited": [
+        "connect",
+        "capabilities",
+        "select"
+      ],
+      "filter": "all",
+      "formats": [
+        "json"
+      ],
+      "saved": false,
+      "run": null,
+      "modal": null,
+      "query": "",
+      "title": "무엇을 검사할지 선택하세요",
+      "focus": "screen-title",
+      "announcement": "무엇을 검사할지 선택하세요",
+      "offset": 0,
+      "footer": [
+        {
+          "action": "back",
+          "label": "뒤로",
+          "enabled": true
+        },
+        {
+          "action": "review",
+          "label": "실행 전 확인",
+          "enabled": true
+        }
+      ]
+    },
+    "ko-restart": {
+      "id": "ko-restart",
+      "screen": "connect",
+      "english": false,
+      "connected": false,
+      "busy": false,
+      "error": "",
+      "categories": [
+        "data",
+        "schema",
+        "access",
+        "objects",
+        "trial"
+      ],
+      "tables": [
+        "demo.customers",
+        "demo.orders",
+        "demo.line_items"
+      ],
+      "maps": {
+        "demo.customers": "demo.customers",
+        "demo.orders": "archive.orders",
+        "demo.line_items": "demo.line_items"
+      },
+      "expanded": [],
+      "trial": {
+        "host": "trial.example.invalid",
+        "db": "migration_test",
+        "validInput": "1",
+        "invalidInput": "-1",
+        "ready": false,
+        "consent": true
+      },
+      "stopped": false,
+      "visited": [
+        "connect"
+      ],
+      "filter": "unknown",
+      "formats": [
+        "json",
+        "csv",
+        "html"
+      ],
+      "saved": false,
+      "run": null,
+      "modal": null,
+      "query": "",
+      "title": "비교할 두 DB를 연결하세요",
+      "focus": "screen-title",
+      "announcement": "비교할 두 DB를 연결하세요",
+      "offset": 0,
+      "footer": [
+        {
+          "action": "back",
+          "label": "뒤로",
+          "enabled": true
+        },
+        {
+          "action": "connect",
+          "label": "두 연결 확인",
+          "enabled": true
+        }
+      ]
+    },
+    "en-mapped": {
+      "id": "en-mapped",
+      "screen": "select",
+      "english": true,
+      "connected": true,
+      "busy": false,
+      "error": "",
+      "categories": [
+        "data",
+        "schema",
+        "access",
+        "objects"
+      ],
+      "tables": [
+        "demo.customers",
+        "demo.orders",
+        "demo.line_items"
+      ],
+      "maps": {
+        "demo.customers": "demo.customers",
+        "demo.orders": "archive.orders",
+        "demo.line_items": "demo.line_items"
+      },
+      "expanded": [],
+      "trial": {
+        "host": "trial.example.invalid",
+        "db": "migration_test",
+        "validInput": "1",
+        "invalidInput": "-1",
+        "ready": false,
+        "consent": false
+      },
+      "stopped": false,
+      "visited": [
+        "connect",
+        "capabilities",
+        "select"
+      ],
+      "filter": "all",
+      "formats": [
+        "json"
+      ],
+      "saved": false,
+      "run": null,
+      "modal": null,
+      "query": "",
+      "title": "Choose what to verify",
+      "focus": "mapping:demo.orders",
+      "announcement": "Selection updated for matching tables.",
+      "offset": 0,
+      "footer": [
+        {
+          "action": "back",
+          "label": "Back",
+          "enabled": true
+        },
+        {
+          "action": "review",
+          "label": "Review before running",
+          "enabled": true
+        }
+      ]
+    },
+    "en-trial-required": {
+      "id": "en-trial-required",
+      "screen": "select",
+      "english": true,
+      "connected": true,
+      "busy": false,
+      "error": "",
+      "categories": [
+        "data",
+        "schema",
+        "access",
+        "objects",
+        "trial"
+      ],
+      "tables": [
+        "demo.customers",
+        "demo.orders",
+        "demo.line_items"
+      ],
+      "maps": {
+        "demo.customers": "demo.customers",
+        "demo.orders": "archive.orders",
+        "demo.line_items": "demo.line_items"
+      },
+      "expanded": [],
+      "trial": {
+        "host": "trial.example.invalid",
+        "db": "migration_test",
+        "validInput": "1",
+        "invalidInput": "-1",
+        "ready": false,
+        "consent": false
+      },
+      "stopped": false,
+      "visited": [
+        "connect",
+        "capabilities",
+        "select"
+      ],
+      "filter": "all",
+      "formats": [
+        "json"
+      ],
+      "saved": false,
+      "run": null,
+      "modal": null,
+      "query": "",
+      "title": "Choose what to verify",
+      "focus": "INPUT",
+      "announcement": "5 categories selected",
+      "offset": 0,
+      "footer": [
+        {
+          "action": "back",
+          "label": "Back",
+          "enabled": true
+        },
+        {
+          "action": "review",
+          "label": "Review before running",
+          "enabled": false
+        }
+      ]
+    },
+    "en-trial": {
+      "id": "en-trial",
+      "screen": "trial",
+      "english": true,
+      "connected": true,
+      "busy": false,
+      "error": "",
+      "categories": [
+        "data",
+        "schema",
+        "access",
+        "objects",
+        "trial"
+      ],
+      "tables": [
+        "demo.customers",
+        "demo.orders",
+        "demo.line_items"
+      ],
+      "maps": {
+        "demo.customers": "demo.customers",
+        "demo.orders": "archive.orders",
+        "demo.line_items": "demo.line_items"
+      },
+      "expanded": [],
+      "trial": {
+        "host": "trial.example.invalid",
+        "db": "migration_test",
+        "validInput": "1",
+        "invalidInput": "-1",
+        "ready": false,
+        "consent": false
+      },
+      "stopped": false,
+      "visited": [
+        "connect",
+        "capabilities",
+        "select"
+      ],
+      "filter": "all",
+      "formats": [
+        "json"
+      ],
+      "saved": false,
+      "run": null,
+      "modal": null,
+      "query": "",
+      "title": "Behavior tests use a separate database",
+      "focus": "screen-title",
+      "announcement": "Behavior tests use a separate database",
+      "offset": 0,
+      "footer": [
+        {
+          "action": "trial-back",
+          "label": "Back to selection",
+          "enabled": true
+        },
+        {
+          "action": "trial-check",
+          "label": "Confirm test setup",
+          "enabled": false
+        }
+      ]
+    },
+    "en-trial-ready": {
+      "id": "en-trial-ready",
+      "screen": "trial",
+      "english": true,
+      "connected": true,
+      "busy": false,
+      "error": "",
+      "categories": [
+        "data",
+        "schema",
+        "access",
+        "objects",
+        "trial"
+      ],
+      "tables": [
+        "demo.customers",
+        "demo.orders",
+        "demo.line_items"
+      ],
+      "maps": {
+        "demo.customers": "demo.customers",
+        "demo.orders": "archive.orders",
+        "demo.line_items": "demo.line_items"
+      },
+      "expanded": [],
+      "trial": {
+        "host": "trial.example.invalid",
+        "db": "migration_test",
+        "validInput": "1",
+        "invalidInput": "-1",
+        "ready": true,
+        "consent": true
+      },
+      "stopped": false,
+      "visited": [
+        "connect",
+        "capabilities",
+        "select"
+      ],
+      "filter": "all",
+      "formats": [
+        "json"
+      ],
+      "saved": false,
+      "run": null,
+      "modal": null,
+      "query": "",
+      "title": "Behavior tests use a separate database",
+      "focus": "BODY",
+      "announcement": "Behavior tests use a separate database",
+      "offset": 0,
+      "footer": [
+        {
+          "action": "trial-back",
+          "label": "Back to selection",
+          "enabled": true
+        },
+        {
+          "action": "trial-back",
+          "label": "Ready · Return",
+          "enabled": true
+        }
+      ]
+    },
+    "en-trial-return": {
+      "id": "en-trial-return",
+      "screen": "select",
+      "english": true,
+      "connected": true,
+      "busy": false,
+      "error": "",
+      "categories": [
+        "data",
+        "schema",
+        "access",
+        "objects",
+        "trial"
+      ],
+      "tables": [
+        "demo.customers",
+        "demo.orders",
+        "demo.line_items"
+      ],
+      "maps": {
+        "demo.customers": "demo.customers",
+        "demo.orders": "archive.orders",
+        "demo.line_items": "demo.line_items"
+      },
+      "expanded": [],
+      "trial": {
+        "host": "trial.example.invalid",
+        "db": "migration_test",
+        "validInput": "1",
+        "invalidInput": "-1",
+        "ready": true,
+        "consent": true
+      },
+      "stopped": false,
+      "visited": [
+        "connect",
+        "capabilities",
+        "select"
+      ],
+      "filter": "all",
+      "formats": [
+        "json"
+      ],
+      "saved": false,
+      "run": null,
+      "modal": null,
+      "query": "",
+      "title": "Choose what to verify",
+      "focus": "screen-title",
+      "announcement": "Choose what to verify",
+      "offset": 0,
+      "footer": [
+        {
+          "action": "back",
+          "label": "Back",
+          "enabled": true
+        },
+        {
+          "action": "review",
+          "label": "Review before running",
+          "enabled": true
+        }
+      ]
+    },
+    "en-restart": {
+      "id": "en-restart",
+      "screen": "connect",
+      "english": true,
+      "connected": false,
+      "busy": false,
+      "error": "",
+      "categories": [
+        "data",
+        "schema",
+        "access",
+        "objects",
+        "trial"
+      ],
+      "tables": [
+        "demo.customers",
+        "demo.orders",
+        "demo.line_items"
+      ],
+      "maps": {
+        "demo.customers": "demo.customers",
+        "demo.orders": "archive.orders",
+        "demo.line_items": "demo.line_items"
+      },
+      "expanded": [],
+      "trial": {
+        "host": "trial.example.invalid",
+        "db": "migration_test",
+        "validInput": "1",
+        "invalidInput": "-1",
+        "ready": false,
+        "consent": true
+      },
+      "stopped": false,
+      "visited": [
+        "connect"
+      ],
+      "filter": "unknown",
+      "formats": [
+        "json",
+        "csv",
+        "html"
+      ],
+      "saved": false,
+      "run": null,
+      "modal": null,
+      "query": "",
+      "title": "Connect the databases to compare",
+      "focus": "screen-title",
+      "announcement": "Connect the databases to compare",
+      "offset": 0,
+      "footer": [
+        {
+          "action": "back",
+          "label": "Back",
+          "enabled": true
+        },
+        {
+          "action": "connect",
+          "label": "Check both connections",
+          "enabled": true
+        }
+      ]
+    }
+  },
+  "hashes": {
+    "docs/replica/source/original.js": "53c8af8c8225c87d25173a82b4ea00ea5349b6c98077ef7b59d8d62f89a68050",
+    "docs/replica/source/root-appflow-mac-source.json": "5bdb6e1914ae18290ab2278fa97bc14c9f886f216f06a8a7f49b901334391c91",
+    "tools/ReplicaProbe/prepare_app_flow.py": "67a561748306460785b9cb09d25afa842d4cce593ab467475a81c62508d20a0e",
+    "src/Verifier.Desktop/ReplicaWorkspace.cs": "aa6a1471a90e97d8be347973c08e66ca7393831687b4316d9ec1aa9fbf81081a",
+    "src/Verifier.Desktop/WebTrialPage.cs": "b5efc0d08e750bd3bf252df115d7e55df592eb7a0eda169a3fe63f6837461e1a",
+    "src/Verifier.Desktop/WebSelectionPage.cs": "8c2aa75e38583605bae625a2446cd373dc4074093fb45c86843d920318b2af47"
+  },
+  "sourceContracts": [
+    {
+      "source": "original.js:67",
+      "contract": "Mapping apply changes only maps[payload], closes/renders/toasts. Does not reset Trial Ready/Consent or stopped.",
+      "current": "Selection factory/matching parent pending; no current Maps mutation or matching dispatch. Preserve this boundary when connected.",
+      "judgement": "PENDING_PARENT_INTEGRATION"
+    },
+    {
+      "source": "original.js:67; source52 ko/en-restart",
+      "contract": "Restart clears timer/query/run/visited/connected/saved/stopped/Trial.Ready, retains Consent and Trial text plus maps/categories/tables/filter/formats. go(connect) clears error and adds connect to visited.",
+      "current": "ReplicaWorkspace.cs:115 resets matching current fields and only Trial.Ready; Navigate104 clears Trial.Error and adds visited connect. No current Selection query/expanded state exists yet.",
+      "judgement": "TRIAL_CURRENT_SOURCE_MATCH; query reset pending Selection parent"
+    },
+    {
+      "source": "original.js:68-69",
+      "contract": "Source/target text or dbms changes reset Trial Ready+Consent. Trial text changes also reset both; consent false resets Ready.",
+      "current": "ReplicaWorkspace.cs:285 plus protected WebTrialPage InputChanged/Consent handler match this Trial state boundary.",
+      "judgement": "CURRENT_SOURCE_MATCH; existing actual Trial evidence reused"
+    },
+    {
+      "source": "original.js:67; source52 ko/en-trial-return",
+      "contract": "Ready footer and quiet back both go(select), clearing error while retaining Trial values/Ready/Consent/maps. Selection becomes review-enabled when prepared.",
+      "current": "ReplicaWorkspace.cs:138,163,104 route/error/state match; current missing Selection factory prevents destination H1/footer/announcement verification.",
+      "judgement": "DESTINATION4_UNVERIFIED"
+    },
+    {
+      "source": "original.js:67-69",
+      "contract": "Category/table/bulk/deselect reset stopped; expand/search/matching do not. None of those scope operations reset Trial Ready/Consent.",
+      "current": "SetScope204 resets Stopped only; avoid using it for query/expand/mapping-only events when future Selection factory connects.",
+      "judgement": "FUTURE_PARENT_EVENT_REASON_REQUIREMENT"
+    },
+    {
+      "source": "original.js:67",
+      "contract": "Trial-check tests blank trimmed inputs then blank host/db then exact same host+db as source/target. Table maps are not DB isolation inputs. Success retains prior error; go clears it.",
+      "current": "ReplicaWorkspace.cs:136-149,167,104 match ordering/exact isolation comparisons/retained error, existing whitespace8 and finite30 actual passes cover this.",
+      "judgement": "CURRENT_SOURCE_MATCH"
+    }
+  ],
+  "findings": [
+    {
+      "id": "connection-input-extra-stopped-reset",
+      "phase": "SOURCE_CODE_MISMATCH; ACTUAL_UNVERIFIED",
+      "source": "docs/replica/source/original.js:68-69",
+      "candidate": "src/Verifier.Desktop/ReplicaWorkspace.cs:285",
+      "condition": "After Review writes-stopped confirmation is true, navigate back review→select→capabilities→connect, then edit source/target field or DBMS.",
+      "expected": "Source keeps state.stopped=true; resets Trial Ready/Consent, connected and visited only.",
+      "current": "Candidate additionally sets Stopped=false.",
+      "original52Coverage": "Not exercised: restart row clears stopped first. Existing Trial finite/geometry passes do not exercise this path.",
+      "ownership": "Root shared parent only; no product edit/input performed by home."
+    }
+  ],
+  "remainingRootScopes": [
+    "Selection return/quietBack4 destination H1/footer/announcement, then mapped→trial-required→ready→return→review integrated state",
+    "Selection parent query reset on start/restart; mapping/expand/search preserve stopped and Trial readiness",
+    "Fully settled BODY Space document endpoint",
+    "Whole original KO-completed/EN-interrupted 52 states including actual bothOS/file/navigation scopes",
+    "Read-only source mismatch: connection input/dbms extra Stopped reset after prior Review confirmation; affected path actual unverified"
+  ],
+  "resources": {
+    "homeOwnedSourceWindows": 0,
+    "homeOwnedNativeWindows": 0,
+    "homeOwnedRuntimeProcesses": 0,
+    "osLease": "None; current lease independently read, Windows root / macOS preflight"
+  }
+}

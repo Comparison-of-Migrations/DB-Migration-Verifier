@@ -1,0 +1,1267 @@
+{
+  "dpr": 2,
+  "rows": [
+    {
+      "id": "ko-180-0",
+      "rect": {
+        "width": 180,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 180,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 180,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "서버 주소"
+    },
+    {
+      "id": "ko-180-1",
+      "rect": {
+        "width": 180,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 180,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 180,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "데이터베이스"
+    },
+    {
+      "id": "ko-180-2",
+      "rect": {
+        "width": 180,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 180,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 180,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "조회 계정"
+    },
+    {
+      "id": "ko-180-3",
+      "rect": {
+        "width": 180,
+        "height": 113.5859375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 180,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 180,
+        "height": 44
+      },
+      "hint": {
+        "x": 0,
+        "y": 75.1953125,
+        "width": 180,
+        "height": 38.390625
+      },
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": "rgb(181, 186, 193)",
+      "disabled": true,
+      "name": "비밀번호"
+    },
+    {
+      "id": "ko-180-4",
+      "rect": {
+        "width": 180,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 180,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 180,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "시험 데이터베이스"
+    },
+    {
+      "id": "ko-180-5",
+      "rect": {
+        "width": 180,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 180,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 180,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "정상 입력 시험값 · 기대: 허용"
+    },
+    {
+      "id": "ko-180-6",
+      "rect": {
+        "width": 180,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 180,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 180,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "제약 위반 시험값 · 기대: 거부"
+    },
+    {
+      "id": "ko-366-0",
+      "rect": {
+        "width": 366,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 366,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 366,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "서버 주소"
+    },
+    {
+      "id": "ko-366-1",
+      "rect": {
+        "width": 366,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 366,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 366,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "데이터베이스"
+    },
+    {
+      "id": "ko-366-2",
+      "rect": {
+        "width": 366,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 366,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 366,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "조회 계정"
+    },
+    {
+      "id": "ko-366-3",
+      "rect": {
+        "width": 366,
+        "height": 94.390625
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 366,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 366,
+        "height": 44
+      },
+      "hint": {
+        "x": 0,
+        "y": 75.1953125,
+        "width": 366,
+        "height": 19.1953125
+      },
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": "rgb(181, 186, 193)",
+      "disabled": true,
+      "name": "비밀번호"
+    },
+    {
+      "id": "ko-366-4",
+      "rect": {
+        "width": 366,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 366,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 366,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "시험 데이터베이스"
+    },
+    {
+      "id": "ko-366-5",
+      "rect": {
+        "width": 366,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 366,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 366,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "정상 입력 시험값 · 기대: 허용"
+    },
+    {
+      "id": "ko-366-6",
+      "rect": {
+        "width": 366,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 366,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 366,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "제약 위반 시험값 · 기대: 거부"
+    },
+    {
+      "id": "ko-480-0",
+      "rect": {
+        "width": 480,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 480,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "서버 주소"
+    },
+    {
+      "id": "ko-480-1",
+      "rect": {
+        "width": 480,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 480,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "데이터베이스"
+    },
+    {
+      "id": "ko-480-2",
+      "rect": {
+        "width": 480,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 480,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "조회 계정"
+    },
+    {
+      "id": "ko-480-3",
+      "rect": {
+        "width": 480,
+        "height": 94.390625
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 480,
+        "height": 44
+      },
+      "hint": {
+        "x": 0,
+        "y": 75.1953125,
+        "width": 480,
+        "height": 19.1953125
+      },
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": "rgb(181, 186, 193)",
+      "disabled": true,
+      "name": "비밀번호"
+    },
+    {
+      "id": "ko-480-4",
+      "rect": {
+        "width": 480,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 480,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "시험 데이터베이스"
+    },
+    {
+      "id": "ko-480-5",
+      "rect": {
+        "width": 480,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 480,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "정상 입력 시험값 · 기대: 허용"
+    },
+    {
+      "id": "ko-480-6",
+      "rect": {
+        "width": 480,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 480,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "제약 위반 시험값 · 기대: 거부"
+    },
+    {
+      "id": "ko-port",
+      "rect": {
+        "width": 112,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 112,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 112,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "포트"
+    },
+    {
+      "id": "en-180-0",
+      "rect": {
+        "width": 180,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 180,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 180,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "Server"
+    },
+    {
+      "id": "en-180-1",
+      "rect": {
+        "width": 180,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 180,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 180,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "Database"
+    },
+    {
+      "id": "en-180-2",
+      "rect": {
+        "width": 180,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 180,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 180,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "Reader account"
+    },
+    {
+      "id": "en-180-3",
+      "rect": {
+        "width": 180,
+        "height": 132.78125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 180,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 180,
+        "height": 44
+      },
+      "hint": {
+        "x": 0,
+        "y": 75.1953125,
+        "width": 180,
+        "height": 57.5859375
+      },
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": "rgb(181, 186, 193)",
+      "disabled": true,
+      "name": "Password"
+    },
+    {
+      "id": "en-180-4",
+      "rect": {
+        "width": 180,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 180,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 180,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "Test database"
+    },
+    {
+      "id": "en-180-5",
+      "rect": {
+        "width": 180,
+        "height": 89.390625
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 180,
+        "height": 38.390625
+      },
+      "input": {
+        "x": 0,
+        "y": 45.390625,
+        "width": 180,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "Valid input · Expected: accepted"
+    },
+    {
+      "id": "en-180-6",
+      "rect": {
+        "width": 180,
+        "height": 89.390625
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 180,
+        "height": 38.390625
+      },
+      "input": {
+        "x": 0,
+        "y": 45.390625,
+        "width": 180,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "Constraint-violating input · Expected: rejected"
+    },
+    {
+      "id": "en-366-0",
+      "rect": {
+        "width": 366,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 366,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 366,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "Server"
+    },
+    {
+      "id": "en-366-1",
+      "rect": {
+        "width": 366,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 366,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 366,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "Database"
+    },
+    {
+      "id": "en-366-2",
+      "rect": {
+        "width": 366,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 366,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 366,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "Reader account"
+    },
+    {
+      "id": "en-366-3",
+      "rect": {
+        "width": 366,
+        "height": 113.5859375
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 366,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 366,
+        "height": 44
+      },
+      "hint": {
+        "x": 0,
+        "y": 75.1953125,
+        "width": 366,
+        "height": 38.390625
+      },
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": "rgb(181, 186, 193)",
+      "disabled": true,
+      "name": "Password"
+    },
+    {
+      "id": "en-366-4",
+      "rect": {
+        "width": 366,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 366,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 366,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "Test database"
+    },
+    {
+      "id": "en-366-5",
+      "rect": {
+        "width": 366,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 366,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 366,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "Valid input · Expected: accepted"
+    },
+    {
+      "id": "en-366-6",
+      "rect": {
+        "width": 366,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 366,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 366,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "Constraint-violating input · Expected: rejected"
+    },
+    {
+      "id": "en-480-0",
+      "rect": {
+        "width": 480,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 480,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "Server"
+    },
+    {
+      "id": "en-480-1",
+      "rect": {
+        "width": 480,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 480,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "Database"
+    },
+    {
+      "id": "en-480-2",
+      "rect": {
+        "width": 480,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 480,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "Reader account"
+    },
+    {
+      "id": "en-480-3",
+      "rect": {
+        "width": 480,
+        "height": 94.390625
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 480,
+        "height": 44
+      },
+      "hint": {
+        "x": 0,
+        "y": 75.1953125,
+        "width": 480,
+        "height": 19.1953125
+      },
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": "rgb(181, 186, 193)",
+      "disabled": true,
+      "name": "Password"
+    },
+    {
+      "id": "en-480-4",
+      "rect": {
+        "width": 480,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 480,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "Test database"
+    },
+    {
+      "id": "en-480-5",
+      "rect": {
+        "width": 480,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 480,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "Valid input · Expected: accepted"
+    },
+    {
+      "id": "en-480-6",
+      "rect": {
+        "width": 480,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 480,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "Constraint-violating input · Expected: rejected"
+    },
+    {
+      "id": "en-port",
+      "rect": {
+        "width": 112,
+        "height": 70.1953125
+      },
+      "label": {
+        "x": 0,
+        "y": 0,
+        "width": 112,
+        "height": 19.1953125
+      },
+      "input": {
+        "x": 0,
+        "y": 26.1953125,
+        "width": 112,
+        "height": 44
+      },
+      "hint": null,
+      "marginTop": "16px",
+      "labelSize": "12px",
+      "labelWeight": "600",
+      "labelColor": "rgb(219, 222, 225)",
+      "labelHeight": "19.2px",
+      "hintColor": null,
+      "disabled": false,
+      "name": "Port"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "actualSnapshots": 48,
+  "attachedLifecyclePhases": 18,
+  "samples": 66,
+  "failed": 0,
+  "scope": "Each OS24 actual snapshots: entire row children, held/cancel, independent peer, Enter/Space, disabled/reduced, data/language/normal restoration. OS inputs serialized. Source original actions6 documented separately. Lifecycle uses production OnClick on attached window; it is not an extra input simulation claim. UIA focus on hover/leave is fixture focus modality, not a source hover focus change.",
+  "errors": []
+}

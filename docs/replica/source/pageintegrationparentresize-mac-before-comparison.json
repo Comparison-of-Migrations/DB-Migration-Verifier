@@ -1,0 +1,2909 @@
+{
+  "status": "FAILED",
+  "checks": 2595,
+  "differences": [
+    {
+      "context": "home-ko",
+      "index": 1,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-ko",
+      "index": 1,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-ko",
+      "index": 1,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-ko",
+      "index": 1,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-ko",
+      "index": 1,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-ko",
+      "index": 1,
+      "key": "pageOpacity",
+      "actual": 0.9247625737922167,
+      "expected": 1
+    },
+    {
+      "context": "home-ko",
+      "index": 1,
+      "key": "boxes.page.y",
+      "actual": 124.69449931884105,
+      "expected": 124
+    },
+    {
+      "context": "home-ko",
+      "index": 1,
+      "key": "boxes.heading.y",
+      "actual": 134.69449931884105,
+      "expected": 134
+    },
+    {
+      "context": "home-ko",
+      "index": 1,
+      "key": "boxes.focus.y",
+      "actual": 331.48356181884105,
+      "expected": 330.7890625
+    },
+    {
+      "context": "home-ko",
+      "index": 2,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-ko",
+      "index": 2,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-ko",
+      "index": 2,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-ko",
+      "index": 2,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-ko",
+      "index": 2,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-ko",
+      "index": 2,
+      "key": "pageOpacity",
+      "actual": 0.8968264033060493,
+      "expected": 1
+    },
+    {
+      "context": "home-ko",
+      "index": 2,
+      "key": "boxes.page.y",
+      "actual": 124.95237166179032,
+      "expected": 124
+    },
+    {
+      "context": "home-ko",
+      "index": 2,
+      "key": "boxes.heading.y",
+      "actual": 134.95237166179032,
+      "expected": 134
+    },
+    {
+      "context": "home-ko",
+      "index": 2,
+      "key": "boxes.focus.y",
+      "actual": 331.7414341617903,
+      "expected": 330.7890625
+    },
+    {
+      "context": "home-ko",
+      "index": 3,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-ko",
+      "index": 3,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-ko",
+      "index": 3,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-ko",
+      "index": 3,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-ko",
+      "index": 3,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-ko",
+      "index": 3,
+      "key": "pageOpacity",
+      "actual": 0.9224967094282176,
+      "expected": 1
+    },
+    {
+      "context": "home-ko",
+      "index": 3,
+      "key": "boxes.page.y",
+      "actual": 132.71541498989336,
+      "expected": 132
+    },
+    {
+      "context": "home-ko",
+      "index": 3,
+      "key": "boxes.heading.y",
+      "actual": 142.71541498989336,
+      "expected": 142
+    },
+    {
+      "context": "home-ko",
+      "index": 3,
+      "key": "boxes.focus.y",
+      "actual": 588.5904149898934,
+      "expected": 587.875
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 0,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "choose",
+          "disabled": false
+        }
+      ],
+      "expected": [
+        {
+          "action": "back",
+          "disabled": false
+        },
+        {
+          "action": "choose",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 1,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 1,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 1,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 1,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 1,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 1,
+      "key": "pageOpacity",
+      "actual": 0.9897729287457506,
+      "expected": 1
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 1,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "choose",
+          "disabled": false
+        }
+      ],
+      "expected": [
+        {
+          "action": "back",
+          "disabled": false
+        },
+        {
+          "action": "choose",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 1,
+      "key": "boxes.page.y",
+      "actual": 124.09440373465463,
+      "expected": 124
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 1,
+      "key": "boxes.heading.y",
+      "actual": 124.09440373465463,
+      "expected": 124
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 1,
+      "key": "boxes.focus.y",
+      "actual": 412.26627873465463,
+      "expected": 412.171875
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 2,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 2,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 2,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 2,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 2,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 2,
+      "key": "pageOpacity",
+      "actual": 0.9919103919181506,
+      "expected": 1
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 2,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "choose",
+          "disabled": false
+        }
+      ],
+      "expected": [
+        {
+          "action": "back",
+          "disabled": false
+        },
+        {
+          "action": "choose",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 2,
+      "key": "boxes.page.y",
+      "actual": 124.07467330537094,
+      "expected": 124
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 2,
+      "key": "boxes.heading.y",
+      "actual": 124.07467330537094,
+      "expected": 124
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 2,
+      "key": "boxes.focus.y",
+      "actual": 412.24654830537094,
+      "expected": 412.171875
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 3,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 3,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 3,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 3,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 3,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 3,
+      "key": "pageOpacity",
+      "actual": 0.9908707752014775,
+      "expected": 1
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 3,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "choose",
+          "disabled": false
+        }
+      ],
+      "expected": [
+        {
+          "action": "back",
+          "disabled": false
+        },
+        {
+          "action": "choose",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 3,
+      "key": "boxes.page.y",
+      "actual": 132.08426976737098,
+      "expected": 132
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 3,
+      "key": "boxes.heading.y",
+      "actual": 132.08426976737098,
+      "expected": 132
+    },
+    {
+      "context": "capabilities-ko",
+      "index": 3,
+      "key": "boxes.focus.y",
+      "actual": 420.256144767371,
+      "expected": 420.171875
+    },
+    {
+      "context": "review-ko",
+      "index": 0,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "run",
+          "disabled": true
+        }
+      ],
+      "expected": [
+        {
+          "action": "back",
+          "disabled": false
+        },
+        {
+          "action": "run",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "context": "review-ko",
+      "index": 1,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-ko",
+      "index": 1,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-ko",
+      "index": 1,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-ko",
+      "index": 1,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-ko",
+      "index": 1,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-ko",
+      "index": 1,
+      "key": "pageOpacity",
+      "actual": 0.9693498992403914,
+      "expected": 1
+    },
+    {
+      "context": "review-ko",
+      "index": 1,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "run",
+          "disabled": true
+        }
+      ],
+      "expected": [
+        {
+          "action": "back",
+          "disabled": false
+        },
+        {
+          "action": "run",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "context": "review-ko",
+      "index": 1,
+      "key": "boxes.page.y",
+      "actual": 124.28292400701179,
+      "expected": 124
+    },
+    {
+      "context": "review-ko",
+      "index": 1,
+      "key": "boxes.heading.y",
+      "actual": 124.28292400701179,
+      "expected": 124
+    },
+    {
+      "context": "review-ko",
+      "index": 1,
+      "key": "boxes.focus.y",
+      "actual": 727.8688615070118,
+      "expected": 727.5859375
+    },
+    {
+      "context": "review-ko",
+      "index": 1,
+      "key": "boxes.summaryLabel.y",
+      "actual": 262.2751115070118,
+      "expected": 261.9921875
+    },
+    {
+      "context": "review-ko",
+      "index": 1,
+      "key": "boxes.summaryValue.y",
+      "actual": 262.2751115070118,
+      "expected": 261.9921875
+    },
+    {
+      "context": "review-ko",
+      "index": 2,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-ko",
+      "index": 2,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-ko",
+      "index": 2,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-ko",
+      "index": 2,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-ko",
+      "index": 2,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-ko",
+      "index": 2,
+      "key": "pageOpacity",
+      "actual": 0.9778218205020126,
+      "expected": 1
+    },
+    {
+      "context": "review-ko",
+      "index": 2,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "run",
+          "disabled": true
+        }
+      ],
+      "expected": [
+        {
+          "action": "back",
+          "disabled": false
+        },
+        {
+          "action": "run",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "context": "review-ko",
+      "index": 2,
+      "key": "boxes.page.y",
+      "actual": 124.2047216569045,
+      "expected": 124
+    },
+    {
+      "context": "review-ko",
+      "index": 2,
+      "key": "boxes.heading.y",
+      "actual": 124.2047216569045,
+      "expected": 124
+    },
+    {
+      "context": "review-ko",
+      "index": 2,
+      "key": "boxes.focus.y",
+      "actual": 727.7906591569044,
+      "expected": 727.5859375
+    },
+    {
+      "context": "review-ko",
+      "index": 2,
+      "key": "boxes.summaryLabel.y",
+      "actual": 262.1969091569045,
+      "expected": 261.9921875
+    },
+    {
+      "context": "review-ko",
+      "index": 2,
+      "key": "boxes.summaryValue.y",
+      "actual": 262.1969091569045,
+      "expected": 261.9921875
+    },
+    {
+      "context": "review-ko",
+      "index": 3,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-ko",
+      "index": 3,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-ko",
+      "index": 3,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-ko",
+      "index": 3,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-ko",
+      "index": 3,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-ko",
+      "index": 3,
+      "key": "pageOpacity",
+      "actual": 0.9772915374421446,
+      "expected": 1
+    },
+    {
+      "context": "review-ko",
+      "index": 3,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "run",
+          "disabled": true
+        }
+      ],
+      "expected": [
+        {
+          "action": "back",
+          "disabled": false
+        },
+        {
+          "action": "run",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "context": "review-ko",
+      "index": 3,
+      "key": "boxes.page.y",
+      "actual": 132.20961657745715,
+      "expected": 132
+    },
+    {
+      "context": "review-ko",
+      "index": 3,
+      "key": "boxes.heading.y",
+      "actual": 132.20961657745715,
+      "expected": 132
+    },
+    {
+      "context": "review-ko",
+      "index": 3,
+      "key": "boxes.focus.y",
+      "actual": 735.7955540774572,
+      "expected": 735.5859375
+    },
+    {
+      "context": "review-ko",
+      "index": 3,
+      "key": "boxes.summaryLabel.y",
+      "actual": 270.20180407745715,
+      "expected": 269.9921875
+    },
+    {
+      "context": "review-ko",
+      "index": 3,
+      "key": "boxes.summaryValue.y",
+      "actual": 270.20180407745715,
+      "expected": 269.9921875
+    },
+    {
+      "context": "running-ko",
+      "index": 1,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-ko",
+      "index": 1,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-ko",
+      "index": 1,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-ko",
+      "index": 1,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-ko",
+      "index": 1,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-ko",
+      "index": 1,
+      "key": "pageOpacity",
+      "actual": 0.740592202178346,
+      "expected": 1
+    },
+    {
+      "context": "running-ko",
+      "index": 1,
+      "key": "boxes.page.y",
+      "actual": 126.39453351835374,
+      "expected": 124
+    },
+    {
+      "context": "running-ko",
+      "index": 1,
+      "key": "boxes.heading.y",
+      "actual": 126.39453351835374,
+      "expected": 124
+    },
+    {
+      "context": "running-ko",
+      "index": 2,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-ko",
+      "index": 2,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-ko",
+      "index": 2,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-ko",
+      "index": 2,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-ko",
+      "index": 2,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-ko",
+      "index": 2,
+      "key": "pageOpacity",
+      "actual": 0.7906792496343713,
+      "expected": 1
+    },
+    {
+      "context": "running-ko",
+      "index": 2,
+      "key": "boxes.page.y",
+      "actual": 125.93219154183657,
+      "expected": 124
+    },
+    {
+      "context": "running-ko",
+      "index": 2,
+      "key": "boxes.heading.y",
+      "actual": 125.93219154183657,
+      "expected": 124
+    },
+    {
+      "context": "running-ko",
+      "index": 3,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-ko",
+      "index": 3,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-ko",
+      "index": 3,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-ko",
+      "index": 3,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-ko",
+      "index": 3,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-ko",
+      "index": 3,
+      "key": "pageOpacity",
+      "actual": 0.7877898867091101,
+      "expected": 1
+    },
+    {
+      "context": "running-ko",
+      "index": 3,
+      "key": "boxes.page.y",
+      "actual": 133.9588625842236,
+      "expected": 132
+    },
+    {
+      "context": "running-ko",
+      "index": 3,
+      "key": "boxes.heading.y",
+      "actual": 133.9588625842236,
+      "expected": 132
+    },
+    {
+      "context": "results-ko",
+      "index": 0,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "save",
+          "disabled": false
+        }
+      ],
+      "expected": [
+        {
+          "action": "restart",
+          "disabled": false
+        },
+        {
+          "action": "save",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "context": "results-ko",
+      "index": 1,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-ko",
+      "index": 1,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-ko",
+      "index": 1,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-ko",
+      "index": 1,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-ko",
+      "index": 1,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-ko",
+      "index": 1,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "save",
+          "disabled": false
+        }
+      ],
+      "expected": [
+        {
+          "action": "restart",
+          "disabled": false
+        },
+        {
+          "action": "save",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "context": "results-ko",
+      "index": 2,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-ko",
+      "index": 2,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-ko",
+      "index": 2,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-ko",
+      "index": 2,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-ko",
+      "index": 2,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-ko",
+      "index": 2,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "save",
+          "disabled": false
+        }
+      ],
+      "expected": [
+        {
+          "action": "restart",
+          "disabled": false
+        },
+        {
+          "action": "save",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "context": "results-ko",
+      "index": 3,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-ko",
+      "index": 3,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-ko",
+      "index": 3,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-ko",
+      "index": 3,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-ko",
+      "index": 3,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-ko",
+      "index": 3,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "save",
+          "disabled": false
+        }
+      ],
+      "expected": [
+        {
+          "action": "restart",
+          "disabled": false
+        },
+        {
+          "action": "save",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "context": "save-ko",
+      "index": 0,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "download",
+          "disabled": false
+        }
+      ],
+      "expected": [
+        {
+          "action": "back",
+          "disabled": false
+        },
+        {
+          "action": "download",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "context": "save-ko",
+      "index": 1,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-ko",
+      "index": 1,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-ko",
+      "index": 1,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-ko",
+      "index": 1,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-ko",
+      "index": 1,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-ko",
+      "index": 1,
+      "key": "pageOpacity",
+      "actual": 0.9295712063884521,
+      "expected": 1
+    },
+    {
+      "context": "save-ko",
+      "index": 1,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "download",
+          "disabled": false
+        }
+      ],
+      "expected": [
+        {
+          "action": "back",
+          "disabled": false
+        },
+        {
+          "action": "download",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "context": "save-ko",
+      "index": 1,
+      "key": "boxes.page.y",
+      "actual": 124.65011194102968,
+      "expected": 124
+    },
+    {
+      "context": "save-ko",
+      "index": 1,
+      "key": "boxes.heading.y",
+      "actual": 124.65011194102968,
+      "expected": 124
+    },
+    {
+      "context": "save-ko",
+      "index": 1,
+      "key": "boxes.focus.y",
+      "actual": 264.64229944102965,
+      "expected": 263.9921875
+    },
+    {
+      "context": "save-ko",
+      "index": 1,
+      "key": "boxes.summaryLabel.y",
+      "actual": 402.64229944102965,
+      "expected": 401.9921875
+    },
+    {
+      "context": "save-ko",
+      "index": 1,
+      "key": "boxes.summaryValue.y",
+      "actual": 402.64229944102965,
+      "expected": 401.9921875
+    },
+    {
+      "context": "save-ko",
+      "index": 2,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-ko",
+      "index": 2,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-ko",
+      "index": 2,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-ko",
+      "index": 2,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-ko",
+      "index": 2,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-ko",
+      "index": 2,
+      "key": "pageOpacity",
+      "actual": 0.9422579721404557,
+      "expected": 1
+    },
+    {
+      "context": "save-ko",
+      "index": 2,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "download",
+          "disabled": false
+        }
+      ],
+      "expected": [
+        {
+          "action": "back",
+          "disabled": false
+        },
+        {
+          "action": "download",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "context": "save-ko",
+      "index": 2,
+      "key": "boxes.page.y",
+      "actual": 124.53300333408811,
+      "expected": 124
+    },
+    {
+      "context": "save-ko",
+      "index": 2,
+      "key": "boxes.heading.y",
+      "actual": 124.53300333408811,
+      "expected": 124
+    },
+    {
+      "context": "save-ko",
+      "index": 2,
+      "key": "boxes.focus.y",
+      "actual": 268.1189408340881,
+      "expected": 267.5859375
+    },
+    {
+      "context": "save-ko",
+      "index": 2,
+      "key": "boxes.summaryLabel.y",
+      "actual": 409.7205033340881,
+      "expected": 409.1875
+    },
+    {
+      "context": "save-ko",
+      "index": 2,
+      "key": "boxes.summaryValue.y",
+      "actual": 409.7205033340881,
+      "expected": 409.1875
+    },
+    {
+      "context": "save-ko",
+      "index": 3,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-ko",
+      "index": 3,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-ko",
+      "index": 3,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-ko",
+      "index": 3,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-ko",
+      "index": 3,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-ko",
+      "index": 3,
+      "key": "pageOpacity",
+      "actual": 0.9416948277728385,
+      "expected": 1
+    },
+    {
+      "context": "save-ko",
+      "index": 3,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "download",
+          "disabled": false
+        }
+      ],
+      "expected": [
+        {
+          "action": "back",
+          "disabled": false
+        },
+        {
+          "action": "download",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "context": "save-ko",
+      "index": 3,
+      "key": "boxes.page.y",
+      "actual": 132.5382015897892,
+      "expected": 132
+    },
+    {
+      "context": "save-ko",
+      "index": 3,
+      "key": "boxes.heading.y",
+      "actual": 132.5382015897892,
+      "expected": 132
+    },
+    {
+      "context": "save-ko",
+      "index": 3,
+      "key": "boxes.focus.y",
+      "actual": 272.5303890897892,
+      "expected": 271.9921875
+    },
+    {
+      "context": "save-ko",
+      "index": 3,
+      "key": "boxes.summaryLabel.y",
+      "actual": 410.5303890897892,
+      "expected": 409.9921875
+    },
+    {
+      "context": "save-ko",
+      "index": 3,
+      "key": "boxes.summaryValue.y",
+      "actual": 410.5303890897892,
+      "expected": 409.9921875
+    },
+    {
+      "context": "home-en",
+      "index": 1,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-en",
+      "index": 1,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-en",
+      "index": 1,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-en",
+      "index": 1,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-en",
+      "index": 1,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-en",
+      "index": 1,
+      "key": "pageOpacity",
+      "actual": 0.6011376616437547,
+      "expected": 1
+    },
+    {
+      "context": "home-en",
+      "index": 1,
+      "key": "boxes.page.y",
+      "actual": 127.6818062002115,
+      "expected": 124
+    },
+    {
+      "context": "home-en",
+      "index": 1,
+      "key": "boxes.heading.y",
+      "actual": 137.6818062002115,
+      "expected": 134
+    },
+    {
+      "context": "home-en",
+      "index": 1,
+      "key": "boxes.focus.y",
+      "actual": 334.4708687002115,
+      "expected": 330.7890625
+    },
+    {
+      "context": "home-en",
+      "index": 2,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-en",
+      "index": 2,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-en",
+      "index": 2,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-en",
+      "index": 2,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-en",
+      "index": 2,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-en",
+      "index": 2,
+      "key": "pageOpacity",
+      "actual": 0.6456214982789918,
+      "expected": 1
+    },
+    {
+      "context": "home-en",
+      "index": 2,
+      "key": "boxes.page.y",
+      "actual": 127.2711861697324,
+      "expected": 124
+    },
+    {
+      "context": "home-en",
+      "index": 2,
+      "key": "boxes.heading.y",
+      "actual": 137.2711861697324,
+      "expected": 134
+    },
+    {
+      "context": "home-en",
+      "index": 2,
+      "key": "boxes.focus.y",
+      "actual": 334.0602486697324,
+      "expected": 330.7890625
+    },
+    {
+      "context": "home-en",
+      "index": 3,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-en",
+      "index": 3,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-en",
+      "index": 3,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-en",
+      "index": 3,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-en",
+      "index": 3,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "home-en",
+      "index": 3,
+      "key": "pageOpacity",
+      "actual": 0.6739690951538351,
+      "expected": 1
+    },
+    {
+      "context": "home-en",
+      "index": 3,
+      "key": "boxes.page.y",
+      "actual": 135.00951604473386,
+      "expected": 132
+    },
+    {
+      "context": "home-en",
+      "index": 3,
+      "key": "boxes.heading.y",
+      "actual": 145.00951604473386,
+      "expected": 142
+    },
+    {
+      "context": "home-en",
+      "index": 3,
+      "key": "boxes.focus.y",
+      "actual": 590.8845160447338,
+      "expected": 587.875
+    },
+    {
+      "context": "capabilities-en",
+      "index": 0,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "choose",
+          "disabled": false
+        }
+      ],
+      "expected": [
+        {
+          "action": "back",
+          "disabled": false
+        },
+        {
+          "action": "choose",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "context": "capabilities-en",
+      "index": 1,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-en",
+      "index": 1,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-en",
+      "index": 1,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-en",
+      "index": 1,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-en",
+      "index": 1,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-en",
+      "index": 1,
+      "key": "pageOpacity",
+      "actual": 0.7730214128191026,
+      "expected": 1
+    },
+    {
+      "context": "capabilities-en",
+      "index": 1,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "choose",
+          "disabled": false
+        }
+      ],
+      "expected": [
+        {
+          "action": "back",
+          "disabled": false
+        },
+        {
+          "action": "choose",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "context": "capabilities-en",
+      "index": 1,
+      "key": "boxes.page.y",
+      "actual": 126.09518695859288,
+      "expected": 124
+    },
+    {
+      "context": "capabilities-en",
+      "index": 1,
+      "key": "boxes.heading.y",
+      "actual": 126.09518695859288,
+      "expected": 124
+    },
+    {
+      "context": "capabilities-en",
+      "index": 1,
+      "key": "boxes.focus.y",
+      "actual": 480.9389369585929,
+      "expected": 478.84375
+    },
+    {
+      "context": "capabilities-en",
+      "index": 2,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-en",
+      "index": 2,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-en",
+      "index": 2,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-en",
+      "index": 2,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-en",
+      "index": 2,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-en",
+      "index": 2,
+      "key": "pageOpacity",
+      "actual": 0.8087000340368894,
+      "expected": 1
+    },
+    {
+      "context": "capabilities-en",
+      "index": 2,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "choose",
+          "disabled": false
+        }
+      ],
+      "expected": [
+        {
+          "action": "back",
+          "disabled": false
+        },
+        {
+          "action": "choose",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "context": "capabilities-en",
+      "index": 2,
+      "key": "boxes.page.y",
+      "actual": 125.7658458396595,
+      "expected": 124
+    },
+    {
+      "context": "capabilities-en",
+      "index": 2,
+      "key": "boxes.heading.y",
+      "actual": 125.7658458396595,
+      "expected": 124
+    },
+    {
+      "context": "capabilities-en",
+      "index": 2,
+      "key": "boxes.focus.y",
+      "actual": 559.7970958396595,
+      "expected": 558.03125
+    },
+    {
+      "context": "capabilities-en",
+      "index": 3,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-en",
+      "index": 3,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-en",
+      "index": 3,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-en",
+      "index": 3,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-en",
+      "index": 3,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "capabilities-en",
+      "index": 3,
+      "key": "pageOpacity",
+      "actual": 0.7903596135655866,
+      "expected": 1
+    },
+    {
+      "context": "capabilities-en",
+      "index": 3,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "choose",
+          "disabled": false
+        }
+      ],
+      "expected": [
+        {
+          "action": "back",
+          "disabled": false
+        },
+        {
+          "action": "choose",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "context": "capabilities-en",
+      "index": 3,
+      "key": "boxes.page.y",
+      "actual": 133.93514202862536,
+      "expected": 132
+    },
+    {
+      "context": "capabilities-en",
+      "index": 3,
+      "key": "boxes.heading.y",
+      "actual": 133.93514202862536,
+      "expected": 132
+    },
+    {
+      "context": "capabilities-en",
+      "index": 3,
+      "key": "boxes.focus.y",
+      "actual": 460.49764202862536,
+      "expected": 458.5625
+    },
+    {
+      "context": "review-en",
+      "index": 0,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "run",
+          "disabled": true
+        }
+      ],
+      "expected": [
+        {
+          "action": "back",
+          "disabled": false
+        },
+        {
+          "action": "run",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "context": "review-en",
+      "index": 1,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-en",
+      "index": 1,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-en",
+      "index": 1,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-en",
+      "index": 1,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-en",
+      "index": 1,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-en",
+      "index": 1,
+      "key": "pageOpacity",
+      "actual": 0.7784186678918973,
+      "expected": 1
+    },
+    {
+      "context": "review-en",
+      "index": 1,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "run",
+          "disabled": true
+        }
+      ],
+      "expected": [
+        {
+          "action": "back",
+          "disabled": false
+        },
+        {
+          "action": "run",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "context": "review-en",
+      "index": 1,
+      "key": "boxes.page.y",
+      "actual": 126.04536614253635,
+      "expected": 124
+    },
+    {
+      "context": "review-en",
+      "index": 1,
+      "key": "boxes.heading.y",
+      "actual": 126.04536614253635,
+      "expected": 124
+    },
+    {
+      "context": "review-en",
+      "index": 1,
+      "key": "boxes.focus.y",
+      "actual": 729.6313036425363,
+      "expected": 727.5859375
+    },
+    {
+      "context": "review-en",
+      "index": 1,
+      "key": "boxes.summaryLabel.y",
+      "actual": 264.03755364253635,
+      "expected": 261.9921875
+    },
+    {
+      "context": "review-en",
+      "index": 1,
+      "key": "boxes.summaryValue.y",
+      "actual": 264.03755364253635,
+      "expected": 261.9921875
+    },
+    {
+      "context": "review-en",
+      "index": 2,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-en",
+      "index": 2,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-en",
+      "index": 2,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-en",
+      "index": 2,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-en",
+      "index": 2,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-en",
+      "index": 2,
+      "key": "pageOpacity",
+      "actual": 0.8089583344470112,
+      "expected": 1
+    },
+    {
+      "context": "review-en",
+      "index": 2,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "run",
+          "disabled": true
+        }
+      ],
+      "expected": [
+        {
+          "action": "back",
+          "disabled": false
+        },
+        {
+          "action": "run",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "context": "review-en",
+      "index": 2,
+      "key": "boxes.page.y",
+      "actual": 125.76346152818144,
+      "expected": 124
+    },
+    {
+      "context": "review-en",
+      "index": 2,
+      "key": "boxes.heading.y",
+      "actual": 125.76346152818144,
+      "expected": 124
+    },
+    {
+      "context": "review-en",
+      "index": 2,
+      "key": "boxes.focus.y",
+      "actual": 751.3493990281814,
+      "expected": 749.5859375
+    },
+    {
+      "context": "review-en",
+      "index": 2,
+      "key": "boxes.summaryLabel.y",
+      "actual": 263.75564902818144,
+      "expected": 261.9921875
+    },
+    {
+      "context": "review-en",
+      "index": 2,
+      "key": "boxes.summaryValue.y",
+      "actual": 263.75564902818144,
+      "expected": 261.9921875
+    },
+    {
+      "context": "review-en",
+      "index": 3,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-en",
+      "index": 3,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-en",
+      "index": 3,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-en",
+      "index": 3,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-en",
+      "index": 3,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "review-en",
+      "index": 3,
+      "key": "pageOpacity",
+      "actual": 0.8049033641311268,
+      "expected": 1
+    },
+    {
+      "context": "review-en",
+      "index": 3,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "run",
+          "disabled": true
+        }
+      ],
+      "expected": [
+        {
+          "action": "back",
+          "disabled": false
+        },
+        {
+          "action": "run",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "context": "review-en",
+      "index": 3,
+      "key": "boxes.page.y",
+      "actual": 133.80089202340497,
+      "expected": 132
+    },
+    {
+      "context": "review-en",
+      "index": 3,
+      "key": "boxes.heading.y",
+      "actual": 133.80089202340497,
+      "expected": 132
+    },
+    {
+      "context": "review-en",
+      "index": 3,
+      "key": "boxes.focus.y",
+      "actual": 737.3868295234049,
+      "expected": 735.5859375
+    },
+    {
+      "context": "review-en",
+      "index": 3,
+      "key": "boxes.summaryLabel.y",
+      "actual": 271.79307952340497,
+      "expected": 269.9921875
+    },
+    {
+      "context": "review-en",
+      "index": 3,
+      "key": "boxes.summaryValue.y",
+      "actual": 271.79307952340497,
+      "expected": 269.9921875
+    },
+    {
+      "context": "running-en",
+      "index": 1,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-en",
+      "index": 1,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-en",
+      "index": 1,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-en",
+      "index": 1,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-en",
+      "index": 1,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-en",
+      "index": 1,
+      "key": "pageOpacity",
+      "actual": 0.6429097748780961,
+      "expected": 1
+    },
+    {
+      "context": "running-en",
+      "index": 1,
+      "key": "boxes.page.y",
+      "actual": 127.29621746266372,
+      "expected": 124
+    },
+    {
+      "context": "running-en",
+      "index": 1,
+      "key": "boxes.heading.y",
+      "actual": 127.29621746266372,
+      "expected": 124
+    },
+    {
+      "context": "running-en",
+      "index": 2,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-en",
+      "index": 2,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-en",
+      "index": 2,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-en",
+      "index": 2,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-en",
+      "index": 2,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-en",
+      "index": 2,
+      "key": "pageOpacity",
+      "actual": 0.7090267281076351,
+      "expected": 1
+    },
+    {
+      "context": "running-en",
+      "index": 2,
+      "key": "boxes.page.y",
+      "actual": 126.68590712516027,
+      "expected": 124
+    },
+    {
+      "context": "running-en",
+      "index": 2,
+      "key": "boxes.heading.y",
+      "actual": 126.68590712516027,
+      "expected": 124
+    },
+    {
+      "context": "running-en",
+      "index": 3,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-en",
+      "index": 3,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-en",
+      "index": 3,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-en",
+      "index": 3,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-en",
+      "index": 3,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "running-en",
+      "index": 3,
+      "key": "pageOpacity",
+      "actual": 0.6729867673611306,
+      "expected": 1
+    },
+    {
+      "context": "running-en",
+      "index": 3,
+      "key": "boxes.page.y",
+      "actual": 135.01858368589728,
+      "expected": 132
+    },
+    {
+      "context": "running-en",
+      "index": 3,
+      "key": "boxes.heading.y",
+      "actual": 135.01858368589728,
+      "expected": 132
+    },
+    {
+      "context": "results-en",
+      "index": 0,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "save",
+          "disabled": false
+        }
+      ],
+      "expected": [
+        {
+          "action": "restart",
+          "disabled": false
+        },
+        {
+          "action": "save",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "context": "results-en",
+      "index": 1,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-en",
+      "index": 1,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-en",
+      "index": 1,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-en",
+      "index": 1,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-en",
+      "index": 1,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-en",
+      "index": 1,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "save",
+          "disabled": false
+        }
+      ],
+      "expected": [
+        {
+          "action": "restart",
+          "disabled": false
+        },
+        {
+          "action": "save",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "context": "results-en",
+      "index": 2,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-en",
+      "index": 2,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-en",
+      "index": 2,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-en",
+      "index": 2,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-en",
+      "index": 2,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-en",
+      "index": 2,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "save",
+          "disabled": false
+        }
+      ],
+      "expected": [
+        {
+          "action": "restart",
+          "disabled": false
+        },
+        {
+          "action": "save",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "context": "results-en",
+      "index": 3,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-en",
+      "index": 3,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-en",
+      "index": 3,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-en",
+      "index": 3,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-en",
+      "index": 3,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "results-en",
+      "index": 3,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "save",
+          "disabled": false
+        }
+      ],
+      "expected": [
+        {
+          "action": "restart",
+          "disabled": false
+        },
+        {
+          "action": "save",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "context": "save-en",
+      "index": 0,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "download",
+          "disabled": false
+        }
+      ],
+      "expected": [
+        {
+          "action": "back",
+          "disabled": false
+        },
+        {
+          "action": "download",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "context": "save-en",
+      "index": 1,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-en",
+      "index": 1,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-en",
+      "index": 1,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-en",
+      "index": 1,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-en",
+      "index": 1,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-en",
+      "index": 1,
+      "key": "pageOpacity",
+      "actual": 0.7310466469617625,
+      "expected": 1
+    },
+    {
+      "context": "save-en",
+      "index": 1,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "download",
+          "disabled": false
+        }
+      ],
+      "expected": [
+        {
+          "action": "back",
+          "disabled": false
+        },
+        {
+          "action": "download",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "context": "save-en",
+      "index": 1,
+      "key": "boxes.page.y",
+      "actual": 126.48264633573757,
+      "expected": 124
+    },
+    {
+      "context": "save-en",
+      "index": 1,
+      "key": "boxes.heading.y",
+      "actual": 126.48264633573757,
+      "expected": 124
+    },
+    {
+      "context": "save-en",
+      "index": 1,
+      "key": "boxes.focus.y",
+      "actual": 295.26389633573757,
+      "expected": 292.78125
+    },
+    {
+      "context": "save-en",
+      "index": 1,
+      "key": "boxes.summaryLabel.y",
+      "actual": 436.86545883573757,
+      "expected": 434.3828125
+    },
+    {
+      "context": "save-en",
+      "index": 1,
+      "key": "boxes.summaryValue.y",
+      "actual": 436.86545883573757,
+      "expected": 434.3828125
+    },
+    {
+      "context": "save-en",
+      "index": 2,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-en",
+      "index": 2,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-en",
+      "index": 2,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-en",
+      "index": 2,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-en",
+      "index": 2,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-en",
+      "index": 2,
+      "key": "pageOpacity",
+      "actual": 0.7537111798868394,
+      "expected": 1
+    },
+    {
+      "context": "save-en",
+      "index": 2,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "download",
+          "disabled": false
+        }
+      ],
+      "expected": [
+        {
+          "action": "back",
+          "disabled": false
+        },
+        {
+          "action": "download",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "context": "save-en",
+      "index": 2,
+      "key": "boxes.page.y",
+      "actual": 126.273435262583,
+      "expected": 124
+    },
+    {
+      "context": "save-en",
+      "index": 2,
+      "key": "boxes.heading.y",
+      "actual": 126.273435262583,
+      "expected": 124
+    },
+    {
+      "context": "save-en",
+      "index": 2,
+      "key": "boxes.focus.y",
+      "actual": 295.054685262583,
+      "expected": 292.78125
+    },
+    {
+      "context": "save-en",
+      "index": 2,
+      "key": "boxes.summaryLabel.y",
+      "actual": 436.656247762583,
+      "expected": 434.3828125
+    },
+    {
+      "context": "save-en",
+      "index": 2,
+      "key": "boxes.summaryValue.y",
+      "actual": 436.656247762583,
+      "expected": 434.3828125
+    },
+    {
+      "context": "save-en",
+      "index": 3,
+      "key": "candidate no entry replay",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-en",
+      "index": 3,
+      "key": "pageSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-en",
+      "index": 3,
+      "key": "headingSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-en",
+      "index": 3,
+      "key": "focusTargetSame",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-en",
+      "index": 3,
+      "key": "focusTargetFocused",
+      "actual": false,
+      "expected": true
+    },
+    {
+      "context": "save-en",
+      "index": 3,
+      "key": "pageOpacity",
+      "actual": 0.7314673936691036,
+      "expected": 1
+    },
+    {
+      "context": "save-en",
+      "index": 3,
+      "key": "footerActions",
+      "actual": [
+        {
+          "action": "download",
+          "disabled": false
+        }
+      ],
+      "expected": [
+        {
+          "action": "back",
+          "disabled": false
+        },
+        {
+          "action": "download",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "context": "save-en",
+      "index": 3,
+      "key": "boxes.page.y",
+      "actual": 134.4787625199775,
+      "expected": 132
+    },
+    {
+      "context": "save-en",
+      "index": 3,
+      "key": "boxes.heading.y",
+      "actual": 134.4787625199775,
+      "expected": 132
+    },
+    {
+      "context": "save-en",
+      "index": 3,
+      "key": "boxes.focus.y",
+      "actual": 299.6662625199775,
+      "expected": 297.1875
+    },
+    {
+      "context": "save-en",
+      "index": 3,
+      "key": "boxes.summaryLabel.y",
+      "actual": 437.6662625199775,
+      "expected": 435.1875
+    },
+    {
+      "context": "save-en",
+      "index": 3,
+      "key": "boxes.summaryValue.y",
+      "actual": 437.6662625199775,
+      "expected": 435.1875
+    }
+  ],
+  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/pageintegrationparentresize-mac-source.json",
+  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/connection/pageintegration/03dd31e0a895494fb659e15525fcd2bf/outputs/231a57b146a843628ba77345a446aaa4/candidate/pageintegrationparentresize-records.json",
+  "contexts": 12,
+  "states": 48,
+  "scope": "Only six connected parent resize identities/focus/selection/entry/layout at KOEN widths1280/1100/960/1280; passive API seed and pending Progress without timer. Existing child matrices and trusted callbacks reused; actual OS resize and close0 evidence separate."
+}

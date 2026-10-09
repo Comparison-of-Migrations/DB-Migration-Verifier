@@ -1,0 +1,7637 @@
+{
+  "dpr": 2,
+  "rows": [
+    {
+      "id": "ko-1000-326-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 326,
+        "height": 172.78125
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 58.8671875,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "3"
+        },
+        {
+          "root": {
+            "x": 86.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 86.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 86.8671875,
+            "y": 29.59375,
+            "width": 109.140625,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "2"
+        },
+        {
+          "root": {
+            "x": 224.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 224.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 224.0078125,
+            "y": 29.59375,
+            "width": 47.8671875,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "45"
+        },
+        {
+          "root": {
+            "x": 259.46875,
+            "y": 112.59375,
+            "width": 66.53125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 259.46875,
+            "y": 112.59375,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 259.46875,
+            "y": 130.1875,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-MUZ1LP3S"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1000-326-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 326,
+        "height": 172.78125
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 58.8671875,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 86.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 86.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 86.8671875,
+            "y": 29.59375,
+            "width": 109.140625,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 224.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 224.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 224.0078125,
+            "y": 29.59375,
+            "width": 47.8671875,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 259.46875,
+            "y": 112.59375,
+            "width": 66.53125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 259.46875,
+            "y": 112.59375,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 259.46875,
+            "y": 130.1875,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-00000000"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1000-326-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 326,
+        "height": 214.1875
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 170.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 170.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 170.453125,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 0,
+            "y": 112.59375,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 112.59375,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 134.1875,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 247.375,
+            "y": 133.296875,
+            "width": 78.625,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 247.375,
+            "y": 133.296875,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 247.375,
+            "y": 150.890625,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-1234567890"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1000-400-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 400,
+        "height": 109.59375
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 58.8671875,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "3"
+        },
+        {
+          "root": {
+            "x": 86.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 86.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 86.8671875,
+            "y": 29.59375,
+            "width": 109.140625,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "2"
+        },
+        {
+          "root": {
+            "x": 224.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 224.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 224.0078125,
+            "y": 29.59375,
+            "width": 47.8671875,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "45"
+        },
+        {
+          "root": {
+            "x": 333.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 333.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 333.46875,
+            "y": 46.296875,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-MUZ1LP3S"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1000-400-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 400,
+        "height": 109.59375
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 58.8671875,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 86.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 86.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 86.8671875,
+            "y": 29.59375,
+            "width": 109.140625,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 224.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 224.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 224.0078125,
+            "y": 29.59375,
+            "width": 47.8671875,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 333.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 333.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 333.46875,
+            "y": 46.296875,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-00000000"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1000-400-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 400,
+        "height": 214.1875
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 170.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 170.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 170.453125,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 0,
+            "y": 112.59375,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 112.59375,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 134.1875,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 321.375,
+            "y": 133.296875,
+            "width": 78.625,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 321.375,
+            "y": 133.296875,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 321.375,
+            "y": 150.890625,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-1234567890"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1000-480-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 109.59375
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 58.8671875,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "3"
+        },
+        {
+          "root": {
+            "x": 86.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 86.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 86.8671875,
+            "y": 29.59375,
+            "width": 109.140625,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "2"
+        },
+        {
+          "root": {
+            "x": 224.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 224.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 224.0078125,
+            "y": 29.59375,
+            "width": 47.8671875,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "45"
+        },
+        {
+          "root": {
+            "x": 413.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 413.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 413.46875,
+            "y": 46.296875,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-MUZ1LP3S"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1000-480-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 109.59375
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 58.8671875,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 86.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 86.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 86.8671875,
+            "y": 29.59375,
+            "width": 109.140625,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 224.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 224.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 224.0078125,
+            "y": 29.59375,
+            "width": 47.8671875,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 413.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 413.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 413.46875,
+            "y": 46.296875,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-00000000"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1000-480-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 214.1875
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 170.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 170.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 170.453125,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 0,
+            "y": 112.59375,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 112.59375,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 134.1875,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 401.375,
+            "y": 133.296875,
+            "width": 78.625,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 401.375,
+            "y": 133.296875,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 401.375,
+            "y": 150.890625,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-1234567890"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1000-656-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 109.59375
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 58.8671875,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "3"
+        },
+        {
+          "root": {
+            "x": 86.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 86.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 86.8671875,
+            "y": 29.59375,
+            "width": 109.140625,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "2"
+        },
+        {
+          "root": {
+            "x": 224.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 224.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 224.0078125,
+            "y": 29.59375,
+            "width": 47.8671875,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "45"
+        },
+        {
+          "root": {
+            "x": 589.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 589.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 589.46875,
+            "y": 46.296875,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-MUZ1LP3S"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1000-656-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 109.59375
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 58.8671875,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 86.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 86.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 86.8671875,
+            "y": 29.59375,
+            "width": 109.140625,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 224.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 224.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 224.0078125,
+            "y": 29.59375,
+            "width": 47.8671875,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 589.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 589.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 589.46875,
+            "y": 46.296875,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-00000000"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1000-656-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 109.59375
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 170.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 170.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 170.453125,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 340.90625,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 340.90625,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 340.90625,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 577.375,
+            "y": 28.703125,
+            "width": 78.625,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 577.375,
+            "y": 28.703125,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 577.375,
+            "y": 46.296875,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-1234567890"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1000-904-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 109.59375
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 58.8671875,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "3"
+        },
+        {
+          "root": {
+            "x": 86.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 86.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 86.8671875,
+            "y": 29.59375,
+            "width": 109.140625,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "2"
+        },
+        {
+          "root": {
+            "x": 224.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 224.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 224.0078125,
+            "y": 29.59375,
+            "width": 47.8671875,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "45"
+        },
+        {
+          "root": {
+            "x": 837.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 837.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 837.46875,
+            "y": 46.296875,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-MUZ1LP3S"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1000-904-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 109.59375
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 58.8671875,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 86.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 86.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 86.8671875,
+            "y": 29.59375,
+            "width": 109.140625,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 224.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 224.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 224.0078125,
+            "y": 29.59375,
+            "width": 47.8671875,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 837.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 837.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 837.46875,
+            "y": 46.296875,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-00000000"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1000-904-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 109.59375
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 170.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 170.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 170.453125,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 340.90625,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 340.90625,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 340.90625,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 825.375,
+            "y": 28.703125,
+            "width": 78.625,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 825.375,
+            "y": 28.703125,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 825.375,
+            "y": 46.296875,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-1234567890"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1000-1060-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 109.59375
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 58.8671875,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "3"
+        },
+        {
+          "root": {
+            "x": 86.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 86.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 86.8671875,
+            "y": 29.59375,
+            "width": 109.140625,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "2"
+        },
+        {
+          "root": {
+            "x": 224.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 224.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 224.0078125,
+            "y": 29.59375,
+            "width": 47.8671875,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "45"
+        },
+        {
+          "root": {
+            "x": 993.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 993.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 993.46875,
+            "y": 46.296875,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-MUZ1LP3S"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1000-1060-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 109.59375
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 58.8671875,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 86.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 86.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 86.8671875,
+            "y": 29.59375,
+            "width": 109.140625,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 224.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 224.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 224.0078125,
+            "y": 29.59375,
+            "width": 47.8671875,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 993.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 993.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 993.46875,
+            "y": 46.296875,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-00000000"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1000-1060-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 109.59375
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 170.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 170.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 170.453125,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 340.90625,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 340.90625,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 340.90625,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 981.375,
+            "y": 28.703125,
+            "width": 78.625,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 981.375,
+            "y": 28.703125,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 981.375,
+            "y": 46.296875,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-1234567890"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1000-326-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 326,
+        "height": 172.78125
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 80.0625,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "3"
+        },
+        {
+          "root": {
+            "x": 108.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 108.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 108.0625,
+            "y": 29.59375,
+            "width": 121.3828125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "2"
+        },
+        {
+          "root": {
+            "x": 257.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 257.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 257.4453125,
+            "y": 29.59375,
+            "width": 63.9453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "45"
+        },
+        {
+          "root": {
+            "x": 254.21875,
+            "y": 112.59375,
+            "width": 71.78125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 254.21875,
+            "y": 112.59375,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 254.21875,
+            "y": 130.1875,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-MUZ1LP3S"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1000-326-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 326,
+        "height": 172.78125
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 80.0625,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 108.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 108.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 108.0625,
+            "y": 29.59375,
+            "width": 121.3828125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 257.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 257.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 257.4453125,
+            "y": 29.59375,
+            "width": 63.9453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 254.21875,
+            "y": 112.59375,
+            "width": 71.78125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 254.21875,
+            "y": 112.59375,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 254.21875,
+            "y": 130.1875,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-00000000"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1000-326-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 326,
+        "height": 214.1875
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 170.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 170.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 170.453125,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 0,
+            "y": 112.59375,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 112.59375,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 134.1875,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 247.375,
+            "y": 133.296875,
+            "width": 78.625,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 247.375,
+            "y": 133.296875,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 247.375,
+            "y": 150.890625,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-1234567890"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1000-400-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 400,
+        "height": 172.78125
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 80.0625,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "3"
+        },
+        {
+          "root": {
+            "x": 108.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 108.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 108.0625,
+            "y": 29.59375,
+            "width": 121.3828125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "2"
+        },
+        {
+          "root": {
+            "x": 257.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 257.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 257.4453125,
+            "y": 29.59375,
+            "width": 63.9453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "45"
+        },
+        {
+          "root": {
+            "x": 328.21875,
+            "y": 112.59375,
+            "width": 71.78125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 328.21875,
+            "y": 112.59375,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 328.21875,
+            "y": 130.1875,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-MUZ1LP3S"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1000-400-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 400,
+        "height": 172.78125
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 80.0625,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 108.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 108.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 108.0625,
+            "y": 29.59375,
+            "width": 121.3828125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 257.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 257.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 257.4453125,
+            "y": 29.59375,
+            "width": 63.9453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 328.21875,
+            "y": 112.59375,
+            "width": 71.78125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 328.21875,
+            "y": 112.59375,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 328.21875,
+            "y": 130.1875,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-00000000"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1000-400-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 400,
+        "height": 214.1875
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 170.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 170.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 170.453125,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 0,
+            "y": 112.59375,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 112.59375,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 134.1875,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 321.375,
+            "y": 133.296875,
+            "width": 78.625,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 321.375,
+            "y": 133.296875,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 321.375,
+            "y": 150.890625,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-1234567890"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1000-480-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 109.59375
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 80.0625,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "3"
+        },
+        {
+          "root": {
+            "x": 108.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 108.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 108.0625,
+            "y": 29.59375,
+            "width": 121.3828125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "2"
+        },
+        {
+          "root": {
+            "x": 257.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 257.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 257.4453125,
+            "y": 29.59375,
+            "width": 63.9453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "45"
+        },
+        {
+          "root": {
+            "x": 408.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 408.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 408.21875,
+            "y": 46.296875,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-MUZ1LP3S"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1000-480-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 109.59375
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 80.0625,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 108.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 108.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 108.0625,
+            "y": 29.59375,
+            "width": 121.3828125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 257.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 257.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 257.4453125,
+            "y": 29.59375,
+            "width": 63.9453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 408.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 408.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 408.21875,
+            "y": 46.296875,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-00000000"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1000-480-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 214.1875
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 170.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 170.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 170.453125,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 0,
+            "y": 112.59375,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 112.59375,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 134.1875,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 401.375,
+            "y": 133.296875,
+            "width": 78.625,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 401.375,
+            "y": 133.296875,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 401.375,
+            "y": 150.890625,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-1234567890"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1000-656-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 109.59375
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 80.0625,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "3"
+        },
+        {
+          "root": {
+            "x": 108.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 108.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 108.0625,
+            "y": 29.59375,
+            "width": 121.3828125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "2"
+        },
+        {
+          "root": {
+            "x": 257.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 257.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 257.4453125,
+            "y": 29.59375,
+            "width": 63.9453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "45"
+        },
+        {
+          "root": {
+            "x": 584.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 584.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 584.21875,
+            "y": 46.296875,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-MUZ1LP3S"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1000-656-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 109.59375
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 80.0625,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 108.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 108.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 108.0625,
+            "y": 29.59375,
+            "width": 121.3828125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 257.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 257.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 257.4453125,
+            "y": 29.59375,
+            "width": 63.9453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 584.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 584.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 584.21875,
+            "y": 46.296875,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-00000000"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1000-656-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 109.59375
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 170.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 170.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 170.453125,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 340.90625,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 340.90625,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 340.90625,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 577.375,
+            "y": 28.703125,
+            "width": 78.625,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 577.375,
+            "y": 28.703125,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 577.375,
+            "y": 46.296875,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-1234567890"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1000-904-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 109.59375
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 80.0625,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "3"
+        },
+        {
+          "root": {
+            "x": 108.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 108.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 108.0625,
+            "y": 29.59375,
+            "width": 121.3828125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "2"
+        },
+        {
+          "root": {
+            "x": 257.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 257.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 257.4453125,
+            "y": 29.59375,
+            "width": 63.9453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "45"
+        },
+        {
+          "root": {
+            "x": 832.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 832.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 832.21875,
+            "y": 46.296875,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-MUZ1LP3S"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1000-904-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 109.59375
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 80.0625,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 108.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 108.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 108.0625,
+            "y": 29.59375,
+            "width": 121.3828125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 257.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 257.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 257.4453125,
+            "y": 29.59375,
+            "width": 63.9453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 832.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 832.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 832.21875,
+            "y": 46.296875,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-00000000"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1000-904-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 109.59375
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 170.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 170.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 170.453125,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 340.90625,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 340.90625,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 340.90625,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 825.375,
+            "y": 28.703125,
+            "width": 78.625,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 825.375,
+            "y": 28.703125,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 825.375,
+            "y": 46.296875,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-1234567890"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1000-1060-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 109.59375
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 80.0625,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "3"
+        },
+        {
+          "root": {
+            "x": 108.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 108.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 108.0625,
+            "y": 29.59375,
+            "width": 121.3828125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "2"
+        },
+        {
+          "root": {
+            "x": 257.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 257.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 257.4453125,
+            "y": 29.59375,
+            "width": 63.9453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "45"
+        },
+        {
+          "root": {
+            "x": 988.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 988.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 988.21875,
+            "y": 46.296875,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-MUZ1LP3S"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1000-1060-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 109.59375
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 80.0625,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 108.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 108.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 108.0625,
+            "y": 29.59375,
+            "width": 121.3828125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 257.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 257.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 257.4453125,
+            "y": 29.59375,
+            "width": 63.9453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 988.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 988.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 988.21875,
+            "y": 46.296875,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-00000000"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1000-1060-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 109.59375
+      },
+      "gap": 28,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 170.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 170.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 170.453125,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 340.90625,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 340.90625,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 340.90625,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 981.375,
+            "y": 28.703125,
+            "width": 78.625,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 981.375,
+            "y": 28.703125,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 981.375,
+            "y": 46.296875,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-1234567890"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1280-326-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 326,
+        "height": 184.78125
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 58.8671875,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "3"
+        },
+        {
+          "root": {
+            "x": 98.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 98.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 98.8671875,
+            "y": 29.59375,
+            "width": 109.140625,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "2"
+        },
+        {
+          "root": {
+            "x": 248.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 248.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 248.0078125,
+            "y": 29.59375,
+            "width": 47.8671875,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "45"
+        },
+        {
+          "root": {
+            "x": 259.46875,
+            "y": 124.59375,
+            "width": 66.53125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 259.46875,
+            "y": 124.59375,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 259.46875,
+            "y": 142.1875,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-MUZ1LP3S"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1280-326-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 326,
+        "height": 184.78125
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 58.8671875,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 98.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 98.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 98.8671875,
+            "y": 29.59375,
+            "width": 109.140625,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 248.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 248.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 248.0078125,
+            "y": 29.59375,
+            "width": 47.8671875,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 259.46875,
+            "y": 124.59375,
+            "width": 66.53125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 259.46875,
+            "y": 124.59375,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 259.46875,
+            "y": 142.1875,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-00000000"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1280-326-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 326,
+        "height": 226.1875
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 182.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 182.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 182.453125,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 0,
+            "y": 124.59375,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 124.59375,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 146.1875,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 247.375,
+            "y": 145.296875,
+            "width": 78.625,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 247.375,
+            "y": 145.296875,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 247.375,
+            "y": 162.890625,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-1234567890"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1280-400-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 400,
+        "height": 184.78125
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 58.8671875,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "3"
+        },
+        {
+          "root": {
+            "x": 98.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 98.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 98.8671875,
+            "y": 29.59375,
+            "width": 109.140625,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "2"
+        },
+        {
+          "root": {
+            "x": 248.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 248.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 248.0078125,
+            "y": 29.59375,
+            "width": 47.8671875,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "45"
+        },
+        {
+          "root": {
+            "x": 333.46875,
+            "y": 124.59375,
+            "width": 66.53125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 333.46875,
+            "y": 124.59375,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 333.46875,
+            "y": 142.1875,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-MUZ1LP3S"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1280-400-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 400,
+        "height": 184.78125
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 58.8671875,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 98.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 98.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 98.8671875,
+            "y": 29.59375,
+            "width": 109.140625,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 248.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 248.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 248.0078125,
+            "y": 29.59375,
+            "width": 47.8671875,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 333.46875,
+            "y": 124.59375,
+            "width": 66.53125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 333.46875,
+            "y": 124.59375,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 333.46875,
+            "y": 142.1875,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-00000000"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1280-400-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 400,
+        "height": 226.1875
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 182.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 182.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 182.453125,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 0,
+            "y": 124.59375,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 124.59375,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 146.1875,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 321.375,
+            "y": 145.296875,
+            "width": 78.625,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 321.375,
+            "y": 145.296875,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 321.375,
+            "y": 162.890625,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-1234567890"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1280-480-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 109.59375
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 58.8671875,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "3"
+        },
+        {
+          "root": {
+            "x": 98.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 98.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 98.8671875,
+            "y": 29.59375,
+            "width": 109.140625,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "2"
+        },
+        {
+          "root": {
+            "x": 248.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 248.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 248.0078125,
+            "y": 29.59375,
+            "width": 47.8671875,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "45"
+        },
+        {
+          "root": {
+            "x": 413.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 413.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 413.46875,
+            "y": 46.296875,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-MUZ1LP3S"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1280-480-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 109.59375
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 58.8671875,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 98.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 98.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 98.8671875,
+            "y": 29.59375,
+            "width": 109.140625,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 248.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 248.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 248.0078125,
+            "y": 29.59375,
+            "width": 47.8671875,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 413.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 413.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 413.46875,
+            "y": 46.296875,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-00000000"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1280-480-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 226.1875
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 182.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 182.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 182.453125,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 0,
+            "y": 124.59375,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 124.59375,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 146.1875,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 401.375,
+            "y": 145.296875,
+            "width": 78.625,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 401.375,
+            "y": 145.296875,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 401.375,
+            "y": 162.890625,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-1234567890"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1280-656-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 109.59375
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 58.8671875,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "3"
+        },
+        {
+          "root": {
+            "x": 98.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 98.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 98.8671875,
+            "y": 29.59375,
+            "width": 109.140625,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "2"
+        },
+        {
+          "root": {
+            "x": 248.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 248.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 248.0078125,
+            "y": 29.59375,
+            "width": 47.8671875,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "45"
+        },
+        {
+          "root": {
+            "x": 589.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 589.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 589.46875,
+            "y": 46.296875,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-MUZ1LP3S"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1280-656-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 109.59375
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 58.8671875,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 98.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 98.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 98.8671875,
+            "y": 29.59375,
+            "width": 109.140625,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 248.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 248.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 248.0078125,
+            "y": 29.59375,
+            "width": 47.8671875,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 589.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 589.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 589.46875,
+            "y": 46.296875,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-00000000"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1280-656-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 109.59375
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 182.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 182.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 182.453125,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 364.90625,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 364.90625,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 364.90625,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 577.375,
+            "y": 28.703125,
+            "width": 78.625,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 577.375,
+            "y": 28.703125,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 577.375,
+            "y": 46.296875,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-1234567890"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1280-904-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 109.59375
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 58.8671875,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "3"
+        },
+        {
+          "root": {
+            "x": 98.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 98.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 98.8671875,
+            "y": 29.59375,
+            "width": 109.140625,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "2"
+        },
+        {
+          "root": {
+            "x": 248.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 248.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 248.0078125,
+            "y": 29.59375,
+            "width": 47.8671875,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "45"
+        },
+        {
+          "root": {
+            "x": 837.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 837.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 837.46875,
+            "y": 46.296875,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-MUZ1LP3S"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1280-904-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 109.59375
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 58.8671875,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 98.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 98.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 98.8671875,
+            "y": 29.59375,
+            "width": 109.140625,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 248.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 248.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 248.0078125,
+            "y": 29.59375,
+            "width": 47.8671875,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 837.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 837.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 837.46875,
+            "y": 46.296875,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-00000000"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1280-904-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 109.59375
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 182.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 182.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 182.453125,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 364.90625,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 364.90625,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 364.90625,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 825.375,
+            "y": 28.703125,
+            "width": 78.625,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 825.375,
+            "y": 28.703125,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 825.375,
+            "y": 46.296875,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-1234567890"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1280-1060-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 109.59375
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 58.8671875,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "3"
+        },
+        {
+          "root": {
+            "x": 98.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 98.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 98.8671875,
+            "y": 29.59375,
+            "width": 109.140625,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "2"
+        },
+        {
+          "root": {
+            "x": 248.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 248.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 248.0078125,
+            "y": 29.59375,
+            "width": 47.8671875,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "45"
+        },
+        {
+          "root": {
+            "x": 993.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 993.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 993.46875,
+            "y": 46.296875,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-MUZ1LP3S"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1280-1060-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 109.59375
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 58.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 58.8671875,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 98.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 98.8671875,
+            "y": 8,
+            "width": 109.140625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 98.8671875,
+            "y": 29.59375,
+            "width": 109.140625,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 248.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 248.0078125,
+            "y": 8,
+            "width": 47.8671875,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 248.0078125,
+            "y": 29.59375,
+            "width": 47.8671875,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 993.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 993.46875,
+            "y": 28.703125,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 993.46875,
+            "y": 46.296875,
+            "width": 66.53125,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-00000000"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "ko-1280-1060-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 109.59375
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uBD88\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 182.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 182.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 182.453125,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uD655\uC778 \uBD88\uAC00\u00B7\uBBF8\uAC80\uC99D \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 364.90625,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 364.90625,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 364.90625,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "\uC77C\uCE58 \uD56D\uBAA9",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 981.375,
+            "y": 28.703125,
+            "width": 78.625,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 981.375,
+            "y": 28.703125,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 981.375,
+            "y": 46.296875,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "labelText": "\uC608\uC2DC \uAC80\uC0AC ID",
+          "valueText": "UI-1234567890"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1280-326-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 326,
+        "height": 226.1875
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 80.0625,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "3"
+        },
+        {
+          "root": {
+            "x": 120.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 120.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 120.0625,
+            "y": 29.59375,
+            "width": 121.3828125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "2"
+        },
+        {
+          "root": {
+            "x": 0,
+            "y": 124.59375,
+            "width": 63.9453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 124.59375,
+            "width": 63.9453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 146.1875,
+            "width": 63.9453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "45"
+        },
+        {
+          "root": {
+            "x": 254.21875,
+            "y": 145.296875,
+            "width": 71.78125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 254.21875,
+            "y": 145.296875,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 254.21875,
+            "y": 162.890625,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-MUZ1LP3S"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1280-326-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 326,
+        "height": 226.1875
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 80.0625,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 120.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 120.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 120.0625,
+            "y": 29.59375,
+            "width": 121.3828125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 0,
+            "y": 124.59375,
+            "width": 63.9453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 124.59375,
+            "width": 63.9453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 146.1875,
+            "width": 63.9453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 254.21875,
+            "y": 145.296875,
+            "width": 71.78125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 254.21875,
+            "y": 145.296875,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 254.21875,
+            "y": 162.890625,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-00000000"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1280-326-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 326,
+        "height": 226.1875
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 182.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 182.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 182.453125,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 0,
+            "y": 124.59375,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 124.59375,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 146.1875,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 247.375,
+            "y": 145.296875,
+            "width": 78.625,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 247.375,
+            "y": 145.296875,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 247.375,
+            "y": 162.890625,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-1234567890"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1280-400-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 400,
+        "height": 184.78125
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 80.0625,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "3"
+        },
+        {
+          "root": {
+            "x": 120.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 120.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 120.0625,
+            "y": 29.59375,
+            "width": 121.3828125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "2"
+        },
+        {
+          "root": {
+            "x": 281.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 281.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 281.4453125,
+            "y": 29.59375,
+            "width": 63.9453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "45"
+        },
+        {
+          "root": {
+            "x": 328.21875,
+            "y": 124.59375,
+            "width": 71.78125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 328.21875,
+            "y": 124.59375,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 328.21875,
+            "y": 142.1875,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-MUZ1LP3S"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1280-400-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 400,
+        "height": 184.78125
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 80.0625,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 120.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 120.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 120.0625,
+            "y": 29.59375,
+            "width": 121.3828125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 281.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 281.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 281.4453125,
+            "y": 29.59375,
+            "width": 63.9453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 328.21875,
+            "y": 124.59375,
+            "width": 71.78125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 328.21875,
+            "y": 124.59375,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 328.21875,
+            "y": 142.1875,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-00000000"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1280-400-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 400,
+        "height": 226.1875
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 182.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 182.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 182.453125,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 0,
+            "y": 124.59375,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 124.59375,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 146.1875,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 321.375,
+            "y": 145.296875,
+            "width": 78.625,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 321.375,
+            "y": 145.296875,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 321.375,
+            "y": 162.890625,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-1234567890"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1280-480-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 109.59375
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 80.0625,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "3"
+        },
+        {
+          "root": {
+            "x": 120.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 120.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 120.0625,
+            "y": 29.59375,
+            "width": 121.3828125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "2"
+        },
+        {
+          "root": {
+            "x": 281.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 281.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 281.4453125,
+            "y": 29.59375,
+            "width": 63.9453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "45"
+        },
+        {
+          "root": {
+            "x": 408.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 408.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 408.21875,
+            "y": 46.296875,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-MUZ1LP3S"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1280-480-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 109.59375
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 80.0625,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 120.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 120.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 120.0625,
+            "y": 29.59375,
+            "width": 121.3828125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 281.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 281.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 281.4453125,
+            "y": 29.59375,
+            "width": 63.9453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 408.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 408.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 408.21875,
+            "y": 46.296875,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-00000000"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1280-480-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 226.1875
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 182.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 182.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 182.453125,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 0,
+            "y": 124.59375,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 124.59375,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 146.1875,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 401.375,
+            "y": 145.296875,
+            "width": 78.625,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 401.375,
+            "y": 145.296875,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 401.375,
+            "y": 162.890625,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-1234567890"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1280-656-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 109.59375
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 80.0625,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "3"
+        },
+        {
+          "root": {
+            "x": 120.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 120.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 120.0625,
+            "y": 29.59375,
+            "width": 121.3828125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "2"
+        },
+        {
+          "root": {
+            "x": 281.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 281.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 281.4453125,
+            "y": 29.59375,
+            "width": 63.9453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "45"
+        },
+        {
+          "root": {
+            "x": 584.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 584.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 584.21875,
+            "y": 46.296875,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-MUZ1LP3S"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1280-656-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 109.59375
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 80.0625,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 120.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 120.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 120.0625,
+            "y": 29.59375,
+            "width": 121.3828125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 281.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 281.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 281.4453125,
+            "y": 29.59375,
+            "width": 63.9453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 584.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 584.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 584.21875,
+            "y": 46.296875,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-00000000"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1280-656-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 656,
+        "height": 109.59375
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 182.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 182.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 182.453125,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 364.90625,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 364.90625,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 364.90625,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 577.375,
+            "y": 28.703125,
+            "width": 78.625,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 577.375,
+            "y": 28.703125,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 577.375,
+            "y": 46.296875,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-1234567890"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1280-904-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 109.59375
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 80.0625,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "3"
+        },
+        {
+          "root": {
+            "x": 120.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 120.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 120.0625,
+            "y": 29.59375,
+            "width": 121.3828125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "2"
+        },
+        {
+          "root": {
+            "x": 281.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 281.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 281.4453125,
+            "y": 29.59375,
+            "width": 63.9453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "45"
+        },
+        {
+          "root": {
+            "x": 832.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 832.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 832.21875,
+            "y": 46.296875,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-MUZ1LP3S"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1280-904-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 109.59375
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 80.0625,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 120.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 120.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 120.0625,
+            "y": 29.59375,
+            "width": 121.3828125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 281.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 281.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 281.4453125,
+            "y": 29.59375,
+            "width": 63.9453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 832.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 832.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 832.21875,
+            "y": 46.296875,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-00000000"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1280-904-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 904,
+        "height": 109.59375
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 182.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 182.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 182.453125,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 364.90625,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 364.90625,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 364.90625,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 825.375,
+            "y": 28.703125,
+            "width": 78.625,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 825.375,
+            "y": 28.703125,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 825.375,
+            "y": 46.296875,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-1234567890"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1280-1060-0",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 109.59375
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 80.0625,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "3"
+        },
+        {
+          "root": {
+            "x": 120.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 120.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 120.0625,
+            "y": 29.59375,
+            "width": 121.3828125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "2"
+        },
+        {
+          "root": {
+            "x": 281.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 281.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 281.4453125,
+            "y": 29.59375,
+            "width": 63.9453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "45"
+        },
+        {
+          "root": {
+            "x": 988.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 988.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 988.21875,
+            "y": 46.296875,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-MUZ1LP3S"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1280-1060-1",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 109.59375
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 80.0625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 80.0625,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 120.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 120.0625,
+            "y": 8,
+            "width": 121.3828125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 120.0625,
+            "y": 29.59375,
+            "width": 121.3828125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 281.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 281.4453125,
+            "y": 8,
+            "width": 63.9453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 281.4453125,
+            "y": 29.59375,
+            "width": 63.9453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "0"
+        },
+        {
+          "root": {
+            "x": 988.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 988.21875,
+            "y": 28.703125,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 988.21875,
+            "y": 46.296875,
+            "width": 71.78125,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-00000000"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    },
+    {
+      "id": "en-1280-1060-2",
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 1060,
+        "height": 109.59375
+      },
+      "gap": 40,
+      "marginBottom": 24,
+      "children": [
+        {
+          "root": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 0,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 0,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Different checks",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 182.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 182.453125,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 182.453125,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Unverified / unobserved",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 364.90625,
+            "y": 8,
+            "width": 142.453125,
+            "height": 76.59375
+          },
+          "label": {
+            "x": 364.90625,
+            "y": 8,
+            "width": 142.453125,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 364.90625,
+            "y": 29.59375,
+            "width": 142.453125,
+            "height": 55
+          },
+          "labelText": "Equal checks",
+          "valueText": "999999"
+        },
+        {
+          "root": {
+            "x": 981.375,
+            "y": 28.703125,
+            "width": 78.625,
+            "height": 35.1875
+          },
+          "label": {
+            "x": 981.375,
+            "y": 28.703125,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "value": {
+            "x": 981.375,
+            "y": 46.296875,
+            "width": 78.625,
+            "height": 17.59375
+          },
+          "labelText": "Sample run ID",
+          "valueText": "UI-1234567890"
+        }
+      ],
+      "peer": {
+        "type": "None",
+        "name": null,
+        "focusable": false
+      }
+    }
+  ]
+}

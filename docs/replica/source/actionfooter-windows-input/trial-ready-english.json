@@ -1,0 +1,24 @@
+{
+  "capturedAtUtc": "2026-10-07T12:21:49.0691105Z",
+  "dpr": 2,
+  "id": "en-trial-ready",
+  "viewport": 1000,
+  "requests": [],
+  "width": 780,
+  "height": 84,
+  "hint": "The actual app must verify isolation and the trial plan.",
+  "buttons": [
+    {
+      "action": "trial-back",
+      "label": "Back to selection",
+      "enabled": true,
+      "focused": false
+    },
+    {
+      "action": "trial-back",
+      "label": "Ready \u00B7 Return",
+      "enabled": true,
+      "focused": false
+    }
+  ]
+}

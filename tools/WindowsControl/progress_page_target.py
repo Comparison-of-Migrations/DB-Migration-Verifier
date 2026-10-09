@@ -1,0 +1,12 @@
+"""New font4/peer2 only. Detached owned launch, bounded observation, finally close."""
+from pathlib import Path
+import json,uuid,hashlib,sys,time
+from driver import ps,q
+r=Path(__file__).resolve().parents[2];m=Path(sys.argv[1]);v=json.loads(m.read_text());stage=json.loads((m.parent/'windows-stage.json').read_text());assert json.loads((r/'docs/replica/ENVIRONMENT_LEASE.json').read_text())['resources']['windows']['owner']=='root'
+nonce=uuid.uuid4().hex;out=m.parent/'actual-windows'/nonce;out.mkdir(parents=True);current={'nonce':nonce,'output':str(out)};(m.parent/'current-windows.json').write_text(json.dumps(current,indent=2)+'\n');data=(r/'docs/replica/source/root-progresspage-cases.json').read_bytes();name='root-progresspage-target-'+nonce+'.json';(r/'artifacts/replica/windows-download'/name).write_bytes(data)
+code="$app=Join-Path (Join-Path $env:TEMP "+q(stage['guestFolder'])+") 'app';$out=Join-Path $app "+q('actual-'+nonce)+";if(@(Get-Process ReplicaProbe -ErrorAction SilentlyContinue|Where-Object{$_.Path-eq($app+'\\ReplicaProbe.exe')}).Count){throw 'Own runtime already active'};New-Item -ItemType Directory $out -Force|Out-Null;$cases=Join-Path $out 'cases.json';Invoke-WebRequest -UseBasicParsing "+q('http://10.211.55.2:8768/'+name)+" -OutFile $cases;if((Get-FileHash $cases -Algorithm SHA256).Hash-ne "+q(hashlib.sha256(data).hexdigest().upper())+"){throw 'Case SHA mismatch'};if((Get-FileHash ($app+'\\ReplicaProbe.dll') -Algorithm SHA256).Hash-ne "+q(v['binarySha256'].upper())+"){throw 'Binary SHA mismatch'};Remove-Item Env:DBMV_HEADLESS,Env:DBMV_HEADLESS_SCALE -ErrorAction SilentlyContinue;"
+code+="$command='\"'+$app+'\\ReplicaProbe.exe\" --progresspage-window \"'+$cases+'\" \"'+$out+'\" --peer-only';$created=([wmiclass]'Win32_Process').Create($command,$app,$null);if($created.ReturnValue-ne0){throw 'Detached launch refused'};$pidOwn=[int]$created.ProcessId;@{pid=$pidOwn;requestedPath=$app+'\\ReplicaProbe.exe';scope='corrected font4 peer2 only';started=[DateTime]::UtcNow.ToString('o')}|ConvertTo-Json|Set-Content -Encoding UTF8($out+'\\launch-identity.json');$pidOwn;"
+try:
+ result=ps(code,timeout=15);pid=int(result.strip());current.update(pid=pid,binarySha256=v['binarySha256']);(m.parent/'current-windows.json').write_text(json.dumps(current,indent=2)+'\n');print(json.dumps(current))
+except Exception as e:
+ (out/'launch-uncertain.txt').write_text(str(e));raise

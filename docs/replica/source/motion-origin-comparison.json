@@ -1,0 +1,2565 @@
+[
+  {
+    "kind": "Page",
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0.0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 25,
+        "boundsDifference": [
+          0,
+          1.406532135206362e-08,
+          0,
+          0
+        ],
+        "opacityDifference": 4.379090365880245e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          5.731473544656751e-07
+        ]
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 50,
+        "boundsDifference": [
+          0,
+          -6.922855853019882e-07,
+          0,
+          0
+        ],
+        "opacityDifference": 6.738855562460344e-08,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1.6856441031887215e-06
+        ]
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 75,
+        "boundsDifference": [
+          0,
+          -8.59983259715591e-07,
+          0,
+          0
+        ],
+        "opacityDifference": 2.3324562281601402e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -3.0688267205203346e-07
+        ]
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 100,
+        "boundsDifference": [
+          0,
+          1.2607870303327218e-09,
+          0,
+          0
+        ],
+        "opacityDifference": -3.4392727510379473e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -2.86825152240322e-07
+        ]
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 125,
+        "boundsDifference": [
+          0,
+          8.278063532429769e-07,
+          0,
+          0
+        ],
+        "opacityDifference": 2.038186995845237e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          4.1673542519604645e-08
+        ]
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 150,
+        "boundsDifference": [
+          0,
+          3.714603725057941e-06,
+          0,
+          0
+        ],
+        "opacityDifference": 2.412613543389952e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -3.950962442628159e-09
+        ]
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 175,
+        "boundsDifference": [
+          0,
+          -6.572336133103818e-07,
+          0,
+          -7.62939453125e-06
+        ],
+        "opacityDifference": 3.091763820517457e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1.6281427840051516e-09
+        ]
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 200,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 200,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 250,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 300,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "kind": "Modal",
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 35,
+        "boundsDifference": [
+          0,
+          2.5665737162228197e-06,
+          0,
+          0
+        ],
+        "opacityDifference": -9.552455904060508e-08,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          9.552455901840062e-07
+        ]
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 70,
+        "boundsDifference": [
+          0,
+          3.932453711996686e-06,
+          0,
+          0
+        ],
+        "opacityDifference": -2.809406838277795e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          2.8094068378337056e-06
+        ]
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 105,
+        "boundsDifference": [
+          0,
+          -2.069088310463485e-06,
+          0,
+          0
+        ],
+        "opacityDifference": 5.114711210119083e-08,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          4.885288787948028e-07
+        ]
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 140,
+        "boundsDifference": [
+          0,
+          5.088364328997841e-06,
+          0,
+          0
+        ],
+        "opacityDifference": -4.5219580790956115e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -4.780419209926556e-07
+        ]
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 175,
+        "boundsDifference": [
+          0,
+          -3.706585765428372e-06,
+          0,
+          0
+        ],
+        "opacityDifference": 1.5972107636486044e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          4.027892363533958e-07
+        ]
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 210,
+        "boundsDifference": [
+          0,
+          -9.067782855254336e-06,
+          0,
+          0
+        ],
+        "opacityDifference": 2.173251605341875e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          2.6748394745673698e-08
+        ]
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 245,
+        "boundsDifference": [
+          0,
+          6.534005180469649e-06,
+          0,
+          0
+        ],
+        "opacityDifference": -1.3972864287836728e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -2.713571306892093e-09
+        ]
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 280,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 280,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 350,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 420,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "kind": "Drawer",
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 35,
+        "boundsDifference": [
+          5.1331474324456394e-06,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": -9.552455904060508e-08,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          1.9104911803680125e-06,
+          0
+        ]
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 70,
+        "boundsDifference": [
+          7.864907423993373e-06,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": -2.809406838277795e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          -4.381186323954012e-06,
+          0
+        ]
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 105,
+        "boundsDifference": [
+          -4.13817662092697e-06,
+          0,
+          3.0517578125e-05,
+          0
+        ],
+        "opacityDifference": 5.114711210119083e-08,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          -1.0229422424679058e-06,
+          0
+        ]
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 140,
+        "boundsDifference": [
+          1.0176728657995682e-05,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": -4.5219580790956115e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          4.39161580434444e-08,
+          0
+        ]
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 175,
+        "boundsDifference": [
+          -7.413171530856744e-06,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 1.5972107636486044e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          -1.9442152732196405e-07,
+          0
+        ]
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 210,
+        "boundsDifference": [
+          9.379206176163279e-07,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 2.173251605341875e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          -4.650321051152817e-08,
+          0
+        ]
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 245,
+        "boundsDifference": [
+          -2.1907787015607028e-06,
+          0,
+          1.52587890625e-05,
+          0
+        ],
+        "opacityDifference": -1.3972864287836728e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          4.572857386156426e-09,
+          0
+        ]
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 280,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 280,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 350,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 420,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "kind": "Toast",
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 25,
+        "boundsDifference": [
+          0,
+          -2.795100440877718e-05,
+          0,
+          0
+        ],
+        "opacityDifference": -9.552455904060508e-08,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          9.552455901840062e-07
+        ]
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 50,
+        "boundsDifference": [
+          0,
+          -2.6585124413003314e-05,
+          0,
+          0
+        ],
+        "opacityDifference": -2.809406838277795e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          2.8094068378337056e-06
+        ]
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 75,
+        "boundsDifference": [
+          0,
+          -1.7327877372963485e-05,
+          0,
+          0
+        ],
+        "opacityDifference": 5.114711210119083e-08,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          4.885288787948028e-07
+        ]
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 100,
+        "boundsDifference": [
+          0,
+          5.088364328997841e-06,
+          0,
+          0
+        ],
+        "opacityDifference": -4.5219580790956115e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -4.780419209926556e-07
+        ]
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 125,
+        "boundsDifference": [
+          0,
+          -3.706585765428372e-06,
+          0,
+          0
+        ],
+        "opacityDifference": 1.5972107636486044e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          4.027892363533958e-07
+        ]
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 150,
+        "boundsDifference": [
+          0,
+          -9.067782855254336e-06,
+          0,
+          0
+        ],
+        "opacityDifference": 2.173251605341875e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          2.6748394745673698e-08
+        ]
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 175,
+        "boundsDifference": [
+          0,
+          6.534005180469649e-06,
+          0,
+          0
+        ],
+        "opacityDifference": -1.3972864287836728e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -2.713571306892093e-09
+        ]
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 200,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 200,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 250,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 300,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "kind": "ResultNumber",
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0.0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 27,
+        "boundsDifference": [
+          0,
+          -2.028646619578467e-07,
+          0,
+          0
+        ],
+        "opacityDifference": -1.087708272340393e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -3.640364660384421e-06
+        ]
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 55,
+        "boundsDifference": [
+          0,
+          1.72250159202747e-05,
+          0,
+          0
+        ],
+        "opacityDifference": -1.1237627350890733e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -3.5952965811159032e-06
+        ]
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 82,
+        "boundsDifference": [
+          0,
+          -1.1566345804681077e-05,
+          0,
+          0
+        ],
+        "opacityDifference": -4.02817335709571e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          3.5216695337680903e-08
+        ]
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 110,
+        "boundsDifference": [
+          0,
+          -2.7973395958724723e-05,
+          0,
+          0
+        ],
+        "opacityDifference": 1.912167679751775e-08,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          2.6097903949029444e-07
+        ]
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 137,
+        "boundsDifference": [
+          0,
+          -2.7973929164204492e-05,
+          0,
+          0
+        ],
+        "opacityDifference": -4.33960666734734e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          2.450833401501651e-08
+        ]
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 165,
+        "boundsDifference": [
+          0,
+          2.5983686697372832e-05,
+          0,
+          0
+        ],
+        "opacityDifference": -3.1306993586444065e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1.3374197372836849e-08
+        ]
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 192,
+        "boundsDifference": [
+          0,
+          7.033200368766757e-06,
+          0,
+          0
+        ],
+        "opacityDifference": -2.814060294786813e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -2.4246303450235762e-09
+        ]
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 220,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 220,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 275,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 330,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "kind": "ResultBar",
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 40,
+        "boundsDifference": [
+          0,
+          0,
+          4.85184096987723e-06,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          -9.552455904060508e-08,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 80,
+        "boundsDifference": [
+          0,
+          0,
+          -8.80695900207229e-06,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          -2.809406838277795e-07,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 120,
+        "boundsDifference": [
+          0,
+          0,
+          -9.82669504878686e-06,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          5.114711210119083e-08,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 160,
+        "boundsDifference": [
+          0,
+          0,
+          1.0151512952916164e-05,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          -4.5219580790956115e-07,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 200,
+        "boundsDifference": [
+          0,
+          0,
+          -2.396929862413799e-05,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          1.5972107636486044e-07,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 240,
+        "boundsDifference": [
+          0,
+          0,
+          -8.749058224566397e-07,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          2.173251605341875e-07,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 280,
+        "boundsDifference": [
+          0,
+          0,
+          -4.3048955404856315e-06,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          -1.3972864287836728e-07,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 320,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 320,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 400,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 480,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "kind": "Press",
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 20,
+        "boundsDifference": [
+          4.252237076229903e-06,
+          5.052901983049196e-05,
+          -8.504474152459807e-06,
+          -0.00010105803966098392
+        ],
+        "opacityDifference": -4.019538160093816e-07,
+        "matrixDifference": [
+          -2.0027911651343544e-07,
+          0,
+          0,
+          -2.0027911651343544e-07,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 40,
+        "boundsDifference": [
+          -1.0359444303276177e-05,
+          2.027028477868953e-05,
+          2.0718888606552355e-05,
+          -4.054056955737906e-05
+        ],
+        "opacityDifference": 3.2336907762609e-07,
+        "matrixDifference": [
+          4.7476701103832397e-07,
+          0,
+          0,
+          4.7476701103832397e-07,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 60,
+        "boundsDifference": [
+          -1.472688257564414e-05,
+          1.8523309467610716e-05,
+          2.9453765137077426e-05,
+          -3.7046618928116004e-05
+        ],
+        "opacityDifference": -2.819864386438553e-07,
+        "matrixDifference": [
+          3.8828765158704925e-07,
+          0,
+          0,
+          3.8828765158704925e-07,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 80,
+        "boundsDifference": [
+          -2.367954147786122e-05,
+          -3.388587909114449e-05,
+          4.735908294151159e-05,
+          6.777175818228898e-05
+        ],
+        "opacityDifference": 9.247955723434842e-08,
+        "matrixDifference": [
+          -2.7250292045089e-07,
+          0,
+          0,
+          -2.7250292045089e-07,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 100,
+        "boundsDifference": [
+          1.0694048803827627e-05,
+          5.3105744520109965e-05,
+          -2.13880975934444e-05,
+          -0.00010621148904021993
+        ],
+        "opacityDifference": -1.4560433259092065e-07,
+        "matrixDifference": [
+          1.2205652399899236e-07,
+          0,
+          0,
+          1.2205652399899236e-07,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 120,
+        "boundsDifference": [
+          1.506026755748735e-06,
+          -5.738098773377942e-05,
+          -3.0120535257083247e-06,
+          0.00011476197546755884
+        ],
+        "opacityDifference": -1.0220116786197053e-07,
+        "matrixDifference": [
+          4.139712618256297e-07,
+          0,
+          0,
+          4.139712618256297e-07,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 140,
+        "boundsDifference": [
+          -2.242457014745014e-06,
+          3.5724110944101994e-05,
+          4.484914029490028e-06,
+          -7.144822188820399e-05
+        ],
+        "opacityDifference": 3.129674197577259e-07,
+        "matrixDifference": [
+          -3.8386179712635027e-07,
+          0,
+          0,
+          -3.8386179712635027e-07,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 160,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 160,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 200,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 240,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "kind": "ModalClose",
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 20,
+        "boundsDifference": [
+          0,
+          -4.827844501420486e-05,
+          0,
+          0
+        ],
+        "opacityDifference": -6.9779143574422164e-09,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          4.186748570056409e-08
+        ]
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 40,
+        "boundsDifference": [
+          0,
+          2.995682333306604e-05,
+          0,
+          0
+        ],
+        "opacityDifference": -1.3082472238856724e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1.2150516659481525e-06
+        ]
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 60,
+        "boundsDifference": [
+          0,
+          4.4180647741143275e-05,
+          0,
+          0
+        ],
+        "opacityDifference": 2.9280870950110227e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1.7568522570066136e-06
+        ]
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 80,
+        "boundsDifference": [
+          0,
+          -5.1031688061087266e-05,
+          0,
+          0
+        ],
+        "opacityDifference": -1.8742698981721873e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -8.754380607101098e-07
+        ]
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 100,
+        "boundsDifference": [
+          0,
+          -3.208214641148288e-05,
+          0,
+          0
+        ],
+        "opacityDifference": -5.141309808442962e-08,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1.6915214118284894e-06
+        ]
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 120,
+        "boundsDifference": [
+          0,
+          3.1113142586747244e-06,
+          0,
+          0
+        ],
+        "opacityDifference": -4.928154311023558e-08,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          2.095689258574396e-06
+        ]
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 140,
+        "boundsDifference": [
+          0,
+          -2.3790207075435887e-05,
+          0,
+          0
+        ],
+        "opacityDifference": -3.455070760743917e-09,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          2.4207304250012385e-06
+        ]
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 160,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 160,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 200,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 240,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "kind": "SearchFade",
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0.0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 20,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 3.488957123209957e-09,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 40,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 6.541236119428362e-08,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 60,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 3.5359564520831555e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 80,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": -4.0628650510576847e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 100,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 2.5706549000581447e-08,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 120,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": -3.253592284480078e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 140,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": -2.982724646161117e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 160,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 160,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 200,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 240,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "kind": "RunningDot",
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 125,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": -3.5173318324588365e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 250,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 4.775069228912798e-13,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 375,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 3.5173318324588365e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 500,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 5.551115123125783e-17,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 625,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 3.517331831903725e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 750,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": -4.775069228912798e-13,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 875,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": -3.5173318335690595e-07,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 1000,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 1000,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 1250,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 4.775069228912798e-13,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 1500,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 5.551115123125783e-17,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "kind": "Spinner",
+    "samples": [
+      {
+        "fraction": 0,
+        "milliseconds": 0,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.125,
+        "milliseconds": 100,
+        "boundsDifference": [
+          -7.661080459797631e-06,
+          -3.814058307227697e-05,
+          1.5322160919595262e-05,
+          7.628116614455394e-05
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          -2.1817886064479097e-07,
+          -2.1944804429185893e-07,
+          2.1944804429185893e-07,
+          -2.1817886064479097e-07,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.25,
+        "milliseconds": 200,
+        "boundsDifference": [
+          -8.974484444479458e-08,
+          -3.589793351466142e-08,
+          1.7948967467873445e-07,
+          7.179585281846812e-08
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          1.7948967369654108e-09,
+          0,
+          0,
+          1.7948967369654108e-09,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.375,
+        "milliseconds": 300,
+        "boundsDifference": [
+          -7.5849294347563045e-06,
+          -3.8216734086660153e-05,
+          -1.534771925548739e-05,
+          7.643346816621488e-05
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          2.207172279389269e-07,
+          -2.1690967710874531e-07,
+          2.1690967710874531e-07,
+          2.207172279389269e-07,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.5,
+        "milliseconds": 400,
+        "boundsDifference": [
+          -7.179586702932284e-08,
+          -1.7948967467873445e-07,
+          1.4359173405864567e-07,
+          3.589793493574689e-07
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          3.5897934739308216e-09,
+          -3.5897934739308216e-09,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.625,
+        "milliseconds": 500,
+        "boundsDifference": [
+          2.2780346640161042e-05,
+          -3.806443204723564e-05,
+          -4.556069329453294e-05,
+          7.612886410868214e-05
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          2.1564049335065505e-07,
+          2.2198641169701716e-07,
+          -2.2198641169701716e-07,
+          2.1564049335065505e-07,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.75,
+        "milliseconds": 600,
+        "boundsDifference": [
+          -2.69234508465388e-07,
+          -1.0769380764941161e-07,
+          5.384690098253486e-07,
+          2.1538761529882322e-07
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          -5.3846892187912325e-09,
+          0,
+          0,
+          -5.3846892187912325e-09,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 0.875,
+        "milliseconds": 700,
+        "boundsDifference": [
+          -7.508778423925833e-06,
+          -3.8292885108148766e-05,
+          1.5017556847851665e-05,
+          7.658577021629753e-05
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          -2.2325559534408512e-07,
+          2.143713097035871e-07,
+          -2.143713097035871e-07,
+          -2.2325559534408512e-07,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1,
+        "milliseconds": 800,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.001,
+        "milliseconds": 800,
+        "boundsDifference": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.25,
+        "milliseconds": 1000,
+        "boundsDifference": [
+          -8.974484444479458e-08,
+          -3.589793351466142e-08,
+          1.7948967467873445e-07,
+          7.179585281846812e-08
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          1.7948967369654108e-09,
+          0,
+          0,
+          1.7948967369654108e-09,
+          0,
+          0
+        ]
+      },
+      {
+        "fraction": 1.5,
+        "milliseconds": 1200,
+        "boundsDifference": [
+          -7.179586702932284e-08,
+          -1.7948967467873445e-07,
+          1.4359173405864567e-07,
+          3.589793493574689e-07
+        ],
+        "opacityDifference": 0,
+        "matrixDifference": [
+          0,
+          3.589791985770822e-09,
+          -3.589791985770822e-09,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  }
+]

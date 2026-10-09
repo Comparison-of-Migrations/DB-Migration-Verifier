@@ -1,0 +1,11 @@
+{
+  "scope": "only Group filtering actualKOEN2; not executed/passed",
+  "transportError": "artifacts/replica/workers/preflight/capabilitytable/406fd04afac6469eaee74c2099908cd1/actual-windows-groups/156c33e5ce594826911de90fa4ccdb79/transport-error.txt",
+  "readOnlyFolderQuery": "artifacts/replica/workers/preflight/capabilitytable/406fd04afac6469eaee74c2099908cd1/actual-windows-groups/156c33e5ce594826911de90fa4ccdb79/startup-readonly-output.txt",
+  "readOnlyReturnCode": 0,
+  "observed": "OWNED_OUTPUT_ABSENT",
+  "executionProof": "The owned directory is created before Start-Process/any UIA observation/Invoke. The generated script never removes the directory. Its absence plus PowerShell CLR startup error/command return1 establishes this actor did not launch the native scope.",
+  "nativeInputReplay": false,
+  "productHash": "4afcca2ae1f54b629f9c474b978c21ac0ac88760476dd48cc7f7cbcc66ddfacd",
+  "next": "Root guest recovery/grant; new nonce changed KOEN2 only; existing passed scopes reuse."
+}

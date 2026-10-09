@@ -1,0 +1,233 @@
+[
+  {
+    "id": "role-00",
+    "width": 50.734375,
+    "height": 17.6015625,
+    "canvasWidth": 50.73320007324219,
+    "numeric": "normal"
+  },
+  {
+    "id": "role-01",
+    "width": 26.7734375,
+    "height": 55,
+    "canvasWidth": 26.040786743164062,
+    "numeric": "tabular-nums"
+  },
+  {
+    "id": "role-02",
+    "width": 95.2890625,
+    "height": 17.6015625,
+    "canvasWidth": 95.28147888183594,
+    "numeric": "normal"
+  },
+  {
+    "id": "role-03",
+    "width": 26.7734375,
+    "height": 55,
+    "canvasWidth": 24.859146118164062,
+    "numeric": "tabular-nums"
+  },
+  {
+    "id": "role-04",
+    "width": 41.21875,
+    "height": 17.6015625,
+    "canvasWidth": 41.21820068359375,
+    "numeric": "normal"
+  },
+  {
+    "id": "role-05",
+    "width": 53.546875,
+    "height": 55,
+    "canvasWidth": 52.575714111328125,
+    "numeric": "tabular-nums"
+  },
+  {
+    "id": "role-06",
+    "width": 55.4453125,
+    "height": 17.6015625,
+    "canvasWidth": 55.44085693359375,
+    "numeric": "normal"
+  },
+  {
+    "id": "role-07",
+    "width": 72.8515625,
+    "height": 17.6015625,
+    "canvasWidth": 72.84814453125,
+    "numeric": "tabular-nums"
+  },
+  {
+    "id": "role-08",
+    "width": 33.7421875,
+    "height": 20.796875,
+    "canvasWidth": 33.7349853515625,
+    "numeric": "normal"
+  },
+  {
+    "id": "role-09",
+    "width": 77.6171875,
+    "height": 17,
+    "canvasWidth": 77.61285400390625,
+    "numeric": "normal"
+  },
+  {
+    "id": "role-10",
+    "width": 16.0859375,
+    "height": 31.203125,
+    "canvasWidth": 12.451568603515625,
+    "numeric": "tabular-nums"
+  },
+  {
+    "id": "role-11",
+    "width": 16.0859375,
+    "height": 31.203125,
+    "canvasWidth": 16.894927978515625,
+    "numeric": "tabular-nums"
+  },
+  {
+    "id": "role-12",
+    "width": 32.171875,
+    "height": 31.203125,
+    "canvasWidth": 24.90313720703125,
+    "numeric": "tabular-nums"
+  },
+  {
+    "id": "role-13",
+    "width": 49.4296875,
+    "height": 20.796875,
+    "canvasWidth": 49.42333984375,
+    "numeric": "normal"
+  },
+  {
+    "id": "role-14",
+    "width": 77.96875,
+    "height": 17,
+    "canvasWidth": 77.96441650390625,
+    "numeric": "normal"
+  },
+  {
+    "id": "role-15",
+    "width": 32.171875,
+    "height": 31.203125,
+    "canvasWidth": 27.42950439453125,
+    "numeric": "tabular-nums"
+  },
+  {
+    "id": "role-16",
+    "width": 60.671875,
+    "height": 20.796875,
+    "canvasWidth": 60.6683349609375,
+    "numeric": "normal"
+  },
+  {
+    "id": "role-17",
+    "width": 73.2109375,
+    "height": 17,
+    "canvasWidth": 73.20855712890625,
+    "numeric": "normal"
+  },
+  {
+    "id": "role-18",
+    "width": 16.0859375,
+    "height": 31.203125,
+    "canvasWidth": 15.942779541015625,
+    "numeric": "tabular-nums"
+  },
+  {
+    "id": "role-19",
+    "width": 16.0859375,
+    "height": 31.203125,
+    "canvasWidth": 16.425201416015625,
+    "numeric": "tabular-nums"
+  },
+  {
+    "id": "role-20",
+    "width": 48.2578125,
+    "height": 20.796875,
+    "canvasWidth": 48.25537109375,
+    "numeric": "normal"
+  },
+  {
+    "id": "role-21",
+    "width": 32.171875,
+    "height": 31.203125,
+    "canvasWidth": 28.39434814453125,
+    "numeric": "tabular-nums"
+  },
+  {
+    "id": "role-22",
+    "width": 51.90625,
+    "height": 22.3984375,
+    "canvasWidth": 51.89892578125,
+    "numeric": "normal"
+  },
+  {
+    "id": "role-23",
+    "width": 36.125,
+    "height": 19.203125,
+    "canvasWidth": 36.123046875,
+    "numeric": "tabular-nums"
+  },
+  {
+    "id": "role-24",
+    "width": 144.4921875,
+    "height": 19.203125,
+    "canvasWidth": 144.4921875,
+    "numeric": "tabular-nums"
+  },
+  {
+    "id": "role-25",
+    "width": 132.6015625,
+    "height": 22.3984375,
+    "canvasWidth": 132.5941162109375,
+    "numeric": "normal"
+  },
+  {
+    "id": "role-26",
+    "width": 36.125,
+    "height": 19.203125,
+    "canvasWidth": 36.123046875,
+    "numeric": "tabular-nums"
+  },
+  {
+    "id": "role-27",
+    "width": 166.171875,
+    "height": 19.203125,
+    "canvasWidth": 166.166015625,
+    "numeric": "tabular-nums"
+  },
+  {
+    "id": "role-28",
+    "width": 91.6953125,
+    "height": 22.3984375,
+    "canvasWidth": 91.6878662109375,
+    "numeric": "normal"
+  },
+  {
+    "id": "role-29",
+    "width": 36.125,
+    "height": 19.203125,
+    "canvasWidth": 36.123046875,
+    "numeric": "tabular-nums"
+  },
+  {
+    "id": "role-30",
+    "width": 36.125,
+    "height": 19.203125,
+    "canvasWidth": 36.123046875,
+    "numeric": "tabular-nums"
+  },
+  {
+    "id": "role-31",
+    "width": 171.46875,
+    "height": 22.3984375,
+    "canvasWidth": 171.46728515625,
+    "numeric": "normal"
+  },
+  {
+    "id": "role-32",
+    "width": 36.125,
+    "height": 19.203125,
+    "canvasWidth": 36.123046875,
+    "numeric": "tabular-nums"
+  }
+]

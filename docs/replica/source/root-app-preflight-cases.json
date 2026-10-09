@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ko-960",
+    "language": "ko",
+    "width": 960,
+    "height": 720
+  },
+  {
+    "id": "ko-1180",
+    "language": "ko",
+    "width": 1180,
+    "height": 720
+  },
+  {
+    "id": "ko-1280",
+    "language": "ko",
+    "width": 1280,
+    "height": 900
+  },
+  {
+    "id": "ko-1600",
+    "language": "ko",
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "id": "en-960",
+    "language": "en",
+    "width": 960,
+    "height": 720
+  },
+  {
+    "id": "en-1180",
+    "language": "en",
+    "width": 1180,
+    "height": 720
+  },
+  {
+    "id": "en-1280",
+    "language": "en",
+    "width": 1280,
+    "height": 900
+  },
+  {
+    "id": "en-1600",
+    "language": "en",
+    "width": 1600,
+    "height": 900
+  }
+]

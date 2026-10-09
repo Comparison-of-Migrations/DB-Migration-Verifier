@@ -1,0 +1,7 @@
+{
+  "source": "docs/replica/source/capabilityviewport-windows-source.json",
+  "native": "docs/replica/source/capabilityviewport-windows-native/capabilityviewport-native.json",
+  "states": 72,
+  "differences": [],
+  "passed": true
+}

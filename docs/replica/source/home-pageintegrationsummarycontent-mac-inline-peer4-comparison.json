@@ -1,0 +1,84 @@
+{
+  "phase": "ACTUAL_OS_PASSED",
+  "scope": "Mac-only InlineText namedText peer4, literal KOEN Reviewdefault fullcombined occurs once/emptychildren/publiccurrentName/positive actualAXbbox; no full30 geometry replay",
+  "rows": [
+    {
+      "id": "review-default-ko-960",
+      "expected": "migration_sample → migration_sample원본과 대상은 서로 다른 예시 서버입니다.",
+      "publicPeer": {
+        "name": "migration_sample → migration_sample원본과 대상은 서로 다른 예시 서버입니다.",
+        "type": "Text",
+        "children": 0,
+        "box": "425, 316.9921875, 480, 22"
+      },
+      "fullCombinedOccurrences": 1,
+      "roles": [
+        "AXStaticText"
+      ],
+      "positiveBoxes": true
+    },
+    {
+      "id": "review-default-ko-1280",
+      "expected": "migration_sample → migration_sample원본과 대상은 서로 다른 예시 서버입니다.",
+      "publicPeer": {
+        "name": "migration_sample → migration_sample원본과 대상은 서로 다른 예시 서버입니다.",
+        "type": "Text",
+        "children": 0,
+        "box": "477, 324.9921875, 736, 22"
+      },
+      "fullCombinedOccurrences": 1,
+      "roles": [
+        "AXStaticText"
+      ],
+      "positiveBoxes": true
+    },
+    {
+      "id": "review-default-en-960",
+      "expected": "migration_sample → migration_sampleSource and target are separate sample servers.",
+      "publicPeer": {
+        "name": "migration_sample → migration_sampleSource and target are separate sample servers.",
+        "type": "Text",
+        "children": 0,
+        "box": "425, 316.9921875, 480, 44"
+      },
+      "fullCombinedOccurrences": 1,
+      "roles": [
+        "AXStaticText"
+      ],
+      "positiveBoxes": true
+    },
+    {
+      "id": "review-default-en-1280",
+      "expected": "migration_sample → migration_sampleSource and target are separate sample servers.",
+      "publicPeer": {
+        "name": "migration_sample → migration_sampleSource and target are separate sample servers.",
+        "type": "Text",
+        "children": 0,
+        "box": "477, 324.9921875, 736, 22"
+      },
+      "fullCombinedOccurrences": 1,
+      "roles": [
+        "AXStaticText"
+      ],
+      "positiveBoxes": true
+    }
+  ],
+  "differences": [],
+  "sourceEngineEvidence": "Root exact original IAB81KO1280/82EN960 one combined StaticText, docs/replica/specs/InlineText.md before-edit record",
+  "cleanup": {
+    "ownedNativeProcess": 0,
+    "ownedWindow": 0,
+    "path": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/pageintegration/2e3b374bebc74d80a74a9db001d48221/PageIntegrationSummaryContentCheck.app"
+  },
+  "launch": {
+    "arguments": [
+      "--pageintegration-window",
+      "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/home-pageintegrationtrial-cases.json",
+      "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/pageintegration/2e3b374bebc74d80a74a9db001d48221/actual-summary-peer-macos",
+      "--summary-content-only"
+    ],
+    "binarySha256": "321a0e8678dab4eb9972d654277898f059ae112cf9c1bb2683851971977e6930",
+    "bundle": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/pageintegration/2e3b374bebc74d80a74a9db001d48221/PageIntegrationSummaryContentCheck.app",
+    "pid": 96054
+  }
+}

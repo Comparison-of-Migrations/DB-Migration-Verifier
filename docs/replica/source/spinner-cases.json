@@ -1,0 +1,92 @@
+[
+  {
+    "id": "muted-normal0",
+    "color": "#b5bac1",
+    "angle": 0,
+    "reduced": false
+  },
+  {
+    "id": "muted-normal45",
+    "color": "#b5bac1",
+    "angle": 45,
+    "reduced": false
+  },
+  {
+    "id": "muted-normal90",
+    "color": "#b5bac1",
+    "angle": 90,
+    "reduced": false
+  },
+  {
+    "id": "muted-normal180",
+    "color": "#b5bac1",
+    "angle": 180,
+    "reduced": false
+  },
+  {
+    "id": "muted-reduced",
+    "color": "#b5bac1",
+    "angle": 0,
+    "reduced": true
+  },
+  {
+    "id": "ink-normal0",
+    "color": "#dbdee1",
+    "angle": 0,
+    "reduced": false
+  },
+  {
+    "id": "ink-normal45",
+    "color": "#dbdee1",
+    "angle": 45,
+    "reduced": false
+  },
+  {
+    "id": "ink-normal90",
+    "color": "#dbdee1",
+    "angle": 90,
+    "reduced": false
+  },
+  {
+    "id": "ink-normal180",
+    "color": "#dbdee1",
+    "angle": 180,
+    "reduced": false
+  },
+  {
+    "id": "ink-reduced",
+    "color": "#dbdee1",
+    "angle": 0,
+    "reduced": true
+  },
+  {
+    "id": "white-normal0",
+    "color": "#ffffff",
+    "angle": 0,
+    "reduced": false
+  },
+  {
+    "id": "white-normal45",
+    "color": "#ffffff",
+    "angle": 45,
+    "reduced": false
+  },
+  {
+    "id": "white-normal90",
+    "color": "#ffffff",
+    "angle": 90,
+    "reduced": false
+  },
+  {
+    "id": "white-normal180",
+    "color": "#ffffff",
+    "angle": 180,
+    "reduced": false
+  },
+  {
+    "id": "white-reduced",
+    "color": "#ffffff",
+    "angle": 0,
+    "reduced": true
+  }
+]

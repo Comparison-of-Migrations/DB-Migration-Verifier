@@ -1,0 +1,32 @@
+{
+  "phase": "I03-I04",
+  "tests": 168,
+  "sourceSha256": {
+    "src/Verifier.Core/AtomicFile.cs": "b54e0a24ff2f4697ca1d0cd21c90d2417fc693bf787ad5f8f4f7d4e6153f8fdb",
+    "src/Verifier.Core/CatalogComparison.cs": "f5ce5c290f9265b6c90ceaabfa93cb4283969b064365ff5bb1383696a98a57c3",
+    "src/Verifier.Core/ComparisonEngine.cs": "c52ca6577b1cfc9e1f6313c47dcac6d5f3665167773ec3b65bf6e1e6f0185e68",
+    "src/Verifier.Core/ExactRow.cs": "d00b1c4d96ce72f82df32e996403c861d2b9bd75dcfd2e505044116518725654",
+    "src/Verifier.Core/Models.cs": "3fbc7d4bdd0caccd216ceedd001b1f1059b113d2c2d045d70ef7a5dafb0e1b3b",
+    "src/Verifier.Core/ProtectedSort.cs": "67efab87102dc958086d64b3cba061eb7f27b87408616961a7942ec25c4ff801",
+    "src/Verifier.Core/ReportExport.cs": "d7cf0c864026123b200999e41348e97e6a55f56f6224da66a4cf505803279156",
+    "src/Verifier.Core/ReportFile.cs": "0848b5f72ea0325d73fe1162c9a6d0bb71db920fb59e9e9a4e2183e061009a55",
+    "src/Verifier.Core/ScopeMatching.cs": "36ce62396f37c7113a7161d5e6d265c31f5cfe92eb39dc44af4102ed1eae0542",
+    "src/Verifier.Data/ConnectionSettings.cs": "8d0ed308528f503d7d6c373749e69e1c3b24c2b352712f159856f72b76191942",
+    "src/Verifier.Data/ExampleDatabase.cs": "7766e38899ef8f89a50f4f78cea00a23de86b7661c987aaf7a34cda0291e10f1",
+    "src/Verifier.Data/PostgreSqlDatabase.Structure.cs": "cf151f1130e5ac96985caec8e82809e46b58e3d9699ecef7a7818a83b0ec816a",
+    "src/Verifier.Data/PostgreSqlDatabase.cs": "04fd2fba903ea23eed9e30a381d734e645890ac069d58cd8dfece2cd556fb370",
+    "src/Verifier.Data/SqlServerDatabase.cs": "b417bacb6891acdb1920927e3d9ec8cfd8597c004b6df57a33420c4f0bbd851a",
+    "src/Verifier.Desktop/AlignedCheckBox.cs": "55b85c77bb297afb17abc28ebcb59ca00cd3d3c48abc06e623d9278c577f6b0a",
+    "src/Verifier.Desktop/App.axaml": "a3861987de3a1a6a26f5c6b052edc21f5ecceb88634802d73b8157c33d6b185a",
+    "src/Verifier.Desktop/App.axaml.cs": "a41947995f3d7c1aec7d7285e33b103d4cd79e6ef0feec52f35e36f2405374ee",
+    "src/Verifier.Desktop/MainWindow.HomeConnection.cs": "88fe214ea64fb0dea81bc392a5611079680e4a2b5b20616627fea28b972cb4b3",
+    "src/Verifier.Desktop/MainWindow.Matching.cs": "9a76d4fb74730910611973bd090551d0c3fb750252f40def024c0719e9af1e58",
+    "src/Verifier.Desktop/MainWindow.ResultViews.cs": "a297d94716702ce775cd3f8a33ada0d07300b378e76364dafbb22bc6822bafaf",
+    "src/Verifier.Desktop/MainWindow.ScopeViews.cs": "7a4846e473878e96e6524cccc1bfff49372b053a85218a0c48223f16e53fef03",
+    "src/Verifier.Desktop/MainWindow.Shell.cs": "2905c388b68fe35d25ea6b946f3d32482dc6813b6d8038bc141f470c7a589446",
+    "src/Verifier.Desktop/MainWindow.cs": "781efb67f844b8f27df536e9ba7faaf4b4840f87b2bb9455e6b5e3e5a6a406db",
+    "src/Verifier.Desktop/PasswordTextBox.cs": "21e821d260726da2e3cc2770807a5ee2123851bf7f24df62e1d09777d37d518b",
+    "src/Verifier.Desktop/Program.cs": "902dc81ede87bb0aa9186245b36969053eab4aa13ac8faf977450bc0607bde68",
+    "tests/fixtures/postgres-structure.sql": "28c6ce19d0134076e43559537383d125a9e5ed1e103325c722f7e59c32613e62"
+  }
+}

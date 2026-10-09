@@ -1,0 +1,129 @@
+{
+  "status": "HEADLESS_PASSED",
+  "checks": 20,
+  "differences": [],
+  "rows": [
+    {
+      "width": 80.4296875,
+      "sourceLines": [
+        "검사 가능 범위"
+      ],
+      "nativeLines": [
+        "검사 가능 범위"
+      ],
+      "sourceAdvances": [
+        80.4375
+      ],
+      "nativeAdvances": [
+        80.4375
+      ],
+      "columns": [
+        244.4296875,
+        116.21875,
+        116.4296875,
+        329.921875
+      ],
+      "headerHeight": 43.6953125
+    },
+    {
+      "width": 80.421875,
+      "sourceLines": [
+        "검사 가능 범",
+        "위"
+      ],
+      "nativeLines": [
+        "검사 가능 범",
+        "위"
+      ],
+      "sourceAdvances": [
+        68.4375,
+        12
+      ],
+      "nativeAdvances": [
+        68.4375,
+        12
+      ],
+      "columns": [
+        244.4296875,
+        116.21875,
+        116.421875,
+        329.921875
+      ],
+      "headerHeight": 62.890625
+    },
+    {
+      "width": 80.4375,
+      "sourceLines": [
+        "검사 가능 범위"
+      ],
+      "nativeLines": [
+        "검사 가능 범위"
+      ],
+      "sourceAdvances": [
+        80.4375
+      ],
+      "nativeAdvances": [
+        80.4375
+      ],
+      "columns": [
+        244.4296875,
+        116.21875,
+        116.4375,
+        329.921875
+      ],
+      "headerHeight": 43.6953125
+    },
+    {
+      "width": 80.4140625,
+      "sourceLines": [
+        "검사 가능 범",
+        "위"
+      ],
+      "nativeLines": [
+        "검사 가능 범",
+        "위"
+      ],
+      "sourceAdvances": [
+        68.4375,
+        12
+      ],
+      "nativeAdvances": [
+        68.4375,
+        12
+      ],
+      "columns": [
+        244.4296875,
+        116.21875,
+        116.4140625,
+        329.921875
+      ],
+      "headerHeight": 62.890625
+    },
+    {
+      "width": 80.4453125,
+      "sourceLines": [
+        "검사 가능 범위"
+      ],
+      "nativeLines": [
+        "검사 가능 범위"
+      ],
+      "sourceAdvances": [
+        80.4375
+      ],
+      "nativeAdvances": [
+        80.4375
+      ],
+      "columns": [
+        244.4296875,
+        116.21875,
+        116.4453125,
+        329.921875
+      ],
+      "headerHeight": 43.6953125
+    }
+  ],
+  "source": "docs/replica/source/pageintegrationparentresize-windows-header-precision.json",
+  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/connection/pageintegration/e144fb94edf542d1827a07acc421f091/actual-parent-resize-windows/headless-2a0a98190e734dd780cc788cd6a7e2df/pageintegrationparentresize-headerallocation.json",
+  "scope": "Allocated Header five threshold line text/count/advances only, no standalone/header height equivalence",
+  "runtimeExit": 0
+}

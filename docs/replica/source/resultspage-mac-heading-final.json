@@ -1,0 +1,208 @@
+{
+  "rows": [
+    {
+      "attributeNames": [
+        "AXFocused",
+        "AXFrame",
+        "AXTitle",
+        "AXVerticalScrollBar",
+        "AXSelected",
+        "AXHorizontalScrollBar",
+        "AXPlaceholderValue",
+        "AXEnabled",
+        "AXHelp",
+        "AXARIALive",
+        "AXChildren",
+        "AXParent",
+        "AXRole",
+        "AXTopLevelUIElement",
+        "AXSubrole",
+        "AXValue",
+        "AXIdentifier",
+        "AXRoleDescription",
+        "AXWindow",
+        "AXSize",
+        "AXPosition"
+      ],
+      "childCount": 0,
+      "description": "",
+      "headingAttributes": {
+        "AXARIAlevel": {
+          "error": -25212,
+          "value": null
+        },
+        "AXHeadingLevel": {
+          "error": -25212,
+          "value": null
+        },
+        "AXLevel": {
+          "error": -25212,
+          "value": null
+        },
+        "AXRoleDescription": {
+          "error": 0,
+          "value": "heading"
+        },
+        "AXSubrole": {
+          "error": 0,
+          "value": "AXUnknown"
+        },
+        "AXValue": {
+          "error": 0,
+          "value": 2
+        }
+      },
+      "id": "",
+      "ignored": null,
+      "index": 138,
+      "isIgnored": false,
+      "parent": 137,
+      "rect": {
+        "height": 22.5,
+        "width": 904,
+        "x": 405,
+        "y": 13.375
+      },
+      "role": "AXHeading",
+      "title": "별도 DB 동작 시험",
+      "value": "",
+      "visibleChildCount": null
+    },
+    {
+      "attributeNames": [
+        "AXFocused",
+        "AXFrame",
+        "AXTitle",
+        "AXVerticalScrollBar",
+        "AXSelected",
+        "AXHorizontalScrollBar",
+        "AXPlaceholderValue",
+        "AXEnabled",
+        "AXHelp",
+        "AXARIALive",
+        "AXChildren",
+        "AXParent",
+        "AXRole",
+        "AXTopLevelUIElement",
+        "AXSubrole",
+        "AXValue",
+        "AXIdentifier",
+        "AXRoleDescription",
+        "AXWindow",
+        "AXSize",
+        "AXPosition"
+      ],
+      "childCount": 1,
+      "description": "",
+      "headingAttributes": {
+        "AXARIAlevel": {
+          "error": -25212,
+          "value": null
+        },
+        "AXHeadingLevel": {
+          "error": -25212,
+          "value": null
+        },
+        "AXLevel": {
+          "error": -25212,
+          "value": null
+        },
+        "AXRoleDescription": {
+          "error": 0,
+          "value": "button"
+        },
+        "AXSubrole": {
+          "error": 0,
+          "value": "AXUnknown"
+        },
+        "AXValue": {
+          "error": -25212,
+          "value": null
+        }
+      },
+      "id": "Results-trial",
+      "ignored": null,
+      "index": 139,
+      "isIgnored": false,
+      "parent": 137,
+      "rect": {
+        "height": 80,
+        "width": 904,
+        "x": 405,
+        "y": 45.875
+      },
+      "role": "AXButton",
+      "title": "시험 기대 결과 비교 결과와 별도 판정 · 정리 내역 포함 기대 불충족 충족 / 불충족 / 미검증 3 / 1 / 0",
+      "value": "",
+      "visibleChildCount": null
+    },
+    {
+      "attributeNames": [
+        "AXFocused",
+        "AXFrame",
+        "AXTitle",
+        "AXVerticalScrollBar",
+        "AXSelected",
+        "AXHorizontalScrollBar",
+        "AXPlaceholderValue",
+        "AXEnabled",
+        "AXHelp",
+        "AXARIALive",
+        "AXChildren",
+        "AXParent",
+        "AXRole",
+        "AXTopLevelUIElement",
+        "AXSubrole",
+        "AXValue",
+        "AXIdentifier",
+        "AXRoleDescription",
+        "AXWindow",
+        "AXSize",
+        "AXPosition"
+      ],
+      "childCount": 0,
+      "description": "",
+      "headingAttributes": {
+        "AXARIAlevel": {
+          "error": -25212,
+          "value": null
+        },
+        "AXHeadingLevel": {
+          "error": -25212,
+          "value": null
+        },
+        "AXLevel": {
+          "error": -25212,
+          "value": null
+        },
+        "AXRoleDescription": {
+          "error": 0,
+          "value": "heading"
+        },
+        "AXSubrole": {
+          "error": 0,
+          "value": "AXUnknown"
+        },
+        "AXValue": {
+          "error": 0,
+          "value": 2
+        }
+      },
+      "id": "",
+      "ignored": null,
+      "index": 158,
+      "isIgnored": false,
+      "parent": 157,
+      "rect": {
+        "height": 27,
+        "width": 179.9375,
+        "x": 405,
+        "y": 164.375
+      },
+      "role": "AXHeading",
+      "title": "확인할 차이와 미검증 이유",
+      "value": "",
+      "visibleChildCount": null
+    }
+  ]
+}

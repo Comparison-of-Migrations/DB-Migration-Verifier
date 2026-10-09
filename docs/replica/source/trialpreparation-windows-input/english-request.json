@@ -1,0 +1,29 @@
+{
+  "capturedAtUtc": "2026-10-08T00:26:35.290859Z",
+  "events": [
+    "trial",
+    "trial",
+    "trial"
+  ],
+  "visible": true,
+  "notice": {
+    "x": 0,
+    "y": 0,
+    "width": 904,
+    "height": 71.59375
+  },
+  "card": {
+    "x": 611.828125,
+    "y": 87.59375,
+    "width": 292.171875,
+    "height": 75.984375
+  },
+  "button": {
+    "x": 0,
+    "y": 103.5859375,
+    "width": 151.1328125,
+    "height": 44
+  },
+  "label": "Edit test setup",
+  "focus": "TrialPreparation-record"
+}

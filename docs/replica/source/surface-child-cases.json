@@ -1,0 +1,56 @@
+[
+  {
+    "id": "child-0",
+    "width": 24,
+    "height": 24,
+    "padding": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "border": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "center": true
+  },
+  {
+    "id": "child-1",
+    "width": 990,
+    "height": 36,
+    "padding": [
+      7.0,
+      40.0,
+      7.0,
+      40.0
+    ],
+    "border": [
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "center": false
+  },
+  {
+    "id": "child-2",
+    "width": 224,
+    "height": 52,
+    "padding": [
+      10.0,
+      40.0,
+      10.0,
+      40.0
+    ],
+    "border": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "center": true
+  }
+]

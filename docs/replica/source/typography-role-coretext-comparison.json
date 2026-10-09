@@ -1,0 +1,335 @@
+{
+  "state": "measurement only; not candidate verification",
+  "cases": [
+    {
+      "id": "role-00",
+      "family": "system",
+      "postscript": ".SFNS-Regular",
+      "tabular": false,
+      "webWidth": 50.734375,
+      "nativeWidth": 50.73320007324219,
+      "difference": 0.0011749267578125,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-01",
+      "family": "system",
+      "postscript": ".SFNS-Regular_wdth_opsz2C0000_GRAD_wght28A0000",
+      "tabular": true,
+      "webWidth": 26.7734375,
+      "nativeWidth": 26.77125,
+      "difference": 0.002187500000001563,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-02",
+      "family": "system",
+      "postscript": ".SFNS-Regular",
+      "tabular": false,
+      "webWidth": 95.2890625,
+      "nativeWidth": 95.28147888183594,
+      "difference": 0.0075836181640625,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-03",
+      "family": "system",
+      "postscript": ".SFNS-Regular_wdth_opsz2C0000_GRAD_wght28A0000",
+      "tabular": true,
+      "webWidth": 26.7734375,
+      "nativeWidth": 26.77125,
+      "difference": 0.002187500000001563,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-04",
+      "family": "system",
+      "postscript": ".SFNS-Regular",
+      "tabular": false,
+      "webWidth": 41.21875,
+      "nativeWidth": 41.21820068359375,
+      "difference": 0.00054931640625,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-05",
+      "family": "system",
+      "postscript": ".SFNS-Regular_wdth_opsz2C0000_GRAD_wght28A0000",
+      "tabular": true,
+      "webWidth": 53.546875,
+      "nativeWidth": 53.5425,
+      "difference": 0.004375000000003126,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-06",
+      "family": "system",
+      "postscript": ".SFNS-Regular",
+      "tabular": false,
+      "webWidth": 55.4453125,
+      "nativeWidth": 55.44085693359375,
+      "difference": 0.00445556640625,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-07",
+      "family": "mono",
+      "postscript": "Menlo-Regular",
+      "tabular": true,
+      "webWidth": 72.8515625,
+      "nativeWidth": 72.84814453125,
+      "difference": 0.00341796875,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-08",
+      "family": "system",
+      "postscript": ".SFNS-Bold",
+      "tabular": false,
+      "webWidth": 33.7421875,
+      "nativeWidth": 33.7349853515625,
+      "difference": 0.0072021484375,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-09",
+      "family": "system",
+      "postscript": ".SFNS-Regular",
+      "tabular": false,
+      "webWidth": 77.6171875,
+      "nativeWidth": 77.61285400390625,
+      "difference": 0.00433349609375,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-10",
+      "family": "system",
+      "postscript": ".SFNS-Regular_wdth_opsz1A0000_GRAD_wght2580000",
+      "tabular": true,
+      "webWidth": 16.0859375,
+      "nativeWidth": 16.082421875,
+      "difference": 0.003515624999998579,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-11",
+      "family": "system",
+      "postscript": ".SFNS-Regular_wdth_opsz1A0000_GRAD_wght2580000",
+      "tabular": true,
+      "webWidth": 16.0859375,
+      "nativeWidth": 16.082421875,
+      "difference": 0.003515624999998579,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-12",
+      "family": "system",
+      "postscript": ".SFNS-Regular_wdth_opsz1A0000_GRAD_wght2580000",
+      "tabular": true,
+      "webWidth": 32.171875,
+      "nativeWidth": 32.16484375,
+      "difference": 0.007031249999997158,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-13",
+      "family": "system",
+      "postscript": ".SFNS-Bold",
+      "tabular": false,
+      "webWidth": 49.4296875,
+      "nativeWidth": 49.42333984375,
+      "difference": 0.00634765625,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-14",
+      "family": "system",
+      "postscript": ".SFNS-Regular",
+      "tabular": false,
+      "webWidth": 77.96875,
+      "nativeWidth": 77.96441650390625,
+      "difference": 0.00433349609375,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-15",
+      "family": "system",
+      "postscript": ".SFNS-Regular_wdth_opsz1A0000_GRAD_wght2580000",
+      "tabular": true,
+      "webWidth": 32.171875,
+      "nativeWidth": 32.16484375,
+      "difference": 0.007031249999997158,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-16",
+      "family": "system",
+      "postscript": ".SFNS-Bold",
+      "tabular": false,
+      "webWidth": 60.671875,
+      "nativeWidth": 60.6683349609375,
+      "difference": 0.0035400390625,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-17",
+      "family": "system",
+      "postscript": ".SFNS-Regular",
+      "tabular": false,
+      "webWidth": 73.2109375,
+      "nativeWidth": 73.20855712890625,
+      "difference": 0.00238037109375,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-18",
+      "family": "system",
+      "postscript": ".SFNS-Regular_wdth_opsz1A0000_GRAD_wght2580000",
+      "tabular": true,
+      "webWidth": 16.0859375,
+      "nativeWidth": 16.082421875,
+      "difference": 0.003515624999998579,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-19",
+      "family": "system",
+      "postscript": ".SFNS-Regular_wdth_opsz1A0000_GRAD_wght2580000",
+      "tabular": true,
+      "webWidth": 16.0859375,
+      "nativeWidth": 16.082421875,
+      "difference": 0.003515624999998579,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-20",
+      "family": "system",
+      "postscript": ".SFNS-Bold",
+      "tabular": false,
+      "webWidth": 48.2578125,
+      "nativeWidth": 48.25537109375,
+      "difference": 0.00244140625,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-21",
+      "family": "system",
+      "postscript": ".SFNS-Regular_wdth_opsz1A0000_GRAD_wght2580000",
+      "tabular": true,
+      "webWidth": 32.171875,
+      "nativeWidth": 32.16484375,
+      "difference": 0.007031249999997158,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-22",
+      "family": "system",
+      "postscript": ".SFNS-Bold",
+      "tabular": false,
+      "webWidth": 51.90625,
+      "nativeWidth": 51.89898681640625,
+      "difference": 0.00726318359375,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-23",
+      "family": "mono",
+      "postscript": "Menlo-Regular",
+      "tabular": true,
+      "webWidth": 36.125,
+      "nativeWidth": 36.123046875,
+      "difference": 0.001953125,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-24",
+      "family": "mono",
+      "postscript": "Menlo-Regular",
+      "tabular": true,
+      "webWidth": 144.4921875,
+      "nativeWidth": 144.4921875,
+      "difference": 0.0,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-25",
+      "family": "system",
+      "postscript": ".SFNS-Bold",
+      "tabular": false,
+      "webWidth": 132.6015625,
+      "nativeWidth": 132.59422302246094,
+      "difference": 0.0073394775390625,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-26",
+      "family": "mono",
+      "postscript": "Menlo-Regular",
+      "tabular": true,
+      "webWidth": 36.125,
+      "nativeWidth": 36.123046875,
+      "difference": 0.001953125,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-27",
+      "family": "mono",
+      "postscript": "Menlo-Regular",
+      "tabular": true,
+      "webWidth": 166.171875,
+      "nativeWidth": 166.166015625,
+      "difference": 0.005859375,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-28",
+      "family": "system",
+      "postscript": ".SFNS-Bold",
+      "tabular": false,
+      "webWidth": 91.6953125,
+      "nativeWidth": 91.68797302246094,
+      "difference": 0.0073394775390625,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-29",
+      "family": "mono",
+      "postscript": "Menlo-Regular",
+      "tabular": true,
+      "webWidth": 36.125,
+      "nativeWidth": 36.123046875,
+      "difference": 0.001953125,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-30",
+      "family": "mono",
+      "postscript": "Menlo-Regular",
+      "tabular": true,
+      "webWidth": 36.125,
+      "nativeWidth": 36.123046875,
+      "difference": 0.001953125,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-31",
+      "family": "system",
+      "postscript": ".SFNS-Bold",
+      "tabular": false,
+      "webWidth": 171.46875,
+      "nativeWidth": 171.46746826171875,
+      "difference": 0.00128173828125,
+      "missingGlyphs": 0
+    },
+    {
+      "id": "role-32",
+      "family": "mono",
+      "postscript": "Menlo-Regular",
+      "tabular": true,
+      "webWidth": 36.125,
+      "nativeWidth": 36.123046875,
+      "difference": 0.001953125,
+      "missingGlyphs": 0
+    }
+  ]
+}

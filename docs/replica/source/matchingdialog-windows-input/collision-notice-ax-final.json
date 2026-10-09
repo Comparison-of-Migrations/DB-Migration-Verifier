@@ -1,0 +1,12 @@
+{
+    "rows":  [
+                 {
+                     "name":  "대응이 중복됩니다",
+                     "type":  "ControlType.Text"
+                 },
+                 {
+                     "name":  "대응이 중복됩니다",
+                     "type":  "ControlType.Text"
+                 }
+             ]
+}

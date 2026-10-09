@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ko-1180-query-orders",
+    "width": 904,
+    "viewport": 1180,
+    "english": false,
+    "variant": "query-orders"
+  },
+  {
+    "id": "ko-1180-query-none",
+    "width": 904,
+    "viewport": 1180,
+    "english": false,
+    "variant": "query-none"
+  },
+  {
+    "id": "ko-1180-manual-target-query",
+    "width": 904,
+    "viewport": 1180,
+    "english": false,
+    "variant": "manual-target-query"
+  },
+  {
+    "id": "en-1180-query-orders",
+    "width": 904,
+    "viewport": 1180,
+    "english": true,
+    "variant": "query-orders"
+  },
+  {
+    "id": "en-1180-query-none",
+    "width": 904,
+    "viewport": 1180,
+    "english": true,
+    "variant": "query-none"
+  },
+  {
+    "id": "en-1180-manual-target-query",
+    "width": 904,
+    "viewport": 1180,
+    "english": true,
+    "variant": "manual-target-query"
+  }
+]

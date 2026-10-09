@@ -1,0 +1,15 @@
+{
+  "scope": "Trusted official Windows keyboard sequence 1/e in source and native; no clipboard/OS IME-switch claim",
+  "passed": true,
+  "source": {
+    "raw": "1e",
+    "type": "ControlType.Spinner",
+    "focused": true
+  },
+  "native": {
+    "raw": "1e",
+    "type": "ControlType.Spinner",
+    "focused": true
+  },
+  "differences": []
+}

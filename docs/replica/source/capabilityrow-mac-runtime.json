@@ -1,0 +1,6 @@
+{
+  "buildManifest": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/preflight/capabilityrow/1cb84cb8cf4f470dba133eb739d5ee47/build.json",
+  "binarySha256": "6654c6ab5dfec83efaf7a71dc1bd23174f422e8cb3cdb16d2b45ccc913044dc4",
+  "bundle": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/CapabilityRowCheck.app",
+  "runtime": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/CapabilityRowCheck.app/Contents/MacOS/runtime"
+}

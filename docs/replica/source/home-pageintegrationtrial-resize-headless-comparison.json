@@ -1,0 +1,264 @@
+{
+  "phase": "HEADLESS_DIFFERENCES",
+  "scope": "New connected Trial KOEN resize identity/caret/entry8 only; source synthetic handler oracle, candidate isolated Skia; actualOS unverified",
+  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/home-pageintegrationtrial-resize-mac-source.json",
+  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/pageintegration/52cd03647877410097767272b09b157f/outputs/affcdad294f34269aecfdf60c87f8662/candidate/pageintegration-trial-resize.json",
+  "cases": 8,
+  "differences": [
+    {
+      "id": "en-1",
+      "field": "pageRetained",
+      "source": true,
+      "candidate": false
+    },
+    {
+      "id": "en-1",
+      "field": "editorRetained",
+      "source": true,
+      "candidate": false
+    },
+    {
+      "id": "en-1",
+      "field": "selectionStart",
+      "source": 3,
+      "candidate": 0
+    },
+    {
+      "id": "en-1",
+      "field": "selectionEnd",
+      "source": 8,
+      "candidate": 0
+    },
+    {
+      "id": "en-1",
+      "field": "newPageAnimations",
+      "source": 0,
+      "candidate": 1
+    },
+    {
+      "id": "en-2",
+      "field": "pageRetained",
+      "source": true,
+      "candidate": false
+    },
+    {
+      "id": "en-2",
+      "field": "editorRetained",
+      "source": true,
+      "candidate": false
+    },
+    {
+      "id": "en-2",
+      "field": "selectionStart",
+      "source": 3,
+      "candidate": 0
+    },
+    {
+      "id": "en-2",
+      "field": "selectionEnd",
+      "source": 8,
+      "candidate": 0
+    },
+    {
+      "id": "en-2",
+      "field": "newPageAnimations",
+      "source": 0,
+      "candidate": 1
+    },
+    {
+      "id": "en-3",
+      "field": "pageRetained",
+      "source": true,
+      "candidate": false
+    },
+    {
+      "id": "en-3",
+      "field": "editorRetained",
+      "source": true,
+      "candidate": false
+    },
+    {
+      "id": "en-3",
+      "field": "selectionStart",
+      "source": 3,
+      "candidate": 0
+    },
+    {
+      "id": "en-3",
+      "field": "selectionEnd",
+      "source": 8,
+      "candidate": 0
+    },
+    {
+      "id": "en-3",
+      "field": "newPageAnimations",
+      "source": 0,
+      "candidate": 1
+    },
+    {
+      "id": "ko-1",
+      "field": "pageRetained",
+      "source": true,
+      "candidate": false
+    },
+    {
+      "id": "ko-1",
+      "field": "editorRetained",
+      "source": true,
+      "candidate": false
+    },
+    {
+      "id": "ko-1",
+      "field": "selectionStart",
+      "source": 3,
+      "candidate": 0
+    },
+    {
+      "id": "ko-1",
+      "field": "selectionEnd",
+      "source": 8,
+      "candidate": 0
+    },
+    {
+      "id": "ko-1",
+      "field": "newPageAnimations",
+      "source": 0,
+      "candidate": 1
+    },
+    {
+      "id": "ko-2",
+      "field": "pageRetained",
+      "source": true,
+      "candidate": false
+    },
+    {
+      "id": "ko-2",
+      "field": "editorRetained",
+      "source": true,
+      "candidate": false
+    },
+    {
+      "id": "ko-2",
+      "field": "selectionStart",
+      "source": 3,
+      "candidate": 0
+    },
+    {
+      "id": "ko-2",
+      "field": "selectionEnd",
+      "source": 8,
+      "candidate": 0
+    },
+    {
+      "id": "ko-2",
+      "field": "newPageAnimations",
+      "source": 0,
+      "candidate": 1
+    },
+    {
+      "id": "ko-3",
+      "field": "pageRetained",
+      "source": true,
+      "candidate": false
+    },
+    {
+      "id": "ko-3",
+      "field": "editorRetained",
+      "source": true,
+      "candidate": false
+    },
+    {
+      "id": "ko-3",
+      "field": "selectionStart",
+      "source": 3,
+      "candidate": 0
+    },
+    {
+      "id": "ko-3",
+      "field": "selectionEnd",
+      "source": 8,
+      "candidate": 0
+    },
+    {
+      "id": "ko-3",
+      "field": "newPageAnimations",
+      "source": 0,
+      "candidate": 1
+    }
+  ],
+  "candidateAdditionalPublicFields": {
+    "ko-0": {
+      "fieldRetained": true,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 1,
+        "translateY": 0,
+        "newPageAnimationObserved": false
+      }
+    },
+    "ko-1": {
+      "fieldRetained": false,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 0.35,
+        "translateY": 6,
+        "newPageAnimationObserved": true
+      }
+    },
+    "ko-2": {
+      "fieldRetained": false,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 0.35,
+        "translateY": 6,
+        "newPageAnimationObserved": true
+      }
+    },
+    "ko-3": {
+      "fieldRetained": false,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 0.35,
+        "translateY": 6,
+        "newPageAnimationObserved": true
+      }
+    },
+    "en-0": {
+      "fieldRetained": true,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 1,
+        "translateY": 0,
+        "newPageAnimationObserved": false
+      }
+    },
+    "en-1": {
+      "fieldRetained": false,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 0.35,
+        "translateY": 6,
+        "newPageAnimationObserved": true
+      }
+    },
+    "en-2": {
+      "fieldRetained": false,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 0.35,
+        "translateY": 6,
+        "newPageAnimationObserved": true
+      }
+    },
+    "en-3": {
+      "fieldRetained": false,
+      "caretIndex": 0,
+      "immediate": {
+        "opacity": 0.35,
+        "translateY": 6,
+        "newPageAnimationObserved": true
+      }
+    }
+  },
+  "oldScopes": "Existing Trial geometry/input/state/AX/paint evidence reused; not rerun by this comparison"
+}

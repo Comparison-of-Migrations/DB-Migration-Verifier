@@ -1,0 +1,157 @@
+Window: "DB-Migration-Verifier", App: DB-Migration-Verifier.
+0 standard window DB-Migration-Verifier, Secondary Actions: Raise
+	1 container WindowChrome, ID: AvaloniaWindowChrome
+	2 container
+		3 container PART_VisualLayerManager
+			4 container
+				5 container
+					6 text DB-Migration-Verifier
+					7 text Read-only comparison
+					8 button 한국어 / EN, ID: language
+				9 container
+					10 text Migration comparison
+					11 button Connect databases
+						12 container
+							13 text Connect databases
+					14 button (disabled) Preflight
+						15 container
+							16 text Preflight
+					17 button (disabled) Select checks
+						18 container
+							19 text Select checks
+					20 button (disabled) Review
+						21 container
+							22 text Review
+					23 button (disabled) Progress
+						24 container
+							25 text 5
+							26 text Progress
+					27 button Results
+						28 container
+							29 text 6
+							30 text Results
+					31 button (disabled) Save results
+						32 container
+							33 text 7
+							34 text Save results
+					35 text Read-only comparison
+					36 text No source/target writes.
+Behavior tests require a separate test DB.
+					37 checkbox Reduce motion, Value: off, ID: motion
+						38 container RootGrid
+							39 container
+								40 container
+				41 container
+					42 text Read-only source/target comparison. Unverified is never equal.
+				43 scroll area
+					44 container
+						45 container
+							46 text Differences found
+							47 text Review differences and gaps together. Excluded scope is never marked as verified.
+							48 container
+								49 text Different checks
+								50 text 3
+							51 container
+								52 text Unknown / unverified
+								53 text 0
+							54 container
+								55 text Equal checks
+								56 text 0
+							57 container
+								58 text Run ID
+								59 text 62df3d40a2a7
+							60 text Comparison by category
+							61 container
+								62 container
+									63 text Category
+									64 text Different
+									65 text Unknown / unverified
+									66 text Equal
+									67 text
+								68 button Data details
+									69 container
+										70 text Data
+										71 text Not selected
+										72 text 0
+										73 text 0
+										74 text 0
+								75 button Schema & constraints details
+									76 container
+										77 text Schema & constraints
+										78 text Executed and unverified scope
+										79 text 3
+										80 text 0
+										81 text 0
+								82 button Users & access details
+									83 container
+										84 text Users & access
+										85 text Not selected
+										86 text 0
+										87 text 0
+										88 text 0
+								89 button Related objects details
+									90 container
+										91 text Related objects
+										92 text Not selected
+										93 text 0
+										94 text 0
+										95 text 0
+							96 text Equal lengths mean equal numbers of check IDs. A check may have both differences and unknown scope. Bars are independent, not a total or DB success rate.
+							97 text Excluded: Data · Users & access · Related objects · Separate DB behavior
+							98 container
+								99 text Separate DB behavior test
+								100 text Not selected · pending
+							101 text Value: Differences and visibility limits, ID: result-detail
+							102 button All
+							103 button Different
+							104 button Unverified
+							105 content list
+								106 scroll area PART_ScrollViewer
+									107 container
+										108 container
+											109 row (selectable) Avalonia.Controls.Border
+												110 container
+													111 text SCHEMA-01 · RP-C01
+													112 text Different
+													113 text structure.column_default · value · Default or generated expression difference × 1
+													114 text Internal ID: 3f18149466104871bcdd3bad631d3a3d
+											115 row (selectable) Avalonia.Controls.Border
+												116 container
+													117 text SCHEMA-02 · RP-C01
+													118 text Different
+													119 text structure.fk_action · Constraint definition, references and actions difference × 1
+													120 text Internal ID: e696ebffbdae4e5ab35f1fecb22ef070
+											121 row (selectable) Avalonia.Controls.Border
+												122 container
+													123 text SCHEMA-03 · RP-C02
+													124 text Different
+													125 text structure.index_key · Index definition, keys, includes, expressions and predicate difference × 1
+													126 text Internal ID: a886898397ea4648a932e4ec412b1408
+													127 text structure.partitioned · Inheritance and partition descendant links and bounds difference × 1
+													128 text Internal ID: 0a34d19f83274d6c83d1dcb666927bff
+							129 text Row values, keys and principal names are excluded. Selected tables: structure.column_default · structure.fk_action · structure.index_key · structure.partitioned
+							130 button Research mapping
+							131 button View executed matching
+						132 scroll bar (settable, float) Value: 601, ID: PART_VerticalScrollBar
+							133 container
+								134 button Line up, ID: PART_LineUpButton
+								135 button Page up, ID: PART_PageUpButton
+								136 button Page down, ID: PART_PageDownButton
+								137 handle Position
+								138 button Line down, ID: PART_LineDownButton
+				139 container
+					140 button Full new check
+						141 container
+							142 text Full new check
+					143 text Keep verified scope and reasons for gaps together.
+					144 button Save results
+						145 container
+							146 text Save results
+	147 close button
+	148 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	149 minimize button
+	150 text DB-Migration-Verifier
+151 menu bar
+	152 DB-Migration-Verifier
+
+The focused UI element is 101 text Value: Differences and visibility limits, ID: result-detail

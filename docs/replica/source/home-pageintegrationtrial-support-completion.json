@@ -1,0 +1,56 @@
+{
+  "phase": "TRIAL_PARENT_REQUIRED_SCOPE_PASSED",
+  "wholeApplicationLocked": false,
+  "childLock": "trialpage-lock.json",
+  "nativeWindowsManifest": "artifacts/replica/workers/home/pageintegration/05e47305ac7b4a33b5f0db40e16a77e0/build.json",
+  "workspaceSha256": "d405292fcae97a7b9214b75aa06b84a8ff812e6a6eb2ccb08cda146ebfeb87c2",
+  "probeSha256": "f5130d645a7ca98aa0fba66ae8e2ea9d5a0ab6670c3df070a0e379dc97d0a231",
+  "windows": {
+    "parent24": "home-pageintegrationtrial-windows-parent-actual-comparison.json",
+    "finite30": "home-pageintegrationtrial-windows-final-input-comparison.json",
+    "boundary8": "home-pageintegrationtrial-windows-final-boundary-comparison.json",
+    "neutral8Announcement2": "home-pageintegrationtrial-windows-neutral-peer-comparison.json",
+    "actualUIAPaint": "home-pageintegrationtrial-windows-peer-paint-comparison.json",
+    "composedEvidence": "artifacts/replica/workers/home/pageintegration/05e47305ac7b4a33b5f0db40e16a77e0/composed-actual/composition.json",
+    "finalNativeCleanup": {
+      "source": false,
+      "ownedWindow": 0,
+      "ownedNativeProcess": 0,
+      "cases": 1,
+      "firstIndex": 8,
+      "scope": "Actual parent only; completed windows immediatelyclosed"
+    },
+    "ENBoundaryCleanup": {
+      "source": false,
+      "ownedWindow": 0,
+      "ownedNativeProcess": 0,
+      "cases": 4,
+      "firstIndex": 4,
+      "scope": "Actual parent only; completed windows immediatelyclosed"
+    },
+    "sourceBoundaryCleanup": {
+      "source": true,
+      "ownedWindow": 0,
+      "ownedNativeProcess": 0,
+      "cases": 8,
+      "firstIndex": 0,
+      "scope": "Actual parent only; completed windows immediatelyclosed"
+    }
+  },
+  "mac": "Existing actual24/finite30/boundary8/neutral8/AX/paint source references in PageIntegrationTrial.md reused",
+  "remainingRootScope": [
+    "Selection return/quietBack4 destination footer/H1/announcement afterfactory connection",
+    "Fully settled BODY Space endpoint/rootDocument wholeflow",
+    "Original wholeflow52/state/file/navigation final application validation"
+  ],
+  "publicAPI": {
+    "model": "ReplicaWorkspace.Trial / SetTrial(WebTrialView)",
+    "primaryEvent": "trial-primary (ready state interpreted byparent)",
+    "footerIDs": [
+      "Footer-trial-check",
+      "Footer-trial-back"
+    ],
+    "ready": "retains error aftersuccess; return/navigation clears error",
+    "input": "in-place page/editor/primary retained; Ready/Consent reset; consent causes parent remount"
+  }
+}

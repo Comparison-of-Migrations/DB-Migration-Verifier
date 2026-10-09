@@ -1,0 +1,144 @@
+[
+  {
+    "Id": "state-0",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 85.5,
+    "lines": [
+      474.35302734375,
+      431.1181640625,
+      223.681640625
+    ],
+    "foreground": "#ffb5bac1",
+    "alignment": "Left"
+  },
+  {
+    "Id": "state-1",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 57,
+    "lines": [
+      479.7849609375,
+      390.871875
+    ],
+    "foreground": "#ffb5bac1",
+    "alignment": "Left"
+  },
+  {
+    "Id": "state-2",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 240,
+    "height": 114,
+    "lines": [
+      236.51249999999996,
+      230.29746093749998,
+      227.990625,
+      171.871875
+    ],
+    "foreground": "#ffb5bac1",
+    "alignment": "Left"
+  },
+  {
+    "Id": "state-3",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 240,
+    "height": 171,
+    "lines": [
+      223.48388671875,
+      160.40771484375,
+      233.5400390625,
+      224.99267578125,
+      233.26171875,
+      41.513671875
+    ],
+    "foreground": "#ffb5bac1",
+    "alignment": "Left"
+  },
+  {
+    "Id": "state-4",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 22.4,
+    "lines": [
+      140.01729979515088
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Center"
+  },
+  {
+    "Id": "state-5",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 44.2,
+    "lines": [
+      439.8320541214943,
+      359.2348577988148
+    ],
+    "foreground": "#fff2f3f5",
+    "alignment": "Center"
+  },
+  {
+    "Id": "state-6",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 19.2,
+    "lines": [
+      443.232421875
+    ],
+    "foreground": "#ffb5bac1",
+    "alignment": "Right"
+  },
+  {
+    "Id": "state-7",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 19.2,
+    "lines": [
+      373.19554687499993
+    ],
+    "foreground": "#ffb5bac1",
+    "alignment": "Left"
+  },
+  {
+    "Id": "state-8",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 85.5,
+    "lines": [
+      474.35302734375,
+      431.1181640625,
+      223.681640625
+    ],
+    "foreground": "#ffb5bac1",
+    "alignment": "Left"
+  },
+  {
+    "Id": "state-9",
+    "invalidated": true,
+    "x": 10,
+    "y": 10,
+    "width": 480,
+    "height": 0,
+    "lines": [],
+    "foreground": "#ffb5bac1",
+    "alignment": "Left"
+  }
+]

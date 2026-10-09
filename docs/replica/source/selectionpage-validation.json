@@ -1,0 +1,303 @@
+{
+  "component": "SelectionPage",
+  "status": "LOCKED",
+  "files": {
+    "src/Verifier.Desktop/WebSelectionPage.cs": "4521a8a1aa122507efed09173423c6e17c988ab2dfac05265ef1f93c82f2244c",
+    "src/Verifier.Desktop/WebSelectionPage.Layout.cs": "5c62020e26a310c19532d414ccc698a714182f7b0c293c5783d3ba0c3e524a13",
+    "src/Verifier.Desktop/WebSelectionPage.Peers.cs": "7b3c1b56551b6b1353cf53d7a8afab8f184d188ba553da6287f1ebd2f5dd90d6"
+  },
+  "dependencies": {
+    "pageheading": {
+      "src/Verifier.Desktop/WebPageHeading.cs": "b56e2f7319f2285fd791cfac2c01f106a6bfbcd846ec003308f660d79831efaa"
+    },
+    "categorysection": {
+      "src/Verifier.Desktop/WebCategorySection.cs": "9a50f6629f36c18c61f5c588c19987814a34c46dfbd25b2c73c9705bb060245c"
+    },
+    "trialpreparation": {
+      "src/Verifier.Desktop/WebTrialPreparation.cs": "a557cdaf99da859c185dc1e4c09e87f3dd06f9381ece56804799efa640dc2e29"
+    },
+    "searchinput": {
+      "src/Verifier.Desktop/WebSearchInput.cs": "50806c7dad66d0934832f6643a9f972aea635711f6e6d7e003447841432e10fa"
+    },
+    "checkbox": {
+      "src/Verifier.Desktop/WebCheckbox.cs": "6d944fd7a92357d1b87c54b40a9ad9370aee35a071a19a17842490d48389829b"
+    },
+    "tablemappingrow": {
+      "src/Verifier.Desktop/WebTableMappingRow.cs": "19d3b1524876b4dcf71a683c787f6b00021abed3d8f4ce164ba0d9f8dcea69d2"
+    },
+    "action-button": {
+      "src/Verifier.Desktop/WebActionButton.cs": "0556d146f7ce9a971757bf0f08305ae34a118b558e934c4c11379c352d42c5aa"
+    },
+    "typography": {
+      "src/Verifier.Desktop/WebTypography.cs": "8c7c7fbea0dc2a1c8621e818dd8b714ec43abb8802a75d52d869936b68f40079",
+      "src/Verifier.Desktop/WebSystemTextBlock.cs": "d6a426c652bf93e64fd197131a8d7fa91ab9d844f9e8dede2b4447e3b5e8902f",
+      "src/Verifier.Desktop/MacSystemTextLayout.cs": "1def9bbcec6f4b7ffc8d796dca6530d0aee802aae9688b239d2d2b699ca5274d",
+      "src/Verifier.Desktop/MacSystemGlyphShaper.cs": "db618e034b443427941faa0e0a6a3abe408c717078f2f2a0fb137d6fd58b6484",
+      "src/Verifier.Desktop/WindowsSystemFont.cs": "d229b86b3804e8a6ed227c1b6de931b9537773a6084339c51d7837329bcda5fd",
+      "src/Verifier.Desktop/WindowsWebTextBlock.cs": "1cddfa00bdf0ac88a8fce1c0d52d9169908a41cc9977b825b104aac18f1e4cd6",
+      "src/Verifier.Desktop/WebTextWhitespace.cs": "05e1aa1217382b26d908e19278a5f876b768d686f1c81b2bc20632d47e350728",
+      "src/Verifier.Desktop/WebNumericLineBreaks.cs": "6e3715cf6e78a743c2505cdc694979302f252489f125bf62276c1c64e1a63a30"
+    },
+    "notice": {
+      "src/Verifier.Desktop/WebNotice.cs": "d9722d3817e0531ced24a5dfe40c02a1900c31d5bc2c635b1a38f8baba89c73c"
+    },
+    "actionfooter": {
+      "src/Verifier.Desktop/WebActionFooter.cs": "ea9359a08207889daf3096a78b282da574137f2a0f7f628c342db0a2a35916bc"
+    },
+    "capabilityviewport": {
+      "src/Verifier.Desktop/WebCapabilityViewport.cs": "8e0ea4a8f79ff913a1c7891ee532e8d800a24f244b1d4202c6a7d476466cd180"
+    },
+    "motion": {
+      "src/Verifier.Desktop/WebMotion.cs": "25659f502fe1baf72ae037020e81b0f79eb74a05de4db53f0ef065950677e860",
+      "src/Verifier.Desktop/WebMotionPlayback.cs": "2c7a88474988f8c8dd748b6fdabfd2b366880180a7fcc964dfcc4ff1fcd3ac6d",
+      "src/Verifier.Desktop/WebCubicBezierEasing.cs": "77c37854e758260f699cc55c1adcdef7d68f95438980ed62c13e08ebde939746"
+    },
+    "surface": {
+      "src/Verifier.Desktop/WebSurface.cs": "3864c004daa4024667812f2d3e75c8b2a256539ff7607493ab4e7f995b227474",
+      "src/Verifier.Desktop/WebSurfaceBox.cs": "d4ce238db3224d5ac2c5e70fcc2fd81eae95cad2e31458dd8b29abfb6704ef5e",
+      "src/Verifier.Desktop/WebSurfaceShadows.cs": "ee74e58cc19d6a6264bd113b8dbbc280f088db5414441dcadc9e7de72e653f5d",
+      "src/Verifier.Desktop/WebSurfaceColorSpace.cs": "04f6e29a6e71e4f9482b5bd49cc2aa3bd6b61a28864e09ba7e65683386bd6a6d"
+    }
+  },
+  "sourceGeometryCases": {
+    "mac": 36,
+    "windows": 36
+  },
+  "headlessAndActualGeometryChecksPerOS": 12506,
+  "geometryDifferences": 0,
+  "actualInputs": "Mac first7 + corrected mapping4 + remaining11 + empty2; Windows first5 + executed mapping1 + corrected focus/remaining16 + EN empty, no uncertain replay",
+  "reuse": "Product main/Layout byte identical to actual Mac16a; peer diff Windows conditional only; old regular geometry source12506/0 eachOS reused",
+  "providerBoundaries": [
+    "Mac stock DataItem Row maps AXCell; source AXRow, logicalRow Table parent/4Cells/ordered names/function actual match. Stock role mapping official automation.mm121.",
+    "Windows Raw non-content unnamed locked Checkbox decorations vs source leaf; actual Control/Content Checkbox/Button leaves0 and names/function/focus/parents exact. No fabricated Raw identity.",
+    "OS default text raster uses protected Typography contract; actual layout/paint source matched."
+  ],
+  "applicationOwns": [
+    "navigation/root focus/scroll",
+    "MatchingDialog opening/apply/cancel and map state",
+    "live announcements",
+    "Trial navigation/return",
+    "start/restart statepolicy"
+  ],
+  "evidence": [
+    {
+      "path": "docs/replica/source/selectionpage-mac-source.json",
+      "sha256": "296e48826781d2573980ec0464b3f878cf72d1a0086250b9bd7703d55ddd7ede"
+    },
+    {
+      "path": "docs/replica/source/selectionpage-windows-source.json",
+      "sha256": "484d5a3d2dd11b906ab0da06436eccb992bdd16dbf2f2a9037f87987fba5829f"
+    },
+    {
+      "path": "docs/replica/source/selectionpage-mac-headless-comparison.json",
+      "sha256": "b36ba5dba8c95d99d4055545a2efb89ef715ce00ed6dded764d84d42c876f41f"
+    },
+    {
+      "path": "docs/replica/source/selectionpage-mac-query-headless-comparison.json",
+      "sha256": "483b98a9621212c4a14c9f8c59e09a3f02d23e0f5848a66fa03f18857d3d6c69"
+    },
+    {
+      "path": "docs/replica/source/selectionpage-mac-actual-comparison.json",
+      "sha256": "d9c48049dc408854e303ab19cfeac198e3e02ff2ad02e0f60dd4e2f16c428b60"
+    },
+    {
+      "path": "docs/replica/source/selectionpage-windows-headless-comparison.json",
+      "sha256": "cc9fd6102fdc4981b2205ad8a28f5af1728984050381d02cc0b8dca6f0046eb1"
+    },
+    {
+      "path": "docs/replica/source/selectionpage-windows-actual-comparison.json",
+      "sha256": "c61c11a7e351dcc85bff52bd060666724882059c60784a015d0c1ca5d531374b"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/247a73f30f434da285562ee04470b9e3/actual-macos/input/input-comparison.json",
+      "sha256": "d49b7d9ac0c2b703069c7b253cbe52378744bf99625f01ebd8c348bde46c3517"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/f2c98ac4b1ce439180ef71eb5da8c8d0/actual-macos/input/input-comparison.json",
+      "sha256": "55e52e6efbcc618dc7ec19e4965c57a69803820594f96ee3fab1df757971f462"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/a5c0e4a7abbd470ebfdbed934b8fe2e9/actual-macos/input/input-comparison.json",
+      "sha256": "111e15cab76443fc77eb7073be36bfc07f2860c7b4c6a61a2158da0455a095c8"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/16a3dbde6f8241bf968fbbc98a98e1f9/actual-macos/input/empty-comparison.json",
+      "sha256": "924505e0a4136848e740136670242f3f61c6d60096f899e46f26f2684a1f51e6"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/16a3dbde6f8241bf968fbbc98a98e1f9/actual-macos/input/native-cleanup.json",
+      "sha256": "22ff5323c443163ec628abb5bff754b1d8ba5e8b24b28d78cf017abd3a6b30ae"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/d7fa2c84d1c54a67b2d8e97312e887dc/actual-windows-input/state-failed-first.json",
+      "sha256": "e2b5f8d4ea715820e2135bf83b8a2b6ef5cbae9cf9e455e3a8c65ffeef1d1092"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/d7fa2c84d1c54a67b2d8e97312e887dc/actual-windows-input/cleanup.json",
+      "sha256": "e0cc8acd07df17b334e9b1cdc59f1cb60faabab26582b6e5efc6c29f2959bc9a"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/3f60b96e160948bfb348cb814ace319b/actual-windows-input/input-comparison.json",
+      "sha256": "ae6d3ba47bbbd47131d519f8e5931ef00e02f68ab719b17963d281079a2b74c6"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/3f60b96e160948bfb348cb814ace319b/actual-windows-input/peer-comparison.json",
+      "sha256": "908d355d2a23de2dad2578ac8149c484ba537842d42f4e5109a3599dc37f5c5b"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/3f60b96e160948bfb348cb814ace319b/actual-windows-input/empty-comparison.json",
+      "sha256": "42c6c565e041ccbf3ede9dc8d8397d3dc33b70898d41806f7f42cb5d04efdc8f"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/3f60b96e160948bfb348cb814ace319b/actual-windows-input/cleanup.json",
+      "sha256": "e0cc8acd07df17b334e9b1cdc59f1cb60faabab26582b6e5efc6c29f2959bc9a"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/3f60b96e160948bfb348cb814ace319b/actual-windows-input/selectionpage-motion.json",
+      "sha256": "605382b0961ab48af08a6e49815ec84979923d0907253eac55fa9a16bac7ed6c"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/3f60b96e160948bfb348cb814ace319b/actual-windows-input/native-empty-en.png",
+      "sha256": "8bc0da85e882b71e11d7a905f89b760b6585a01c7d48dcf0de7d090c466efacb"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/3f60b96e160948bfb348cb814ace319b/actual-windows-input/selectionpage-native-focus-mapping-transport.txt",
+      "sha256": "85f9103457e07d12cdd04f86a7f33fa2a7c4c07939198c89a46fa2de31576f73"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/3f60b96e160948bfb348cb814ace319b/affected-windows-headless/0572c353093f4a9cb786c40aba289924/comparison.json",
+      "sha256": "c87145979da804bbc56b63fbe8bb38729c0bf9ed08aaf45ce72d5143c04ad9cf"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/3f60b96e160948bfb348cb814ace319b/affected-windows-headless/0572c353093f4a9cb786c40aba289924/cleanup.json",
+      "sha256": "8f748f82a38677b2339cccc9853fdad750446aab2e26b65e27c98ef04f02ac05"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/3f60b96e160948bfb348cb814ace319b/mac-branch-reuse.diff",
+      "sha256": "5035a4f4bd7bfb1fbaaae46148382cfbc184bd401ba7fa4ea340b37eff716623"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/reason-metadata-final/before-selectionpage-lock.json",
+      "sha256": "8f6a5b2a97f0ee85ce1afa767eb6a52a202160dc9c6ab145ad39241cc47742a2"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/reason-metadata-final/before-selectionpage-validation.json",
+      "sha256": "e699467240e41eca0ea931f99c148f420c60c60b7dfe191dfa89fcda9ca18a04"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/reason-metadata-final/metadata-only.diff",
+      "sha256": "0ab86ead3ff796f58010dda3b4089c75535808a0bdd70c7fc4e395540933a4b5"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/e606746513c24d40929d556c3a34fcbe/build.json",
+      "sha256": "91eae669872ea17bbfd8806adc324e3191285ab66699d0a8f89b403b5facad03"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/c922da0286bd4a0192ce9942087649a3/build.json",
+      "sha256": "9caf0523c6abf103f0fe2a350349dc7fe1a93fba0a34d09a0e4bec944ff4a4f6"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/e606746513c24d40929d556c3a34fcbe/outputs/0aef59dc21bf4b56a0e5cf3613adb04e/candidate/selectionpage-reasons.json",
+      "sha256": "619fb3a485fe3de84db985969979ec801bf5d228d418ad17da54b8a3a32c55c2"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/e606746513c24d40929d556c3a34fcbe/outputs/0aef59dc21bf4b56a0e5cf3613adb04e/environment.json",
+      "sha256": "eaedb53618bbf1d605f2694e2e78cc7c0556fe258e494f16695cf6c50ffa04bd"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/c922da0286bd4a0192ce9942087649a3/affected-windows-headless/2c5b0d0cf88f4d4b81269ef7587cbaad/selectionpage-reasons.json",
+      "sha256": "619fb3a485fe3de84db985969979ec801bf5d228d418ad17da54b8a3a32c55c2"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/c922da0286bd4a0192ce9942087649a3/affected-windows-headless/2c5b0d0cf88f4d4b81269ef7587cbaad/cleanup.json",
+      "sha256": "8f748f82a38677b2339cccc9853fdad750446aab2e26b65e27c98ef04f02ac05"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/e606746513c24d40929d556c3a34fcbe/actual-macos/input/reason-comparison.json",
+      "sha256": "34e8fa0b41718a80cf70b5653ba40087dd07d2b8a5cf5f4e059c568483c0e214"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/e606746513c24d40929d556c3a34fcbe/actual-macos/input/native-cleanup.json",
+      "sha256": "80558c6afe616fddbeb1cff13117215727c4020ea59ebb596c428ff36d6ea837"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/c922da0286bd4a0192ce9942087649a3/actual-windows-input/reason-comparison.json",
+      "sha256": "5ecd2e655b2490a5cfe532e57bd297ac6c957993276efed7c76b2b3fa5bfe54c"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/c922da0286bd4a0192ce9942087649a3/actual-windows-input/cleanup.json",
+      "sha256": "e0cc8acd07df17b334e9b1cdc59f1cb60faabab26582b6e5efc6c29f2959bc9a"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/c922da0286bd4a0192ce9942087649a3/actual-windows-input/reason-evidence.zip",
+      "sha256": "a80fececb65a54dcaa7a3d546ae4682691998779c8508deeca56015193fcd169"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/source-toggle-windows/e7fb76f8c232418183b9e98fa3580422/source-plan.json",
+      "sha256": "d35fda2c0a862090ae0d1359b42922aeea6f07fa35830b965b7031d4cc8c166e"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/source-toggle-windows/e7fb76f8c232418183b9e98fa3580422/before.json",
+      "sha256": "a7ae058e7954c3269cd09897917f979ae11c1db9a0a33a4bf1d60bc1792eaab3"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/source-toggle-windows/e7fb76f8c232418183b9e98fa3580422/toggle-identity.json",
+      "sha256": "3b753ef33ec061605de6b4b889692fdd113e8fc6b127ac4c77fa112790907911"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/source-toggle-windows/e7fb76f8c232418183b9e98fa3580422/after.json",
+      "sha256": "d1c0bfc4bbcdda121c7d864e2759d3b8090f5c5283eeca10d1521b3a36b56eaf"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/source-toggle-windows/e7fb76f8c232418183b9e98fa3580422/comparison.json",
+      "sha256": "91d59a157009d6653d6cbe516c1c8181bc514a38a7e0b3d5e9c97202b21caffc"
+    },
+    {
+      "path": "artifacts/replica/workers/preflight/selectionpage/source-toggle-windows/e7fb76f8c232418183b9e98fa3580422/cleanup.json",
+      "sha256": "9f23b41faf697cb6703e648517275f35e260c1678dbaf5e0d83be8148ab45be7"
+    },
+    {
+      "path": "docs/replica/source/typography-lock.json",
+      "sha256": "b1e2c33e9c3b7452b3d9ffd3186f2fac9e30bc3a8b4dabf954d98d714f87b745"
+    }
+  ],
+  "cleanup": {
+    "macWindow": 0,
+    "macProcess": 0,
+    "windowsWindow": 0,
+    "windowsProcess": 0
+  },
+  "dependencyUpdate": {
+    "component": "Typography",
+    "scope": "root recorded/reLOCKed Mac slash31 optional line-break boundary; Selection literal mono names use dots and page slash counts are ordinary text. Unaffected previous page proofs reused; no own protected edit.",
+    "previous": "f54a030f76f4d80c4c2898943256c085f2f2e4c815a41c6d79a866f100110bfe",
+    "current": "1def9bbcec6f4b7ffc8d796dca6530d0aee802aae9688b239d2d2b699ca5274d",
+    "evidence": "docs/replica/source/typography-lock.json"
+  },
+  "lastChangeReasonException": {
+    "status": "RELOCKED",
+    "sourceReasons": [
+      "category:<key>",
+      "expand:<key>",
+      "bulk",
+      "clear-tables",
+      "query",
+      "table:<source>"
+    ],
+    "timing": "stored immediately before existing ViewChanged; external presentation/echo silent",
+    "headlessPerOS": 16,
+    "actualPerOS": 8,
+    "originalWindowsToggle": 1,
+    "providerChange": false,
+    "reuse": "Only metadata field, Publish caller reason and assignment changed; geometry/control/state/input/paint/peer code unchanged; metadata-only.diff records exact scope."
+  },
+  "macOriginalLeafParentException": {
+    "status": "LOCKED",
+    "approvedScope": "Approved Mac ChoicePeer original Checkbox/SourceText visual connection before stock logical parent assignment",
+    "proof": "artifacts/replica/workers/preflight/selectionpage/mac-parent-exception/6ab010e2b5d54b28b21f893b0f751cb1/affected-verification.json",
+    "proofSha256": "34453357772b9b7b6a61d3401f59bd371172b5f040e004fad62189d35fb7b4bd",
+    "oldManifest": "artifacts/replica/workers/preflight/selectionpage/mac-parent-exception/6ab010e2b5d54b28b21f893b0f751cb1/selectionpage-lock.json",
+    "affected": "KOEN queried checkbox/source text real ancestry+bounds+callbacks; unchanged standalone12506 and Windows original peer branch reused",
+    "parentCallbacks": "Mac new callbacks passed; Windows parent actual callbacks remain separate IN PROGRESS"
+  }
+}

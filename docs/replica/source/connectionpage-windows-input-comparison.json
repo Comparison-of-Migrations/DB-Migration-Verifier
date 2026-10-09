@@ -1,0 +1,24 @@
+{
+  "os": "windows",
+  "checks": [
+    "engine",
+    "advanced-key",
+    "required",
+    "error-recovery",
+    "busy-input",
+    {
+      "label": "busy-input",
+      "busyElapsedMs": 653.6008000000002
+    },
+    "connected-input",
+    "language",
+    "lifecycle-normal",
+    "lifecycle-reduced",
+    "busy-invalid",
+    {
+      "label": "busy-invalid",
+      "busyElapsedMs": 608.7102000000014
+    }
+  ],
+  "errors": []
+}

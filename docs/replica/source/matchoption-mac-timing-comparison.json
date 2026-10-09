@@ -1,0 +1,7 @@
+{
+  "platform": "mac",
+  "samples": 50,
+  "failed": 0,
+  "scope": "Actual original CSS160ms ease and production private injected clock; background/border/inset selection/reversing shortening. Serialized channels tolerance explicit; cubic solver reversal duration tolerance0.00001ms.",
+  "errors": []
+}

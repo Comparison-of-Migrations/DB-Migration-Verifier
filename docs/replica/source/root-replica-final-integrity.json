@@ -1,0 +1,23 @@
+{
+  "phase": "UI_REPLICA_COMPLETE_PROTECTED_AND_CURRENT_PRODUCT_PASSED",
+  "productSnapshot": "94d231816c45427391f431e2df937479",
+  "productFiles": 129,
+  "lockManifests": 71,
+  "protectedFileOrFragmentChecks": 101,
+  "mismatches": [],
+  "missingContractLinks": [],
+  "scope": "Current full product129 files: osx-arm64/win-x64 each0warnings/errors and current hashes match; original web intact; replica-preview actual both-OS/KOEN full flow and changed padding/Toast parent scope complete. Default live-DB implementation/BR-B/releases outside this UI completion.",
+  "cleanupBoundary": "Exact owned component processes/windows only; user tabs and unattributed system diagnostic are not closed or claimed zero.",
+  "intentionalProductChange": {
+    "file": "src/Verifier.Desktop/ReplicaWorkspace.cs",
+    "scope": "MainContent parent Toast intrinsic width/actual-DPR quantization/fixed document anchor/status-live metadata and existing Viewport transparent hit plane; protected leaves unchanged",
+    "sha256": "8c91cc7cde6eb37060bd30b77c76be8491ec352143ae5e3f5dbdc61e2e0a1a36",
+    "evidence": "docs/replica/specs/MainContent.md",
+    "oldFullBuildIdentity": "44ac42ef031a464081e06113fdcea310"
+  },
+  "finalAssembly": {
+    "path": "docs/replica/source/root-final-assembly-proof.json",
+    "sha256": "eb9e3f4a91b775dde551b2f3fbea8bcb338015f7d6f7203c65d725d27f025207"
+  },
+  "remaining": []
+}

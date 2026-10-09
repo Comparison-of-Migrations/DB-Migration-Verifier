@@ -1,0 +1,8 @@
+{
+  "status": "PASSED",
+  "checks": 185,
+  "differences": [],
+  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/pageintegrationresults-mac-source-valid.json",
+  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/connection/pageintegration/cf902651f02548a9a76792c41ead0516/actual-results-macos/pageintegrationresults-actual-layout.json",
+  "scope": "New actualOS App parent4 allocations/focus/scroll/footer; passive API setup is not trusted input, protected child matrices reused"
+}
