@@ -1,6 +1,6 @@
 # 현재 상태
 
-**UI 구현 1차 커밋 준비 · 2026-10-09.** 새 UI와 실제 엔진 통합·상세 검사·지원/임시 보호·시험 DB·배포/제출 순서는 [1차 체크포인트와 남은 작업](ui-first-checkpoint.md)이 현재 요약이다. 아래 개별 날짜의 구현·검증 내용은 이력으로 보존한다. 이번 푸시 전 Core 중단 상태 회귀를 교정했고, 139 통과/0 실패/실제 PG 환경 미설정 17 건너뜀을 구분한다. 복제 UI의 LOCK 보호 범위는 변경하지 않았다.
+**UI 구현 1차 푸시 완료 · 2026-10-09.** [첫 구현 커밋 e2ce8cb](https://github.com/Comparison-of-Migrations/DB-Migration-Verifier/commit/e2ce8cb)을 `origin/main`에 푸시했다. 새 UI와 실제 엔진 통합·상세 검사·지원/임시 보호·시험 DB·배포/제출 순서는 [1차 체크포인트와 남은 작업](ui-first-checkpoint.md)이 현재 요약이다. 아래 개별 날짜의 구현·검증 내용은 이력으로 보존한다. 이번 푸시 전 Core 중단 상태 회귀를 교정했고, 139 통과/0 실패/실제 PG 환경 미설정 17 건너뜀을 구분한다. 복제 UI의 LOCK 보호 범위는 변경하지 않았다.
 
 **REPLICA-01 완료 · 실행 웹 → Avalonia 예시 화면 복제.** 2026-10-09 원본을 기준으로9페이지 구현·실제 앱 `--replica-preview` 연결·macOS/Windows 한국어/영어 전체 사용자 흐름을 검증했다. MainContent→MainWindow LOCK까지 완료, 보호71개/101범위·현재129파일 해시 일치, 두RID 전체 제품 빌드 경고/오류0. 실제 Windows44 공통 상태/3308검사/차이0, Mac44/3312/0 및 변경 영향 증거를 합성했다. [현재 상태](replica/COMPONENT_STATUS.md)와 [최종 증거](replica/source/root-final-assembly-proof.json)를 따른다. 완료된 소유 검증 창·프로세스 종료0, 담당자·OS자원 INACTIVE다. 임시 압축 재개 절은 제거하고 원본/LOCK/즉시종료 정본 규칙·명세·실패 기록은 보존했다.
 
