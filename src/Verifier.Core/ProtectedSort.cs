@@ -7,20 +7,21 @@ namespace Verifier.Core;
 public sealed class ProtectedSort : IDisposable
 {
     private readonly string directory;
+    private readonly PrivateWorkspace workspace;
+    private bool disposed;
     private readonly byte[] key=RandomNumberGenerator.GetBytes(32);
     private readonly Guid run=Guid.NewGuid();
     private readonly int budget;
     private readonly List<byte[]> buffer=[];
     private readonly List<(string Path,long Count,byte[] Id)> chunks=[];
     private int used, serial;
-    public ProtectedSort(int bufferBytes=8*1024*1024)
+    private readonly IComparer<byte[]> comparer;
+    public ProtectedSort(int bufferBytes=8*1024*1024,IComparer<byte[]>? rowComparer=null)
     {
-        if (OperatingSystem.IsWindows()) throw new VerificationException(Reason.PlatformNotVerified);
-        budget=bufferBytes;
-        directory=Path.Combine(Path.GetTempPath(),"dmv-"+run.ToString("N"));
-        Directory.CreateDirectory(directory,UnixFileMode.UserRead|UnixFileMode.UserWrite|UnixFileMode.UserExecute);
-        if (File.GetUnixFileMode(directory) != (UnixFileMode.UserRead|UnixFileMode.UserWrite|UnixFileMode.UserExecute))
-            throw new VerificationException(Reason.TemporaryStorage);
+        if(bufferBytes<=0)throw new ArgumentOutOfRangeException(nameof(bufferBytes));
+        comparer=rowComparer??ByteComparer.Instance;budget=bufferBytes;
+        try{workspace=new("sort");}catch{CryptographicOperations.ZeroMemory(key);throw;}
+        directory=workspace.DirectoryPath;
     }
     public void Add(byte[] row)
     {
@@ -31,7 +32,7 @@ public sealed class ProtectedSort : IDisposable
     private void Flush()
     {
         if (buffer.Count==0) return;
-        buffer.Sort(ByteComparer.Instance);
+        try{buffer.Sort(comparer);}catch(InvalidOperationException e)when(e.InnerException is VerificationException){throw (VerificationException)e.InnerException;}
         chunks.Add(Write(buffer));
         buffer.Clear(); used=0;
     }
@@ -54,8 +55,7 @@ public sealed class ProtectedSort : IDisposable
     private (string Path,long Count,byte[] Id) Write(IEnumerable<byte[]> rows)
     {
         var path=Path.Combine(directory,(serial++).ToString("D8")+".chunk");
-        if(OperatingSystem.IsWindows()) throw new VerificationException(Reason.PlatformNotVerified);
-        using var stream=new FileStream(path,new FileStreamOptions { Mode=FileMode.CreateNew, Access=FileAccess.Write, UnixCreateMode=UnixFileMode.UserRead|UnixFileMode.UserWrite });
+        using var stream=PrivateStorage.CreateFile(path);
         using var writer=new BinaryWriter(stream);
         using var cipher=new AesGcm(key,16);
         var fileId=RandomNumberGenerator.GetBytes(16);
@@ -104,7 +104,7 @@ public sealed class ProtectedSort : IDisposable
     private IEnumerable<byte[]> Merge(IEnumerable<(string Path,long Count,byte[] Id)> files,CancellationToken token)
     {
         var iterators=files.Select(f=>Read(f).GetEnumerator()).ToArray();
-        var queue=new PriorityQueue<int,byte[]>(ByteComparer.Instance);
+        var queue=new PriorityQueue<int,byte[]>(comparer);
         try
         {
             for(var i=0;i<iterators.Length;i++) if(iterators[i].MoveNext()) queue.Enqueue(i,iterators[i].Current);
@@ -118,9 +118,10 @@ public sealed class ProtectedSort : IDisposable
     }
     public void Dispose()
     {
+        if(disposed)return;disposed=true;
         CryptographicOperations.ZeroMemory(key);
         foreach(var row in buffer) CryptographicOperations.ZeroMemory(row);
-        if (Directory.Exists(directory) && (File.GetAttributes(directory)&FileAttributes.ReparsePoint)==0) Directory.Delete(directory,true);
+        workspace.Dispose();
     }
     public sealed class ByteComparer : IComparer<byte[]>
     {

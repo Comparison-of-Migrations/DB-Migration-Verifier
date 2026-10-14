@@ -35,6 +35,7 @@ public sealed class WebResultDetails : Panel
     {
         UseLayoutRounding=false;Focusable=true;IsTabStop=false;FocusAdorner=null;IsVisible=false;Background=new SolidColorBrush(Color.FromArgb(128,14,15,20));
         KeyboardNavigation.SetTabNavigation(this,KeyboardNavigationMode.Cycle);_surface.BoxShadow=new(new BoxShadow{OffsetY=18,Blur=48,Color=Color.FromArgb(36,0,0,0)});
+        Body.PageRequested+=_=>{BodyViewport.Offset=0;InvalidateMeasure();};
         BodyViewport.Content=Body;_flow=new(this);OuterViewport.Content=_flow;_surface.Child=OuterViewport;Children.Add(_surface);
         AutomationProperties.SetAutomationId(this,"ResultDetails");AutomationProperties.SetAutomationId(CloseButton,"ResultDetails-close");AutomationProperties.SetAutomationId(FooterCloseButton,"ResultDetails-footer-close");AutomationProperties.SetAutomationId(BodyViewport,"ResultDetails-body");
         AddHandler(KeyDownEvent,(_,_)=>_lastNavigationMethod=NavigationMethod.Tab,RoutingStrategies.Tunnel,true);
@@ -50,11 +51,11 @@ public sealed class WebResultDetails : Panel
         },RoutingStrategies.Bubble,true);
         DetachedFromVisualTree+=(_,_)=>{_playback?.Dispose();RestoreBackground();};
     }
-    public void Open(string title,IEnumerable<string> checks,bool behavior,WebDetailScope? scope,bool english=false,Control? opener=null,Control? backgroundContent=null,NavigationMethod initialFocusMethod=NavigationMethod.Unspecified)
+    public void Open(string title,IEnumerable<string> checks,bool behavior,WebDetailScope? scope,bool english=false,Control? opener=null,Control? backgroundContent=null,NavigationMethod initialFocusMethod=NavigationMethod.Unspecified,int pageIndex=0)
     {
         _playback?.Dispose();RestoreBackground();_closing=false;_lastNavigationMethod=initialFocusMethod;_opener=opener;_backgroundContent=backgroundContent;
         if(backgroundContent is not null){_previousEffect=backgroundContent.Effect;_previousEnabled=backgroundContent.IsEnabled;backgroundContent.Effect=new BlurEffect{Radius=2};backgroundContent.SetCurrentValue(IsEnabledProperty,false);}
-        TitleText.Text=title;AutomationProperties.SetName(this,title);WebIconButton.SetAccessibleName(CloseButton,english?"Close":"닫기");_flow.ReplaceFooter(new WebActionButton{Content=english?"Close":"닫기",ReducedMotion=ReducedMotion});Body.ReducedMotion=ReducedMotion;Body.SetPresentation(checks,behavior,scope,english);IsVisible=true;BodyViewport.Offset=OuterViewport.Offset=0;InvalidateMeasure();
+        TitleText.Text=title;AutomationProperties.SetName(this,title);WebIconButton.SetAccessibleName(CloseButton,english?"Close":"닫기");_flow.ReplaceFooter(new WebActionButton{Content=english?"Close":"닫기",ReducedMotion=ReducedMotion});Body.ReducedMotion=ReducedMotion;Body.SetPresentation(checks,behavior,scope,english,pageIndex);IsVisible=true;BodyViewport.Offset=OuterViewport.Offset=0;InvalidateMeasure();
         if(TopLevel.GetTopLevel(this) is not null){_playback=WebMotion.Play(_surface,WebMotionKind.Modal,ReducedMotion);CloseButton.Focus(initialFocusMethod);}
     }
     public async Task CloseAsync()

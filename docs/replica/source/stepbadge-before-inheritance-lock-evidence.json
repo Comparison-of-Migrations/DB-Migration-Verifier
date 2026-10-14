@@ -1,9 +1,0 @@
-{
-  "component": "StepBadge",
-  "lockedAt": "2026-10-07",
-  "scope": "Passive step-index; original two languages, normal/active/done/inherited disabled; two OS DPR2",
-  "files": {
-    "src/Verifier.Desktop/WebStepBadge.cs": "dfe6013c585f155679e3a3e0bd6c255305d2dbc94fd208cd3f258180fa8eb09f"
-  },
-  "status": "UNLOCKED FOR DOCUMENTED EXCEPTION"
-}

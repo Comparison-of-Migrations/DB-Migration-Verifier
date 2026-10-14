@@ -1,8 +1,0 @@
-{
-  "component": "SidebarItem",
-  "lockedAt": "2026-10-07",
-  "scope": "Original .step; KO/EN/three widths; two OS DPR2, 132layout132updates50timing12focuspixels and actual keyboard/disabled/reduced",
-  "files": {
-    "src/Verifier.Desktop/WebSidebarItem.cs": "a1323cbe0ab12cc77b3488400ca194851bc0edfa53b9e2ab00a3280ebafcf681"
-  }
-}

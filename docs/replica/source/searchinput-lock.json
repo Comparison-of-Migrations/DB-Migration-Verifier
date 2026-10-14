@@ -1,8 +1,0 @@
-{
-  "component": "SearchInput",
-  "lockedAt": "2026-10-07",
-  "scope": "Original search-field composition; two OS DPR2 and Tables/Matching contexts; inherited locked editor/button contracts",
-  "files": {
-    "src/Verifier.Desktop/WebSearchInput.cs": "50806c7dad66d0934832f6643a9f972aea635711f6e6d7e003447841432e10fa"
-  }
-}

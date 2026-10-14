@@ -1,9 +1,0 @@
-{
-  "currentProductSha256": "e979740b0bbf191e5b1d4e0f7450d11c3979d286c5ec6e46835398ce55d3dbba",
-  "oldProductSha256": "11b8cedef1e5490c7d45580ffc7460266faa16217de0b67e3ff475e8883aa46a",
-  "onlyChanged": "Own generic parent AutomationId replaced by supported AccessibilityView.Raw; geometry/font/text/motion byte-identical",
-  "preservedHeadless": "72/9/source7",
-  "preservedMac": "actual72/9/source7/paint",
-  "newMacTargetPeer": "unnamed container2Text actual a1a53",
-  "nullOverrideFailed": "6df compiled but actual AXcannotComplete and process absence; not retained in product"
-}

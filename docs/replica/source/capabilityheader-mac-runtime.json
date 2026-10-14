@@ -1,6 +1,0 @@
-{
-  "manifest": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/preflight/capabilityheader/c3db237299d44a1d85c6cce53f775724/build.json",
-  "bundle": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/CapabilityHeaderCheck.app",
-  "runtime": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/CapabilityHeaderCheck.app/Contents/MacOS/runtime",
-  "binarySha256": "4a54ee931bafd9e43aeaa8847a3f078a4591d14766849f013e8368b696fc1821"
-}

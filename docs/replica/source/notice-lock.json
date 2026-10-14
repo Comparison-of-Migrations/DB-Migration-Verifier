@@ -1,7 +1,0 @@
-{
-  "component": "Notice",
-  "contract": "Original helper passive notice with title inline strut/body/icon/surface and Page mount motion; original KO/EN content at DPR2 on Mac and Windows. Parent page rendering untouched.",
-  "files": {
-    "src/Verifier.Desktop/WebNotice.cs": "d9722d3817e0531ced24a5dfe40c02a1900c31d5bc2c635b1a38f8baba89c73c"
-  }
-}

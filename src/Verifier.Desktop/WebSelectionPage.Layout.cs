@@ -5,6 +5,7 @@ using Avalonia.Controls;
 using Avalonia.Input;
 using Avalonia.Media;
 using Avalonia.VisualTree;
+using Avalonia.Threading;
 
 namespace Verifier.Desktop;
 
@@ -74,6 +75,7 @@ public sealed partial class WebSelectionPage
         public WebCapabilityViewport Viewport { get; } = new();
         public Panel Shell { get; }
         public WebSystemTextBlock Caption { get; } = Small();
+        public WebResultPager? Pager{get;private set;}
         private readonly WebSelectionPage _page;
         private WebMotionPlayback? _fade;
         public TableSection(WebSelectionPage page)
@@ -97,24 +99,50 @@ public sealed partial class WebSelectionPage
         {
             Search.ReducedMotion = Bulk.Checkbox.ReducedMotion = Deselect.ReducedMotion = _page.ReducedMotion;
             if (Search.Text != _page.View.Query) Search.Text = _page.View.Query;
-            var shown = _page.Shown; var count = shown.Count(_page.View.Tables.Contains);
+            var selected=_page.SelectedMembership();var count=0;var shownCount=0;
+            var requested=Math.Max(0,_page.View.PageIndex);var first=(long)requested*WebResultPager.PageSize;var visible=new List<string>();
+            foreach(var name in _page.Shown)
+            {
+                if(selected(name))count++;
+                if(!_page.View.Actual||shownCount>=first&&visible.Count<WebResultPager.PageSize)visible.Add(name);
+                shownCount=checked(shownCount+1);
+            }
+            var paged=_page.View.Actual&&shownCount>WebResultPager.PageSize;
+            var index=paged?Math.Clamp(_page.View.PageIndex,0,WebResultPager.LastPage(shownCount)):0;
+            if(_page.View.Actual&&index!=requested)visible=_page.Shown.Skip(index*WebResultPager.PageSize).Take(WebResultPager.PageSize).ToList();
+            if(_page.View.PageIndex!=index){_page.View=_page.View with{PageIndex=index};replaceRows=true;}
             Heading.Right.Text = $"{_page.View.Tables.Count} / {_page.View.Maps.Count} " + _page.T("개 선택", "selected");
-            Meta.Left.Text = $"{shown.Length} " + _page.T("개 표시 · 전체", "shown · of") + $" {_page.View.Maps.Count} " + _page.T("개", "tables");
-            Bulk.Checkbox.IsChecked = count > 0 && count < shown.Length ? null : shown.Length > 0 && count == shown.Length; Bulk.Checkbox.IsEnabled = shown.Length > 0; Deselect.IsEnabled = count > 0;
-            if (replaceRows) { CancelFade(); Table.ReplaceRows(shown); }
-            foreach (var row in Table.Rows) { row.Selected = _page.View.Tables.Contains(row.SourceName); row.ReducedMotion = _page.ReducedMotion; }
+            Meta.Left.Text = $"{shownCount} " + _page.T("개 표시 · 전체", "shown · of") + $" {_page.View.Maps.Count} " + _page.T("개", "tables");
+            Bulk.Checkbox.IsChecked = count > 0 && count < shownCount ? null : shownCount > 0 && count == shownCount; Bulk.Checkbox.IsEnabled = shownCount > 0; Deselect.IsEnabled = count > 0;
+            if (replaceRows) { CancelFade(); Table.ReplaceRows(visible.ToArray()); }
+            foreach (var row in Table.Rows) { row.Selected = selected(row.ScopeKey); row.ReducedMotion = _page.ReducedMotion; }
+            if(Pager!=null)Children.Remove(Pager);Pager=null;
+            if(paged)
+            {
+                Pager=new(shownCount,index,_page.View.English,_page.ReducedMotion,"Selection-page",page=>
+                {
+                    _page.Publish(_page.View with{PageIndex=page},"page");
+                    Dispatcher.UIThread.Post(()=>
+                    {
+                        if(!_page._attached||_page.View.PageIndex!=page||_page.Pager is not{}pager)return;
+                        var button=page>index?pager.NextButton:pager.PreviousButton;
+                        if(!button.IsEnabled)button=pager.NextButton.IsEnabled?pager.NextButton:pager.PreviousButton;
+                        button.Focus(_page._keyboard?NavigationMethod.Tab:NavigationMethod.Pointer);
+                    },DispatcherPriority.Loaded);
+                });Children.Add(Pager);
+            }
             InvalidateMeasure();
         }
         protected override Size MeasureOverride(Size size)
         {
             foreach (var c in Children) c.Measure(new(size.Width, double.PositiveInfinity));
             var units = 64 * (TopLevel.GetTopLevel(this)?.RenderScaling ?? 2); Caption.LineHeight = Math.Floor(19.2 * units) / units; Caption.Measure(new(size.Width, double.PositiveInfinity));
-            return new(size.Width, Heading.DesiredSize.Height + 12 + Toolbar.DesiredSize.Height + 12 + Meta.DesiredSize.Height + 10 + Shell.DesiredSize.Height + 12 + Caption.DesiredSize.Height);
+            return new(size.Width, Heading.DesiredSize.Height + 12 + Toolbar.DesiredSize.Height + 12 + Meta.DesiredSize.Height + 10 + Shell.DesiredSize.Height + 12 + (Pager==null?0:Pager.DesiredSize.Height+12) + Caption.DesiredSize.Height);
         }
         protected override Size ArrangeOverride(Size size)
         {
             double y = 0; void Put(Control c, double gap) { c.Arrange(new(0, y, size.Width, c.DesiredSize.Height)); y += c.DesiredSize.Height + gap; }
-            Put(Heading, 12); Put(Toolbar, 12); Put(Meta, 10); Put(Shell, 12); Put(Caption, 0); return size;
+            Put(Heading, 12); Put(Toolbar, 12); Put(Meta, 10); Put(Shell, 12);if(Pager!=null)Put(Pager,12);Put(Caption, 0); return size;
         }
     }
     private sealed class TableShellPanel : Panel
@@ -155,8 +183,9 @@ public sealed partial class WebSelectionPage
             Rows.Clear(); Body.Children.Clear();
             foreach (var name in shown)
             {
-                var row = new WebTableMappingRow { SourceName = name, TargetName = _page.View.Maps[name], Manual = _page.View.Maps[name] != name, ReducedMotion = _page.ReducedMotion, BottomBorderShare = name == shown.Last() ? 0 : .5 };
+                var row = new WebTableMappingRow { ScopeKey=name, SourceName = name, TargetName = _page.View.Maps[name], Manual = _page.View.Maps[name] != name, ReducedMotion = _page.ReducedMotion, BottomBorderShare = name == shown.Last() ? 0 : .5 };
                 row.MethodText.Text = row.Manual ? _page.T("수동 · 이름 차이 유지", "Manual · Name difference retained") : _page.T("동일 이름", "Same name"); row.ChangeButton.Content = _page.T("대응 변경", "Change match");
+                if(_page.MappingPresentation is{}present){var display=present(name);row.SourceName=display.Source;row.TargetName=display.Target;row.MethodText.Text=display.Method;row.ChangeButton.IsEnabled=display.Editable;Avalonia.Automation.AutomationProperties.SetName(row.Checkbox,display.Source=="—"?display.Target+" · "+display.Method:display.Source);}
                 AutomationProperties.SetAutomationId(row.Checkbox, "Selection-table-" + name); AutomationProperties.SetAutomationId(row.ChangeButton, "Selection-mapping-" + name);
                 row.SelectionChanged += (_, _) => { if (!_page._updating) _page.Publish(_page.View with { Tables = Toggle(_page.View.Tables, name, row.Selected) }, "table:" + name); };
                 row.ChangeRequested += (_, _) => _page.ActionRequested?.Invoke(_page, "mapping:" + name);

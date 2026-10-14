@@ -152,7 +152,11 @@ public sealed class WebSystemTextBlock : Decorator
     protected override AutomationPeer OnCreateAutomationPeer() => new SystemTextAutomationPeer(this);
     private sealed class SystemTextAutomationPeer(WebSystemTextBlock owner) : ControlAutomationPeer(owner)
     {
-        protected override string GetNameCore() => OperatingSystem.IsWindows() ? Avalonia.Automation.AutomationProperties.GetName(owner) ?? owner.Text ?? "" : owner.Text ?? "";
+        protected override string GetNameCore()
+        {
+            var explicitName=OperatingSystem.IsWindows()?Avalonia.Automation.AutomationProperties.GetName(owner):null;
+            return string.IsNullOrEmpty(explicitName)?owner.Text??"":explicitName;
+        }
         protected override AutomationControlType GetAutomationControlTypeCore() => OperatingSystem.IsMacOS() && Avalonia.Automation.AutomationProperties.GetHeadingLevel(owner)>0 ? AutomationControlType.Header : AutomationControlType.Text;
         protected override IReadOnlyList<AutomationPeer>? GetChildrenCore() => OperatingSystem.IsWindows() ? Array.Empty<AutomationPeer>() : base.GetChildrenCore();
     }

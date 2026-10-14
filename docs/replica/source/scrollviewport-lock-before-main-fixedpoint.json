@@ -1,7 +1,0 @@
-{
-  "component": "ScrollViewport",
-  "contract": "Sidebar vertical overflow:auto: 64 layout/boundary,8 minimum cases and scoped actual input/state/overlay evidence. Default OS renderer AA differences accepted under 2026-10-07 user instruction; no MainContent horizontal claim.",
-  "files": {
-    "src/Verifier.Desktop/WebScrollViewport.cs": "c6e47d262fb137150a6e4a77d9c68f8c379a0da4df89358567c73ecf528ae14e"
-  }
-}

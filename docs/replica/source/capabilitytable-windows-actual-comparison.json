@@ -1,7 +1,0 @@
-{
-  "source": "docs/replica/source/capabilitytable-windows-source.json",
-  "candidate": "artifacts/replica/workers/preflight/capabilitytable/f021e0de19e4455d953d37728054df00/actual-windows/capabilitytable-native.json",
-  "tables": 12,
-  "differences": [],
-  "passed": true
-}

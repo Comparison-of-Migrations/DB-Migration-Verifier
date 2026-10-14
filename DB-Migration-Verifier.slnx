@@ -4,7 +4,4 @@
     <Project Path="src/Verifier.Data/Verifier.Data.csproj" />
     <Project Path="src/Verifier.Desktop/Verifier.Desktop.csproj" />
   </Folder>
-  <Folder Name="/tests/">
-    <Project Path="tests/Verifier.Tests/Verifier.Tests.csproj" />
-  </Folder>
 </Solution>

@@ -18,6 +18,7 @@ public sealed class WebSavePage : Panel
     public WebSaveView View { get; private set; } = new(false, false, ["json"]);
     public event EventHandler<WebFormatSelection>? FormatChanged;
     public event EventHandler<string>? ActionRequested;
+    public bool LiveMode{get;init;}
     public bool ReducedMotion { get; set; }
     private double _viewport = 1280;
     private Actions _actions = new();
@@ -32,21 +33,25 @@ public sealed class WebSavePage : Panel
         string T(string ko, string en) => view.English ? en : ko;
         Heading = new();
         Heading.SetPresentation(T("확인한 범위를 결과 파일로 남기세요", "Save the scope you have verified"), T("실제 값·행 키·계정명·접속 정보는 결과에 넣지 않습니다. 예시 결과 파일은 이 시안에서 다시 열 수 있습니다.", "No row values, keys, principal names or connection details are included. Sample JSON files can be reopened in this preview."));
+        if(LiveMode)Heading.SetPresentation(T("확인한 범위를 결과 파일로 남기세요","Save the scope you have verified"),T("실제 값·행 키·계정명·접속 정보는 결과에 넣지 않습니다. 저장한 JSON은 새 검사 없이 다시 열 수 있습니다.","Row values, keys, principal names and connection details are excluded. Reopen saved JSON without a new check."));
         Children.Add(Heading);
         Options = new() { ReducedMotion = ReducedMotion }; Options.SetPresentation(view.Formats, view.English);
+        if(LiveMode)
+        {
+            var html=Options.Options.Single(o=>o.Format=="html");html.DescriptionText.Text=T("브라우저에서 읽는 검사 보고서","Inspection report for your browser");
+            Avalonia.Automation.AutomationProperties.SetName(html.Checkbox,html.TitleText.Text+" "+html.DescriptionText.Text);
+        }
         Options.SelectionChanged += (_, change) => {
             var selected = Options.SelectedFormats.ToArray();
             SetPresentation(View with { Formats = selected }, _viewport, change.Format, change.FocusVisible);
             FormatChanged?.Invoke(this, change);
         };
         Children.Add(Options);
-        Summary = new(); Summary.SetPresentation([
-            new(T("포함", "Included"), [T("예시 run ID, 선택 범위, 완료·중단·미시작, 판정과 확인 불가 이유, 안전한 finding 위치", "Sample run ID, scope, completed/interrupted/pending states, outcomes, gap reasons and safe finding locations")]),
-            new(T("제외", "Excluded"), [T("실제 값·PK·비밀번호·토큰·원 SQL 정의·접속 설정", "Values, PKs, passwords, tokens, raw SQL definitions and connection settings")])
-        ], viewportWidth <= 1100, true);
+        Summary = new(); UpdateSummaryViewport(viewportWidth);
         var section = new Decorator { Child = Summary, Margin = new(0, 30, 0, 0), UseLayoutRounding = false }; Children.Add(section);
         if (view.Saved) {
             SavedNotice = new() { Kind = "ok", ReducedMotion = ReducedMotion, Title = T("예시 파일 다운로드를 요청했습니다", "Sample file downloads were requested"), Text = T("브라우저의 다운로드 결과를 확인하세요. 디스크 저장 성공을 이 화면만으로 확정하지 않습니다.", "Check your browser downloads. This screen alone does not establish a successful disk save.") };
+            if(LiveMode){SavedNotice.Title=T("선택한 결과 파일을 저장했습니다","Selected result files saved");SavedNotice.Text=T("저장한 JSON을 다시 열어 같은 검사 ID와 결과를 확인할 수 있습니다.","Reopen saved JSON to review the same run ID and outcomes.");}
             Children.Add(SavedNotice);
         }
         _actions = new() { Margin = new(0, 24, 0, 0) };
@@ -63,10 +68,19 @@ public sealed class WebSavePage : Panel
             if (focusVisible) box.Focus(NavigationMethod.Tab); else box.FocusFromPointer();
         }, DispatcherPriority.Loaded);
     }
+    public void UpdateSummaryViewport(double width)
+    {
+        _viewport=width;string T(string ko,string en)=>View.English?en:ko;
+        Summary.SetPresentation([
+            new(T("포함", "Included"), [T("예시 run ID, 선택 범위, 완료·중단·미시작, 판정과 확인 불가 이유, 안전한 finding 위치", "Sample run ID, scope, completed/interrupted/pending states, outcomes, gap reasons and safe finding locations")]),
+            new(T("제외", "Excluded"), [T("실제 값·PK·비밀번호·토큰·원 SQL 정의·접속 설정", "Values, PKs, passwords, tokens, raw SQL definitions and connection settings")])
+        ], _viewport <= 1100, true);
+        if(LiveMode)Summary.SetPresentation([new(T("포함","Included"),[T("검사 ID, 선택 범위·대응, 완료·중단·미시작, 판정·미검증 이유, 안전한 finding 위치","Run ID, scope and matching, execution states, verdicts, observation limits and safe finding locations")]),new(T("제외","Excluded"),[T("실제 값·행 키·계정명·비밀번호·토큰·원 SQL 정의·접속 설정","Values, row keys, principal names, credentials, raw SQL and connection settings")])],_viewport<=1100,true);
+    }
     public void SetFooter(WebActionFooter footer)
     {
         string T(string ko, string en) => View.English ? en : ko;
-        footer.SetContent(View.Formats.Count > 0 ? T("브라우저 다운로드로 예시 파일을 만듭니다.", "Create sample files via browser downloads.") : T("저장할 형식을 선택하세요.", "Choose a file format."),
+        footer.SetContent(View.Formats.Count > 0 ? (LiveMode?T("저장 위치를 선택해 실제 결과 파일을 보관합니다.","Choose a destination for actual result files."):T("브라우저 다운로드로 예시 파일을 만듭니다.", "Create sample files via browser downloads.")) : T("저장할 형식을 선택하세요.", "Choose a file format."),
             new("back", T("결과로 돌아가기", "Back to results"), "quiet", "back"),
             [new("download", T("선택 형식 저장", "Save selected formats"), "primary", "save", View.Formats.Count > 0)], ReducedMotion);
     }

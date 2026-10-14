@@ -1,7 +1,0 @@
-{
-  "os": "headless",
-  "phase": "HEADLESS_PASSED",
-  "cases": 72,
-  "lifecycle": 8,
-  "errors": []
-}

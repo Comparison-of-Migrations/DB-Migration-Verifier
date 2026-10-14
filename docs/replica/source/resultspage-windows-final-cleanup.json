@@ -1,9 +1,0 @@
-{
-  "nativeProcessCount": 0,
-  "sourceWindowCount": 0,
-  "nativeWindowCount": 0,
-  "time": "2026-10-08T09:28:57.157760+00:00",
-  "build": "bb98b4d087c5498ebd504db199b05a5a",
-  "passed": "normal54/actualnormalTrial36/reduced25",
-  "pending": "New pointer filter focus-visible boundary sourcefalse/nativeRingtrue; targetedfix2 bothOS"
-}

@@ -1,9 +1,0 @@
-{
-  "phase": "ACTUAL_OS_PASSED",
-  "scope": "MainContent parent Toast geometry16 and applicable real timer/lifetime; Motion200ms unchanged/reused",
-  "source": "docs/replica/source/home-pageintegrationtoast-windows-composed-source.json",
-  "candidate": "docs/replica/source/home-pageintegrationtoast-windows-composed-candidate.json",
-  "checks": 595,
-  "differences": [],
-  "normalization": "CSS rgba/ARGB and thickness order/omitted shadow spread normalized; numeric geometry tolerance0.001; no font/geometry waiver; actual/native noninteractive presentation seeds, not pointer input"
-}

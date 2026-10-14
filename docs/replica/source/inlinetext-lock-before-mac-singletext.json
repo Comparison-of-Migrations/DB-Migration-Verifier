@@ -1,7 +1,0 @@
-{
-  "component": "InlineText",
-  "contract": "Same 12px mono/22px font full sentence with complementary normal and muted suffix regions; no block split, same source wrap, empty initialization and reuse.",
-  "files": {
-    "src/Verifier.Desktop/WebInlineText.cs": "9bd9ecc805bd55054c0084f6e2a9b1235ffb61cff760e4d1d60d0b16e1627c77"
-  }
-}

@@ -1,6 +1,0 @@
-The following is a diff from the previous accessibility tree for Window: "Replica CapabilityViewport verification" with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
-Removed element IDs: 3
-+		22 container CapabilityViewport-box
-+			23 container
-+				24 button Required permissions, ID: CapabilityViewport-child
-+					25 text Required permissions

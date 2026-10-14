@@ -1,7 +1,0 @@
-{
-  "source": "docs/replica/source/capabilityviewport-mac-source.json",
-  "native": "artifacts/replica/workers/preflight/capabilityviewport/bb429352fabd45288ea019b01ab665fb/outputs/1f4f0c8ff0604e8f80107ffa79585937/candidate/capabilityviewport-native.json",
-  "states": 72,
-  "differences": [],
-  "passed": true
-}

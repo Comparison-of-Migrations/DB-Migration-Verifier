@@ -1,8 +1,0 @@
-{
-  "status": "PASSED",
-  "cases": 16,
-  "checks": 1106,
-  "differences": [],
-  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/preflightpage-mac-source.json",
-  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/preflight/preflightpage/e4cddb4928f6492888623d74beca92b5/outputs/06df806f686d46ea9a522c36146925de/candidate/preflightpage-native.json"
-}

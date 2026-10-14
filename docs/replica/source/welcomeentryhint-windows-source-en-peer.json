@@ -1,5 +1,0 @@
-{
-    "textPeerCount":  1,
-    "name":  "Open a saved result JSON without connecting to a DB or running a new check.",
-    "type":  "ControlType.Text"
-}

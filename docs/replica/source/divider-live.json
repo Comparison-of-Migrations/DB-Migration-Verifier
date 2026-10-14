@@ -1,8 +1,0 @@
-{
-  "page": "Home EN",
-  "selector": ".divider,hr",
-  "count": 0,
-  "border": "#41434a",
-  "sourceCss": ".divider{border-top:1px solid var(--border);margin:24px 0}",
-  "sourceHtmlJsReferences": 0
-}

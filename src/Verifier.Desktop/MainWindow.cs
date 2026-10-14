@@ -45,18 +45,11 @@ public sealed partial class MainWindow : Window
     public MainWindow(bool replicaPreview=false)
     {
         Title="DB-Migration-Verifier"; Width=1180; Height=860; MinWidth=960; MinHeight=720;
-        if(replicaPreview)
-        {
-            ReplicaPreview=new ReplicaWorkspace();Content=ReplicaPreview;
-            ReplicaPreview.ExternalActionRequested+=async(_,action)=>await HandleReplicaAction(action);
-            Closed+=(_,_)=>ReplicaPreview.Dispose();
-            Opened+=(_,_)=>WebSurfaceColorSpace.Apply(this);
-            return;
-        }
-        Content=root; Render();
-        var narrow=Width<=1180;SizeChanged+=(_,_)=>{var next=Bounds.Width<=1180;if(next!=narrow){CaptureInputs();narrow=next;Render();}};
-        Closing+=(_,e)=> { if(busy) { e.Cancel=true; cancellation?.Cancel(); message=T("중단 처리 중입니다. 결과를 확인한 뒤 닫아 주세요.","Stopping. Review the interrupted result before closing."); Render(); } };
-        Closed+=async(_,_)=>await CloseConnections();
+        ReplicaPreview=new ReplicaWorkspace(live:!replicaPreview);Content=ReplicaPreview;
+        ReplicaPreview.ExternalActionRequested+=async(_,action)=>await HandleReplicaAction(action);
+        Closed+=(_,_)=>ReplicaPreview.Dispose();
+        Closing+=(_,e)=>{if(ReplicaPreview.LiveBusy){e.Cancel=true;ReplicaPreview.CancelLive();}};
+        Opened+=(_,_)=>WebSurfaceColorSpace.Apply(this);
     }
     public ReplicaWorkspace? ReplicaPreview {get;}
     private string T(string kr,string en)=>english?en:kr;
@@ -152,12 +145,14 @@ public sealed partial class MainWindow : Window
     }
 
     private string VerdictText(CheckResult x)=>(x.Execution==Execution.Pending?T("미시작 · ","Not started · "):x.Execution==Execution.Interrupted?T("중단 · ","Interrupted · "):"")+(x.Verdict switch { Verdict.Equal=>T("일치","Equal"),Verdict.Different=>T("불일치","Different"),Verdict.Indeterminate=>T("판정 불가","Indeterminate"),_=>T("미검증","Unverified") });
-    private string FindingText(string kind)=>CatalogComparison.Fields.TryGetValue(kind,out var field)?T(field.Korean+" 차이",field.English+" difference"):kind switch { "SourceOnlyRow"=>T("원본에만 관측된 행","Source-only row"),"TargetOnlyRow"=>T("대상에만 관측된 행","Target-only row"),"ColumnDefinition"=>T("컬럼 정의 차이","Column definition difference"),"TableName"=>T("테이블 이름 차이","Table name difference"),_=>T("테이블 유무 차이","Table presence difference") };
+    private string FindingText(string kind)=>CatalogComparison.Fields.TryGetValue(kind,out var field)?T(field.Korean+" 차이",field.English+" difference"):kind switch { "ColumnValue"=>T("같은 키의 행에서 컬럼 값 불일치","Value differs in a matched row"),"SourceOnlyRow"=>T("원본에만 관측된 행","Source-only row"),"SourceOnlyProjection"=>T("비교 컬럼 조합이 원본에만 있음","Source-only values in compared columns"),"TargetOnlyProjection"=>T("비교 컬럼 조합이 대상에만 있음","Target-only values in compared columns"),"TargetOnlyRow"=>T("대상에만 관측된 행","Target-only row"),"ColumnDefinition"=>T("컬럼 정의 차이","Column definition difference"),"TableName"=>T("테이블 이름 차이","Table name difference"),_=>T("테이블 유무 차이","Table presence difference") };
     private string ReasonText(Reason reason)=>reason switch
     {
         Reason.NotImplemented=>T("해당 상세 검사는 아직 구현되지 않았습니다. 관측한 일부 속성이 같아도 전체 일치가 아닙니다.","This detailed check is not fully implemented. Equal observed attributes do not certify the whole scope."),
+        Reason.UnsafeObservation=>T("안전한 관측 방법을 확인하지 못해 해당 실행·값 검사는 확인 불가로 남깁니다. 관측 가능한 정의와 차이는 유지합니다.","No safe observation method was established for this execution or value check. Observable definitions and differences are retained."),
         Reason.UnsupportedType=>T("미지원 타입 또는 다른 컬럼 구성으로 전체 값을 비교하지 못했습니다.","Unsupported types or different column layouts prevent complete value comparison."),
         Reason.RowFiltered=>T("행 정책·조회 권한·테이블 종류로 전체 행 관측을 확인하지 못했습니다.","Policies, read permissions or table kinds prevent confirmed full-row observation."),
+        Reason.MissingDependency=>T("참조된 객체 정의가 없습니다. 이 범위의 일치를 확정할 수 없습니다.","A referenced object definition is missing. This scope cannot be certified equal."),
         Reason.VisibilityUnknown=>T("객체 목록의 완전한 가시성을 확인하지 못했습니다.","Complete inventory visibility could not be confirmed."),
         Reason.Cancelled=>T("사용자 요청으로 중단했습니다. 전체 재검사만 가능합니다.","Cancelled by the user. Start a full new run."),
         Reason.SameDatabase=>T("원본과 대상이 동일한 DB입니다. 서로 다른 DB를 연결하세요.","Source and target are the same database. Connect different databases."),
@@ -165,6 +160,7 @@ public sealed partial class MainWindow : Window
         Reason.NoObjects=>T("검사할 테이블이 없습니다. DB와 선택 범위를 확인하세요. 빈 목록은 일치 결과가 아닙니다.","No tables to compare. Check the databases and selected scope. An empty inventory is not an equal result."),
         Reason.AmbiguousScope=>T("구분할 수 없는 테이블·컬럼 식별이 있습니다. 모호한 대상을 임의로 선택해 비교하지 않습니다.","Table or column identifiers are ambiguous. No arbitrary object is selected for comparison."),
         Reason.MappingIncomplete=>T("대응되지 않은 컬럼이 있습니다. 일부 컬럼만 비교해 전체 데이터 일치로 표시하지 않습니다.","Some columns are not mapped. A partial column comparison never certifies all data."),
+        Reason.AmbiguousRows=>T("키 중복·NULL로 유일 행 대응을 확정하지 않았습니다. 비교 컬럼 전체는 다중집합으로 비교했습니다.","Duplicate or NULL keys prevented unique row pairing. All compared columns were compared as multisets."),
         Reason.IdentityUnknown=>T("두 DB의 실제 식별을 확인하지 못했습니다. 접속 경로와 식별 조회 권한을 확인하세요.","Could not confirm database identities. Check connection routes and identity read permissions."),
         Reason.PermissionDenied=>T("조회 권한이 부족합니다. PostgreSQL 서버 식별에는 pg_control_system 조회 권한도 필요합니다.","Read permission is insufficient. PostgreSQL server identification also needs pg_control_system access."),
         Reason.ConnectionLost=>T("연결·인증·TLS 검증에 실패하거나 연결이 끊겼습니다. 접속 정보와 인증서를 확인하세요. 보안을 낮춰 재시도하지 않습니다.","Connection, authentication or TLS verification failed, or the connection was lost. Check credentials and certificates. No security downgrade."),

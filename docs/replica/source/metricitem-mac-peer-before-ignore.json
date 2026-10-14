@@ -1,7 +1,0 @@
-{
-  "phase": "FAILED",
-  "observed": "container MetricItem with2 literal Text children; extra container name not source",
-  "pid": 61892,
-  "native72And9": "PASSED",
-  "proposedOwnParentCorrection": "OnCreateAutomationPeer returnsnull for source ignored generic div"
-}

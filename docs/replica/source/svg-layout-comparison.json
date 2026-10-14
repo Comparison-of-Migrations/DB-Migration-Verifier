@@ -1,6 +1,0 @@
-{
-  "passed": 153,
-  "failed": 0,
-  "tolerance": 0.0001,
-  "note": "Source-derived primitive fixture, exact logical position/size; actual parent design has separate pending work."
-}

@@ -1,9 +1,0 @@
-{
-  "phase": "HEADLESS_PASSED",
-  "scope": "MainContent parent Toast geometry16 and applicable real timer/lifetime; Motion200ms unchanged/reused",
-  "source": "docs/replica/source/home-pageintegrationtoast-windows-composed-source.json",
-  "candidate": "artifacts/replica/workers/home/pageintegration/b43b125ea6e44257b44935557a4619a8/toast-fetch-headless-windows/pageintegration-toast.json",
-  "checks": 557,
-  "differences": [],
-  "normalization": "CSS rgba/ARGB and thickness order/omitted shadow spread normalized; numeric geometry tolerance0.001; no font/geometry waiver; actual/native noninteractive presentation seeds, not pointer input"
-}

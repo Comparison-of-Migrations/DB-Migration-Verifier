@@ -1,9 +1,0 @@
-{
-  "platform": "mac",
-  "states": 54,
-  "timing": 48,
-  "lifecycle": 10,
-  "failed": 0,
-  "scope": "Original DOM/CSS boxes and enclosing range widths, source WAAPI sampled timeline, same native instance updates, attached public entrance completion/reduced/replacement/detach/replay. Parent axis calculation, row input and whole chart are separate.",
-  "errors": []
-}

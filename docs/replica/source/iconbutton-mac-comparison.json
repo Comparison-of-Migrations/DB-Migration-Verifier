@@ -1,8 +1,0 @@
-{
-  "scope": "Icon-only source .btn.quiet.icon-button endpoints, explicit parent fonts and name updates; locked action/motion/SVG contracts reused",
-  "platform": "mac",
-  "states": 44,
-  "nameUpdates": 12,
-  "failed": 0,
-  "errors": []
-}

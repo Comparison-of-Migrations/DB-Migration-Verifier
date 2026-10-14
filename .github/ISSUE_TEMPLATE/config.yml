@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Private vulnerability report
+    url: https://github.com/Comparison-of-Migrations/DB-Migration-Verifier/security/advisories/new
+    about: Report a suspected vulnerability privately. Do not publish secrets in an issue.

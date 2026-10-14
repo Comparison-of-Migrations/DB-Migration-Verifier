@@ -1,7 +1,0 @@
-# ResultDetailsBody
-LOCKED · 2026-10-08. BulletList LOCK후 실제 detail body를 조립한다. directsource는 original JS60 detail 분기와 source30 데이터 modal body다. categoryDefs의 한/영 검사목록, g가 있을 때만 실행범위 Notice(done/total/status), trial이면cleanupwarn Notice(완료/미완료), 마지막 privacy small marginTop16. Native body는 내부 content폭을 받아 목록/notice/small만 조립하며24padding·65vh 스크롤·창 frame은 부모 ResultDetails가 소유한다. 다음 actual body 자식box와margin collapse 확인 → 80분류/상태/언어/폭 비교 → attached 갱신/분기 검증 → LOCK.
-
-원본30 내용폭570에서 ul y14/h44.796875, scope y78.796875/h71.59375, privacy y166.390625/h19.1953125(content높이185.5859375). body의24padding을 포함한 상대위치는각24/38,24/102.796875,24/190.390625이며 body높이233.5859375. 목록의 bottom14와 다음Notice top20은 max20으로 collapse; notice가 없으면 privacy top16과 max16. native는 자식Margin0으로 두고 이 부모에서 정확한 간격을 조립한다. 원본 JS60 detail 분기의 literal을 독립 fixture로 실행하여 임의 문구 재작성 없이80조건을 수집했다.
-
-## 완료·LOCK
-양OS 각각80조건(lang2×contentWidth438/570×분류5×completed/interrupted/pending/absent)의 목록/notice/정리/privacy box·문구·표시 분기 차이0. `source/detailsbody-{mac,windows}-{source,comparison}.json`과 각native의 `detailsbody-native.json`. 모든80 attached 갱신에서 실제 List/ListItem count·자식 개수·Scope/Cleanup attachment가 조건과 일치: `detailsbody-peer.json`. 각OS lifecycle5에서 normal childNotice mount .35/y6→1/y0, notice가 없는 분기 제거·이전cleanupdetach/reset·reduced pending상태를 확인: `detailsbody-lifecycle.json`. 양OS `detailsbody.png` 시각 확인. 기본 글꼴/marker OS 표현은 잠긴 하위 계약에 따른다. 콘텐츠는 passive이며 버튼·modalclose/focus/scroll은 부모 검증 범위. `source/detailsbody-lock.json`.

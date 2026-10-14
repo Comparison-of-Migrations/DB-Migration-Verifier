@@ -1,8 +1,0 @@
-{
-  "component": "InlineText",
-  "contract": "Same 12px mono/22px font full sentence with complementary normal and muted suffix regions; no block split, same source wrap, empty initialization and reuse. Mac-only current combined Text peer/no duplicated paint children: new headless4/current-name updates and actual4/source single text, cleanup PID96054 process/window0; Windows base provider and geometry unchanged.",
-  "files": {
-    "src/Verifier.Desktop/WebInlineText.cs": "de54e066b3a2cced4f9ade3664b9c2524e2f1c450811bb0a73d887598abfa15b"
-  },
-  "evidence": "docs/replica/source/home-pageintegrationsummarycontent-mac-inline-peer4-comparison.json"
-}

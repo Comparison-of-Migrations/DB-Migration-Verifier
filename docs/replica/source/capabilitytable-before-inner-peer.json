@@ -1,7 +1,0 @@
-{
-  "productSha256": "99ebd53f42b34f0b6173940e16aa687dd43e9dc233d69a910354210d3840dee5",
-  "sourceWindows": "capabilitytable-windows-source.json",
-  "comparison": "capabilitytable-windows-first-comparison.json",
-  "macManagedDiagnostic": "706524b4544c4486850e1b570e217f23/outputs/7bd77d1c853a4234b2849ca564b1fca7/candidate/capabilitytable-ax-diagnostic.json",
-  "reason": "Inner Table semantic geometry owner and natural visual ancestry; Windows measured min constraints"
-}

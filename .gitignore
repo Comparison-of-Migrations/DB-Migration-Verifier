@@ -18,3 +18,18 @@ docs/replica/source/storage-cleanup-result-*.json
 docs/replica/source/storage-cleanup-temp-top-*.json
 docs/replica/source/storage-cleanup-windows-temp-diagnostic-*.json
 docs/replica/screenshots/windows-control/
+
+# Public distribution contains implementation and public-facing project metadata.
+*.md
+*.markdown
+/docs/
+/evidence/
+/examples/
+/tests/
+/.ui-craft/
+/tools/*
+!/tools/Info.plist
+!/tools/package-macos.sh
+!/tools/package-windows.sh
+!/tools/package-archives.py
+!/tools/runtime-README.txt

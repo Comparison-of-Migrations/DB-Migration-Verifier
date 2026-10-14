@@ -1,9 +1,0 @@
-{
-  "component": "Motion",
-  "contract": "Public Play + Completion + IDisposable; caller owns source origin and parent state composition.",
-  "files": {
-    "src/Verifier.Desktop/WebMotion.cs": "25659f502fe1baf72ae037020e81b0f79eb74a05de4db53f0ef065950677e860",
-    "src/Verifier.Desktop/WebMotionPlayback.cs": "2c7a88474988f8c8dd748b6fdabfd2b366880180a7fcc964dfcc4ff1fcd3ac6d",
-    "src/Verifier.Desktop/WebCubicBezierEasing.cs": "77c37854e758260f699cc55c1adcdef7d68f95438980ed62c13e08ebde939746"
-  }
-}

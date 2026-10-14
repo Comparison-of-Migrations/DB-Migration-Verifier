@@ -1,9 +1,0 @@
-{
-  "phase": "ACTUAL_OS_PASSED",
-  "scope": "New connected Trial parent only; source synthetic flow oracle does not replace actual OS input",
-  "cases": 8,
-  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/pageintegration/05e47305ac7b4a33b5f0db40e16a77e0/composed-actual",
-  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/pageintegration/05e47305ac7b4a33b5f0db40e16a77e0/composed-actual",
-  "differences": [],
-  "unverifiedDestinations": []
-}

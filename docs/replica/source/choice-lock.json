@@ -1,7 +1,0 @@
-{
-  "component": "Choice",
-  "contract": "Plain label.choice: 48 minimum, 8 vertical padding, 12 gap, centered 20px checkbox and shrink-to-fit text; label/checkbox no double activation, disabled and outside-release guard. Parent owns margin/replacement/focus.",
-  "files": {
-    "src/Verifier.Desktop/WebChoice.cs": "cdea77721b770650349e73d8364e5b88d48b083644348c18057a9e5beed342ac"
-  }
-}

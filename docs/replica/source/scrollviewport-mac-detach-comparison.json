@@ -1,9 +1,0 @@
-{
-  "platform": "mac",
-  "case": "settled bottom detach then reattach",
-  "sourceOffset": 0,
-  "nativeBefore": 800,
-  "nativeAfter": 0,
-  "capturedAtUtc": "2026-10-07T10:25:10.204058Z",
-  "passed": true
-}

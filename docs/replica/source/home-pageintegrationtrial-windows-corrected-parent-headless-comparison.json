@@ -1,9 +1,0 @@
-{
-  "phase": "HEADLESS_PASSED",
-  "scope": "New connected Trial parent only; source synthetic flow oracle does not replace actual OS input",
-  "cases": 24,
-  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/home-pageintegrationtrial-windows-parent-source.json",
-  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/pageintegration/364eb8c4b07a4052816b21b9fdd87912/headless-windows/e98dfd6a4c8f4b3dacf6ec84fe359995",
-  "differences": [],
-  "unverifiedDestinations": []
-}

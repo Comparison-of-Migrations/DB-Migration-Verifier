@@ -1,5 +1,0 @@
-"""Own immutable Mac bundle and actual output preparation; no focus/input."""
-from pathlib import Path
-import json,plistlib,shutil,sys,hashlib
-r=Path(__file__).resolve().parents[2];manifest=Path(sys.argv[1]).resolve();m=json.loads(manifest.read_text());assert m['owner']=='home' and m['component']=='welcomesteps' and m['runtime']=='osx-arm64' and m['buildExitCode']==0
-binary=Path(m['binary']);assert hashlib.sha256(binary.read_bytes()).hexdigest()==m['binarySha256'];bundle=manifest.parent/'HomeTracksCheck.app';assert not bundle.exists();mac=bundle/'Contents/MacOS';shutil.copytree(binary.parent,mac);(bundle/'Contents/Info.plist').write_bytes(plistlib.dumps({'CFBundleIdentifier':'local.dbmv.replica.hometrackscheck','CFBundleExecutable':'ReplicaProbe','CFBundleName':'HomeTracksCheck','CFBundlePackageType':'APPL','NSHighResolutionCapable':True}));out=manifest.parent/'actual-macos';out.mkdir();(out/'cases.json').write_bytes((r/'artifacts/replica/windows-download/homepage-tracks-cases.json').read_bytes());print(bundle);print(out)

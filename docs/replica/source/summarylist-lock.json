@@ -1,7 +1,0 @@
-{
-  "component": "SummaryList",
-  "contract": "Original zero-gap grid, panel/plain surface, shared CSS min-content track, last-child border and actual viewport media; no independent input or animation.",
-  "files": {
-    "src/Verifier.Desktop/WebSummaryList.cs": "2d79730755af39b7e6fc62d91e038800ad10fd0bd89861cdd2004a63010061e4"
-  }
-}

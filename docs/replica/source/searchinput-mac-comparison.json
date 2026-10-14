@@ -1,8 +1,0 @@
-{
-  "scope": "SearchInput composed geometry across two contexts, KO/EN, widths160/240/380/452 and empty/value/space; locked editor/button/SVG behavior reused",
-  "platform": "mac",
-  "layouts": 48,
-  "updates": 7,
-  "failed": 0,
-  "errors": []
-}

@@ -1,7 +1,0 @@
-{
-  "source": "docs/replica/source/capabilityviewport-mac-source.json",
-  "native": "docs/replica/source/capabilityviewport-mac-native/capabilityviewport-native.json",
-  "states": 72,
-  "differences": [],
-  "passed": true
-}

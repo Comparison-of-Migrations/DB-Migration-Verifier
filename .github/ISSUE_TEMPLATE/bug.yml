@@ -1,0 +1,26 @@
+name: Bug report
+description: Report a reproducible application problem
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: Do not include credentials, private keys, customer data, or production dumps.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Include expected behavior and the smallest sanitized reproduction.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: App version, OS and architecture, DB engine and version.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Sanitized evidence
+      description: Check IDs, unverified reasons, or screenshots with private information removed.

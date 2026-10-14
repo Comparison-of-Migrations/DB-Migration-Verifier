@@ -1,7 +1,0 @@
-{
-  "component": "CategorySection",
-  "contract": "Each OS192 layout/state/shadow,72 CSS transition samples,9 actual states and actual expanded/collapsed accessibility traversal. Parent Selection owns category policy/sequence.",
-  "files": {
-    "src/Verifier.Desktop/WebCategorySection.cs": "9a50f6629f36c18c61f5c588c19987814a34c46dfbd25b2c73c9705bb060245c"
-  }
-}

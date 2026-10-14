@@ -1,7 +1,0 @@
-{
-  "source": "docs/replica/source/capabilitytable-mac-minimum-source.json",
-  "candidate": "artifacts/replica/workers/preflight/capabilitytable/b863a1f31a88467f808bec6225cd942d/outputs/8b2dff36a5af4769bfaf40cd0cd8b760/candidate/capabilitytable-native.json",
-  "tables": 2,
-  "differences": [],
-  "passed": true
-}

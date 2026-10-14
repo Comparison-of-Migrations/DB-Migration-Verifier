@@ -1,6 +1,0 @@
-{
-  "before": "artifacts/replica/workers/home/homepage/8a2b9ec3c0fa46efafcb476be8ce2734/outputs/56a65d488ad341638eb4330b50c75b8d/candidate/homepage-scope-en-960.png",
-  "after": "artifacts/replica/workers/home/homepage/dc2dad5d12144b9297e276dd950b7c19/outputs/2f79ebbb45a84160b7b589c925e1381f/candidate/homepage-scope-en-960.png",
-  "pixelDifferenceBox": null,
-  "reason": "neutralfocus anchor, no geometry/paint changes"
-}

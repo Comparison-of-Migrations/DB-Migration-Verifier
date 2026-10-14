@@ -28,7 +28,7 @@ public static class ExactRow
     }
     public static string CanonicalNumber(string text)
     {
-        if (text is "NaN" or "Infinity" or "-Infinity") throw new VerificationException(Reason.UnsupportedType);
+        if (text is "NaN" or "Infinity" or "-Infinity") return "special:"+text;
         var negative=text.StartsWith('-');
         var start=negative || text.StartsWith('+') ? 1 : 0;
         var point=text.IndexOf('.');
@@ -41,13 +41,15 @@ public static class ExactRow
         return (negative ? "-" : "") + integer.ToString(CultureInfo.InvariantCulture) + ":" + scale.ToString(CultureInfo.InvariantCulture);
     }
     public static byte[] Reorder(byte[] row,IReadOnlyList<int> order)
+        =>Project(row,order.Count,order);
+    public static byte[] Project(byte[] row,int columnCount,IReadOnlyList<int> order)
     {
-        if(row.Length>MaxRowBytes || order.Distinct().Count()!=order.Count || order.Any(i=>i<0||i>=order.Count)) throw new VerificationException(Reason.UnsupportedType);
+        if(row.Length>MaxRowBytes || columnCount<0 || order.Distinct().Count()!=order.Count || order.Any(i=>i<0||i>=columnCount)) throw new VerificationException(Reason.UnsupportedType);
         using var input=new MemoryStream(row,false);using var reader=new BinaryReader(input);
         try
         {
-            if(reader.ReadInt32()!=1 || reader.ReadInt32()!=order.Count) throw new VerificationException(Reason.UnsupportedType);
-            var cells=new (int Start,int Length)[order.Count];
+            if(reader.ReadInt32()!=1 || reader.ReadInt32()!=columnCount) throw new VerificationException(Reason.UnsupportedType);
+            var cells=new (int Start,int Length)[columnCount];
             for(var i=0;i<cells.Length;i++)
             {
                 var start=(int)input.Position;var present=reader.ReadByte();

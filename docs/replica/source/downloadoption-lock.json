@@ -1,7 +1,0 @@
-{
-  "component": "DownloadOption",
-  "contract": "Literal download label card, intrinsic/stretch inline text, checked specificity, one selection request, pointer/keyboard focus; parent owns aggregation/recreation/export.",
-  "files": {
-    "src/Verifier.Desktop/WebDownloadOption.cs": "fd9672c559330211fda3b361e6c854173185cd9f411a97afad11a05a58912710"
-  }
-}

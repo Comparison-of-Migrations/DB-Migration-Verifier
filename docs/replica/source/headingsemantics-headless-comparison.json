@@ -1,8 +1,0 @@
-{
-  "passed": true,
-  "scope": "Mac heading role + ordinary Text, Windows unchanged Text; names/levels/geometry identical across four literals",
-  "mac": "artifacts/replica/workers/root/headingsemantics/60dec5b2c18840aa9684fcca4db37d7c/outputs/485a7b4adc1f4db6910d24c75c154076/candidate/headingsemantics-native.json",
-  "windows": "artifacts/replica/workers/root/headingsemantics/87fa10eaca714ccb8c64e13e7ae736ac/headless/3bf8eaa5ccf44f98b82ef2d2c26c8112/headingsemantics-native.json",
-  "differences": [],
-  "remaining": "actual Mac role/name/level; actual Windows unchanged Text and observed child traversal; final page integration concerns remain separately tracked"
-}

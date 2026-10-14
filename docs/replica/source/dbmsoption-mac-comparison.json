@@ -1,8 +1,0 @@
-{
-  "platform": "mac",
-  "states": 80,
-  "updates": 80,
-  "failed": 0,
-  "scope": "DPR2, original full/compact geometry, KO/EN four engines, selected/hover/focus endpoints. Forced endpoint evidence only.",
-  "errors": []
-}

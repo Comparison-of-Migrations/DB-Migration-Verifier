@@ -1,7 +1,0 @@
-{
-  "previousProductHash": "db1ad6cd02479e0e2c9644ea0dde986cf6789a6cbd0a6586e932ebefadbbc111",
-  "currentProductHash": "560524f98f757d4aad7c3295a2f755c4f8cd64fd78c31446d130f3f1773d6d79",
-  "onlyChange": "own HeadingPeer AutomationControlType.Text to Header; name, level2, children0 and all product layout/state/input/motion unchanged",
-  "macSnapshot": "a8c60d6699564284bd4df812e9afbd84",
-  "windowsSnapshot": "c616fc7b4bef48edad82ac64ebff0c4c"
-}

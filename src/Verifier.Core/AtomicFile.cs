@@ -15,9 +15,9 @@ internal static class AtomicFile
             byte[] expected;
             await using(var stream=new FileStream(temp,options))
             {
-                using var hash=SHA256.Create();
-                await using(var hashing=new CryptoStream(stream,hash,CryptoStreamMode.Write,leaveOpen:true))
-                { await write(hashing); await hashing.FlushFinalBlockAsync(); expected=hash.Hash!; }
+                using var hash=IncrementalHash.CreateHash(HashAlgorithmName.SHA256);
+                await using(var hashing=new HashingStream(stream,hash))
+                { await write(hashing); await hashing.FlushAsync(); expected=hash.GetHashAndReset(); }
                 await stream.FlushAsync(); stream.Flush(true);
             }
             await using(var input=File.OpenRead(temp))

@@ -1,8 +1,0 @@
-{
-  "component": "IconButton",
-  "lockedAt": "2026-10-07",
-  "scope": "Source icon-only quiet button assembled from locked ActionButton; current macOS/Windows DPR2. See specs/IconButton.md for inherited interaction contract.",
-  "files": {
-    "src/Verifier.Desktop/WebIconButton.cs": "e0a26d765b87e48e0bf3e95bd50238e7e3bbe6dbc04530c6e738c8bb63a7bed5"
-  }
-}

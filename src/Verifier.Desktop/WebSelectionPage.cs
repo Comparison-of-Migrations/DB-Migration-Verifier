@@ -11,16 +11,24 @@ namespace Verifier.Desktop;
 
 public sealed record WebSelectionView(bool English, IReadOnlyList<string> Categories, IReadOnlyList<string> Tables,
     IReadOnlyDictionary<string, string> Maps, IReadOnlyList<string> Expanded, string Query, bool TrialReady,
-    string Dbms, string TrialDatabase, string TrialHost, string Error = "");
+    string Dbms, string TrialDatabase, string TrialHost, string Error = "", bool Actual = false)
+{
+    public bool DatabaseScopeAvailable {get;init;}
+    public bool DatabaseScope {get;init;}
+    public int PageIndex {get;init;}
+}
 
 /// <summary>Literal select() parent. The application owns navigation, the matching modal and announcements.</summary>
 public sealed partial class WebSelectionPage : Panel
 {
+    public Func<string,(string Source,string Target,string Method,bool Editable)>? MappingPresentation{get;init;}
+    public Func<string,(string Text,string Kind)>? CapabilityProvider{get;init;}
     public WebSelectionView View { get; private set; } = new(false, ["data", "schema", "access", "objects"],
         ["demo.customers", "demo.orders", "demo.line_items"], new Dictionary<string, string> {
             ["demo.customers"] = "demo.customers", ["demo.orders"] = "demo.orders", ["demo.line_items"] = "demo.line_items" }, [], "", false, "SQL Server", "migration_test", "trial.example.invalid");
     public WebPageHeading Heading { get; private set; } = new();
     public IReadOnlyList<WebCategorySection> Categories => _categories;
+    public WebChoice DatabaseChoice {get;private set;}=new();
     public WebTrialPreparation Preparation { get; private set; } = new();
     public WebSearchInput Search => _section.Search;
     public WebCheckbox BulkCheckbox => _section.Bulk.Checkbox;
@@ -40,6 +48,7 @@ public sealed partial class WebSelectionPage : Panel
     public Control TableControl => _section.Table;
     public IReadOnlyList<WebSystemTextBlock> HeaderLabels => _section.Table.Header.Labels;
     public IReadOnlyList<WebTableMappingRow> Rows => _section.Table.Rows;
+    public WebResultPager? Pager=>_section?.Pager;
     public WebSystemTextBlock Caption => _section.Caption;
     public double[] ColumnWidths => _section.Table.Columns.ToArray();
     public double[] MinimumColumns => _section.Table.Minima.ToArray();
@@ -75,6 +84,7 @@ public sealed partial class WebSelectionPage : Panel
     {
         _viewportWidth = viewportWidth;
         var old = View;
+        if(old.Query!=view.Query)view=view with{PageIndex=0};
         if (!_initialized || old.English != view.English)
         {
             var focus = CaptureFocus(); View = view; _updating = true;
@@ -96,7 +106,10 @@ public sealed partial class WebSelectionPage : Panel
             }
             Preparation = new() { ReducedMotion = ReducedMotion };
             Preparation.PreparationRequested += (_, _) => ActionRequested?.Invoke(this, "trial");
-            _section = new(this); Children.Add(Preparation); Children.Add(_section);
+            _section = new(this); Children.Add(Preparation);
+            DatabaseChoice=new(){ReducedMotion=ReducedMotion,Margin=new(0,16,0,0)};
+            DatabaseChoice.SelectionRequested+=(_,_)=>{if(!_updating)Publish(View with{DatabaseScope=DatabaseChoice.IsSelected},"database-scope");};
+            AutomationProperties.SetAutomationId(DatabaseChoice,"Selection-database-scope");Children.Add(DatabaseChoice);Children.Add(_section);
             _initialized = true; Sync(old, true); _updating = false;
             if (_attached) { PlayEntry(); RestoreFocus(focus); }
         }
@@ -117,10 +130,13 @@ public sealed partial class WebSelectionPage : Panel
                 : d.Key == "access" ? T("일부 가능", "Partial") : T("가능", "Available");
             c.Header.StatusKind = d.Key == "trial" ? (View.TrialReady ? "ok" : "warn") : d.Key == "access" ? "warn" : "ok";
         }
+        if(CapabilityProvider is not null)for(var i=0;i<Definitions.Length;i++){var state=CapabilityProvider(Definitions[i].Key);_categories[i].Header.StatusText=state.Text;_categories[i].Header.StatusKind=state.Kind;}
+        DatabaseChoice.IsVisible=View.Actual&&View.DatabaseScopeAvailable;
+        DatabaseChoice.SetPresentation(T("DB 범위도 검사 · 빈 스키마와 독립 함수·뷰·시퀀스·타입·권한", "Include database scope · empty schemas, standalone routines, views, sequences, types and access"),"database-scope",View.DatabaseScope);
         Preparation.ReducedMotion = ReducedMotion;
         if (rebuild || _replacePreparation || old.TrialReady != View.TrialReady || old.Categories.Contains("trial") != View.Categories.Contains("trial") || old.Dbms != View.Dbms || old.TrialDatabase != View.TrialDatabase || old.TrialHost != View.TrialHost)
-            Preparation.SetPresentation(View.Categories.Contains("trial"), View.TrialReady, View.Dbms, View.TrialDatabase, View.TrialHost, View.English);
-        _section.Sync(rebuild || old.Query != View.Query || !old.Maps.SequenceEqual(View.Maps));
+            Preparation.SetPresentation(View.Categories.Contains("trial"), View.TrialReady, View.Dbms, View.TrialDatabase, View.TrialHost, View.English, View.Actual);
+        _section.Sync(rebuild || old.Actual!=View.Actual || old.Query != View.Query || old.PageIndex!=View.PageIndex || !ReferenceEquals(old.Maps,View.Maps)&&!old.Maps.SequenceEqual(View.Maps));
         if (rebuild || old.Error != View.Error)
         {
             if (_error is not null) Children.Remove(_error); _error = null;
@@ -135,17 +151,25 @@ public sealed partial class WebSelectionPage : Panel
         LastChangeReason = reason;
         ViewChanged?.Invoke(this, View);
     }
-    private static string[] Toggle(IReadOnlyList<string> items, string key, bool selected) => selected ? items.Contains(key) ? items.ToArray() : [.. items, key] : items.Where(x => x != key).ToArray();
-    private string[] Shown => View.Maps.Keys.Where(name => View.Query.Trim().Length == 0 || name.Contains(View.Query.Trim(), StringComparison.OrdinalIgnoreCase) || View.Maps[name].Contains(View.Query.Trim(), StringComparison.OrdinalIgnoreCase)).ToArray();
+    private static IReadOnlyList<string> Toggle(IReadOnlyList<string> items,string key,bool selected)
+        =>items is WebScopeKeys keys?keys.WithSelected(key,selected):selected?items.Contains(key)?items.ToArray():[..items,key]:items.Where(x=>x!=key).ToArray();
+    private bool MatchesQuery(string name)=>View.Query.Trim().Length==0||name.Contains(View.Query.Trim(),StringComparison.OrdinalIgnoreCase)||View.Maps[name].Contains(View.Query.Trim(),StringComparison.OrdinalIgnoreCase);
+    private IEnumerable<string> Shown=>View.Maps.Keys.Where(MatchesQuery);
+    private Func<string,bool> SelectedMembership()=>View.Tables is WebScopeKeys keys?keys.Contains:View.Tables.ToHashSet(StringComparer.Ordinal).Contains;
     private void Bulk(bool selected, string reason)
     {
-        var tables = View.Tables.ToArray(); foreach (var name in Shown) tables = Toggle(tables, name, selected); Publish(View with { Tables = tables }, reason);
+        if(View.Tables is WebScopeKeys keys)
+        {Publish(View with{Tables=keys.WithMatches(name=>View.Maps.ContainsKey(name)&&MatchesQuery(name),selected,View.Query.Trim().Length==0)},reason);return;}
+        var membership=selected?SelectedMembership():null;
+        IReadOnlyList<string> tables=selected?View.Tables.Concat(Shown.Where(name=>!membership!(name))).ToArray()
+            :View.Tables.Where(name=>!View.Maps.ContainsKey(name)||!MatchesQuery(name)).ToArray();
+        Publish(View with { Tables = tables }, reason);
     }
     public void SetFooter(WebActionFooter footer)
     {
-        var disabled = View.Categories.Count == 0 || (View.Categories.Contains("data") || View.Categories.Contains("schema")) && View.Tables.Count == 0 || View.Categories.Contains("trial") && !View.TrialReady;
+        var disabled = View.Categories.Count == 0 || (View.Categories.Contains("data") || View.Categories.Any(c=>c!="trial")&&!View.DatabaseScope) && View.Tables.Count == 0 || View.Categories.Contains("trial") && !View.TrialReady;
         var hint = View.Categories.Count == 0 ? T("검사 분류를 하나 이상 선택하세요.", "Select at least one check category.")
-            : (View.Categories.Contains("data") || View.Categories.Contains("schema")) && View.Tables.Count == 0 ? T("검사할 테이블을 하나 이상 선택하세요.", "Select at least one table to compare.")
+            : (View.Categories.Contains("data") || View.Categories.Any(c=>c!="trial")&&!View.DatabaseScope) && View.Tables.Count == 0 ? T("검사할 테이블을 하나 이상 선택하세요.", "Select at least one table to compare.")
             : View.Categories.Contains("trial") && !View.TrialReady ? T("동작 시험을 준비하거나 선택을 해제하세요.", "Prepare or deselect the behavior test.")
             : T("선택 범위와 제외 범위를 다음 화면에서 확인합니다.", "Review selected and excluded scope next.");
         footer.SetContent(hint, new("back", T("뒤로", "Back"), "quiet", "back"), [new("review", T("실행 전 확인", "Review before running"), "primary", "arrow", !disabled)], ReducedMotion);
@@ -153,12 +177,15 @@ public sealed partial class WebSelectionPage : Panel
     private string? CaptureFocus()
     {
         var focus = TopLevel.GetTopLevel(this)?.FocusManager?.GetFocusedElement();
+        if(focus==DatabaseChoice.Checkbox)return "database-scope";
         if (focus == Heading.FocusTarget) return "heading";
         if (_section is not null && focus == Search.Editor) return "search";
         if (_section is not null && focus == BulkCheckbox) return "bulk";
         if (_section is not null && focus == DeselectButton) return "deselect";
+        if(Pager!=null&&focus==Pager.PreviousButton)return "page-previous";
+        if(Pager!=null&&focus==Pager.NextButton)return "page-next";
         for (var i = 0; i < _categories.Count; i++) { if (focus == _categories[i].Header.ToggleButton) return "expand:" + i; if (focus == _categories[i].Header.Checkbox) return "category:" + i; }
-        if (_section is not null) foreach (var r in Rows) { if (focus == r.Checkbox) return "table:" + r.SourceName; if (focus == r.ChangeButton) return "mapping:" + r.SourceName; }
+        if (_section is not null) foreach (var r in Rows) { if (focus == r.Checkbox) return "table:" + r.ScopeKey; if (focus == r.ChangeButton) return "mapping:" + r.ScopeKey; }
         return null;
     }
     private void RestoreFocus(string? key)
@@ -167,11 +194,11 @@ public sealed partial class WebSelectionPage : Panel
         Dispatcher.UIThread.Post(() => {
             if (!_attached || revision != _revision || key is null) return;
             if (key == "heading") { Heading.FocusTitle(keyboard); return; }
-            InputElement? target = key switch { "search" => Search.Editor, "bulk" => BulkCheckbox, "deselect" => DeselectButton,
+            InputElement? target = key switch { "database-scope"=>DatabaseChoice.Checkbox,"search" => Search.Editor, "bulk" => BulkCheckbox, "deselect" => DeselectButton,"page-previous"=>Pager?.PreviousButton,"page-next"=>Pager?.NextButton,
                 _ when key.StartsWith("expand:") => _categories[int.Parse(key[7..])].Header.ToggleButton,
                 _ when key.StartsWith("category:") => _categories[int.Parse(key[9..])].Header.Checkbox,
-                _ when key.StartsWith("table:") => Rows.FirstOrDefault(r => r.SourceName == key[6..])?.Checkbox,
-                _ when key.StartsWith("mapping:") => Rows.FirstOrDefault(r => r.SourceName == key[8..])?.ChangeButton, _ => null };
+                _ when key.StartsWith("table:") => Rows.FirstOrDefault(r => r.ScopeKey == key[6..])?.Checkbox,
+                _ when key.StartsWith("mapping:") => Rows.FirstOrDefault(r => r.ScopeKey == key[8..])?.ChangeButton, _ => null };
             target?.Focus(keyboard ? NavigationMethod.Tab : NavigationMethod.Pointer);
         }, DispatcherPriority.Loaded);
     }
@@ -185,6 +212,7 @@ public sealed partial class WebSelectionPage : Panel
         foreach (var c in _categories) { c.Measure(new(available.Width, double.PositiveInfinity)); y += c.DesiredSize.Height; }
         y -= 12; Preparation.Measure(new(available.Width, double.PositiveInfinity));
         if (View.Categories.Contains("trial")) y += Preparation.DesiredSize.Height;
+        if(DatabaseChoice.IsVisible){DatabaseChoice.Measure(new(available.Width,double.PositiveInfinity));y+=DatabaseChoice.DesiredSize.Height;}
         _section.Measure(new(available.Width, double.PositiveInfinity)); y += 30 + _section.DesiredSize.Height;
         if (_error is not null) { _error.Measure(new(available.Width, double.PositiveInfinity)); y += _error.DesiredSize.Height; }
         return new(available.Width, y);
@@ -194,6 +222,7 @@ public sealed partial class WebSelectionPage : Panel
         double y = 0; void Place(Control c) { c.Arrange(new(0, y, final.Width, c.DesiredSize.Height)); y += c.DesiredSize.Height; }
         Place(Heading); Place(_scope); y += 12; foreach (var c in _categories) Place(c); y -= 12;
         if (View.Categories.Contains("trial")) Place(Preparation); else Preparation.Arrange(new(0, y + 12, final.Width, 0));
+        if(DatabaseChoice.IsVisible)Place(DatabaseChoice);
         y += 30; Place(_section); if (_error is not null) Place(_error); return final;
     }
     private sealed record CategoryDefinition(string Key, string[] Name, string[] Description, string[] Details, string[] EnglishDetails, string Icon);

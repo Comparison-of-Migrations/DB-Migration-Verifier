@@ -1,7 +1,0 @@
-{
-  "component": "ResultDetails",
-  "contract": "Centered modal, each OS40 strict geometry/text/state/shadow, six attached lifecycle states, actual pointer/keyboard/scroll/close/reduced; measured Windows root gutter offsets preserved; application AX/disconnected-opener policies owned by parents.",
-  "files": {
-    "src/Verifier.Desktop/WebResultDetails.cs": "65bfbc736c59dec9218d7e6fab1a2c1c42711cde1497789dd28665e2f957e796"
-  }
-}

@@ -12,7 +12,7 @@ public sealed class WebMetricItem:Panel
  public WebSystemTextBlock Value{get;}=WebTypography.CreateCandidate("",44,55,Brush.Parse("#ff959d"),650,-1.76,tabularNumbers:true);
  private WebMotionPlayback? _motion;private bool _identifier;
  public string Kind{get;private set;}="different";
- public WebMetricItem(){UseLayoutRounding=false;Focusable=false;Children.Add(Label);Children.Add(Value);AutomationProperties.SetAccessibilityView(this,AccessibilityView.Raw);if(OperatingSystem.IsWindows())foreach(var t in new[]{Label,Value})AutomationProperties.SetAccessibilityView(t,AccessibilityView.Raw);}
+ public WebMetricItem(){UseLayoutRounding=false;Focusable=false;Children.Add(Label);Children.Add(Value);AutomationProperties.SetAccessibilityView(this,AccessibilityView.Raw);}
  public void SetPresentation(string label,string value,string kind)
  {
   if(kind is not("different" or "unknown" or "equal" or "id"))throw new ArgumentException("Original metric role is required.",nameof(kind));

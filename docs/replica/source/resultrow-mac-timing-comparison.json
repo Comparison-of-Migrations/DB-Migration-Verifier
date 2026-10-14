@@ -1,7 +1,0 @@
-{
-  "platform": "mac",
-  "samples": 72,
-  "failed": 0,
-  "scope": "Actual CSS transition timeline seek vs production row tracks, 6 scenarios including reversal; channel rounding tolerance1/255, browser 6-significant-digit matrix translation tolerance0.000005px, scale tolerance0.000001, cubic solver reversal duration tolerance0.0001ms. Actual click/reduced lifecycle verified separately.",
-  "errors": []
-}

@@ -8,7 +8,8 @@ using Avalonia.VisualTree;
 
 namespace Verifier.Desktop;
 
-public sealed record WebResultGroup(string Key,long Total,long Equal,long Different,string Status);
+public sealed record WebResultGroup(string Key,long Total,long Equal,long Different,string Status)
+{public long? Unknown{get;init;}}
 
 /// <summary>Original figure.result-chart, composed from locked result rows. The parent opens details.</summary>
 public sealed class WebResultChart:Decorator
@@ -30,6 +31,7 @@ public sealed class WebResultChart:Decorator
     public Control RowsPanel=>_rows;
     public IReadOnlyList<WebResultSummaryRow> Rows=>_rows.Children.OfType<WebResultSummaryRow>().ToArray();
     public IReadOnlyList<Control> ColumnLabels=>_columns.Children.Cast<Control>().ToArray();
+    public bool IntegrityIncluded{get;init;}
     public double Maximum{get;private set;}=5;
     public bool Compact{get;private set;}
     public bool English{get;private set;}
@@ -46,15 +48,16 @@ public sealed class WebResultChart:Decorator
     public void SetGroups(IEnumerable<WebResultGroup> groups,bool english=false,bool compact=false)
     {
         var comparison=groups.Where(g=>g.Key!="trial").ToArray();
-        if(comparison.Any(g=>g.Total<0||g.Equal<0||g.Different<0||g.Equal>g.Total||g.Different>g.Total-g.Equal||g.Key is not("data" or "schema" or "access" or "objects")))
+        if(comparison.Any(g=>g.Total<0||g.Equal<0||g.Different<0||g.Equal>g.Total||g.Different>g.Total-g.Equal||g.Unknown is{} u&&(u<0||u>g.Total)||g.Key is not("data" or "schema" or "access" or "objects")))
             throw new ArgumentException("Original comparison groups require known categories and consistent check counts.");
         English=english;Compact=compact;IsVisible=comparison.Length!=0;
-        Maximum=Math.Max(5,Math.Ceiling(comparison.Select(g=>Math.Max(g.Different,Math.Max(g.Equal,g.Total-g.Equal-g.Different))).DefaultIfEmpty(0).Max()/5d)*5);
+        Maximum=Math.Max(5,Math.Ceiling(comparison.Select(g=>Math.Max(g.Different,Math.Max(g.Equal,g.Unknown??g.Total-g.Equal-g.Different))).DefaultIfEmpty(0).Max()/5d)*5);
         Heading.Text=english?"Comparison results by category":"비교 결과, 분류별로";
         Help.Text=english?"Select a category for detailed checks and evidence.":"분류를 눌러 세부 검사와 판정 근거를 확인하세요.";
         UnitLines[0].Text=english?"Check counts":"검사 항목 수";UnitLines[1].Text=(english?"Shared bar scale":"막대 공통 축")+" 0–"+Maximum.ToString(System.Globalization.CultureInfo.InvariantCulture);
         Caption.Text=english?"These are check counts, not row counts or a whole-DB success rate. Unverified includes unreadable, interrupted and unstarted checks.":"검사 항목 수를 비교합니다. 행 수나 전체 DB 성공률이 아닙니다. 미검증에는 확인 불가·중단·미시작 항목이 포함됩니다.";
-        _columns.SetLabels(english,compact);_columnBox.Padding=new(compact?16:20,12);
+        if(IntegrityIncluded)Caption.Text+=english?" A check can have both differences and unverified scope; these counts overlap.":" 같은 검사에 불일치와 미검증이 함께 있으면 각각 집계합니다.";
+        _columns.SetLabels(english,compact,IntegrityIncluded);_columnBox.Padding=new(compact?16:20,12);
         // Source rerender replaces row DOM. Removal cancels the locked child's previous entrance.
         _rows.Children.Clear();
         for(var index=0;index<comparison.Length;index++)
@@ -63,7 +66,7 @@ public sealed class WebResultChart:Decorator
             var (ko,en,icon)=g.Key switch{"data"=>("데이터","Data","db"),"schema"=>("구조·제약","Schema & constraints","grid"),"access"=>("사용자·권한","Users & permissions","shield"),_=>("관련 객체","Related objects","layers")};
             var status=g.Status=="completed"?(english?"Completed":"실행 완료"):g.Status=="interrupted"?(english?"Interrupted · Gaps retained":"중단 · 미검증 포함"):(english?"Not started · Unverified":"미시작 · 미검증");
             var row=new WebResultSummaryRow{Compact=compact,Last=index==comparison.Length-1};
-            row.SetResult(g.Key,english?en:ko,status+(english?" · Total ":" · 전체 ")+g.Total,icon,g.Different,g.Total-g.Equal-g.Different,g.Equal,Maximum,english);
+            row.SetResult(g.Key,english?en:ko,status+(english?" · Total ":" · 전체 ")+g.Total,icon,g.Different,g.Unknown??g.Total-g.Equal-g.Different,g.Equal,Maximum,english);
             row.Click+=(_,_)=>DetailRequested?.Invoke(row.CategoryKey);_rows.Children.Add(row);
         }
         InvalidateMeasure();
@@ -99,7 +102,7 @@ public sealed class WebResultChart:Decorator
         private readonly LabelPanel[] _labels=[new("warning","#ff959d"),new("info","#f0c47c"),new("check","#6bdda3")];
         private double[] _widths=[170,90,90,90,18];private bool _compact;
         public ColumnsPanel(){UseLayoutRounding=false;Children.Add(_category);foreach(var l in _labels)Children.Add(l);}
-        public void SetLabels(bool english,bool compact){_compact=compact;_category.Text=english?"Check category":"검사 분류";var names=english?new[]{"Different","Unverified","Equal"}:new[]{"불일치","미검증","일치"};for(var i=0;i<3;i++)_labels[i].Text.Text=names[i];InvalidateMeasure();}
+        public void SetLabels(bool english,bool compact,bool integrity=false){_compact=compact;_category.Text=english?"Check category":"검사 분류";var names=english?new[]{"Different","Unverified","Equal"}:new[]{"불일치","미검증","일치"};if(integrity)names[0]=english?"Different / violated":"불일치·위반";for(var i=0;i<3;i++)_labels[i].Text.Text=names[i];InvalidateMeasure();}
         private void Widths(double width)
         {
             var units=64*(TopLevel.GetTopLevel(this)?.RenderScaling??2);var min=_compact?155:170;var num=_compact?75:90;var gap=_compact?16:20;var tail=_compact?16:18;var space=Math.Max(min+num*3,width-4*gap-tail);

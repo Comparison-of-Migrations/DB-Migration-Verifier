@@ -1,8 +1,0 @@
-{
-  "phase": "ACTUAL_OS_PASSED",
-  "scope": "New connected Trial parent only; source synthetic flow oracle does not replace actual OS input",
-  "cases": 24,
-  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/home-pageintegrationtrial-mac-source.json",
-  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/home/pageintegration/539c3b0d995d451badff1bcfd6811a69/actual-macos",
-  "differences": []
-}

@@ -11,7 +11,7 @@ using Avalonia.VisualTree;
 namespace Verifier.Desktop;
 
 /// <summary>Incremental source-preview route in the shipping executable. Never opens a database.</summary>
-public sealed class ReplicaWorkspace : Panel, IDisposable
+public sealed partial class ReplicaWorkspace : Panel, IDisposable
 {
     public WebTopBar TopBar {get;}=new();
     public WebSidebar Sidebar {get;}=new();
@@ -24,6 +24,9 @@ public sealed class ReplicaWorkspace : Panel, IDisposable
     public WebResultDetails? ResultDetails=>_resultDetails;
     public WebMatchingDialog? MatchingDialog=>_matchingDialog;
     public string ResultFilter {get;private set;}="all";
+    public int ResultPageIndex {get;private set;}
+    public int SelectionPageIndex{get;private set;}
+    public int ReviewScopePageIndex{get;private set;}
     public string Announcement {get;private set;}="";
     public Control AnnouncementRegion {get;}=new AnnouncementMarker(){Width=1,Height=1,ClipToBounds=true,IsHitTestVisible=false};
     public string Screen {get;private set;}="home";
@@ -71,8 +74,10 @@ public sealed class ReplicaWorkspace : Panel, IDisposable
     private WebMotionPlayback? _homeEntry;
     private WebMotionPlayback? _trialEntry;
 
-    public ReplicaWorkspace()
+    public ReplicaWorkspace(bool live=false,Verifier.Data.LocalConnectionStore? connectionStore=null)
     {
+        Live=live;_connectionStore=connectionStore;
+        if(live){Connection=new(false,"PostgreSQL",new("localhost","5432","",""),new("localhost","5432","",""),false,false,false,"");Tables=[];Maps=new Dictionary<string,string>();}
         UseLayoutRounding=false;Background=Brush.Parse("#313338");Focusable=true;KeyboardNavigation.SetIsTabStop(this,false);
         AddHandler(KeyDownEvent,(_,_)=>_keyboardModality=true,Avalonia.Interactivity.RoutingStrategies.Tunnel,true);
         AddHandler(PointerPressedEvent,(_,_)=>_keyboardModality=false,Avalonia.Interactivity.RoutingStrategies.Tunnel,true);
@@ -95,7 +100,7 @@ public sealed class ReplicaWorkspace : Panel, IDisposable
         Children.Add(AnnouncementRegion);AutomationProperties.SetAutomationId(AnnouncementRegion,"announcer");AutomationProperties.SetLiveSetting(AnnouncementRegion,AutomationLiveSetting.Polite);
         SafeFindingProvider=(run,english)=>{var page=new WebResultsPage();page.SetPresentation(ToResultsRun(run),english,_width);return page.GetSafeFindings().Select(f=>(object)new{id=f.Id,category=f.Key,kind=f.Kind,table=f.Table,column=f.Column,reason=f.Reason}).ToArray();};
         TopBar.LanguageRequested+=(_,_)=>SetLanguage(!English);
-        Sidebar.NavigationRequested+=(_,screen)=>{if(Screen!="running"&&_visited.Contains(screen))Navigate(screen);};
+        Sidebar.NavigationRequested+=(_,screen)=>{if(!LiveBusy&&Screen!="running"&&_visited.Contains(screen))Navigate(screen);};
         Footer.ActionRequested+=async(_,action)=>await DispatchAsync(action);
         _toastTimer.Tick+=(_,_)=>ClearToast();
         _runTimer.Tick+=(_,_)=>AdvanceSampleRun();
@@ -112,6 +117,7 @@ public sealed class ReplicaWorkspace : Panel, IDisposable
     public async Task DispatchAsync(string action)
     {
         if(_disposed)return;
+        if(Live&&await DispatchLiveAsync(action))return;
         if(action is "research" or "permissions"){ShowInfo(action=="permissions");return;}
         if(action.StartsWith("detail:",StringComparison.Ordinal)){ShowResultDetails(action[7..]);return;}
         if(action.StartsWith("filter:",StringComparison.Ordinal)){ApplyResultFilter(action[7..]);return;}
@@ -198,16 +204,17 @@ public sealed class ReplicaWorkspace : Panel, IDisposable
         dialog.Open(permissions,English,_width<=1180,opener,_background,_keyboardModality?NavigationMethod.Tab:NavigationMethod.Pointer);InvalidateMeasure();
     }
     private string T(string ko,string en)=>English?en:ko;
-    private WebSelectionView SelectionView()=>new(English,Categories,Tables,Maps,ExpandedCategories,TableQuery,Trial.Ready,Connection.Dbms,Trial.Database,Trial.Host,Connection.Error);
+    private WebSelectionView SelectionView()=>new(English,Categories,Tables,Maps,ExpandedCategories,TableQuery,Trial.Ready,Connection.Dbms,Trial.Database,Trial.Host,Connection.Error,!IsExample){DatabaseScopeAvailable=!IsExample&&LiveDatabaseScopeAvailable,DatabaseScope=!IsExample&&_databaseScope&&LiveDatabaseScopeAvailable,PageIndex=SelectionPageIndex};
     public void ShowMatching(string source,Control? opener=null)
     {
+        if(!IsExample){ShowLiveMatching(source,opener);return;}
         if(_disposed||!Maps.ContainsKey(source))return;
         if(_matchingDialog is not null){Children.Remove(_matchingDialog);_matchingDialog=null;}
         _matchingSource=source;opener??=TopLevel.GetTopLevel(this)?.FocusManager?.GetFocusedElement() as Control;
         var dialog=new WebMatchingDialog{ReducedMotion=ReducedMotion};_matchingDialog=dialog;Children.Add(dialog);
         dialog.Applied+=(_,target)=>{
             if(!ReferenceEquals(_matchingDialog,dialog))return;
-            var maps=new Dictionary<string,string>(Maps){[source]=target};Maps=maps;Render(false);
+            var maps=new Dictionary<string,string>(Maps){[source]=target};Maps=maps;Stopped=false;_visited.Remove("review");Render(false);
             ShowToast(T("대응을 적용했습니다. 이름 차이는 검사에 남습니다.","Match applied. Name differences remain part of verification."));
         };
         dialog.Closed+=(_,_)=>{
@@ -221,7 +228,7 @@ public sealed class ReplicaWorkspace : Panel, IDisposable
                 },DispatcherPriority.Loaded);
             InvalidateMeasure();
         };
-        dialog.Open(source,Maps,ReplicaSampleRun.AllowedTables.Append("archive.orders").ToArray(),English,opener,_background);InvalidateMeasure();
+        dialog.Open(source,Maps,(!IsExample&&_pair!=null?_pair.TargetInventory.Tables.Select(t=>t.Qualified).ToArray():ReplicaSampleRun.AllowedTables.Append("archive.orders").ToArray()),English,opener,_background);InvalidateMeasure();
     }
     public void ShowToast(string text)
     {
@@ -244,24 +251,26 @@ public sealed class ReplicaWorkspace : Panel, IDisposable
     public void SetTrial(WebTrialView view)
     {Trial=view with{English=English};if(Screen=="trial")Render(false);}
     public void LoadSampleReport(ReplicaSampleRun run)
-    {_runTimer.Stop();SampleRun=run;ResultFilter="all";Tables=run.TableNames.ToArray();Maps=new Dictionary<string,string>(run.Maps);Categories=run.Groups.Select(g=>g.Key).ToArray();_visited.Clear();_visited.UnionWith(["results","save"]);Navigate("results");}
+    {_runTimer.Stop();SampleRun=run;ResultFilter="all";ResultPageIndex=0;Tables=run.TableNames.ToArray();Maps=new Dictionary<string,string>(run.Maps);Categories=run.Groups.Select(g=>g.Key).ToArray();_visited.Clear();_visited.UnionWith(["results","save"]);Navigate("results");}
     public void SetSaved(bool requested) {Saved=requested;if(Screen=="save")Render(false);}
     public void SetLanguage(bool english)
     {
-        var detail=_resultDetailKey;var info=_infoDialog is not null;var matching=_matchingSource;English=english;Render(false);
-        if(detail is not null)ShowResultDetails(detail,this);else if(info)ShowInfo(_permissionsDialog,this);else if(matching is not null)ShowMatching(matching,this);
+        var detail=_resultDetailKey;var detailPage=_resultDetails?.Body.PageIndex??0;var info=_infoDialog is not null;var matching=_matchingSource;English=english;
+        if(!IsExample&&Screen=="connect"&&Connection.Error.Length>0&&_connectionFailure is{}reason)Connection=Connection with{Error=LiveError(reason)};
+        Render(false);
+        if(detail is not null)ShowResultDetails(detail,this,detailPage);else if(info)ShowInfo(_permissionsDialog,this);else if(matching is not null)ShowMatching(matching,this);
     }
     private void Reset()
-    {TableQuery="";ExpandedCategories=[];_runTimer.Stop();Connection=new WebConnectionPage().View;Trial=new(false,"trial.example.invalid","migration_test","1","-1",false,false,"");SampleRun=null;ResultFilter="all";Maps=ReplicaSampleRun.AllowedTables.ToDictionary(x=>x,x=>x);Stopped=false;Saved=false;_visited.Clear();Categories=["data","schema","access","objects"];Tables=["demo.customers","demo.orders","demo.line_items"];Formats=["json"];}
+    {SelectionPageIndex=0;ReviewScopePageIndex=0;TableQuery="";ExpandedCategories=[];_runTimer.Stop();Connection=new WebConnectionPage().View;Trial=new(false,"trial.example.invalid","migration_test","1","-1",false,false,"");SampleRun=null;ResultFilter="all";ResultPageIndex=0;Maps=ReplicaSampleRun.AllowedTables.ToDictionary(x=>x,x=>x);Stopped=false;Saved=false;_visited.Clear();Categories=["data","schema","access","objects"];Tables=["demo.customers","demo.orders","demo.line_items"];Formats=["json"];}
     private static WebResultsRun ToResultsRun(ReplicaSampleRun run)=>new(run.Id,run.Groups.Select(g=>new WebResultsRunGroup(g.Key,g.Total,g.Done,g.Equal,g.Different,g.Unknown,g.Status)).ToArray(),run.Interrupted,run.Complete,run.TrialSelected,run.TableNames,run.Maps);
     private void Announce(string text){Announcement=text;((AnnouncementMarker)AnnouncementRegion).SetText(text);}
     private void ApplyResultFilter(string key)
     {
         if(Screen!="results"||key is not("all" or "different" or "unknown"))return;
-        ResultFilter=key;var keyboard=_keyboardModality;Render(false);
+        ResultFilter=key;ResultPageIndex=0;var keyboard=_keyboardModality;Render(false);
         Dispatcher.UIThread.Post(()=>{if(CurrentPage is WebResultsPage page)page.FocusFilter(key,keyboard);},DispatcherPriority.Loaded);
     }
-    public void ShowResultDetails(string key,Control? opener=null)
+    public void ShowResultDetails(string key,Control? opener=null,int pageIndex=0)
     {
         if(_disposed||SampleRun is null)return;
         var index=Array.IndexOf(ReplicaSampleRun.CategoryKeys,key);if(index<0)return;
@@ -274,7 +283,7 @@ public sealed class ReplicaWorkspace : Panel, IDisposable
                 this.GetVisualDescendants().OfType<Control>().FirstOrDefault(c=>AutomationProperties.GetAutomationId(c)==identity)?.Focus(_keyboardModality?NavigationMethod.Tab:NavigationMethod.Pointer);
             InvalidateMeasure();};
         var group=SampleRun.Groups.FirstOrDefault(g=>g.Key==key);
-        dialog.Open(English?DetailNames[index].En:DetailNames[index].Ko,English?DetailChecks[index].En:DetailChecks[index].Ko,key=="trial",group is null?null:new(group.Done,group.Total,group.Status),English,opener,_background,_keyboardModality?NavigationMethod.Tab:NavigationMethod.Pointer);InvalidateMeasure();
+        dialog.Open(English?DetailNames[index].En:DetailNames[index].Ko,!IsExample?LiveDetailLines(key):(English?DetailChecks[index].En:DetailChecks[index].Ko),key=="trial"&&IsExample,group is null?null:new(group.Done,group.Total,group.Status),English,opener,_background,_keyboardModality?NavigationMethod.Tab:NavigationMethod.Pointer,pageIndex);InvalidateMeasure();
     }
     private static readonly (string Ko,string En)[] DetailNames=[("데이터","Data"),("구조·제약","Schema & constraints"),("사용자·권한","Users & permissions"),("관련 객체","Related objects"),("별도 DB 동작 시험","Behavior tests in a separate DB")];
     private static readonly (string[] Ko,string[] En)[] DetailChecks=[
@@ -302,24 +311,33 @@ public sealed class ReplicaWorkspace : Panel, IDisposable
         var prior=!focus?TopLevel.GetTopLevel(this)?.FocusManager?.GetFocusedElement() as Control:null;
         var identity=prior is not null?AutomationProperties.GetAutomationId(prior):null;
         var keyboard=prior switch{WebActionButton=>_keyboardModality,WebCheckbox c=>c.FocusVisible,WebRadio r=>r.FocusVisible,_=>false};
-        TopBar.SetLanguage(English?"en":"ko",ReducedMotion);AutomationProperties.SetAutomationId(TopBar.LanguageButton,"language");Sidebar.SetState(English?"en":"ko",Screen,_visited,ReducedMotion);
-        _strip.SetLanguage(English);Footer.SetViewportWidth(_width);Footer.IsVisible=true;
+        TopBar.SetLanguage(English?"en":"ko",ReducedMotion);if(!IsExample)TopBar.PreviewText.Text=English?"Actual DB comparison":"실제 DB 비교";AutomationProperties.SetAutomationId(TopBar.LanguageButton,"language");Sidebar.SetState(English?"en":"ko",Screen,_visited,ReducedMotion);
+        _strip.Live=!IsExample;_strip.SetLanguage(English);Footer.SetViewportWidth(_width);Footer.IsVisible=true;
         if(Screen=="home")Footer.SetContent(English?"Explore the sample flow without logging in.":"로그인 없이 예시 흐름을 살펴볼 수 있습니다.",null,[],ReducedMotion);
         Control page;
         if(_factories.TryGetValue(Screen,out var factory))page=factory(this);
         else if(Screen=="home")
         {
             var p=new WebHomePage{ReducedMotion=ReducedMotion};p.SetPresentation(new(English),_width);
+            if(!IsExample)
+            {
+                var history=new WebActionButton{Content=English?"Saved inspection history":"저장한 검사 이력",Variant="quiet",IconName="file",ReducedMotion=ReducedMotion,Margin=new(0,12,0,20)};
+                AutomationProperties.SetAutomationId(history,"history");history.Click+=async(_,_)=>await DispatchAsync("history");p.Children.Insert(p.Children.IndexOf(p.Paper),history);
+            }
             p.ActionRequested+=async(_,action)=>{if(ReferenceEquals(CurrentPage,p))await DispatchAsync(action);};
             p.AttachedToVisualTree+=(_,_)=>{if(!_disposed&&ReferenceEquals(CurrentPage,p)){_homeEntry?.Dispose();_homeEntry=WebMotion.Play(p,WebMotionKind.Page,ReducedMotion);}};
             page=p;
         }
+        else if(Screen=="history")page=CreateHistoryPage();
         else if(Screen=="connect")
         {
-            var p=new WebConnectionPage{ReducedMotion=ReducedMotion};p.SetPresentation(Connection with{English=English},_width);p.SetFooter(Footer);
+            var p=new WebConnectionPage{ReducedMotion=ReducedMotion,LiveMode=!IsExample};
+            if(!IsExample){p.SetLiveCredentials(_sourcePassword,_targetPassword,_sourceCa,_targetCa,_writesStopped);p.SetLocalStorage(_savePasswords,LocalStorageMessage());}p.SetPresentation(Connection with{English=English},_width);p.SetFooter(Footer);
+            p.LocalStorageActionRequested+=async(_,action)=>{if(ReferenceEquals(CurrentPage,p))await DispatchAsync(action);};
             p.StateChanged+=(_,change)=>{
                 if(!ReferenceEquals(CurrentPage,p))return;
                 Connection=change.View;
+                if(!IsExample){CaptureLiveConnection(p);if(change.Reason is "input" or "dbms")InvalidateLiveConnection();}
                 if(change.Reason is "input" or "dbms") {Trial=Trial with{Ready=false,Consent=false};_visited.Clear();_visited.Add("connect");Sidebar.SetState(English?"en":"ko",Screen,_visited,ReducedMotion);}
                 p.SetFooter(Footer,change.Reason=="input");
             };page=p;
@@ -327,17 +345,21 @@ public sealed class ReplicaWorkspace : Panel, IDisposable
         else if(Screen=="capabilities")
         {
             var p=new WebPreflightPage{ReducedMotion=ReducedMotion};p.SetPresentation(new(English),_width);p.SetFooter(Footer);
+            if(!IsExample)ApplyLiveCapabilities(p);
             p.ActionRequested+=async(_,action)=>{if(ReferenceEquals(CurrentPage,p))await DispatchAsync(action);};page=p;
         }
         else if(Screen=="select")
         {
-            var p=new WebSelectionPage{ReducedMotion=ReducedMotion};p.SetPresentation(SelectionView(),_width);p.SetFooter(Footer);
+            var p=new WebSelectionPage{ReducedMotion=ReducedMotion,CapabilityProvider=!IsExample?LiveCapabilityLabel:null,MappingPresentation=!IsExample?LiveMappingPresentation:null};p.SetPresentation(SelectionView(),_width);SelectionPageIndex=p.View.PageIndex;p.SetFooter(Footer);
             p.ViewChanged+=(_,view)=>{
                 if(!ReferenceEquals(CurrentPage,p))return;
-                Categories=view.Categories.ToArray();Tables=view.Tables.ToArray();Maps=new Dictionary<string,string>(view.Maps);
+                if(!ReferenceEquals(Categories,view.Categories))Categories=view.Categories.ToArray();
+                if(!ReferenceEquals(Tables,view.Tables))Tables=view.Tables.ToArray();
+                _databaseScope=view.DatabaseScope;if(!ReferenceEquals(Maps,view.Maps))Maps=new Dictionary<string,string>(view.Maps);
+                SelectionPageIndex=view.PageIndex;
                 ExpandedCategories=view.Expanded.ToArray();TableQuery=view.Query;Connection=Connection with{Error=view.Error};
                 var reason=p.LastChangeReason;
-                if(reason is "bulk" or "clear-tables"||reason.StartsWith("category:",StringComparison.Ordinal)||reason.StartsWith("table:",StringComparison.Ordinal))Stopped=false;
+                if(reason is "database-scope" or "bulk" or "clear-tables"||reason.StartsWith("category:",StringComparison.Ordinal)||reason.StartsWith("table:",StringComparison.Ordinal)){Stopped=false;_visited.Remove("review");if(!IsExample){InvalidateTrial(false);p.SetPresentation(SelectionView(),_width);}}
                 p.SetFooter(Footer);
                 if(reason.StartsWith("category:",StringComparison.Ordinal))Announce(Categories.Count+T(" 개 분류 선택"," categories selected"));
                 else if(reason.StartsWith("expand:",StringComparison.Ordinal))
@@ -350,10 +372,11 @@ public sealed class ReplicaWorkspace : Panel, IDisposable
             };
             p.ActionRequested+=async(_,action)=>{
                 if(!ReferenceEquals(CurrentPage,p))return;
-                if(action.StartsWith("mapping:",StringComparison.Ordinal))ShowMatching(action[8..],p.Rows.FirstOrDefault(row=>row.SourceName==action[8..])?.ChangeButton);
+                if(action.StartsWith("mapping:",StringComparison.Ordinal))ShowMatching(action[8..],p.Rows.FirstOrDefault(row=>row.ScopeKey==action[8..])?.ChangeButton);
                 else await DispatchAsync(action);
             };page=p;
         }
+        else if(Screen=="trial"&&!IsExample)page=CreateActualTrialPage();
         else if(Screen=="trial")
         {
             Trial=Trial with{English=English};var p=new WebTrialPage{ReducedMotion=ReducedMotion};p.SetPresentation(Trial,_width);SetTrialFooter();
@@ -366,11 +389,16 @@ public sealed class ReplicaWorkspace : Panel, IDisposable
         }
         else if(Screen=="running"&&SampleRun is not null)
         {
-            var p=new WebProgressPage{ReducedMotion=ReducedMotion};p.SetPresentation(SampleRun,English);p.SetFooter(Footer);page=p;
+            var p=new WebProgressPage{ReducedMotion=ReducedMotion};p.SetPresentation(SampleRun,English);p.SetFooter(Footer);if(!IsExample){ApplyLiveProgress(p);ApplyLiveProgressFooter();}page=p;
         }
         else if(Screen=="results"&&SampleRun is not null)
         {
-            var p=new WebResultsPage{ReducedMotion=ReducedMotion};p.SetPresentation(ToResultsRun(SampleRun),English,_width,ResultFilter);p.SetFooter(Footer);
+            var p=new WebResultsPage{ReducedMotion=ReducedMotion,ActualFindings=!IsExample?LiveFindings():null};p.SetPresentation(ToResultsRun(SampleRun),English,_width,ResultFilter,ResultPageIndex);p.SetFooter(Footer);if(!IsExample)ApplyLiveResults(p);
+            p.PageRequested+=index=>
+            {
+                if(!ReferenceEquals(CurrentPage,p))return;ResultPageIndex=index;if(!IsExample)ApplyLiveResults(p);
+                Dispatcher.UIThread.Post(()=>{if(!_disposed&&ReferenceEquals(CurrentPage,p)){p.UpdateLayout();Viewport.Offset=p.FindingsSection.TranslatePoint(default,p)?.Y??0;}},DispatcherPriority.Loaded);
+            };
             p.FilterRequested+=key=>{if(ReferenceEquals(CurrentPage,p))ApplyResultFilter(key);};
             p.ResearchRequested+=opener=>{if(ReferenceEquals(CurrentPage,p))ShowInfo(false,opener);};
             p.DetailRequested+=(key,opener)=>{if(ReferenceEquals(CurrentPage,p))ShowResultDetails(key,opener);};
@@ -378,12 +406,13 @@ public sealed class ReplicaWorkspace : Panel, IDisposable
         }
         else if(Screen=="review")
         {
-            var p=new WebReviewPage{ReducedMotion=ReducedMotion};p.SetPresentation(new(English,Connection.Dbms,Connection.Source.Database,Connection.Target.Database,Categories,Tables.Count,Stopped),_width);p.SetFooter(Footer);
+            var p=new WebReviewPage{ReducedMotion=ReducedMotion,LiveMode=!IsExample,DatabaseScope=!IsExample&&_databaseScope&&LiveDatabaseScopeAvailable,TrialSummary=!IsExample?ConfirmedTrialSummary():[],ScopeMappings=!IsExample?LiveReviewMappings():[],ScopePageIndex=ReviewScopePageIndex,KnownLimitations=!IsExample?Categories.Where(k=>!LiveCapability(k).Full).Select(k=>k+": "+LiveCapabilityLabel(k).Text).ToArray():[]};p.SetPresentation(new(English,Connection.Dbms,Connection.Source.Database,Connection.Target.Database,Categories,Tables.Count,Stopped),_width);p.SetFooter(Footer);
+            p.ScopePageChanged+=(_,index)=>ReviewScopePageIndex=index;
             p.StoppedChanged+=(_,change)=>{Stopped=change.Selected;p.SetFooter(Footer);UpdateSummaryViewport(p,_width);};page=p;
         }
         else if(Screen=="save")
         {
-            var p=new WebSavePage{ReducedMotion=ReducedMotion};p.SetPresentation(new(English,Saved,Formats),_width);p.SetFooter(Footer);
+            var p=new WebSavePage{ReducedMotion=ReducedMotion,LiveMode=!IsExample};p.SetPresentation(new(English,Saved,Formats),_width);p.SetFooter(Footer);
             p.FormatChanged+=(_,_)=>{Formats=p.View.Formats;p.SetFooter(Footer);UpdateSummaryViewport(p,_width);};
             p.ActionRequested+=async(_,action)=>await DispatchAsync(action);page=p;
         }
@@ -398,7 +427,7 @@ public sealed class ReplicaWorkspace : Panel, IDisposable
                 var restored=this.GetVisualDescendants().OfType<Control>().FirstOrDefault(c=>AutomationProperties.GetAutomationId(c)==identity);
                 restored?.Focus(keyboard?NavigationMethod.Tab:NavigationMethod.Pointer);Viewport.Offset=scroll;
             }
-            if(focus){var heading=page switch{WebHomePage p=>p.Heading,WebConnectionPage p=>p.Heading,WebPreflightPage p=>p.Heading,WebSelectionPage p=>p.Heading,WebTrialPage p=>p.Heading,WebProgressPage p=>p.Heading,WebResultsPage p=>p.Heading,WebReviewPage p=>p.Heading,WebSavePage p=>p.Heading,_=>null};heading?.FocusTitle(false);Announce(heading?.TitleText.Text??"");Viewport.Offset=0;_navigationFocusPending=false;}
+            if(focus){var heading=page switch{WebHomePage p=>p.Heading,WebConnectionPage p=>p.Heading,WebPreflightPage p=>p.Heading,WebSelectionPage p=>p.Heading,WebActualTrialPage p=>p.Heading,WebTrialPage p=>p.Heading,WebProgressPage p=>p.Heading,WebResultsPage p=>p.Heading,WebReviewPage p=>p.Heading,WebSavePage p=>p.Heading,_=>null};heading?.FocusTitle(false);Announce(heading?.TitleText.Text??"");Viewport.Offset=0;_navigationFocusPending=false;}
         },DispatcherPriority.Loaded);
     }
     private Control PendingPage()
@@ -413,30 +442,8 @@ public sealed class ReplicaWorkspace : Panel, IDisposable
     // Original CSS resize changes only presentation. Summary text has no independent state.
     private static void UpdateSummaryViewport(Control page,double width)
     {
-        if(page is WebReviewPage review)
-        {
-            var view=review.View;string T(string ko,string en)=>view.English?en:ko;
-            string Name(string key){var index=Array.IndexOf(new[]{"data","schema","access","objects","trial"},key);return index<0?key:T(DetailNames[index].Ko,DetailNames[index].En);}
-            var excluded=string.Join(" · ",new[]{"data","schema","access","objects","trial"}.Where(key=>!view.Categories.Contains(key)).Select(Name));
-            var boundary=new List<string>{T("원본·대상 읽기 전용","Source and target: read-only")};
-            if(view.Categories.Contains("trial"))boundary.Add(T("동작 시험: 준비한 시험 DB에서만 쓰기","Behavior tests: writes only in the prepared test DB"));
-            review.Summary.SetPresentation([
-                new("DBMS",[view.Dbms+" · "+T("예시 연결","Sample connections")],true),
-                new(T("원본 → 대상","Source → target"),[view.SourceDatabase+" → "+view.TargetDatabase],false,true,T("원본과 대상은 서로 다른 예시 서버입니다.","Source and target are separate sample servers.")),
-                new(T("선택 분류","Selected categories"),[string.Join(" · ",view.Categories.Select(Name))]),
-                new(T("검사 테이블","Selected tables"),[view.TableCount+" "+T("개 · 대응 확인","tables · Matching reviewed")]),
-                new(T("선택하지 않은 분류","Excluded categories"),[excluded.Length>0?excluded:T("없음","None")]),
-                new(T("변경 경계","Write boundary"),boundary)
-            ],width<=1100,true);
-        }
-        else if(page is WebSavePage save)
-        {
-            string T(string ko,string en)=>save.View.English?en:ko;
-            save.Summary.SetPresentation([
-                new(T("포함","Included"),[T("예시 run ID, 선택 범위, 완료·중단·미시작, 판정과 확인 불가 이유, 안전한 finding 위치","Sample run ID, scope, completed/interrupted/pending states, outcomes, gap reasons and safe finding locations")]),
-                new(T("제외","Excluded"),[T("실제 값·PK·비밀번호·토큰·원 SQL 정의·접속 설정","Values, PKs, passwords, tokens, raw SQL definitions and connection settings")])
-            ],width<=1100,true);
-        }
+        if(page is WebReviewPage review)review.UpdateSummaryViewport(width);
+        else if(page is WebSavePage save)save.UpdateSummaryViewport(width);
     }
     protected override Size MeasureOverride(Size available)
     {
@@ -450,7 +457,7 @@ public sealed class ReplicaWorkspace : Panel, IDisposable
                 case WebTrialPage trial:trial.SetViewport(width);break;
                 case WebConnectionPage connection:connection.SetViewport(width);break;
                 case WebHomePage home:home.SetPresentation(home.View,width);break;
-                case WebPreflightPage preflight:preflight.SetPresentation(preflight.View,width);break;
+                case WebPreflightPage preflight:preflight.SetPresentation(preflight.View,width);if(!IsExample)ApplyLiveCapabilities(preflight);break;
                 case WebSelectionPage selection:selection.SetPresentation(SelectionView(),width);break;
                 case WebReviewPage review:UpdateSummaryViewport(review,width);break;
                 case WebSavePage save:UpdateSummaryViewport(save,width);break;
@@ -472,7 +479,7 @@ public sealed class ReplicaWorkspace : Panel, IDisposable
             DocumentHorizontal.IsVisible=DocumentHorizontal.GutterHeight>0;
             DocumentVertical.Measure(new(width,Math.Max(0,height-DocumentHorizontal.GutterHeight)));_documentBodyWidth=_documentExtent.BodyWidth;
         }
-        _background.Measure(new(_documentBodyWidth,height));_infoDialog?.Measure(new(width,height));_resultDetails?.Measure(new(width,height));_matchingDialog?.Measure(new(width,height));AnnouncementRegion.Measure(new(1,1));
+        _background.Measure(new(_documentBodyWidth,height));_infoDialog?.Measure(new(width,height));_resultDetails?.Measure(new(width,height));_matchingDialog?.Measure(new(width,height));_columnDialog?.Measure(new(width,height));AnnouncementRegion.Measure(new(1,1));
         TopBar.Measure(new(_documentBodyWidth,60));Sidebar.Measure(new(220,Math.Max(0,height-60)));
         _strip.ViewportWidth=width;_strip.Measure(new(Math.Max(0,_documentBodyWidth-220),double.PositiveInfinity));
         Footer.Measure(new(Math.Max(0,_documentBodyWidth-220),double.PositiveInfinity));
@@ -493,18 +500,19 @@ public sealed class ReplicaWorkspace : Panel, IDisposable
         // CSS viewport units determine the measured modal size; the browser's
         // containing block excludes document scrollbar chrome when centering.
         var overlay=new Rect(0,0,Math.Max(0,final.Width-(DocumentVertical?.GutterWidth??0)),Math.Max(0,final.Height-(DocumentHorizontal?.GutterHeight??0)));
-        _infoDialog?.Arrange(overlay);_resultDetails?.Arrange(overlay);_matchingDialog?.Arrange(overlay);AnnouncementRegion.Arrange(new(0,final.Height,1,1));
+        _infoDialog?.Arrange(overlay);_resultDetails?.Arrange(overlay);_matchingDialog?.Arrange(overlay);_columnDialog?.Arrange(overlay);AnnouncementRegion.Arrange(new(0,final.Height,1,1));
         TopBar.Arrange(new(0,0,_documentBodyWidth,60));Sidebar.Arrange(new(0,60,220,Math.Max(0,final.Height-60)));
         _strip.Arrange(new(220,60,width,stripHeight));Viewport.Arrange(new(220,60+stripHeight,width,Math.Max(0,final.Height-60-stripHeight-footHeight)));
         Footer.Arrange(new(220,Math.Max(60,final.Height-footHeight),width,footHeight));
         if(_toast is not null)_toast.Arrange(new(overlay.Right-24-_toast.DesiredSize.Width,overlay.Bottom-104-_toast.DesiredSize.Height,_toast.DesiredSize.Width,_toast.DesiredSize.Height));return final;
     }
-    public void Dispose(){_runTimer.Stop();_disposed=true;++_revision;_homeEntry?.Dispose();_homeEntry=null;_trialEntry?.Dispose();_trialEntry=null;ClearToast();if(_infoDialog is not null){Children.Remove(_infoDialog);_infoDialog=null;}if(_resultDetails is not null){Children.Remove(_resultDetails);_resultDetails=null;}if(_matchingDialog is not null){Children.Remove(_matchingDialog);_matchingDialog=null;}_pageHost.Child=null;}
+    public void Dispose(){CancelLive();ReleaseLiveReport();InvalidateTrial(true);_trialSetup.Password="";var pair=_pair;_pair=null;InvalidateScopePlan();if(pair!=null)_=DisposePairQuietly(pair);_sourcePassword=_targetPassword="";_runTimer.Stop();_disposed=true;++_revision;_homeEntry?.Dispose();_homeEntry=null;_trialEntry?.Dispose();_trialEntry=null;ClearToast();if(_infoDialog is not null){Children.Remove(_infoDialog);_infoDialog=null;}if(_resultDetails is not null){Children.Remove(_resultDetails);_resultDetails=null;}if(_columnDialog is not null){Children.Remove(_columnDialog);_columnDialog=null;}if(_matchingDialog is not null){Children.Remove(_matchingDialog);_matchingDialog=null;}_pageHost.Child=null;}
     protected override AutomationPeer OnCreateAutomationPeer()=>new WorkspacePeer(this);
     private sealed class WorkspacePeer(ReplicaWorkspace owner):ControlAutomationPeer(owner)
     {
         protected override IReadOnlyList<AutomationPeer>? GetChildrenCore()
         {
+            if(owner._columnDialog is{IsVisible:true} column)return [ControlAutomationPeer.CreatePeerForElement(column)!];
             if(owner._matchingDialog is{IsVisible:true} matching)return [ControlAutomationPeer.CreatePeerForElement(matching)!];
             if(owner._resultDetails is{IsVisible:true} detail)return [ControlAutomationPeer.CreatePeerForElement(detail)!];
             if(owner._infoDialog is{IsVisible:true} dialog)return [ControlAutomationPeer.CreatePeerForElement(dialog)!];
@@ -582,7 +590,8 @@ public sealed class ReplicaWorkspace : Panel, IDisposable
         private readonly SvgIcon _icon=new(){IconName="info",Width=18,Height=18,Stroke=Brush.Parse("#b5bac1")};
         private readonly WebSystemTextBlock _text=WebTypography.CreateCandidate("",12,19.2,Brush.Parse("#b5bac1"));
         public SampleStrip(){UseLayoutRounding=false;Children.Add(_surface);Children.Add(_icon);Children.Add(_text);}
-        public void SetLanguage(bool english){_text.Text=english?"Design preview · All databases and outcomes are samples. No real DB connection.":"화면 시안 · 모든 DB와 결과는 예시입니다. 실제 DB에 접속하지 않습니다.";InvalidateMeasure();}
+        public bool Live{get;set;}
+        public void SetLanguage(bool english){_text.Text=Live?(english?"Read-only comparison · Actual database connections. Unverified scopes remain visible.":"읽기 전용 비교 · 실제 DB에 접속합니다. 확인하지 못한 범위도 표시합니다."):english?"Design preview · All databases and outcomes are samples. No real DB connection.":"화면 시안 · 모든 DB와 결과는 예시입니다. 실제 DB에 접속하지 않습니다.";InvalidateMeasure();}
         protected override Size MeasureOverride(Size available){var p=ViewportWidth<=1180?28:40;_icon.Measure(new(18,18));_text.Measure(new(Math.Max(0,available.Width-2*p-26),double.PositiveInfinity));return new(available.Width,Math.Max(36,Math.Max(18,_text.DesiredSize.Height)+15));}
         protected override Size ArrangeOverride(Size final){_surface.Arrange(new Rect(final));var p=ViewportWidth<=1180?28:40;_icon.Arrange(new(p,(final.Height-1-18)/2,18,18));_text.Arrange(new(p+26,(final.Height-1-_text.DesiredSize.Height)/2,Math.Max(0,final.Width-2*p-26),_text.DesiredSize.Height));return final;}
     }

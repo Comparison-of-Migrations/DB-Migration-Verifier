@@ -1,7 +1,0 @@
-{
-  "platform": "mac",
-  "cases": 132,
-  "failed": 0,
-  "scope": "original 22 footer branch presentations ×2 languages ×3 real viewport widths; layout/update/descriptor/icon checks; page branch decisions and actual input are separate",
-  "errors": []
-}

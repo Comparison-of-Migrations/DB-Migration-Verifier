@@ -1,7 +1,0 @@
-{
-  "component": "SaveOptions",
-  "contract": "Literal three-column source grid, stretch heights, JS Set insertion order, replacement controls and input modality restoration, origin metadata; Save owns whole-page render/scroll/export.",
-  "files": {
-    "src/Verifier.Desktop/WebSaveOptions.cs": "c9044e9adfc5c11c9be4b90c7d9bdefae339854e18ba71d2a86afbe94ccca2a8"
-  }
-}

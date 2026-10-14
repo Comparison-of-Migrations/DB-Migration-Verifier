@@ -1,8 +1,0 @@
-{
-  "component": "CapabilityViewport",
-  "contract": "Original horizontal table-shell autoheight, distinct logical/descendant extent, DPR-snapped edges, OS gutter/scroll chrome, raw keys/wheels/thumb/track/hold, child focus bring, implicit Tab eligibility/modality restore, detach/remount; bothOS72 geometry + finite13 + lifecycle/drag19 + focus4, Windows clippeer2, real headless scoped verification. Parent owns border/radius/table columns.",
-  "files": {
-    "src/Verifier.Desktop/WebCapabilityViewport.cs": "8e0ea4a8f79ff913a1c7891ee532e8d800a24f244b1d4202c6a7d476466cd180"
-  },
-  "evidence": "docs/replica/source/capabilityviewport-validation.json"
-}

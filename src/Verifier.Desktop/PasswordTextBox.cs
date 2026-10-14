@@ -13,10 +13,10 @@ public sealed class PasswordTextBox : TextBox
     // Keep the native TextBox template/styles while replacing only its value peer.
     protected override Type StyleKeyOverride=>typeof(TextBox);
     protected override AutomationPeer OnCreateAutomationPeer()=>new PasswordPeer(this);
-    private sealed class PasswordPeer : ControlAutomationPeer,IValueProvider
+    internal sealed class PasswordPeer : ControlAutomationPeer,IValueProvider
     {
-        private readonly PasswordTextBox owner;
-        public PasswordPeer(PasswordTextBox owner) : base(owner)
+        private readonly TextBox owner;
+        public PasswordPeer(TextBox owner) : base(owner)
         {
             this.owner=owner;
             owner.PropertyChanged+=(_,e)=>

@@ -1,7 +1,0 @@
-{
-  "component": "DbmsPicker",
-  "contract": "Original fieldset legend UA padding, four equal DBMS options, note, exclusive group and silent presentation updates; ports and parent replacements belong to Connection.",
-  "files": {
-    "src/Verifier.Desktop/WebDbmsPicker.cs": "170345f2e846d8fabf532123b662b5bdb2b57e5b60ceab5b532035c4099bdf2c"
-  }
-}

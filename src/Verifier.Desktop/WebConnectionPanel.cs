@@ -22,7 +22,7 @@ public sealed class WebConnectionPanel:Panel
     public WebNumberInput PortInput{get;}=new();
     public WebTextInput DatabaseInput{get;}=new();
     public WebTextInput UserInput{get;}=new();
-    public WebTextInput PasswordInput{get;}=new(){IsEnabled=false,PasswordChar='•'};
+    public WebTextInput PasswordInput{get;}=new WebPasswordInput(){IsEnabled=false,PasswordChar='•'};
     public event EventHandler<string>? InputChanged;
     public WebConnectionPanel()
     {

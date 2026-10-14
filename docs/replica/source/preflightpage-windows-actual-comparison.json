@@ -1,8 +1,0 @@
-{
-  "status": "PASSED",
-  "cases": 16,
-  "checks": 1106,
-  "differences": [],
-  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/preflightpage-windows-source.json",
-  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/preflight/preflightpage/c34ddef97db0411f9328922ba5b47cb2/actual-windows/geometry/preflightpage-native.json"
-}

@@ -1,6 +1,0 @@
-{
-  "platform": "mac",
-  "cases": 12,
-  "errors": [],
-  "scope": "Strict header/root/cell geometry, source fixed-point text range horizontal endpoints, CSS anonymous line box y/height, actual palette/labels/leaf names/four header peers. DOM font box y/height differs in representation from native line box; protected Typography owns baseline/raster."
-}

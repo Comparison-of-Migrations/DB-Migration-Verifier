@@ -1,7 +1,0 @@
-{
-  "removed": [
-    "/Users/youptebook/Downloads/replica-check.zip",
-    "/Users/youptebook/Downloads/Install Parallels Desktop-j0pzfh7d.dmg"
-  ],
-  "parallelsApplicationRetained": "Existing Rocky Linux VM depends on this app; Windows VM deletion pending user response."
-}

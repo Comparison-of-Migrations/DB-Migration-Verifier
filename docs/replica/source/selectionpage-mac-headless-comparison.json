@@ -1,8 +1,0 @@
-{
-  "status": "PASSED",
-  "cases": 36,
-  "checks": 12506,
-  "differences": [],
-  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/selectionpage-mac-source.json",
-  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/preflight/selectionpage/80bc495bd32048c8bb28eb9d2ad1cad6/outputs/a83e3ac8f21c44fbbbf97a0bf2f4f00d/candidate/selectionpage-layout.json"
-}

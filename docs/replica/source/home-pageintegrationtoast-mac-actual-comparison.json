@@ -1,9 +1,0 @@
-{
-  "phase": "ACTUAL_OS_PASSED",
-  "scope": "MainContent parent Toast geometry16 and applicable real timer/lifetime; Motion200ms unchanged/reused",
-  "source": "docs/replica/source/home-pageintegrationtoast-mac-composed-source.json",
-  "candidate": "artifacts/replica/workers/home/pageintegration/f7d5930cc44b48abbd7a44a65e238458/toast-native-mac/pageintegration-toast.json",
-  "checks": 595,
-  "differences": [],
-  "normalization": "CSS rgba/ARGB and thickness order/omitted shadow spread normalized; numeric geometry tolerance0.001; no font/geometry waiver; actual/native noninteractive presentation seeds, not pointer input"
-}

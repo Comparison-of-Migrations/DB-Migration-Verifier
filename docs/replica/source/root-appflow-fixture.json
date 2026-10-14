@@ -1,8 +1,0 @@
-{
-  "fixture": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/windows-download/root-appflow.html",
-  "scope": "PageIntegration direct source event handlers; no protected source changes",
-  "sourceHashes": {
-    "js": "53c8af8c8225c87d25173a82b4ea00ea5349b6c98077ef7b59d8d62f89a68050",
-    "css": "656a04f03636788a8029d53cb4a9cddddabb07d7f8e0fee20945bfcf31c5319c"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "status": "PASSED",
-  "sourceCases": 42,
-  "nativeCases": 42,
-  "maxAffectedDelta": 0.0,
-  "errors": [],
-  "scope": "Actual affected mono12 CSSfloor allocation only; prior unaffected geometry/lifecycle/input/peer/paint evidence reused"
-}

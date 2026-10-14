@@ -1,8 +1,0 @@
-{
-  "source": "source-initial-ax.json",
-  "candidate": "native-initial-ax.json",
-  "errors": [],
-  "passed": true,
-  "sourceIntegerEnclosureTolerance": 1.01,
-  "strictComputedGeometryEvidence": "capabilitytable-mac-actual-comparison.json"
-}

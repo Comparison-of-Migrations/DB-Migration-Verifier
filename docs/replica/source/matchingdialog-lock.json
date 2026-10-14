@@ -1,7 +1,0 @@
-{
-  "component": "MatchingDialog",
-  "contract": "Each OS48 drawer geometry/text/state/shadow; measured Windows root scrollbar offsets retained as permitted OS expressions; actual focus/search/draft/apply/cancel/collision/reduced. Application background AX isolation and caller render/toast belong to parents.",
-  "files": {
-    "src/Verifier.Desktop/WebMatchingDialog.cs": "a31348d0bbda4f9e1e3559094678fe9784192a1220c8ebed381ba89b33e66859"
-  }
-}

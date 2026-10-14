@@ -11,7 +11,7 @@ public sealed record WebConnectionView(bool English,string Dbms,WebConnectionEnd
 public sealed record WebConnectionChange(string Reason,string? Field,WebConnectionView View);
 
 /// <summary>Literal connect() preview assembly. No database connection or credential persistence occurs here.</summary>
-public sealed class WebConnectionPage:Panel
+public sealed partial class WebConnectionPage:Panel
 {
     public WebPageHeading Heading{get;private set;}=new();
     public WebDbmsPicker Picker{get;private set;}=new();
@@ -39,11 +39,13 @@ public sealed class WebConnectionPage:Panel
         Picker=new(){Margin=new(0,0,0,24),ReducedMotion=ReducedMotion};Picker.SetPresentation(view.English,view.Dbms,viewportWidth);Children.Add(Picker);
         for(var i=0;i<Picker.Options.Count;i++)_focus["dbms-"+i]=Picker.Options[i].Radio;
         Picker.EngineChanged+=(_,engine)=>{var index=Picker.Options.Select((x,i)=>(x,i)).First(x=>x.x.EngineName==engine);var port=engine=="SQL Server"?"1433":engine=="PostgreSQL"?"5432":"3306";SetPresentation(View with{Dbms=engine,Source=View.Source with{Port=port},Target=View.Target with{Port=port},Connected=false},_viewport,"dbms-"+index.i,index.x.Radio.FocusVisible);Changed("dbms",null);};
+        Picker.IsEnabled=!LiveMode||!view.Busy;
         Source=CreatePanel("source",view.Source);Target=CreatePanel("target",view.Target);_pair=new(){Gap=viewportWidth<=1100?16:20};_pair.Children.Add(Source);_pair.Children.Add(Target);Children.Add(_pair);
         Advanced=new(){Margin=new(0,30,0,0),ReducedMotion=ReducedMotion};Advanced.SetPresentation(view.English,view.Advanced,viewportWidth);_focus["advanced"]=Advanced.ToggleButton;
         Advanced.ExpansionRequested+=(_,change)=>{SetPresentation(View with{Advanced=change.Expanded},_viewport,"advanced",change.FocusVisible);Changed("advanced",null);};Children.Add(Advanced);
+        if(LiveMode)ConfigureLiveInputs();
         if(view.Error.Length>0){ErrorNotice=new(){Title=T("연결 정보를 확인하세요","Check connection details"),Text=view.Error,Kind="error",ReducedMotion=ReducedMotion};Children.Add(ErrorNotice);}
-        if(view.Connected){ConnectedNotice=new(){Title=T("양쪽 예시 연결을 확인했습니다","Both sample connections are checked"),Text=T("이어서 어떤 범위를 읽을 수 있는지 확인합니다. 실제 서버에 접속한 결과는 아닙니다.","Next, check visibility. This is not evidence of a real server connection."),Kind="ok",ReducedMotion=ReducedMotion};Children.Add(ConnectedNotice);}
+        if(view.Connected){ConnectedNotice=new(){Title=LiveMode?T("양쪽 DB의 실제 연결을 확인했습니다","Both database connections are verified"):T("양쪽 예시 연결을 확인했습니다","Both sample connections are checked"),Text=LiveMode?T("조회 범위와 읽지 못한 항목을 다음 화면에서 확인합니다.","Review visibility and unreadable scopes on the next page."):T("이어서 어떤 범위를 읽을 수 있는지 확인합니다. 실제 서버에 접속한 결과는 아닙니다.","Next, check visibility. This is not evidence of a real server connection."),Kind="ok",ReducedMotion=ReducedMotion};Children.Add(ConnectedNotice);}
         InvalidateMeasure();if(_attached)PlayEntry();
         if(restoreIdentity is not null)Dispatcher.UIThread.Post(()=>{if(revision==_revision&&_attached&&_focus.TryGetValue(restoreIdentity,out var control)){if(control is WebRadio radio&&!focusVisible)radio.FocusFromPointer();else control.Focus(focusVisible?NavigationMethod.Tab:NavigationMethod.Pointer);}},DispatcherPriority.Loaded);
     }
@@ -63,7 +65,8 @@ public sealed class WebConnectionPage:Panel
         panel.InputChanged+=(_,key)=>
         {
             var endpoint=side=="source"?View.Source:View.Target;var next=key switch{"host"=>endpoint with{Host=panel.HostInput.Text??""},"port"=>endpoint with{Port=panel.PortInput.Value},"db"=>endpoint with{Database=panel.DatabaseInput.Text??""},_=>endpoint with{Reader=panel.UserInput.Text??""}};
-            View=side=="source"?View with{Source=next,Connected=false}:View with{Target=next,Connected=false};Source.SetPresentation(View.English?"en":"ko","source",false);Target.SetPresentation(View.English?"en":"ko","target",false);
+            View=side=="source"?View with{Source=next,Connected=false}:View with{Target=next,Connected=false};Source.SetPresentation(View.English?"en":"ko","source",false);Target.SetPresentation(View.English?"en":"ko","target",false);if(LiveMode)RefreshLiveHints();
+            if(LiveMode&&SaveConnectionButton!=null)SaveConnectionButton.IsEnabled=false;
             if(ConnectedNotice is{}notice){Children.Remove(notice);ConnectedNotice=null;}InvalidateMeasure();Changed("input",side+"-"+key);
         };return panel;
     }
@@ -89,7 +92,9 @@ public sealed class WebConnectionPage:Panel
     public void SetFooter(WebActionFooter footer,bool preserveExistingAction=false)
     {
         if(preserveExistingAction&&footer.ActionButtons.Count==1){var button=footer.ActionButtons[0];if(AutomationProperties.GetAutomationId(button)!="Footer-preflight")return;button.Content=View.English?"Check both connections":"두 연결 확인";button.IconName="db";AutomationProperties.SetAutomationId(button,"Footer-connect");return;}
-        string T(string ko,string en)=>View.English?en:ko;footer.SetContent(T("연결 정보를 바꾸면 다시 확인합니다.","Changes require another connection check."),new("back",T("뒤로","Back"),"quiet","back"),[View.Connected?new("preflight",T("조회 범위 확인","Check visibility"),"primary","arrow",!View.Busy):new WebFooterAction("connect",View.Busy?T("확인 중…","Checking…"):T("두 연결 확인","Check both connections"),"primary",View.Busy?"":"db",!View.Busy,View.Busy)],ReducedMotion);
+        string T(string ko,string en)=>View.English?en:ko;
+        WebFooterAction back=LiveMode&&View.Busy?new("cancel",T("연결 확인 취소","Cancel connection check"),"quiet","stop"):new("back",T("뒤로","Back"),"quiet","back");
+        footer.SetContent(T("연결 정보를 바꾸면 다시 확인합니다.","Changes require another connection check."),back,[View.Connected?new("preflight",T("조회 범위 확인","Check visibility"),"primary","arrow",!View.Busy):new WebFooterAction("connect",View.Busy?T("확인 중…","Checking…"):T("두 연결 확인","Check both connections"),"primary",View.Busy?"":"db",!View.Busy,View.Busy)],ReducedMotion);
     }
     private void PlayEntry(){_entry?.Dispose();_entry=WebMotion.Play(this,WebMotionKind.Page,ReducedMotion);}
     protected override void OnAttachedToVisualTree(VisualTreeAttachmentEventArgs e){base.OnAttachedToVisualTree(e);_attached=true;PlayEntry();}

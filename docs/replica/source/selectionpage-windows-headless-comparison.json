@@ -1,8 +1,0 @@
-{
-  "status": "PASSED",
-  "cases": 36,
-  "checks": 12506,
-  "differences": [],
-  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/selectionpage-windows-source.json",
-  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/preflight/selectionpage/93e8fd02bb9844e7835cba72878ddba4/headless-windows/c69e5061906d43f6a812b22d9368dba9/selectionpage-layout.json"
-}

@@ -1,9 +1,0 @@
-{
-  "component": "ActionButton",
-  "contract": "Source .btn candidate; explicit parent overrides and loading child; tested KR/EN DPR2, state/timing/input/child lifecycle. Parent page composition remains separate.",
-  "files": {
-    "src/Verifier.Desktop/WebActionButton.cs": "0556d146f7ce9a971757bf0f08305ae34a118b558e934c4c11379c352d42c5aa"
-  },
-  "peerExceptionEvidence": "artifacts/replica/workers/preflight/capabilityrow/7562326b5ebf445aac3022ca654f6525/actual-windows-semantic/3c9070e62120455fa4d4b83fd616824a/capabilityrow-shared-button-parent-evidence.json",
-  "peerExceptionContract": "Windows leaf Button/no label descendants; exact name/type/Invoke preserved. Mac defaultpeer unchanged and actual regression8. Existing layout/input/state code byte-equivalent, existing evidence reused."
-}

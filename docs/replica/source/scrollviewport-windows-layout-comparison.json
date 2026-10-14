@@ -1,6 +1,0 @@
-{
-  "platform": "windows",
-  "cases": 18,
-  "differences": [],
-  "scope": "layout/programmatic offsets only; paint/input pending"
-}

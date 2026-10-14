@@ -1,7 +1,0 @@
-{
-  "platform": "mac",
-  "states": 48,
-  "failed": 0,
-  "scope": "Atomic row uses actual original table parent column allocation. Internal boxes/name/states/selection/manual/last-border and same-instance replacement compared; parent automatic column layout remains separate.",
-  "errors": []
-}

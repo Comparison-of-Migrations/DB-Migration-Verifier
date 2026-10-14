@@ -1,9 +1,0 @@
-{
-  "scope": "Connection resize8 literal original; no product/native input",
-  "originalHashes": {
-    "js": "53c8af8c8225c87d25173a82b4ea00ea5349b6c98077ef7b59d8d62f89a68050",
-    "css": "656a04f03636788a8029d53cb4a9cddddabb07d7f8e0fee20945bfcf31c5319c"
-  },
-  "fixtureSha256": "60ba051c7790836a6179fa96d88410595b57dcf2b0b1dde608fbc108ba093352",
-  "endpoint": "home-pageintegrationconnection-resize-{mac,windows}-source.json"
-}

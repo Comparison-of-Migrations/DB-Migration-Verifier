@@ -28,6 +28,8 @@ public sealed class WebTableMappingRow : UserControl
     public Panel Method { get; }
     public event EventHandler? SelectionChanged;
     public event EventHandler? ChangeRequested;
+    private string? _scopeKey;
+    public string ScopeKey {get=>_scopeKey??SourceName;init=>_scopeKey=value;}
     public string SourceName {get=>SourceText.Text??"";set{SourceText.Text=value;AutomationProperties.SetName(Checkbox,value);InvalidateMeasure();}}
     public string TargetName {get=>TargetText.Text??"";set{TargetText.Text=value;InvalidateMeasure();}}
     public bool Selected {get=>Checkbox.IsChecked==true;set{Checkbox.IsChecked=value;Paint();}}

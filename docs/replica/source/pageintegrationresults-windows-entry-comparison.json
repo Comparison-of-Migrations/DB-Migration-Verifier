@@ -1,8 +1,0 @@
-{
-  "status": "PASSED",
-  "checks": 21,
-  "differences": [],
-  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/pageintegrationresults-mac-source-valid.json",
-  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/connection/pageintegration/cb691c637a1c438a85f918d5ced0947f/actual-results-windows/guest/headless-4fc9defb27814710b4649a893127c532/pageintegrationresults-entry-trace.json",
-  "scope": "Narrow initial public property observation4 only; full68 late observer diagnostic retained; no timing exemption or full App/geometry/actualOS pass inferred"
-}

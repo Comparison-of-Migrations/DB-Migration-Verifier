@@ -1,8 +1,0 @@
-{
-  "status": "PASSED",
-  "checks": 25,
-  "differences": [],
-  "source": "/Users/youptebook/workspace/DB-Migration-Verifier/docs/replica/source/pageintegrationresults-windows-root-boundary-source.json",
-  "candidate": "/Users/youptebook/workspace/DB-Migration-Verifier/artifacts/replica/workers/connection/pageintegration/3e6bab0fd555469db21e426137ea865d/actual-results-windows/guest/pageintegrationresults-root-modal-boxes.json",
-  "scope": "New root marker/modal geometry only; APIsetup not actual callback proof, passed native30/parent4 retained; actual UIA peer separately required"
-}

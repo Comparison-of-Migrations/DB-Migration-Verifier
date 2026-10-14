@@ -1,6 +1,0 @@
-{
-  "html": "<input id=\"source-host\" data-field=\"source.host\" type=\"text\" value=\"source.example.invalid\" autocomplete=\"off\" spellcheck=\"false\">",
-  "id": "source-host",
-  "tag": "INPUT",
-  "type": "text"
-}

@@ -42,13 +42,14 @@ public sealed partial class MainWindow
             var h=Columns("*,Auto");Put(h,Text(entry.CheckId+" · "+entry.ResearchId,13,Brushes.White));Put(h,Pill(VerdictText(entry),entry.Verdict==Verdict.Different?Bad:entry.Verdict==Verdict.Equal?Good:Warn),1);var content=Stack(8);content.Children.Add(h);
             if(entry.Reason!=Reason.None)content.Children.Add(Text(ReasonText(entry.Reason),12,Muted));
             foreach(var issue in entry.Issues)content.Children.Add(Text(issue.Table+(issue.Column==null?"":" · "+issue.Column)+" · "+ReasonText(issue.Reason),12,Warn));
+            foreach(var limit in entry.PairingLimits)content.Children.Add(Text(limit.Table+" · "+ReasonText(limit.Reason),12,Warn));
             foreach(var f in entry.Findings){var finding=Stack(3);finding.Children.Add(Text((f.Table??"")+(f.Column==null?"":" · "+f.Column)+" · "+FindingText(f.Kind)+" × "+f.Count,12,Muted));finding.Children.Add(Text(T("내부 ID: ","Internal ID: ")+f.Id,11,Muted));content.Children.Add(finding);}
             items.Add(Panel(content,new(18)));
         }
         if(items.Count==0)items.Add(Panel(Text(T("이 필터에 해당하는 항목이 없습니다.","No checks match this filter."),13,Muted)));
         var list=new ListBox { ItemsSource=items,MaxHeight=420,MinHeight=80,Padding=new(0),Background=Brushes.Transparent,BorderThickness=new(0) };list.Classes.Add("detail-list");page.Children.Add(list);
         page.Children.Add(Text(T("실제 값·행 키·계정 이름은 표시하지 않습니다. 선택 테이블: ","Row values, keys and principal names are excluded. Selected tables: ")+string.Join(" · ",report.Tables),12,Muted));page.Children.Add(Action(T("연구 반영 보기","Research mapping"),ResearchDialog,"quiet"));
-        if(report.Version==2)
+        if(report.Version>=2)
             page.Children.Add(Action(T("검사에 사용한 대응 보기","View executed matching"),()=>InfoDialog(T("실제로 비교한 테이블·컬럼 대응","Executed table and column matching"),string.Join("\n\n",report.Mappings.Select(m=>MappingLabel(m)+"\n"+string.Join("\n",m.Columns.Select(c=>(c.Source??"—")+" → "+(c.Target??"—")))))),"quiet"));
         else page.Children.Add(Text(T("형식 1 결과 · 별도 대응 기록이 없는 기존 파일입니다.","Version 1 result · legacy file without a separate mapping record."),12,Muted));
     }

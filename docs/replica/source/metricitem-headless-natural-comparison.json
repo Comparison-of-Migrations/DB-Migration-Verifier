@@ -1,7 +1,0 @@
-{
-  "os": "headless",
-  "phase": "HEADLESS_NATURAL_PASSED",
-  "cases": 72,
-  "maximumDifference": 0.0,
-  "errors": []
-}
