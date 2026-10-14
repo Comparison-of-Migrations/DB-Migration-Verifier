@@ -24,7 +24,6 @@ reasons whenever an observation is incomplete.
 
 `Download preview builds <https://github.com/Comparison-of-Migrations/DB-Migration-Verifier/releases>`_
 · `Report an issue <https://github.com/Comparison-of-Migrations/DB-Migration-Verifier/issues/new/choose>`_
-· `Portfolio <https://portfolio-passkey.duckdns.org/#works>`_
 
 .. image:: .github/assets/results.png
    :alt: Actual macOS comparison result showing differences and unverified checks side by side
