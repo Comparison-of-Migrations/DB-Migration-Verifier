@@ -1,6 +1,24 @@
 DB-Migration-Verifier
 =====================
 
+|readme-ko| |readme-en| |guide-ko| |guide-en|
+
+.. |readme-ko| image:: https://img.shields.io/badge/README-%ED%95%9C%EA%B5%AD%EC%96%B4-0057B8?style=for-the-badge
+   :target: README.ko.rst
+   :alt: README 한국어
+
+.. |readme-en| image:: https://img.shields.io/badge/README-English-0057B8?style=for-the-badge
+   :target: README.rst
+   :alt: README English
+
+.. |guide-ko| image:: https://img.shields.io/badge/%EC%82%AC%EC%9A%A9%20%EC%84%A4%EB%AA%85%EC%84%9C-%ED%95%9C%EA%B5%AD%EC%96%B4-087F8C?style=for-the-badge
+   :target: guide/USER_GUIDE.ko.rst
+   :alt: 사용 설명서 한국어
+
+.. |guide-en| image:: https://img.shields.io/badge/USER%20GUIDE-English-087F8C?style=for-the-badge
+   :target: guide/USER_GUIDE.en.rst
+   :alt: User guide English
+
 **Know what changed. See what could not be verified.**
 
 A desktop tool for comparing two databases after a migration. Inspect data,
@@ -60,6 +78,8 @@ Quick start
    mappings, and run the comparison.
 4. Review differences and unverified reasons. Save JSON and reopen it to retain
    the complete result; use CSV or HTML for sharing a readable report.
+
+For the screen-by-screen workflow, see the `English user guide <guide/USER_GUIDE.en.rst>`_.
 
 **Preview builds are unsigned.** Apple notarization and trusted Windows signing
 are pending. OS protection prompts may prevent execution; signed distribution
@@ -130,6 +150,7 @@ Project layout
    src/Verifier.Data/       DB adapters, TLS, observation and trial execution
    src/Verifier.Desktop/    Avalonia desktop workflow and OS integrations
    tools/                  build and distribution packaging
+   guide/                  Korean and English user guides
    .github/                source build workflow and issue forms
 
 Contributing
