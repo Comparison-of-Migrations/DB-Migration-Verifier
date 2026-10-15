@@ -19,7 +19,7 @@ DB-Migration-Verifier 사용 설명서
    :target: USER_GUIDE.en.rst
    :alt: User guide English
 
-적용 버전: v0.1.0-preview.1 · 2026-10-14
+적용 버전: v0.1.0-preview.2 · 2026-10-15
 
 이 설명서는 앱을 처음 실행해 두 DB를 비교하고 결과를 보관하는 순서입니다.
 DB별 실제 확인 범위는 `한국어 README <../README.ko.rst>`_ 에 있습니다.
@@ -27,7 +27,7 @@ DB별 실제 확인 범위는 `한국어 README <../README.ko.rst>`_ 에 있습�
 1. 내려받고 실행하기
 --------------------
 
-`공개 릴리스 <https://github.com/Comparison-of-Migrations/DB-Migration-Verifier/releases/tag/v0.1.0-preview.1>`_
+`공개 릴리스 <https://github.com/Comparison-of-Migrations/DB-Migration-Verifier/releases/tag/v0.1.0-preview.2>`_
 에서 OS에 맞는 ZIP을 받습니다.
 
 * macOS Apple Silicon: ``DB-Migration-Verifier-macos-arm64.zip`` 을 새 폴더에 풀고

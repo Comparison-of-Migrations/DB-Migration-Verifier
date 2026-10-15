@@ -8,6 +8,7 @@ public sealed partial class WebConnectionPage
     private bool _writesStopped;
     private bool _savePasswords;
     private string _storageNotice="";
+    private WebField[] _certificateFields=[];
     public WebCheckbox? SavePasswordsInput{get;private set;}
     public WebActionButton? SaveConnectionButton{get;private set;}
     public WebActionButton? RestoreConnectionButton{get;private set;}
@@ -37,12 +38,10 @@ public sealed partial class WebConnectionPage
         {
             var input=new WebTextInput{Text=value,IsEnabled=!View.Busy};
             Avalonia.Automation.AutomationProperties.SetAutomationId(input,side+"-ca");
-            var sql=View.Dbms=="SQL Server";
-            var label=sql?(side=="source"?T("원본 서버 인증서 경로 (선택)","Source server certificate path (optional)"):T("대상 서버 인증서 경로 (선택)","Target server certificate path (optional)")):
-                side=="source"?T("원본 CA 인증서 경로 (선택)","Source CA certificate path (optional)"):T("대상 CA 인증서 경로 (선택)","Target CA certificate path (optional)");
-            var field=new WebField{Label=label,Input=input,Hint=sql?T("비우면 OS 인증서 신뢰를 사용합니다. 지정하면 서버 인증서와 정확히 대조합니다(CA 파일 아님).","Uses OS certificate trust when empty. An entered server certificate must match exactly (not a CA file)."):T("인증서·서버 이름 검증을 유지합니다.","Certificate and server-name verification remain enabled.")};caPair.Children.Add(field);
+            var field=new WebField{Input=input};caPair.Children.Add(field);
             input.PropertyChanged+=(_,e)=>{if(e.Property!=TextBox.TextProperty)return;if(side=="source")_sourceCa=input.Text??"";else _targetCa=input.Text??"";InvalidateLiveInput(side+"-ca");};
         }
+        _certificateFields=caPair.Children.Cast<WebField>().ToArray();RefreshCertificateFields();
         Children.Add(caPair);
         var stopped=new WebChoice();stopped.SetPresentation(T("양쪽 DB의 쓰기를 정지했습니다","Writes to both databases are stopped"),"writes-stopped",_writesStopped,!View.Busy);
         WritesStoppedInput=stopped.Checkbox;
@@ -66,5 +65,17 @@ public sealed partial class WebConnectionPage
     private void RefreshLiveHints()
     {foreach(var panel in new[]{Source,Target}){panel.PasswordInput.IsEnabled=!View.Busy;panel.PasswordInput.PlaceholderText=View.English?"Password · not saved":"비밀번호 · 기본 미저장";Avalonia.Automation.AutomationProperties.SetHelpText(panel.PasswordInput,View.English?"Password used only to connect.":"접속에만 사용하는 비밀번호입니다.");panel.Fields[4].Hint=View.English?"Used only to connect; excluded from results and logs.":"접속에만 사용하며 결과·로그에 저장하지 않습니다.";}}
     private void InvalidateLiveInput(string field)
-    {View=View with{Connected=false,Error=""};if(SaveConnectionButton!=null)SaveConnectionButton.IsEnabled=false;Source.Status.Text=Target.Status.Text=View.English?"Not checked":"미확인";Source.Status.Kind=Target.Status.Kind="";if(ConnectedNotice is{}n){Children.Remove(n);ConnectedNotice=null;}Changed("input",field);InvalidateMeasure();}
+    {InvalidateConnectionStatus();Changed("input",field);}
+    private void RefreshCertificateFields()
+    {
+        string T(string a,string b)=>View.English?b:a;
+        for(var i=0;i<_certificateFields.Length;i++)
+        {
+            var sql=View.Dbms=="SQL Server";var field=_certificateFields[i];
+            field.Label=sql?(i==0?T("원본 서버 인증서 경로 (선택)","Source server certificate path (optional)"):T("대상 서버 인증서 경로 (선택)","Target server certificate path (optional)")):
+                i==0?T("원본 CA 인증서 경로 (선택)","Source CA certificate path (optional)"):T("대상 CA 인증서 경로 (선택)","Target CA certificate path (optional)");
+            field.Hint=sql?T("비우면 OS 인증서 신뢰를 사용합니다. 지정하면 서버 인증서와 정확히 대조합니다(CA 파일 아님).","Uses OS certificate trust when empty. An entered server certificate must match exactly (not a CA file)."):
+                T("인증서·서버 이름 검증을 유지합니다.","Certificate and server-name verification remain enabled.");
+        }
+    }
 }

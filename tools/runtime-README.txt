@@ -38,3 +38,5 @@ a signed/notarized release; implementation and full acceptance remain in progres
 
 라이선스 / License: Apache-2.0. See LICENSE, NOTICE, THIRD_PARTY_NOTICES.txt.
 2026-10-14 dependency refresh: PKCS 9.0.21 and bundled .NET runtime 10.0.13.
+
+2026-10-15 UI refresh fix: engine/settings changes retain the form; filters and paging update only findings.

@@ -19,7 +19,7 @@ DB-Migration-Verifier User Guide
    :target: USER_GUIDE.en.rst
    :alt: User guide English
 
-Applies to v0.1.0-preview.1 · October 14, 2026
+Applies to v0.1.0-preview.2 · October 15, 2026
 
 Follow this guide to compare two databases and keep the result.
 See the `English README <../README.rst>`_ for the verified engine/platform coverage.
@@ -27,7 +27,7 @@ See the `English README <../README.rst>`_ for the verified engine/platform cover
 1. Download and launch
 ----------------------
 
-Open the `public release <https://github.com/Comparison-of-Migrations/DB-Migration-Verifier/releases/tag/v0.1.0-preview.1>`_
+Open the `public release <https://github.com/Comparison-of-Migrations/DB-Migration-Verifier/releases/tag/v0.1.0-preview.2>`_
 and choose your platform.
 
 * macOS Apple Silicon: extract ``DB-Migration-Verifier-macos-arm64.zip`` into a new

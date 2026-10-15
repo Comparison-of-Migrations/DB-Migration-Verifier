@@ -100,7 +100,7 @@ public sealed partial class ReplicaWorkspace : Panel, IDisposable
         Children.Add(AnnouncementRegion);AutomationProperties.SetAutomationId(AnnouncementRegion,"announcer");AutomationProperties.SetLiveSetting(AnnouncementRegion,AutomationLiveSetting.Polite);
         SafeFindingProvider=(run,english)=>{var page=new WebResultsPage();page.SetPresentation(ToResultsRun(run),english,_width);return page.GetSafeFindings().Select(f=>(object)new{id=f.Id,category=f.Key,kind=f.Kind,table=f.Table,column=f.Column,reason=f.Reason}).ToArray();};
         TopBar.LanguageRequested+=(_,_)=>SetLanguage(!English);
-        Sidebar.NavigationRequested+=(_,screen)=>{if(!LiveBusy&&Screen!="running"&&_visited.Contains(screen))Navigate(screen);};
+        Sidebar.NavigationRequested+=(_,screen)=>{if(!LiveBusy&&Screen!="running"&&screen!=Screen&&_visited.Contains(screen))Navigate(screen);};
         Footer.ActionRequested+=async(_,action)=>await DispatchAsync(action);
         _toastTimer.Tick+=(_,_)=>ClearToast();
         _runTimer.Tick+=(_,_)=>AdvanceSampleRun();
@@ -252,7 +252,7 @@ public sealed partial class ReplicaWorkspace : Panel, IDisposable
     {Trial=view with{English=English};if(Screen=="trial")Render(false);}
     public void LoadSampleReport(ReplicaSampleRun run)
     {_runTimer.Stop();SampleRun=run;ResultFilter="all";ResultPageIndex=0;Tables=run.TableNames.ToArray();Maps=new Dictionary<string,string>(run.Maps);Categories=run.Groups.Select(g=>g.Key).ToArray();_visited.Clear();_visited.UnionWith(["results","save"]);Navigate("results");}
-    public void SetSaved(bool requested) {Saved=requested;if(Screen=="save")Render(false);}
+    public void SetSaved(bool requested) {if(Saved==requested)return;Saved=requested;if(Screen=="save")Render(false);}
     public void SetLanguage(bool english)
     {
         var detail=_resultDetailKey;var detailPage=_resultDetails?.Body.PageIndex??0;var info=_infoDialog is not null;var matching=_matchingSource;English=english;
@@ -267,8 +267,10 @@ public sealed partial class ReplicaWorkspace : Panel, IDisposable
     private void ApplyResultFilter(string key)
     {
         if(Screen!="results"||key is not("all" or "different" or "unknown"))return;
-        ResultFilter=key;ResultPageIndex=0;var keyboard=_keyboardModality;Render(false);
-        Dispatcher.UIThread.Post(()=>{if(CurrentPage is WebResultsPage page)page.FocusFilter(key,keyboard);},DispatcherPriority.Loaded);
+        if(CurrentPage is not WebResultsPage page)return;
+        if(ResultFilter==key&&page.Filter==key)return;
+        ResultFilter=key;ResultPageIndex=0;
+        if(page.Filter!=key){page.SetFilter(key);page.FocusFilter(key,_keyboardModality);}
     }
     public void ShowResultDetails(string key,Control? opener=null,int pageIndex=0)
     {
@@ -383,7 +385,7 @@ public sealed partial class ReplicaWorkspace : Panel, IDisposable
             p.Changed+=(_,view)=>{
                 if(!ReferenceEquals(CurrentPage,p))return;
                 var input=view.Host!=Trial.Host||view.Database!=Trial.Database||view.ValidInput!=Trial.ValidInput||view.InvalidInput!=Trial.InvalidInput;
-                Trial=view;SetTrialFooter(input);if(!input)PlayTrialEntry(p);
+                Trial=view;SetTrialFooter(input);
             };
             p.AttachedToVisualTree+=(_,_)=>{if(!_disposed&&ReferenceEquals(CurrentPage,p))PlayTrialEntry(p);};page=p;
         }

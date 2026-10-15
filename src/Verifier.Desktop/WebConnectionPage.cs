@@ -28,6 +28,7 @@ public sealed partial class WebConnectionPage:Panel
     private double _viewport=1280;
     private long _revision;
     private bool _attached;
+    private bool _updatingInputs;
     private WebMotionPlayback? _entry;
     private readonly Dictionary<string,InputElement> _focus=[];
     public WebConnectionPage(){UseLayoutRounding=false;ClipToBounds=false;SetPresentation(View,_viewport);}
@@ -38,11 +39,11 @@ public sealed partial class WebConnectionPage:Panel
         Heading=new();Heading.SetPresentation(T("비교할 두 DB를 연결하세요","Connect the databases to compare"),T("같은 DBMS의 원본과 대상을 지정합니다. 접속 정보는 결과 파일에 넣지 않습니다.","Choose a source and target of the same DBMS. Connection details stay out of result files."));Children.Add(Heading);
         Picker=new(){Margin=new(0,0,0,24),ReducedMotion=ReducedMotion};Picker.SetPresentation(view.English,view.Dbms,viewportWidth);Children.Add(Picker);
         for(var i=0;i<Picker.Options.Count;i++)_focus["dbms-"+i]=Picker.Options[i].Radio;
-        Picker.EngineChanged+=(_,engine)=>{var index=Picker.Options.Select((x,i)=>(x,i)).First(x=>x.x.EngineName==engine);var port=engine=="SQL Server"?"1433":engine=="PostgreSQL"?"5432":"3306";SetPresentation(View with{Dbms=engine,Source=View.Source with{Port=port},Target=View.Target with{Port=port},Connected=false},_viewport,"dbms-"+index.i,index.x.Radio.FocusVisible);Changed("dbms",null);};
+        Picker.EngineChanged+=(_,engine)=>SelectEngine(engine);
         Picker.IsEnabled=!LiveMode||!view.Busy;
         Source=CreatePanel("source",view.Source);Target=CreatePanel("target",view.Target);_pair=new(){Gap=viewportWidth<=1100?16:20};_pair.Children.Add(Source);_pair.Children.Add(Target);Children.Add(_pair);
         Advanced=new(){Margin=new(0,30,0,0),ReducedMotion=ReducedMotion};Advanced.SetPresentation(view.English,view.Advanced,viewportWidth);_focus["advanced"]=Advanced.ToggleButton;
-        Advanced.ExpansionRequested+=(_,change)=>{SetPresentation(View with{Advanced=change.Expanded},_viewport,"advanced",change.FocusVisible);Changed("advanced",null);};Children.Add(Advanced);
+        Advanced.ExpansionRequested+=(_,change)=>{View=View with{Advanced=change.Expanded};Advanced.SetPresentation(View.English,change.Expanded,_viewport,true,change.FocusVisible);_focus["advanced"]=Advanced.ToggleButton;InvalidateMeasure();Changed("advanced",null);};Children.Add(Advanced);
         if(LiveMode)ConfigureLiveInputs();
         if(view.Error.Length>0){ErrorNotice=new(){Title=T("연결 정보를 확인하세요","Check connection details"),Text=view.Error,Kind="error",ReducedMotion=ReducedMotion};Children.Add(ErrorNotice);}
         if(view.Connected){ConnectedNotice=new(){Title=LiveMode?T("양쪽 DB의 실제 연결을 확인했습니다","Both database connections are verified"):T("양쪽 예시 연결을 확인했습니다","Both sample connections are checked"),Text=LiveMode?T("조회 범위와 읽지 못한 항목을 다음 화면에서 확인합니다.","Review visibility and unreadable scopes on the next page."):T("이어서 어떤 범위를 읽을 수 있는지 확인합니다. 실제 서버에 접속한 결과는 아닙니다.","Next, check visibility. This is not evidence of a real server connection."),Kind="ok",ReducedMotion=ReducedMotion};Children.Add(ConnectedNotice);}
@@ -56,6 +57,28 @@ public sealed partial class WebConnectionPage:Panel
         foreach(var option in Picker.Options)option.Compact=viewportWidth<=1180;
         Advanced.SetViewport(viewportWidth);InvalidateMeasure();
     }
+    private void SelectEngine(string engine)
+    {
+        if(engine==View.Dbms)return;
+        var port=engine=="SQL Server"?"1433":engine=="PostgreSQL"?"5432":"3306";
+        View=View with{Dbms=engine,Source=View.Source with{Port=port},Target=View.Target with{Port=port}};
+        _updatingInputs=true;
+        try{Source.PortInput.Value=port;Target.PortInput.Value=port;}
+        finally{_updatingInputs=false;}
+        InvalidateConnectionStatus();
+        if(LiveMode)RefreshCertificateFields();
+        Changed("dbms",null);
+    }
+    private void InvalidateConnectionStatus()
+    {
+        View=View with{Connected=false,Error=""};
+        Source.SetPresentation(View.English?"en":"ko","source",false);Target.SetPresentation(View.English?"en":"ko","target",false);
+        if(LiveMode)RefreshLiveHints();
+        if(SaveConnectionButton!=null)SaveConnectionButton.IsEnabled=false;
+        if(ConnectedNotice is{}connected){Children.Remove(connected);ConnectedNotice=null;}
+        if(ErrorNotice is{}error){Children.Remove(error);ErrorNotice=null;}
+        InvalidateMeasure();
+    }
     private WebConnectionPanel CreatePanel(string side,WebConnectionEndpoint data)
     {
         var panel=new WebConnectionPanel();panel.SetPresentation(View.English?"en":"ko",side,View.Connected);
@@ -64,10 +87,9 @@ public sealed partial class WebConnectionPage:Panel
         AutomationProperties.SetAutomationId(panel.PortInput.Editor,side+"-port-editor");
         panel.InputChanged+=(_,key)=>
         {
+            if(_updatingInputs)return;
             var endpoint=side=="source"?View.Source:View.Target;var next=key switch{"host"=>endpoint with{Host=panel.HostInput.Text??""},"port"=>endpoint with{Port=panel.PortInput.Value},"db"=>endpoint with{Database=panel.DatabaseInput.Text??""},_=>endpoint with{Reader=panel.UserInput.Text??""}};
-            View=side=="source"?View with{Source=next,Connected=false}:View with{Target=next,Connected=false};Source.SetPresentation(View.English?"en":"ko","source",false);Target.SetPresentation(View.English?"en":"ko","target",false);if(LiveMode)RefreshLiveHints();
-            if(LiveMode&&SaveConnectionButton!=null)SaveConnectionButton.IsEnabled=false;
-            if(ConnectedNotice is{}notice){Children.Remove(notice);ConnectedNotice=null;}InvalidateMeasure();Changed("input",side+"-"+key);
+            View=side=="source"?View with{Source=next}:View with{Target=next};InvalidateConnectionStatus();Changed("input",side+"-"+key);
         };return panel;
     }
     private void Changed(string reason,string? field)=>StateChanged?.Invoke(this,new(reason,field,View));
